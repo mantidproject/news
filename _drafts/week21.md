@@ -13,5 +13,8 @@ Detailed Merges for May 21 to 27, 2018
 
 * *new* [PR22321](https://github.com/mantidproject/mantid/pull/22321) - Restore default directories for OpenSSL and HDF5 on MacOS
 * *new* [PR22385](https://github.com/mantidproject/mantid/pull/22385) - LoadSampleShape that reads Ascii OFF files
+* *new* [PR22418](https://github.com/mantidproject/mantid/pull/22418) - POWGEN geometry with second side
+* *new* [PR22427](https://github.com/mantidproject/mantid/pull/22427) - New SNAP geometry
 * *new* [PR22430](https://github.com/mantidproject/mantid/pull/22430) - Robustness improvements to Python fit functions
 * *new* [PR22445](https://github.com/mantidproject/mantid/pull/22445) - Add WAND_Parameters.xml so that MergeRuns does the right thing
+* *new* [PR22447](https://github.com/mantidproject/mantid/pull/22447) - Refs #22446. adding new IDF
