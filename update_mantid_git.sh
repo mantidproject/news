@@ -16,7 +16,7 @@ fi
 # update local git repo - should do nothing on build servers
 cd $(dirname $0)
 git fetch -p
-git rebase -v origin/gh-pages
+git rebase -v origin/master
 
 if [ $(command -v python3) ]; then
     PYTHON_EXE=python3
@@ -30,17 +30,6 @@ $PYTHON_EXE tools/get_pull_requests.py --repo mantidproject/mantid || exit 1
 # commit the news page
 git add _drafts/week*.md
 git commit -m "Updating ticket list via jenkins"
-
-# update the skipped system test summary
-if [ ! -f skipped_systemtests.py ]; then
-    wget https://raw.githubusercontent.com/mantidproject/mantid/master/tools/skipped_systemtests.py
-fi
-if [ ! -d systemtests ]; then
-    mkdir systemtests
-fi
-$PYTHON_EXE skipped_systemtests.py > systemtests/index.md
-git add systemtests/index.md
-git commit -m "Updating skipped system tests via jenkins" systemtests/index.md
 
 # push the changes to master
 git push
