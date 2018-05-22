@@ -24,3 +24,4 @@ Detailed Merges for May 21 to 27, 2018
 * *new* [PR22445](https://github.com/mantidproject/mantid/pull/22445) - Add WAND_Parameters.xml so that MergeRuns does the right thing
 * *new* [PR22447](https://github.com/mantidproject/mantid/pull/22447) - Refs #22446. adding new IDF
 * *new* [PR22454](https://github.com/mantidproject/mantid/pull/22454) - Add progress to LoadWAND using progress of child algorithms
+* *new* [PR22461](https://github.com/mantidproject/mantid/pull/22461) - Fix broken performance test
