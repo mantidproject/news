@@ -27,6 +27,9 @@ fi
 # update the ticket list
 $PYTHON_EXE tools/get_pull_requests.py --repo mantidproject/mantid || exit 1
 
+# stop now if there are no changes
+git diff --quiet _drafts/week*.md && exit 0
+
 # commit the news page
 git add _drafts/week*.md
 git commit -m "Updating ticket list via jenkins"
