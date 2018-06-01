@@ -28,5 +28,6 @@ Detailed Merges for May 28 to Jun 3, 2018
 * *new* [PR22489](https://github.com/mantidproject/mantid/pull/22489) - Fix Load Dialog Using Cached Result When Invalid Filename is supplied
 * *new* [PR22491](https://github.com/mantidproject/mantid/pull/22491) - Workbench Script Progress Reporting
 * *new* [PR22494](https://github.com/mantidproject/mantid/pull/22494) - IndirectILLEnergyTransfer: fix the sign in the formula
+* *new* [PR22498](https://github.com/mantidproject/mantid/pull/22498) - Workbench explicit overplot
 * *new* [PR22503](https://github.com/mantidproject/mantid/pull/22503) - Fix right-click segfault in new workbench
 * *new* [PR22512](https://github.com/mantidproject/mantid/pull/22512) - Fix warning braces around scalar initializer.
