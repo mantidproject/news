@@ -28,11 +28,11 @@ fi
 $PYTHON_EXE tools/get_pull_requests.py --repo mantidproject/mantid || exit 1
 
 # stop now if there are no changes
-git diff --quiet _drafts/week*.md || exit 0
+if [ ! $(git diff --quiet _drafts/week*.md) ]; then
+    # commit the news page
+    git add _drafts/week*.md
+    git commit -m "Updating ticket list via jenkins"
 
-# commit the news page
-git add _drafts/week*.md
-git commit -m "Updating ticket list via jenkins"
-
-# push the changes to master
-git push
+    # push the changes to master
+    git push
+fi
