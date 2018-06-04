@@ -11,3 +11,7 @@ Detailed Merges for Jun 4 to 10, 2018
 -------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-06-05..2018-06-10)
 
+* *new* [PR22375](https://github.com/mantidproject/mantid/pull/22375) - User file load from batch
+* *new* [PR22416](https://github.com/mantidproject/mantid/pull/22416) - Added component choice to beam centre finder
+* *new* [PR22505](https://github.com/mantidproject/mantid/pull/22505) - Plot Selector Widget - initial functionality
+* *new* [PR22525](https://github.com/mantidproject/mantid/pull/22525) - Fix path finding for cxxtestgen
