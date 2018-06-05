@@ -18,3 +18,4 @@ Detailed Merges for Jun 4 to 10, 2018
 * *new* [PR22523](https://github.com/mantidproject/mantid/pull/22523) - Run Workbench Tests with Qt5
 * *new* [PR22525](https://github.com/mantidproject/mantid/pull/22525) - Fix path finding for cxxtestgen
 * *new* [PR22531](https://github.com/mantidproject/mantid/pull/22531) - Updated ZOOM IDF Re #22530
+* *new* [PR22532](https://github.com/mantidproject/mantid/pull/22532) - PDCalibration peak shape
