@@ -24,3 +24,4 @@ Detailed Merges for Jun 4 to 10, 2018
 * *new* [PR22532](https://github.com/mantidproject/mantid/pull/22532) - PDCalibration peak shape
 * *new* [PR22534](https://github.com/mantidproject/mantid/pull/22534) - added a LoadNexusUB function
 * *new* [PR22542](https://github.com/mantidproject/mantid/pull/22542) - Instructions on accessing the ISIS archive with OSX
+* *new* [PR22543](https://github.com/mantidproject/mantid/pull/22543) - updated CNCS parameters and definitions for 2018B
