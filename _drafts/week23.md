@@ -12,6 +12,7 @@ Detailed Merges for Jun 4 to 10, 2018
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-06-05..2018-06-10)
 
 * *new* [PR22354](https://github.com/mantidproject/mantid/pull/22354) - Engineering Diffraction GUI save GSAS-II fit results to HDF5
+* *new* [PR22372](https://github.com/mantidproject/mantid/pull/22372) - Updated LOQ move components
 * *new* [PR22375](https://github.com/mantidproject/mantid/pull/22375) - User file load from batch
 * *new* [PR22416](https://github.com/mantidproject/mantid/pull/22416) - Added component choice to beam centre finder
 * *new* [PR22448](https://github.com/mantidproject/mantid/pull/22448) - Enable FitPeaks to "observe" more profiles and export effective parameters
@@ -25,3 +26,5 @@ Detailed Merges for Jun 4 to 10, 2018
 * *new* [PR22534](https://github.com/mantidproject/mantid/pull/22534) - added a LoadNexusUB function
 * *new* [PR22542](https://github.com/mantidproject/mantid/pull/22542) - Instructions on accessing the ISIS archive with OSX
 * *new* [PR22543](https://github.com/mantidproject/mantid/pull/22543) - updated CNCS parameters and definitions for 2018B
+* *new* [PR22545](https://github.com/mantidproject/mantid/pull/22545) - Update LR instrument definition
+* *new* [PR22549](https://github.com/mantidproject/mantid/pull/22549) - Update MatrixUBInputWidget import
