@@ -28,7 +28,9 @@ Detailed Merges for Jun 4 to 10, 2018
 * *new* [PR22534](https://github.com/mantidproject/mantid/pull/22534) - added a LoadNexusUB function
 * *new* [PR22542](https://github.com/mantidproject/mantid/pull/22542) - Instructions on accessing the ISIS archive with OSX
 * *new* [PR22543](https://github.com/mantidproject/mantid/pull/22543) - updated CNCS parameters and definitions for 2018B
+* *new* [PR22544](https://github.com/mantidproject/mantid/pull/22544) - POWGEN and SNAP geometry bugfix
 * *new* [PR22545](https://github.com/mantidproject/mantid/pull/22545) - Update LR instrument definition
 * *new* [PR22547](https://github.com/mantidproject/mantid/pull/22547) - Improve user error message when GSAS-II installation scripts crash because SSL is out of date
 * *new* [PR22549](https://github.com/mantidproject/mantid/pull/22549) - Update MatrixUBInputWidget import
 * *new* [PR22557](https://github.com/mantidproject/mantid/pull/22557) - Fix value of PV_PLUGINS_DIR in app bundle.
+* *new* [PR22559](https://github.com/mantidproject/mantid/pull/22559) - Add live data connection to REF_M
