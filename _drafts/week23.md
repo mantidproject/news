@@ -31,3 +31,4 @@ Detailed Merges for Jun 4 to 10, 2018
 * *new* [PR22545](https://github.com/mantidproject/mantid/pull/22545) - Update LR instrument definition
 * *new* [PR22547](https://github.com/mantidproject/mantid/pull/22547) - Improve user error message when GSAS-II installation scripts crash because SSL is out of date
 * *new* [PR22549](https://github.com/mantidproject/mantid/pull/22549) - Update MatrixUBInputWidget import
+* *new* [PR22557](https://github.com/mantidproject/mantid/pull/22557) - Fix value of PV_PLUGINS_DIR in app bundle.
