@@ -17,6 +17,7 @@ Detailed Merges for Jun 4 to 10, 2018
 * *new* [PR22416](https://github.com/mantidproject/mantid/pull/22416) - Added component choice to beam centre finder
 * *new* [PR22448](https://github.com/mantidproject/mantid/pull/22448) - Enable FitPeaks to "observe" more profiles and export effective parameters
 * *new* [PR22449](https://github.com/mantidproject/mantid/pull/22449) - Error reporting: Display reporter on application segfaults
+* *new* [PR22469](https://github.com/mantidproject/mantid/pull/22469) - Update to EstimateMuonAsymmetryFromCounts
 * *new* [PR22505](https://github.com/mantidproject/mantid/pull/22505) - Plot Selector Widget - initial functionality
 * *new* [PR22517](https://github.com/mantidproject/mantid/pull/22517) - LoadILLSANS
 * *new* [PR22523](https://github.com/mantidproject/mantid/pull/22523) - Run Workbench Tests with Qt5
@@ -27,4 +28,5 @@ Detailed Merges for Jun 4 to 10, 2018
 * *new* [PR22542](https://github.com/mantidproject/mantid/pull/22542) - Instructions on accessing the ISIS archive with OSX
 * *new* [PR22543](https://github.com/mantidproject/mantid/pull/22543) - updated CNCS parameters and definitions for 2018B
 * *new* [PR22545](https://github.com/mantidproject/mantid/pull/22545) - Update LR instrument definition
+* *new* [PR22547](https://github.com/mantidproject/mantid/pull/22547) - Improve user error message when GSAS-II installation scripts crash because SSL is out of date
 * *new* [PR22549](https://github.com/mantidproject/mantid/pull/22549) - Update MatrixUBInputWidget import
