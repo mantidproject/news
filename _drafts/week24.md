@@ -13,3 +13,4 @@ Detailed Merges for Jun 11 to 17, 2018
 
 * *new* [PR22343](https://github.com/mantidproject/mantid/pull/22343) - Stitch1D: input point data with optional dx values
 * *new* [PR22357](https://github.com/mantidproject/mantid/pull/22357) - Engineering Diffraction GUI save sample logs to HDF5 after focusing
+* *new* [PR22568](https://github.com/mantidproject/mantid/pull/22568) - Create MRGetTheta algorithm
