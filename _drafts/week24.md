@@ -20,4 +20,5 @@ Detailed Merges for Jun 11 to 17, 2018
 * *new* [PR22563](https://github.com/mantidproject/mantid/pull/22563) - This fixes `ResampleX` for `PreserveEvents=False`
 * *new* [PR22568](https://github.com/mantidproject/mantid/pull/22568) - Create MRGetTheta algorithm
 * *new* [PR22569](https://github.com/mantidproject/mantid/pull/22569) - Add profile fitting tools, documentation, and algorithm
+* *new* [PR22580](https://github.com/mantidproject/mantid/pull/22580) - fix system test
 * *new* [PR22581](https://github.com/mantidproject/mantid/pull/22581) - Fix Sphinx warning in IntegratePeaksProfileFitting
