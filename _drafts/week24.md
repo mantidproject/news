@@ -14,6 +14,7 @@ Detailed Merges for Jun 11 to 17, 2018
 * *new* [PR21766](https://github.com/mantidproject/mantid/pull/21766) - Add INTER System Tests and improve Parameter.h String Precision
 * *new* [PR22343](https://github.com/mantidproject/mantid/pull/22343) - Stitch1D: input point data with optional dx values
 * *new* [PR22357](https://github.com/mantidproject/mantid/pull/22357) - Engineering Diffraction GUI save sample logs to HDF5 after focusing
+* *new* [PR22463](https://github.com/mantidproject/mantid/pull/22463) - ISIS Powder GEM texture focusing - enable use of texture grouping file and save to .gem
 * *new* [PR22527](https://github.com/mantidproject/mantid/pull/22527) - Calculate Muon Asymmetry update
 * *new* [PR22548](https://github.com/mantidproject/mantid/pull/22548) - Fix failing ConvertWANDSCDtoQTest on OSX
 * *new* [PR22563](https://github.com/mantidproject/mantid/pull/22563) - This fixes `ResampleX` for `PreserveEvents=False`
