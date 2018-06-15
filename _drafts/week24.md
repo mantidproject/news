@@ -16,7 +16,9 @@ Detailed Merges for Jun 11 to 17, 2018
 * *new* [PR22357](https://github.com/mantidproject/mantid/pull/22357) - Engineering Diffraction GUI save sample logs to HDF5 after focusing
 * *new* [PR22463](https://github.com/mantidproject/mantid/pull/22463) - ISIS Powder GEM texture focusing - enable use of texture grouping file and save to .gem
 * *new* [PR22527](https://github.com/mantidproject/mantid/pull/22527) - Calculate Muon Asymmetry update
+* *new* [PR22546](https://github.com/mantidproject/mantid/pull/22546) - Fix an issue with zero entry in split TimeSeriesProperty
 * *new* [PR22548](https://github.com/mantidproject/mantid/pull/22548) - Fix failing ConvertWANDSCDtoQTest on OSX
+* *new* [PR22561](https://github.com/mantidproject/mantid/pull/22561) - (Topic Branches) Recovery - Project Saving Support
 * *new* [PR22563](https://github.com/mantidproject/mantid/pull/22563) - This fixes `ResampleX` for `PreserveEvents=False`
 * *new* [PR22568](https://github.com/mantidproject/mantid/pull/22568) - Create MRGetTheta algorithm
 * *new* [PR22569](https://github.com/mantidproject/mantid/pull/22569) - Add profile fitting tools, documentation, and algorithm
