@@ -24,3 +24,4 @@ Detailed Merges for Jun 11 to 17, 2018
 * *new* [PR22569](https://github.com/mantidproject/mantid/pull/22569) - Add profile fitting tools, documentation, and algorithm
 * *new* [PR22580](https://github.com/mantidproject/mantid/pull/22580) - fix system test
 * *new* [PR22581](https://github.com/mantidproject/mantid/pull/22581) - Fix Sphinx warning in IntegratePeaksProfileFitting
+* *new* [PR22595](https://github.com/mantidproject/mantid/pull/22595) - Refs #22594. trying to remove the empty subdirs
