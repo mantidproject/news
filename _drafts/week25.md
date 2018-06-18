@@ -16,4 +16,5 @@ Detailed Merges for Jun 18 to 24, 2018
 * *new* [PR22538](https://github.com/mantidproject/mantid/pull/22538) - Fix order of merging in MergeRuns
 * *new* [PR22575](https://github.com/mantidproject/mantid/pull/22575) - Gracefully abort if ws doesn't load during project loading
 * *new* [PR22584](https://github.com/mantidproject/mantid/pull/22584) - Fix ctrl+c on show data causes crash
+* *new* [PR22585](https://github.com/mantidproject/mantid/pull/22585) - Minor changes to MR following DAS upgrade
 * *new* [PR22589](https://github.com/mantidproject/mantid/pull/22589) - Minor change: TOFTOF GUI: replace NaN erros with 1
