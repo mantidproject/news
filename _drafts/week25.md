@@ -13,6 +13,7 @@ Detailed Merges for Jun 18 to 24, 2018
 
 * *new* [PR22439](https://github.com/mantidproject/mantid/pull/22439) - Update GSASIIRefineFitPeaks system test input to file which gives a good fit
 * *new* [PR22535](https://github.com/mantidproject/mantid/pull/22535) - Fix interpolation failure in MonteCarloAbsorption
+* *new* [PR22536](https://github.com/mantidproject/mantid/pull/22536) - Crystal field phys. prop. bug
 * *new* [PR22538](https://github.com/mantidproject/mantid/pull/22538) - Fix order of merging in MergeRuns
 * *new* [PR22575](https://github.com/mantidproject/mantid/pull/22575) - Gracefully abort if ws doesn't load during project loading
 * *new* [PR22584](https://github.com/mantidproject/mantid/pull/22584) - Fix ctrl+c on show data causes crash
