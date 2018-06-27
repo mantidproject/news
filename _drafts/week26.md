@@ -33,3 +33,4 @@ Detailed Merges for Jun 25 to Jul 1, 2018
 * *new* [PR22683](https://github.com/mantidproject/mantid/pull/22683) - Refs #22681 : This fixes the gcc7 compilation error
 * *new* [PR22686](https://github.com/mantidproject/mantid/pull/22686) - Stop calibration from running in separate thread in EnggDiffractionPresenter unit test
 * *new* [PR22688](https://github.com/mantidproject/mantid/pull/22688) - Make sure cache does not exist before EnggVanadiumCorrectionsModel unit test
+* *new* [PR22693](https://github.com/mantidproject/mantid/pull/22693) - Fix bug caused by default instrument
