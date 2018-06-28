@@ -19,8 +19,10 @@ Detailed Merges for Jun 25 to Jul 1, 2018
 * *new* [PR22611](https://github.com/mantidproject/mantid/pull/22611) - Fix add ranges in MultiFileNameParser
 * *new* [PR22616](https://github.com/mantidproject/mantid/pull/22616) - Q summation cropping issue
 * *new* [PR22620](https://github.com/mantidproject/mantid/pull/22620) - Updated LARMOR IDFs
+* *new* [PR22631](https://github.com/mantidproject/mantid/pull/22631) - Remove nist save option
 * *new* [PR22637](https://github.com/mantidproject/mantid/pull/22637) - SANS GUI: Save group workspaces correctly
 * *new* [PR22641](https://github.com/mantidproject/mantid/pull/22641) - EventList: Use standard library functions and inline function comparators.
+* *new* [PR22643](https://github.com/mantidproject/mantid/pull/22643) - Move IPeaksWorkspace properties -> PeaksWorkspace properties
 * *new* [PR22646](https://github.com/mantidproject/mantid/pull/22646) - Make BinMD always remember value of basis vector properties
 * *new* [PR22648](https://github.com/mantidproject/mantid/pull/22648) - Fix an apparent bug in FitPeaks.
 * *new* [PR22655](https://github.com/mantidproject/mantid/pull/22655) - (Topic Branches) Add Recovery to config and remove WS from ADS after
@@ -30,7 +32,9 @@ Detailed Merges for Jun 25 to Jul 1, 2018
 * *new* [PR22665](https://github.com/mantidproject/mantid/pull/22665) - Workaround Qt4 moc bug with boost
 * *new* [PR22668](https://github.com/mantidproject/mantid/pull/22668) - MR reduction: Allow workspace groups as input
 * *new* [PR22670](https://github.com/mantidproject/mantid/pull/22670) - Fix ReflectometrySumInQ for clang 6.0.0
+* *new* [PR22671](https://github.com/mantidproject/mantid/pull/22671) - Added save_type to row state generation for row user file
 * *new* [PR22676](https://github.com/mantidproject/mantid/pull/22676) - A couple of small refactors in ISIS_Powder
+* *new* [PR22677](https://github.com/mantidproject/mantid/pull/22677) - Minor change: Deprecated TOFTOFMergeRuns algorithm
 * *new* [PR22678](https://github.com/mantidproject/mantid/pull/22678) - Add missing RHEL7 build steps
 * *new* [PR22680](https://github.com/mantidproject/mantid/pull/22680) - Add live data configuration for SNS instruments
 * *new* [PR22682](https://github.com/mantidproject/mantid/pull/22682) - Add note explaining legacy ISIS event corrections
