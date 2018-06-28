@@ -36,6 +36,7 @@ Detailed Merges for Jun 25 to Jul 1, 2018
 * *new* [PR22676](https://github.com/mantidproject/mantid/pull/22676) - A couple of small refactors in ISIS_Powder
 * *new* [PR22677](https://github.com/mantidproject/mantid/pull/22677) - Minor change: Deprecated TOFTOFMergeRuns algorithm
 * *new* [PR22678](https://github.com/mantidproject/mantid/pull/22678) - Add missing RHEL7 build steps
+* *new* [PR22679](https://github.com/mantidproject/mantid/pull/22679) - Add dummy monitors to reflectometers
 * *new* [PR22680](https://github.com/mantidproject/mantid/pull/22680) - Add live data configuration for SNS instruments
 * *new* [PR22682](https://github.com/mantidproject/mantid/pull/22682) - Add note explaining legacy ISIS event corrections
 * *new* [PR22683](https://github.com/mantidproject/mantid/pull/22683) - Refs #22681 : This fixes the gcc7 compilation error
