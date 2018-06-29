@@ -19,7 +19,9 @@ Detailed Merges for Jun 25 to Jul 1, 2018
 * *new* [PR22611](https://github.com/mantidproject/mantid/pull/22611) - Fix add ranges in MultiFileNameParser
 * *new* [PR22616](https://github.com/mantidproject/mantid/pull/22616) - Q summation cropping issue
 * *new* [PR22620](https://github.com/mantidproject/mantid/pull/22620) - Updated LARMOR IDFs
+* *new* [PR22628](https://github.com/mantidproject/mantid/pull/22628) - Isis sans 3.13 release notes
 * *new* [PR22631](https://github.com/mantidproject/mantid/pull/22631) - Remove nist save option
+* *new* [PR22632](https://github.com/mantidproject/mantid/pull/22632) - D2B flip even tubes
 * *new* [PR22637](https://github.com/mantidproject/mantid/pull/22637) - SANS GUI: Save group workspaces correctly
 * *new* [PR22641](https://github.com/mantidproject/mantid/pull/22641) - EventList: Use standard library functions and inline function comparators.
 * *new* [PR22643](https://github.com/mantidproject/mantid/pull/22643) - Move IPeaksWorkspace properties -> PeaksWorkspace properties
@@ -30,6 +32,7 @@ Detailed Merges for Jun 25 to Jul 1, 2018
 * *new* [PR22662](https://github.com/mantidproject/mantid/pull/22662) - Fix PDCalibrationTest random segfault on RedHat 7
 * *new* [PR22663](https://github.com/mantidproject/mantid/pull/22663) - Rectangular Detector Fix for ypixels=1
 * *new* [PR22665](https://github.com/mantidproject/mantid/pull/22665) - Workaround Qt4 moc bug with boost
+* *new* [PR22667](https://github.com/mantidproject/mantid/pull/22667) - Project Recovery - Background Saving
 * *new* [PR22668](https://github.com/mantidproject/mantid/pull/22668) - MR reduction: Allow workspace groups as input
 * *new* [PR22670](https://github.com/mantidproject/mantid/pull/22670) - Fix ReflectometrySumInQ for clang 6.0.0
 * *new* [PR22671](https://github.com/mantidproject/mantid/pull/22671) - Added save_type to row state generation for row user file
