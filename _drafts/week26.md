@@ -52,3 +52,6 @@ Detailed Merges for Jun 25 to Jul 1, 2018
 * *new* [PR22693](https://github.com/mantidproject/mantid/pull/22693) - Fix bug caused by default instrument
 * *new* [PR22696](https://github.com/mantidproject/mantid/pull/22696) - Minor change: Fixed TofTof GUI is leaking temporary workspaces
 * *new* [PR22697](https://github.com/mantidproject/mantid/pull/22697) - Fix conflict in qt libraries for error reporter on OSX
+* *new* [PR22707](https://github.com/mantidproject/mantid/pull/22707) - add SANS-1 to MLZ facility
+* *new* [PR22708](https://github.com/mantidproject/mantid/pull/22708) - Update sans documentation
+* *new* [PR22720](https://github.com/mantidproject/mantid/pull/22720) - Fix ReflectometryILLSumForeground unit tests
