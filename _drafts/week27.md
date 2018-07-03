@@ -25,4 +25,5 @@ Detailed Merges for Jul 2 to 8, 2018
 * *new* [PR22722](https://github.com/mantidproject/mantid/pull/22722) - Fix include ordering to give self-contained units
 * *new* [PR22726](https://github.com/mantidproject/mantid/pull/22726) - Fix constant Q line profiles in directtools
 * *new* [PR22731](https://github.com/mantidproject/mantid/pull/22731) - Fix error reporter launcher under Python 3
+* *new* [PR22737](https://github.com/mantidproject/mantid/pull/22737) - Release notes fixing typos and making formats consistent
 * *new* [PR22738](https://github.com/mantidproject/mantid/pull/22738) - Project Recovery: Remove checkpoints on close and catch if recovery dir does not exist
