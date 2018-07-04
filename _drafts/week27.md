@@ -14,6 +14,7 @@ Detailed Merges for Jul 2 to 8, 2018
 * *new* [PR19008](https://github.com/mantidproject/mantid/pull/19008) - Enable peakviewer for NonOrthogonal view in sliceviewer
 * *new* [PR21023](https://github.com/mantidproject/mantid/pull/21023) - Load isis live timeout for histogram data
 * *new* [PR21552](https://github.com/mantidproject/mantid/pull/21552) - RefineSatellitePeaks algorithm for WISH
+* *new* [PR22459](https://github.com/mantidproject/mantid/pull/22459) - Frequency domain analysis clean up
 * *new* [PR22566](https://github.com/mantidproject/mantid/pull/22566) - Pychop update
 * *new* [PR22614](https://github.com/mantidproject/mantid/pull/22614) - Muon Algorithm Documentation Update
 * *new* [PR22615](https://github.com/mantidproject/mantid/pull/22615) - Sans renames workspace groups correctly
@@ -27,3 +28,4 @@ Detailed Merges for Jul 2 to 8, 2018
 * *new* [PR22731](https://github.com/mantidproject/mantid/pull/22731) - Fix error reporter launcher under Python 3
 * *new* [PR22737](https://github.com/mantidproject/mantid/pull/22737) - Release notes fixing typos and making formats consistent
 * *new* [PR22738](https://github.com/mantidproject/mantid/pull/22738) - Project Recovery: Remove checkpoints on close and catch if recovery dir does not exist
+* *new* [PR22740](https://github.com/mantidproject/mantid/pull/22740) - Project Recovery: Run background recovery algorithms silently
