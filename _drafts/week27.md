@@ -29,3 +29,7 @@ Detailed Merges for Jul 2 to 8, 2018
 * *new* [PR22737](https://github.com/mantidproject/mantid/pull/22737) - Release notes fixing typos and making formats consistent
 * *new* [PR22738](https://github.com/mantidproject/mantid/pull/22738) - Project Recovery: Remove checkpoints on close and catch if recovery dir does not exist
 * *new* [PR22740](https://github.com/mantidproject/mantid/pull/22740) - Project Recovery: Run background recovery algorithms silently
+* *new* [PR22741](https://github.com/mantidproject/mantid/pull/22741) - Parameter specializations for double and V3D.
+* *new* [PR22746](https://github.com/mantidproject/mantid/pull/22746) - Project Recovery: Remove excessive logging on project recovery saving
+* *new* [PR22781](https://github.com/mantidproject/mantid/pull/22781) - Fix various deadlocks on ProjectRecovery shutdown
+* *new* [PR22782](https://github.com/mantidproject/mantid/pull/22782) - Fix python path append in MantidPlot tests
