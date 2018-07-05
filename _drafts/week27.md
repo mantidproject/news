@@ -21,6 +21,7 @@ Detailed Merges for Jul 2 to 8, 2018
 * *new* [PR22621](https://github.com/mantidproject/mantid/pull/22621) - Indirect - QENS Fitting Interfaces - Selection of discontinuous spectra ranges
 * *new* [PR22652](https://github.com/mantidproject/mantid/pull/22652) - Fix reflectometry loader
 * *new* [PR22653](https://github.com/mantidproject/mantid/pull/22653) - Transverse field mode in Muon Analysis
+* *new* [PR22701](https://github.com/mantidproject/mantid/pull/22701) - RROA takes polarization correction parameters from parameters file
 * *new* [PR22713](https://github.com/mantidproject/mantid/pull/22713) - Project Recovery - Offer to recover if Mantid exited incorrectly
 * *new* [PR22719](https://github.com/mantidproject/mantid/pull/22719) - D2B round the tube centre indices
 * *new* [PR22722](https://github.com/mantidproject/mantid/pull/22722) - Fix include ordering to give self-contained units
