@@ -33,3 +33,4 @@ Detailed Merges for Jul 2 to 8, 2018
 * *new* [PR22746](https://github.com/mantidproject/mantid/pull/22746) - Project Recovery: Remove excessive logging on project recovery saving
 * *new* [PR22781](https://github.com/mantidproject/mantid/pull/22781) - Fix various deadlocks on ProjectRecovery shutdown
 * *new* [PR22782](https://github.com/mantidproject/mantid/pull/22782) - Fix python path append in MantidPlot tests
+* *new* [PR22783](https://github.com/mantidproject/mantid/pull/22783) - Project Recovery - Sanitise filename characters
