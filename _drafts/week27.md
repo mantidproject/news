@@ -36,3 +36,5 @@ Detailed Merges for Jul 2 to 8, 2018
 * *new* [PR22782](https://github.com/mantidproject/mantid/pull/22782) - Fix python path append in MantidPlot tests
 * *new* [PR22783](https://github.com/mantidproject/mantid/pull/22783) - Project Recovery - Sanitise filename characters
 * *new* [PR22796](https://github.com/mantidproject/mantid/pull/22796) - Add note about tool to generate release site skeleton
+* *new* [PR22798](https://github.com/mantidproject/mantid/pull/22798) - Fix FIGARO detector angle calculation in LoadILLReflectometry
+* *new* [PR22804](https://github.com/mantidproject/mantid/pull/22804) - Update Boost to 1.67 on Windows
