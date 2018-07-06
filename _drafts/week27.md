@@ -35,3 +35,4 @@ Detailed Merges for Jul 2 to 8, 2018
 * *new* [PR22781](https://github.com/mantidproject/mantid/pull/22781) - Fix various deadlocks on ProjectRecovery shutdown
 * *new* [PR22782](https://github.com/mantidproject/mantid/pull/22782) - Fix python path append in MantidPlot tests
 * *new* [PR22783](https://github.com/mantidproject/mantid/pull/22783) - Project Recovery - Sanitise filename characters
+* *new* [PR22796](https://github.com/mantidproject/mantid/pull/22796) - Add note about tool to generate release site skeleton
