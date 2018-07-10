@@ -11,6 +11,8 @@ Detailed Merges for Jul 9 to 15, 2018
 -------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-07-10..2018-07-15)
 
+* *new* [PR22479](https://github.com/mantidproject/mantid/pull/22479) - Reflectometry algorithm output workspaces
+* *new* [PR22624](https://github.com/mantidproject/mantid/pull/22624) - Indirect - QENS Fitting Interfaces - Selection and fitting of multiple datasets
 * *new* [PR22658](https://github.com/mantidproject/mantid/pull/22658) - Remove predppl coefficients and make StrongPeaksParamsFile optional
 * *new* [PR22795](https://github.com/mantidproject/mantid/pull/22795) - Fix finding range of runs
 * *new* [PR22800](https://github.com/mantidproject/mantid/pull/22800) - Fix ILL's reflectometry reduction for FIGARO instrument
@@ -19,5 +21,8 @@ Detailed Merges for Jul 9 to 15, 2018
 * *new* [PR22817](https://github.com/mantidproject/mantid/pull/22817) - Remove unregistered algorithm code
 * *new* [PR22821](https://github.com/mantidproject/mantid/pull/22821) - Fix MantidPlot ctest PYTHONPATH for Windows
 * *new* [PR22826](https://github.com/mantidproject/mantid/pull/22826) - LoadNexusMonitors, load Histogram if both are present by default
+* *new* [PR22831](https://github.com/mantidproject/mantid/pull/22831) - Muon analysis multiple fitting label
+* *new* [PR22835](https://github.com/mantidproject/mantid/pull/22835) - Update RefineSatellitePeaks docs with diagrams & more info.
 * *new* [PR22838](https://github.com/mantidproject/mantid/pull/22838) - Fix issues with numpy datetime64
+* *new* [PR22839](https://github.com/mantidproject/mantid/pull/22839) - Facilities schema fixes
 * *new* [PR22841](https://github.com/mantidproject/mantid/pull/22841) - Parallelize creation of NumPy array.
