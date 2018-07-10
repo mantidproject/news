@@ -26,3 +26,4 @@ Detailed Merges for Jul 9 to 15, 2018
 * *new* [PR22838](https://github.com/mantidproject/mantid/pull/22838) - Fix issues with numpy datetime64
 * *new* [PR22839](https://github.com/mantidproject/mantid/pull/22839) - Facilities schema fixes
 * *new* [PR22841](https://github.com/mantidproject/mantid/pull/22841) - Parallelize creation of NumPy array.
+* *new* [PR22843](https://github.com/mantidproject/mantid/pull/22843) - Minor Change: Added skeleton release notes for 3.14.0
