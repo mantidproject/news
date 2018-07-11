@@ -16,6 +16,7 @@ Detailed Merges for Jul 9 to 15, 2018
 * *new* [PR22658](https://github.com/mantidproject/mantid/pull/22658) - Remove predppl coefficients and make StrongPeaksParamsFile optional
 * *new* [PR22795](https://github.com/mantidproject/mantid/pull/22795) - Fix finding range of runs
 * *new* [PR22800](https://github.com/mantidproject/mantid/pull/22800) - Fix ILL's reflectometry reduction for FIGARO instrument
+* *new* [PR22801](https://github.com/mantidproject/mantid/pull/22801) - Use highestVersion instead of getDescriptors for script histories
 * *new* [PR22802](https://github.com/mantidproject/mantid/pull/22802) - FacilityInfo timezone support
 * *new* [PR22803](https://github.com/mantidproject/mantid/pull/22803) - Algorithm history includes dynamic input properties.
 * *new* [PR22817](https://github.com/mantidproject/mantid/pull/22817) - Remove unregistered algorithm code
@@ -27,3 +28,5 @@ Detailed Merges for Jul 9 to 15, 2018
 * *new* [PR22839](https://github.com/mantidproject/mantid/pull/22839) - Facilities schema fixes
 * *new* [PR22841](https://github.com/mantidproject/mantid/pull/22841) - Parallelize creation of NumPy array.
 * *new* [PR22843](https://github.com/mantidproject/mantid/pull/22843) - Minor Change: Added skeleton release notes for 3.14.0
+* *new* [PR22853](https://github.com/mantidproject/mantid/pull/22853) - Add missing algorithms to index
+* *new* [PR22863](https://github.com/mantidproject/mantid/pull/22863) - Event filter array property fix
