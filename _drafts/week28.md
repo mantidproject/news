@@ -21,6 +21,7 @@ Detailed Merges for Jul 9 to 15, 2018
 * *new* [PR22803](https://github.com/mantidproject/mantid/pull/22803) - Algorithm history includes dynamic input properties.
 * *new* [PR22817](https://github.com/mantidproject/mantid/pull/22817) - Remove unregistered algorithm code
 * *new* [PR22821](https://github.com/mantidproject/mantid/pull/22821) - Fix MantidPlot ctest PYTHONPATH for Windows
+* *new* [PR22823](https://github.com/mantidproject/mantid/pull/22823) - MuonAnalysis crops at start of data
 * *new* [PR22826](https://github.com/mantidproject/mantid/pull/22826) - LoadNexusMonitors, load Histogram if both are present by default
 * *new* [PR22831](https://github.com/mantidproject/mantid/pull/22831) - Muon analysis multiple fitting label
 * *new* [PR22835](https://github.com/mantidproject/mantid/pull/22835) - Update RefineSatellitePeaks docs with diagrams & more info.
