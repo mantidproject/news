@@ -31,5 +31,7 @@ Detailed Merges for Jul 9 to 15, 2018
 * *new* [PR22843](https://github.com/mantidproject/mantid/pull/22843) - Minor Change: Added skeleton release notes for 3.14.0
 * *new* [PR22853](https://github.com/mantidproject/mantid/pull/22853) - Add missing algorithms to index
 * *new* [PR22863](https://github.com/mantidproject/mantid/pull/22863) - Event filter array property fix
+* *new* [PR22870](https://github.com/mantidproject/mantid/pull/22870) - Minor change: fix the Y axis in ConvertMDHistoToMatrixWorkspace
 * *new* [PR22886](https://github.com/mantidproject/mantid/pull/22886) - Remove unused variable in TOFExtinction to fix warning for OSX
 * *new* [PR22892](https://github.com/mantidproject/mantid/pull/22892) - Use fixed line-width printing of numpy array
+* *new* [PR22903](https://github.com/mantidproject/mantid/pull/22903) - Ignore string TSPs in FilterEvents GUI
