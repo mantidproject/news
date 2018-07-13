@@ -14,6 +14,7 @@ Detailed Merges for Jul 9 to 15, 2018
 * *new* [PR22479](https://github.com/mantidproject/mantid/pull/22479) - Reflectometry algorithm output workspaces
 * *new* [PR22624](https://github.com/mantidproject/mantid/pull/22624) - Indirect - QENS Fitting Interfaces - Selection and fitting of multiple datasets
 * *new* [PR22658](https://github.com/mantidproject/mantid/pull/22658) - Remove predppl coefficients and make StrongPeaksParamsFile optional
+* *new* [PR22703](https://github.com/mantidproject/mantid/pull/22703) - Indirect - QENS Fitting - Fix the output format of the QENS fitting algorithms
 * *new* [PR22795](https://github.com/mantidproject/mantid/pull/22795) - Fix finding range of runs
 * *new* [PR22800](https://github.com/mantidproject/mantid/pull/22800) - Fix ILL's reflectometry reduction for FIGARO instrument
 * *new* [PR22801](https://github.com/mantidproject/mantid/pull/22801) - Use highestVersion instead of getDescriptors for script histories
@@ -36,5 +37,6 @@ Detailed Merges for Jul 9 to 15, 2018
 * *new* [PR22880](https://github.com/mantidproject/mantid/pull/22880) - Fix setCell method on PeaksWorkspaces
 * *new* [PR22886](https://github.com/mantidproject/mantid/pull/22886) - Remove unused variable in TOFExtinction to fix warning for OSX
 * *new* [PR22892](https://github.com/mantidproject/mantid/pull/22892) - Use fixed line-width printing of numpy array
+* *new* [PR22902](https://github.com/mantidproject/mantid/pull/22902) - Fix an integer overflow issue in LoadBankFromDiskTask
 * *new* [PR22903](https://github.com/mantidproject/mantid/pull/22903) - Ignore string TSPs in FilterEvents GUI
 * *new* [PR22910](https://github.com/mantidproject/mantid/pull/22910) - DateAndTime user documentation
