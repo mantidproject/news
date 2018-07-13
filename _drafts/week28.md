@@ -36,7 +36,10 @@ Detailed Merges for Jul 9 to 15, 2018
 * *new* [PR22877](https://github.com/mantidproject/mantid/pull/22877) - Add ability to sort a workspace by size in workspace widget
 * *new* [PR22880](https://github.com/mantidproject/mantid/pull/22880) - Fix setCell method on PeaksWorkspaces
 * *new* [PR22886](https://github.com/mantidproject/mantid/pull/22886) - Remove unused variable in TOFExtinction to fix warning for OSX
+* *new* [PR22887](https://github.com/mantidproject/mantid/pull/22887) - Add fully automated project recovery
+* *new* [PR22891](https://github.com/mantidproject/mantid/pull/22891) - ISIS Indirect data reduction: Change default grouping option and add validation
 * *new* [PR22892](https://github.com/mantidproject/mantid/pull/22892) - Use fixed line-width printing of numpy array
 * *new* [PR22902](https://github.com/mantidproject/mantid/pull/22902) - Fix an integer overflow issue in LoadBankFromDiskTask
 * *new* [PR22903](https://github.com/mantidproject/mantid/pull/22903) - Ignore string TSPs in FilterEvents GUI
 * *new* [PR22910](https://github.com/mantidproject/mantid/pull/22910) - DateAndTime user documentation
+* *new* [PR22911](https://github.com/mantidproject/mantid/pull/22911) - Add option to ADS to return hidden workspaces in getObjects()
