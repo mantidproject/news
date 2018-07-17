@@ -13,8 +13,13 @@ Detailed Merges for Jul 16 to 22, 2018
 
 * *new* [PR21568](https://github.com/mantidproject/mantid/pull/21568) - Add support for indexing fractional peaks
 * *new* [PR22633](https://github.com/mantidproject/mantid/pull/22633) - Indirect - I(Q,T) - CalculateIqt algorithm for monte-carlo error propagation
+* *new* [PR22830](https://github.com/mantidproject/mantid/pull/22830) - MSlice Fixes for 3.13
+* *new* [PR22869](https://github.com/mantidproject/mantid/pull/22869) - Kafka decoder can handle varying periods between runs
 * *new* [PR22899](https://github.com/mantidproject/mantid/pull/22899) - D2B : add new IPF for the latest cycle
+* *new* [PR22900](https://github.com/mantidproject/mantid/pull/22900) - Change number of bins for fitted peak
+* *new* [PR22904](https://github.com/mantidproject/mantid/pull/22904) - Fix bug in not specifying time-of-flight range
 * *new* [PR22909](https://github.com/mantidproject/mantid/pull/22909) - Project Recovery - Catch top level exceptions
 * *new* [PR22928](https://github.com/mantidproject/mantid/pull/22928) - Fix binary operators not saving ws history correctly
 * *new* [PR22931](https://github.com/mantidproject/mantid/pull/22931) - Fix segfault in project saving when VSI is hidden
 * *new* [PR22944](https://github.com/mantidproject/mantid/pull/22944) - Fix x bounds for fit property browser
+* *new* [PR22945](https://github.com/mantidproject/mantid/pull/22945) - Failing BASIS system test after recent LoadEventNexus changes
