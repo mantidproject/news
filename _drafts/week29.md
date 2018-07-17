@@ -33,5 +33,7 @@ Detailed Merges for Jul 16 to 22, 2018
 * *new* [PR22960](https://github.com/mantidproject/mantid/pull/22960) - Short sleep after each file of doctests
 * *new* [PR22962](https://github.com/mantidproject/mantid/pull/22962) - Fix LARMOR MultiPeriod system tests
 * *new* [PR22968](https://github.com/mantidproject/mantid/pull/22968) - Adding Project Recovery concepts docs
+* *new* [PR22973](https://github.com/mantidproject/mantid/pull/22973) - Added the option to load NX 5 extension
 * *new* [PR22975](https://github.com/mantidproject/mantid/pull/22975) - Added images to sans and refletometry release notes
+* *new* [PR22978](https://github.com/mantidproject/mantid/pull/22978) - Fix MAUD warning on Mantid start
 * *new* [PR22979](https://github.com/mantidproject/mantid/pull/22979) - Add images to release notes
