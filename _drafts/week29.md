@@ -21,5 +21,7 @@ Detailed Merges for Jul 16 to 22, 2018
 * *new* [PR22909](https://github.com/mantidproject/mantid/pull/22909) - Project Recovery - Catch top level exceptions
 * *new* [PR22928](https://github.com/mantidproject/mantid/pull/22928) - Fix binary operators not saving ws history correctly
 * *new* [PR22931](https://github.com/mantidproject/mantid/pull/22931) - Fix segfault in project saving when VSI is hidden
+* *new* [PR22941](https://github.com/mantidproject/mantid/pull/22941) - Project recovery multiple instances
 * *new* [PR22944](https://github.com/mantidproject/mantid/pull/22944) - Fix x bounds for fit property browser
 * *new* [PR22945](https://github.com/mantidproject/mantid/pull/22945) - Failing BASIS system test after recent LoadEventNexus changes
+* *new* [PR22960](https://github.com/mantidproject/mantid/pull/22960) - Short sleep after each file of doctests
