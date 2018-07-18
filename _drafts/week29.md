@@ -37,6 +37,7 @@ Detailed Merges for Jul 16 to 22, 2018
 * *new* [PR22967](https://github.com/mantidproject/mantid/pull/22967) - Remove newline chars in the script builder when writing history
 * *new* [PR22968](https://github.com/mantidproject/mantid/pull/22968) - Adding Project Recovery concepts docs
 * *new* [PR22970](https://github.com/mantidproject/mantid/pull/22970) - Rounding sample thickness display value
+* *new* [PR22971](https://github.com/mantidproject/mantid/pull/22971) - Indirect - Data Analysis Interfaces - Documentation Update
 * *new* [PR22973](https://github.com/mantidproject/mantid/pull/22973) - Added the option to load NX 5 extension
 * *new* [PR22975](https://github.com/mantidproject/mantid/pull/22975) - Added images to sans and refletometry release notes
 * *new* [PR22976](https://github.com/mantidproject/mantid/pull/22976) - Allow loading of logs after duplicate detected
@@ -44,4 +45,8 @@ Detailed Merges for Jul 16 to 22, 2018
 * *new* [PR22978](https://github.com/mantidproject/mantid/pull/22978) - Fix MAUD warning on Mantid start
 * *new* [PR22979](https://github.com/mantidproject/mantid/pull/22979) - Add images to release notes
 * *new* [PR22985](https://github.com/mantidproject/mantid/pull/22985) - Fix constraint removal in multi-dataset fit interface.
+* *new* [PR22986](https://github.com/mantidproject/mantid/pull/22986) - Fix unhandled exception in validateInputs in RSIQ
+* *new* [PR22989](https://github.com/mantidproject/mantid/pull/22989) - Fix PreviewPlot crash when removing workspace.
 * *new* [PR22996](https://github.com/mantidproject/mantid/pull/22996) - Update Project Recovery Concept Doc
+* *new* [PR22998](https://github.com/mantidproject/mantid/pull/22998) - RROA polarization correction bug.
+* *new* [PR22999](https://github.com/mantidproject/mantid/pull/22999) - Add python psutil to developer packages
