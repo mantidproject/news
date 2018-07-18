@@ -14,6 +14,7 @@ Detailed Merges for Jul 16 to 22, 2018
 * *new* [PR21568](https://github.com/mantidproject/mantid/pull/21568) - Add support for indexing fractional peaks
 * *new* [PR22633](https://github.com/mantidproject/mantid/pull/22633) - Indirect - I(Q,T) - CalculateIqt algorithm for monte-carlo error propagation
 * *new* [PR22830](https://github.com/mantidproject/mantid/pull/22830) - MSlice Fixes for 3.13
+* *new* [PR22848](https://github.com/mantidproject/mantid/pull/22848) - IN16B QENS: relax too strict error
 * *new* [PR22869](https://github.com/mantidproject/mantid/pull/22869) - Kafka decoder can handle varying periods between runs
 * *new* [PR22874](https://github.com/mantidproject/mantid/pull/22874) - MWRunFiles : launch file finding also with empty string
 * *new* [PR22899](https://github.com/mantidproject/mantid/pull/22899) - D2B : add new IPF for the latest cycle
@@ -23,6 +24,7 @@ Detailed Merges for Jul 16 to 22, 2018
 * *new* [PR22928](https://github.com/mantidproject/mantid/pull/22928) - Fix binary operators not saving ws history correctly
 * *new* [PR22931](https://github.com/mantidproject/mantid/pull/22931) - Fix segfault in project saving when VSI is hidden
 * *new* [PR22941](https://github.com/mantidproject/mantid/pull/22941) - Project recovery multiple instances
+* *new* [PR22942](https://github.com/mantidproject/mantid/pull/22942) - Add documentation page for Multi-dataset Fitting
 * *new* [PR22944](https://github.com/mantidproject/mantid/pull/22944) - Fix x bounds for fit property browser
 * *new* [PR22945](https://github.com/mantidproject/mantid/pull/22945) - Failing BASIS system test after recent LoadEventNexus changes
 * *new* [PR22947](https://github.com/mantidproject/mantid/pull/22947) - Sans usability fixes
@@ -34,9 +36,12 @@ Detailed Merges for Jul 16 to 22, 2018
 * *new* [PR22962](https://github.com/mantidproject/mantid/pull/22962) - Fix LARMOR MultiPeriod system tests
 * *new* [PR22967](https://github.com/mantidproject/mantid/pull/22967) - Remove newline chars in the script builder when writing history
 * *new* [PR22968](https://github.com/mantidproject/mantid/pull/22968) - Adding Project Recovery concepts docs
+* *new* [PR22970](https://github.com/mantidproject/mantid/pull/22970) - Rounding sample thickness display value
 * *new* [PR22973](https://github.com/mantidproject/mantid/pull/22973) - Added the option to load NX 5 extension
 * *new* [PR22975](https://github.com/mantidproject/mantid/pull/22975) - Added images to sans and refletometry release notes
 * *new* [PR22976](https://github.com/mantidproject/mantid/pull/22976) - Allow loading of logs after duplicate detected
 * *new* [PR22977](https://github.com/mantidproject/mantid/pull/22977) - Remove "Send cluster" in reduction UI
 * *new* [PR22978](https://github.com/mantidproject/mantid/pull/22978) - Fix MAUD warning on Mantid start
 * *new* [PR22979](https://github.com/mantidproject/mantid/pull/22979) - Add images to release notes
+* *new* [PR22985](https://github.com/mantidproject/mantid/pull/22985) - Fix constraint removal in multi-dataset fit interface.
+* *new* [PR22996](https://github.com/mantidproject/mantid/pull/22996) - Update Project Recovery Concept Doc
