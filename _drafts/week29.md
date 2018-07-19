@@ -50,3 +50,4 @@ Detailed Merges for Jul 16 to 22, 2018
 * *new* [PR22996](https://github.com/mantidproject/mantid/pull/22996) - Update Project Recovery Concept Doc
 * *new* [PR22998](https://github.com/mantidproject/mantid/pull/22998) - RROA polarization correction bug.
 * *new* [PR22999](https://github.com/mantidproject/mantid/pull/22999) - Add python psutil to developer packages
+* *new* [PR23001](https://github.com/mantidproject/mantid/pull/23001) - Indirect - Data Reduction - ISISEnergyTransfer - Ensure detectors are grouped as specified
