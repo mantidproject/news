@@ -53,3 +53,6 @@ Detailed Merges for Jul 16 to 22, 2018
 * *new* [PR23001](https://github.com/mantidproject/mantid/pull/23001) - Indirect - Data Reduction - ISISEnergyTransfer - Ensure detectors are grouped as specified
 * *new* [PR23004](https://github.com/mantidproject/mantid/pull/23004) - Indirect - Data Analysis - Normalize by lowest temperature in ElasticWindowMultiple
 * *new* [PR23013](https://github.com/mantidproject/mantid/pull/23013) - Read efficiency errors from parameters file
+* *new* [PR23014](https://github.com/mantidproject/mantid/pull/23014) - Ignore divide by zero warning in ConvertWANDSCDtoQ
+* *new* [PR23017](https://github.com/mantidproject/mantid/pull/23017) - Fix sphinx warnings - Andrei's branch
+* *new* [PR23020](https://github.com/mantidproject/mantid/pull/23020) - Crash doing Show Detectors on a workspace without an instrument
