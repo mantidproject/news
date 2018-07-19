@@ -51,3 +51,5 @@ Detailed Merges for Jul 16 to 22, 2018
 * *new* [PR22998](https://github.com/mantidproject/mantid/pull/22998) - RROA polarization correction bug.
 * *new* [PR22999](https://github.com/mantidproject/mantid/pull/22999) - Add python psutil to developer packages
 * *new* [PR23001](https://github.com/mantidproject/mantid/pull/23001) - Indirect - Data Reduction - ISISEnergyTransfer - Ensure detectors are grouped as specified
+* *new* [PR23004](https://github.com/mantidproject/mantid/pull/23004) - Indirect - Data Analysis - Normalize by lowest temperature in ElasticWindowMultiple
+* *new* [PR23013](https://github.com/mantidproject/mantid/pull/23013) - Read efficiency errors from parameters file
