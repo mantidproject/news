@@ -56,3 +56,4 @@ Detailed Merges for Jul 16 to 22, 2018
 * *new* [PR23014](https://github.com/mantidproject/mantid/pull/23014) - Ignore divide by zero warning in ConvertWANDSCDtoQ
 * *new* [PR23017](https://github.com/mantidproject/mantid/pull/23017) - Fix sphinx warnings - Andrei's branch
 * *new* [PR23020](https://github.com/mantidproject/mantid/pull/23020) - Crash doing Show Detectors on a workspace without an instrument
+* *new* [PR23024](https://github.com/mantidproject/mantid/pull/23024) - Fix ISISIndirectInelastic System Test on macOS
