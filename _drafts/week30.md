@@ -13,3 +13,4 @@ Detailed Merges for Jul 23 to 29, 2018
 
 * *new* [PR23003](https://github.com/mantidproject/mantid/pull/23003) - Fix RPATH issues on Ubuntu 18.04
 * *new* [PR23033](https://github.com/mantidproject/mantid/pull/23033) - Disable peak tool for multi-layered plots.
+* *new* [PR23037](https://github.com/mantidproject/mantid/pull/23037) - Exposed the release number to the configure step
