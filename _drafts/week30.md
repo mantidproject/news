@@ -11,8 +11,11 @@ Detailed Merges for Jul 23 to 29, 2018
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-07-24..2018-07-29)
 
+* *new* [PR22727](https://github.com/mantidproject/mantid/pull/22727) - TOFTOF GUI: improve save reduced data options
 * *new* [PR22955](https://github.com/mantidproject/mantid/pull/22955) - WorkspaceGroup->getMemorySize() now returns actual size instead of 0
 * *new* [PR22981](https://github.com/mantidproject/mantid/pull/22981) - Fix warnings with GCC 7
 * *new* [PR23003](https://github.com/mantidproject/mantid/pull/23003) - Fix RPATH issues on Ubuntu 18.04
 * *new* [PR23033](https://github.com/mantidproject/mantid/pull/23033) - Disable peak tool for multi-layered plots.
 * *new* [PR23037](https://github.com/mantidproject/mantid/pull/23037) - Exposed the release number to the configure step
+* *new* [PR23062](https://github.com/mantidproject/mantid/pull/23062) - Fix unhandled exception SliceViewer in Non-orthogonal mode.
+* *new* [PR23064](https://github.com/mantidproject/mantid/pull/23064) - Fix validateInputs crash on WorkspaceGroup
