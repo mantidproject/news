@@ -17,5 +17,7 @@ Detailed Merges for Jul 23 to 29, 2018
 * *new* [PR23003](https://github.com/mantidproject/mantid/pull/23003) - Fix RPATH issues on Ubuntu 18.04
 * *new* [PR23033](https://github.com/mantidproject/mantid/pull/23033) - Disable peak tool for multi-layered plots.
 * *new* [PR23037](https://github.com/mantidproject/mantid/pull/23037) - Exposed the release number to the configure step
+* *new* [PR23054](https://github.com/mantidproject/mantid/pull/23054) - Fix crash in Muon TF Asummetry
 * *new* [PR23062](https://github.com/mantidproject/mantid/pull/23062) - Fix unhandled exception SliceViewer in Non-orthogonal mode.
 * *new* [PR23064](https://github.com/mantidproject/mantid/pull/23064) - Fix validateInputs crash on WorkspaceGroup
+* *new* [PR23065](https://github.com/mantidproject/mantid/pull/23065) - Switch to pure C implementation for other instance checks
