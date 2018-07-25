@@ -15,9 +15,11 @@ Detailed Merges for Jul 23 to 29, 2018
 * *new* [PR22828](https://github.com/mantidproject/mantid/pull/22828) - Check for whitespace only strings
 * *new* [PR22955](https://github.com/mantidproject/mantid/pull/22955) - WorkspaceGroup->getMemorySize() now returns actual size instead of 0
 * *new* [PR22981](https://github.com/mantidproject/mantid/pull/22981) - Fix warnings with GCC 7
+* *new* [PR22983](https://github.com/mantidproject/mantid/pull/22983) - Fixed exception in instrument view.
 * *new* [PR23003](https://github.com/mantidproject/mantid/pull/23003) - Fix RPATH issues on Ubuntu 18.04
 * *new* [PR23033](https://github.com/mantidproject/mantid/pull/23033) - Disable peak tool for multi-layered plots.
 * *new* [PR23037](https://github.com/mantidproject/mantid/pull/23037) - Exposed the release number to the configure step
+* *new* [PR23042](https://github.com/mantidproject/mantid/pull/23042) - Added Eclipse Documentation .rst
 * *new* [PR23053](https://github.com/mantidproject/mantid/pull/23053) - Fix error reporter not reporting to database
 * *new* [PR23054](https://github.com/mantidproject/mantid/pull/23054) - Fix crash in Muon TF Asummetry
 * *new* [PR23057](https://github.com/mantidproject/mantid/pull/23057) - Re #23056 Change error message
