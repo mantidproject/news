@@ -27,3 +27,5 @@ Detailed Merges for Jul 23 to 29, 2018
 * *new* [PR23062](https://github.com/mantidproject/mantid/pull/23062) - Fix unhandled exception SliceViewer in Non-orthogonal mode.
 * *new* [PR23064](https://github.com/mantidproject/mantid/pull/23064) - Fix validateInputs crash on WorkspaceGroup
 * *new* [PR23065](https://github.com/mantidproject/mantid/pull/23065) - Switch to pure C implementation for other instance checks
+* *new* [PR23099](https://github.com/mantidproject/mantid/pull/23099) - Improve peak fitting
+* *new* [PR23100](https://github.com/mantidproject/mantid/pull/23100) - Fix custom user docs stylesheet for Sphinx > 1.6
