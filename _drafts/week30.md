@@ -37,3 +37,5 @@ Detailed Merges for Jul 23 to 29, 2018
 * *new* [PR23098](https://github.com/mantidproject/mantid/pull/23098) - Fix ISISReflectometryAutoreductionTest for python 3
 * *new* [PR23099](https://github.com/mantidproject/mantid/pull/23099) - Improve peak fitting
 * *new* [PR23100](https://github.com/mantidproject/mantid/pull/23100) - Fix custom user docs stylesheet for Sphinx > 1.6
+* *new* [PR23111](https://github.com/mantidproject/mantid/pull/23111) - Fix clang-tidy modernize-use-nullptr warnings
+* *new* [PR23113](https://github.com/mantidproject/mantid/pull/23113) - Enable archive search in system tests
