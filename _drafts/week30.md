@@ -22,6 +22,7 @@ Detailed Merges for Jul 23 to 29, 2018
 * *new* [PR23033](https://github.com/mantidproject/mantid/pull/23033) - Disable peak tool for multi-layered plots.
 * *new* [PR23037](https://github.com/mantidproject/mantid/pull/23037) - Exposed the release number to the configure step
 * *new* [PR23042](https://github.com/mantidproject/mantid/pull/23042) - Added Eclipse Documentation .rst
+* *new* [PR23050](https://github.com/mantidproject/mantid/pull/23050) - Remove debug poco lib packages from equivs file
 * *new* [PR23052](https://github.com/mantidproject/mantid/pull/23052) - Catch unfound workspace error
 * *new* [PR23053](https://github.com/mantidproject/mantid/pull/23053) - Fix error reporter not reporting to database
 * *new* [PR23054](https://github.com/mantidproject/mantid/pull/23054) - Fix crash in Muon TF Asummetry
@@ -30,6 +31,9 @@ Detailed Merges for Jul 23 to 29, 2018
 * *new* [PR23062](https://github.com/mantidproject/mantid/pull/23062) - Fix unhandled exception SliceViewer in Non-orthogonal mode.
 * *new* [PR23064](https://github.com/mantidproject/mantid/pull/23064) - Fix validateInputs crash on WorkspaceGroup
 * *new* [PR23065](https://github.com/mantidproject/mantid/pull/23065) - Switch to pure C implementation for other instance checks
+* *new* [PR23078](https://github.com/mantidproject/mantid/pull/23078) - Double click table column heading for column options
+* *new* [PR23083](https://github.com/mantidproject/mantid/pull/23083) - Time standard deviation for TimeSeriesProperty
 * *new* [PR23094](https://github.com/mantidproject/mantid/pull/23094) - Fix clang-tidy misc-unused-using-decls
+* *new* [PR23098](https://github.com/mantidproject/mantid/pull/23098) - Fix ISISReflectometryAutoreductionTest for python 3
 * *new* [PR23099](https://github.com/mantidproject/mantid/pull/23099) - Improve peak fitting
 * *new* [PR23100](https://github.com/mantidproject/mantid/pull/23100) - Fix custom user docs stylesheet for Sphinx > 1.6
