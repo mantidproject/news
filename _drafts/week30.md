@@ -11,6 +11,7 @@ Detailed Merges for Jul 23 to 29, 2018
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-07-24..2018-07-29)
 
+* *new* [PR22644](https://github.com/mantidproject/mantid/pull/22644) - Numpy dtype exports to property with value
 * *new* [PR22727](https://github.com/mantidproject/mantid/pull/22727) - TOFTOF GUI: improve save reduced data options
 * *new* [PR22828](https://github.com/mantidproject/mantid/pull/22828) - Check for whitespace only strings
 * *new* [PR22955](https://github.com/mantidproject/mantid/pull/22955) - WorkspaceGroup->getMemorySize() now returns actual size instead of 0
