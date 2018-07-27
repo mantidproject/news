@@ -13,6 +13,7 @@ Detailed Merges for Jul 23 to 29, 2018
 
 * *new* [PR22455](https://github.com/mantidproject/mantid/pull/22455) - Documentation : Running tests in VS and building dev-docs html.
 * *new* [PR22644](https://github.com/mantidproject/mantid/pull/22644) - Numpy dtype exports to property with value
+* *new* [PR22695](https://github.com/mantidproject/mantid/pull/22695) - PlotSelector Widget additional features
 * *new* [PR22727](https://github.com/mantidproject/mantid/pull/22727) - TOFTOF GUI: improve save reduced data options
 * *new* [PR22828](https://github.com/mantidproject/mantid/pull/22828) - Check for whitespace only strings
 * *new* [PR22847](https://github.com/mantidproject/mantid/pull/22847) - Fix unused-variable warning in MuonFitDataSelector
