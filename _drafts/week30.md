@@ -15,6 +15,7 @@ Detailed Merges for Jul 23 to 29, 2018
 * *new* [PR22644](https://github.com/mantidproject/mantid/pull/22644) - Numpy dtype exports to property with value
 * *new* [PR22727](https://github.com/mantidproject/mantid/pull/22727) - TOFTOF GUI: improve save reduced data options
 * *new* [PR22828](https://github.com/mantidproject/mantid/pull/22828) - Check for whitespace only strings
+* *new* [PR22847](https://github.com/mantidproject/mantid/pull/22847) - Fix unused-variable warning in MuonFitDataSelector
 * *new* [PR22955](https://github.com/mantidproject/mantid/pull/22955) - WorkspaceGroup->getMemorySize() now returns actual size instead of 0
 * *new* [PR22981](https://github.com/mantidproject/mantid/pull/22981) - Fix warnings with GCC 7
 * *new* [PR22983](https://github.com/mantidproject/mantid/pull/22983) - Fixed exception in instrument view.
@@ -31,6 +32,7 @@ Detailed Merges for Jul 23 to 29, 2018
 * *new* [PR23062](https://github.com/mantidproject/mantid/pull/23062) - Fix unhandled exception SliceViewer in Non-orthogonal mode.
 * *new* [PR23064](https://github.com/mantidproject/mantid/pull/23064) - Fix validateInputs crash on WorkspaceGroup
 * *new* [PR23065](https://github.com/mantidproject/mantid/pull/23065) - Switch to pure C implementation for other instance checks
+* *new* [PR23069](https://github.com/mantidproject/mantid/pull/23069) - Remove specificity from message_box
 * *new* [PR23078](https://github.com/mantidproject/mantid/pull/23078) - Double click table column heading for column options
 * *new* [PR23083](https://github.com/mantidproject/mantid/pull/23083) - Time standard deviation for TimeSeriesProperty
 * *new* [PR23094](https://github.com/mantidproject/mantid/pull/23094) - Fix clang-tidy misc-unused-using-decls
