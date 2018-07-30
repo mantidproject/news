@@ -15,3 +15,5 @@ Detailed Merges for Jul 30 to Aug 5, 2018
 * *new* [PR23007](https://github.com/mantidproject/mantid/pull/23007) - Caught exception in ICat
 * *new* [PR23110](https://github.com/mantidproject/mantid/pull/23110) - Disable file logging & simplfy log filtering
 * *new* [PR23123](https://github.com/mantidproject/mantid/pull/23123) - Pressing Cancel when Closing Workbench
+* *new* [PR23125](https://github.com/mantidproject/mantid/pull/23125) - Add tolerance to direct beam sorter
+* *new* [PR23127](https://github.com/mantidproject/mantid/pull/23127) - Only sleep after doctests if free memory is below 75%
