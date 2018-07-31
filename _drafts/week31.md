@@ -12,6 +12,7 @@ Detailed Merges for Jul 30 to Aug 5, 2018
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-07-31..2018-08-05)
 
 * *new* [PR22088](https://github.com/mantidproject/mantid/pull/22088) - A few changes to support msvc 2017
+* *new* [PR22991](https://github.com/mantidproject/mantid/pull/22991) - Muon - Reorganising folder structure
 * *new* [PR23007](https://github.com/mantidproject/mantid/pull/23007) - Caught exception in ICat
 * *new* [PR23110](https://github.com/mantidproject/mantid/pull/23110) - Disable file logging & simplfy log filtering
 * *new* [PR23123](https://github.com/mantidproject/mantid/pull/23123) - Pressing Cancel when Closing Workbench
