@@ -25,4 +25,6 @@ Detailed Merges for Jul 30 to Aug 5, 2018
 * *new* [PR23126](https://github.com/mantidproject/mantid/pull/23126) - chudley-elliot fit function should contain hbar
 * *new* [PR23127](https://github.com/mantidproject/mantid/pull/23127) - Only sleep after doctests if free memory is below 75%
 * *new* [PR23136](https://github.com/mantidproject/mantid/pull/23136) - Check existence of Poco debug libraries before using them
+* *new* [PR23147](https://github.com/mantidproject/mantid/pull/23147) - ConfigService loading
 * *new* [PR23152](https://github.com/mantidproject/mantid/pull/23152) - Separate dialogs and widgets into different mantidqt subpackages
+* *new* [PR23161](https://github.com/mantidproject/mantid/pull/23161) - Fix RunNumber bug in PeaksWorkspaces
