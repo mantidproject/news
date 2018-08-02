@@ -13,6 +13,7 @@ Detailed Merges for Jul 30 to Aug 5, 2018
 
 * *new* [PR21514](https://github.com/mantidproject/mantid/pull/21514) - Indirect - Unit Tests - Ensure all Indirect Unit Tests run at non-ISIS facilities
 * *new* [PR22088](https://github.com/mantidproject/mantid/pull/22088) - A few changes to support msvc 2017
+* *new* [PR22864](https://github.com/mantidproject/mantid/pull/22864) - RHEL7 devtoolset-7
 * *new* [PR22926](https://github.com/mantidproject/mantid/pull/22926) - Fix making a package using homebrew LLVM
 * *new* [PR22980](https://github.com/mantidproject/mantid/pull/22980) - 22811 instrument specific profile fitting
 * *new* [PR22991](https://github.com/mantidproject/mantid/pull/22991) - Muon - Reorganising folder structure
