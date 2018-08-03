@@ -19,6 +19,7 @@ Detailed Merges for Jul 30 to Aug 5, 2018
 * *new* [PR22980](https://github.com/mantidproject/mantid/pull/22980) - 22811 instrument specific profile fitting
 * *new* [PR22991](https://github.com/mantidproject/mantid/pull/22991) - Muon - Reorganising folder structure
 * *new* [PR23007](https://github.com/mantidproject/mantid/pull/23007) - Caught exception in ICat
+* *new* [PR23019](https://github.com/mantidproject/mantid/pull/23019) - Fix clang warnings
 * *new* [PR23074](https://github.com/mantidproject/mantid/pull/23074) - Elemental Analysis: Peak Data Loading
 * *new* [PR23104](https://github.com/mantidproject/mantid/pull/23104) - Fix detector rotations in TOFTOF IDF
 * *new* [PR23107](https://github.com/mantidproject/mantid/pull/23107) - Use system eigen and xmlrunner on Windows
@@ -30,6 +31,7 @@ Detailed Merges for Jul 30 to Aug 5, 2018
 * *new* [PR23127](https://github.com/mantidproject/mantid/pull/23127) - Only sleep after doctests if free memory is below 75%
 * *new* [PR23130](https://github.com/mantidproject/mantid/pull/23130) - Improve error handling for TableWorkspace
 * *new* [PR23132](https://github.com/mantidproject/mantid/pull/23132) - Removed the LoadAscii Custom Dialog, it was out of date with the alg
+* *new* [PR23133](https://github.com/mantidproject/mantid/pull/23133) - Muon results table includes log values with value of 0
 * *new* [PR23134](https://github.com/mantidproject/mantid/pull/23134) - Move time-weighted statistics to object
 * *new* [PR23136](https://github.com/mantidproject/mantid/pull/23136) - Check existence of Poco debug libraries before using them
 * *new* [PR23140](https://github.com/mantidproject/mantid/pull/23140) - Update MSlice to fix MakeProjection bug
