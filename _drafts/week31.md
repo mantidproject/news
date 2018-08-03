@@ -41,3 +41,5 @@ Detailed Merges for Jul 30 to Aug 5, 2018
 * *new* [PR23161](https://github.com/mantidproject/mantid/pull/23161) - Fix RunNumber bug in PeaksWorkspaces
 * *new* [PR23165](https://github.com/mantidproject/mantid/pull/23165) - Minimal change to prevent a crash
 * *new* [PR23167](https://github.com/mantidproject/mantid/pull/23167) - Correct default doc string for empty property managers to dict()
+* *new* [PR23177](https://github.com/mantidproject/mantid/pull/23177) - Update third party and Fix sip build invocation
+* *new* [PR23181](https://github.com/mantidproject/mantid/pull/23181) - Update CONTRIBUTING.md
