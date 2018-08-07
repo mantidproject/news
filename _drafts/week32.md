@@ -18,3 +18,5 @@ Detailed Merges for Aug 6 to 12, 2018
 * *new* [PR23188](https://github.com/mantidproject/mantid/pull/23188) - Fix Python extensions when compiled with clang on Linux
 * *new* [PR23191](https://github.com/mantidproject/mantid/pull/23191) - Make project recovery properties more findable
 * *new* [PR23193](https://github.com/mantidproject/mantid/pull/23193) - Add missing SingletonHolder header
+* *new* [PR23196](https://github.com/mantidproject/mantid/pull/23196) - Activate core dumps on Linux before running tests
+* *new* [PR23201](https://github.com/mantidproject/mantid/pull/23201) - Add a receive timeout to FakeISISHistoDAE socket
