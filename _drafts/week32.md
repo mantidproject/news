@@ -13,6 +13,7 @@ Detailed Merges for Aug 6 to 12, 2018
 
 * *new* [PR22619](https://github.com/mantidproject/mantid/pull/22619) - Muon - LoadAndApplyMuonDetectorGrouping algorithm
 * *new* [PR22888](https://github.com/mantidproject/mantid/pull/22888) - Switch ConfigManager::getValue() to use boost optional return
+* *new* [PR23143](https://github.com/mantidproject/mantid/pull/23143) - LoadDNSLegacy: add elastic channel property
 * *new* [PR23166](https://github.com/mantidproject/mantid/pull/23166) - Update to clang 5.0
 * *new* [PR23172](https://github.com/mantidproject/mantid/pull/23172) - Get LoadIsawUB working with MDHistoWorkspace
 * *new* [PR23188](https://github.com/mantidproject/mantid/pull/23188) - Fix Python extensions when compiled with clang on Linux
