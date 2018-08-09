@@ -14,6 +14,7 @@ Detailed Merges for Aug 6 to 12, 2018
 * *new* [PR22619](https://github.com/mantidproject/mantid/pull/22619) - Muon - LoadAndApplyMuonDetectorGrouping algorithm
 * *new* [PR22840](https://github.com/mantidproject/mantid/pull/22840) - FABADA: use single random number generator.
 * *new* [PR22888](https://github.com/mantidproject/mantid/pull/22888) - Switch ConfigManager::getValue() to use boost optional return
+* *new* [PR23029](https://github.com/mantidproject/mantid/pull/23029) - Extend LoadDNSSCD for TOF data
 * *new* [PR23143](https://github.com/mantidproject/mantid/pull/23143) - LoadDNSLegacy: add elastic channel property
 * *new* [PR23159](https://github.com/mantidproject/mantid/pull/23159) - Set the phi value to 0 in XYE MAUD headers
 * *new* [PR23162](https://github.com/mantidproject/mantid/pull/23162) - Fixing indirect interface documentation
