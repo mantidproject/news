@@ -33,4 +33,6 @@ Detailed Merges for Aug 6 to 12, 2018
 * *new* [PR23202](https://github.com/mantidproject/mantid/pull/23202) - Set bin count in CentroidPeaksMD
 * *new* [PR23213](https://github.com/mantidproject/mantid/pull/23213) - TF Asymmetry mode bug fixes
 * *new* [PR23219](https://github.com/mantidproject/mantid/pull/23219) - Expose iadd and isub to python
+* *new* [PR23235](https://github.com/mantidproject/mantid/pull/23235) - Use stack-based object to avoid memory leak in SaveNexusProcessed
 * *new* [PR23236](https://github.com/mantidproject/mantid/pull/23236) - Add a validator for OrientedLattice
+* *new* [PR23244](https://github.com/mantidproject/mantid/pull/23244) - Fix mantid for Python 3.7
