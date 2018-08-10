@@ -18,6 +18,7 @@ Detailed Merges for Aug 6 to 12, 2018
 * *new* [PR23029](https://github.com/mantidproject/mantid/pull/23029) - Extend LoadDNSSCD for TOF data
 * *new* [PR23141](https://github.com/mantidproject/mantid/pull/23141) - Fix pearl long mode
 * *new* [PR23143](https://github.com/mantidproject/mantid/pull/23143) - LoadDNSLegacy: add elastic channel property
+* *new* [PR23150](https://github.com/mantidproject/mantid/pull/23150) - Adding connection tests to muon GUI
 * *new* [PR23159](https://github.com/mantidproject/mantid/pull/23159) - Set the phi value to 0 in XYE MAUD headers
 * *new* [PR23162](https://github.com/mantidproject/mantid/pull/23162) - Fixing indirect interface documentation
 * *new* [PR23166](https://github.com/mantidproject/mantid/pull/23166) - Update to clang 5.0
@@ -30,4 +31,6 @@ Detailed Merges for Aug 6 to 12, 2018
 * *new* [PR23196](https://github.com/mantidproject/mantid/pull/23196) - Activate core dumps on Linux before running tests
 * *new* [PR23201](https://github.com/mantidproject/mantid/pull/23201) - Add a receive timeout to FakeISISHistoDAE socket
 * *new* [PR23202](https://github.com/mantidproject/mantid/pull/23202) - Set bin count in CentroidPeaksMD
+* *new* [PR23213](https://github.com/mantidproject/mantid/pull/23213) - TF Asymmetry mode bug fixes
 * *new* [PR23219](https://github.com/mantidproject/mantid/pull/23219) - Expose iadd and isub to python
+* *new* [PR23236](https://github.com/mantidproject/mantid/pull/23236) - Add a validator for OrientedLattice
