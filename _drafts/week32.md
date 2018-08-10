@@ -14,6 +14,7 @@ Detailed Merges for Aug 6 to 12, 2018
 * *new* [PR22619](https://github.com/mantidproject/mantid/pull/22619) - Muon - LoadAndApplyMuonDetectorGrouping algorithm
 * *new* [PR22840](https://github.com/mantidproject/mantid/pull/22840) - FABADA: use single random number generator.
 * *new* [PR22888](https://github.com/mantidproject/mantid/pull/22888) - Switch ConfigManager::getValue() to use boost optional return
+* *new* [PR22919](https://github.com/mantidproject/mantid/pull/22919) - Exported some methods from DetectorInfo
 * *new* [PR23029](https://github.com/mantidproject/mantid/pull/23029) - Extend LoadDNSSCD for TOF data
 * *new* [PR23141](https://github.com/mantidproject/mantid/pull/23141) - Fix pearl long mode
 * *new* [PR23143](https://github.com/mantidproject/mantid/pull/23143) - LoadDNSLegacy: add elastic channel property
@@ -29,3 +30,4 @@ Detailed Merges for Aug 6 to 12, 2018
 * *new* [PR23196](https://github.com/mantidproject/mantid/pull/23196) - Activate core dumps on Linux before running tests
 * *new* [PR23201](https://github.com/mantidproject/mantid/pull/23201) - Add a receive timeout to FakeISISHistoDAE socket
 * *new* [PR23202](https://github.com/mantidproject/mantid/pull/23202) - Set bin count in CentroidPeaksMD
+* *new* [PR23219](https://github.com/mantidproject/mantid/pull/23219) - Expose iadd and isub to python
