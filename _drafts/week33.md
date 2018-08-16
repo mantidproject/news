@@ -24,3 +24,4 @@ Detailed Merges for Aug 13 to 19, 2018
 * *new* [PR23256](https://github.com/mantidproject/mantid/pull/23256) - Convert developer documentation to sphinx
 * *new* [PR23257](https://github.com/mantidproject/mantid/pull/23257) - LR: Update default x range for scaling factors
 * *new* [PR23259](https://github.com/mantidproject/mantid/pull/23259) - Remove old logging configuration variable
+* *new* [PR23270](https://github.com/mantidproject/mantid/pull/23270) - Change the check for rpm uninstall/upgrade to use $1
