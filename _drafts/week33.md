@@ -13,6 +13,8 @@ Detailed Merges for Aug 13 to 19, 2018
 
 * *new* [PR22793](https://github.com/mantidproject/mantid/pull/22793) - Refactor ExportSampleLogsToHDF5 to use dtype function.
 * *new* [PR22856](https://github.com/mantidproject/mantid/pull/22856) - Fix V20 Source chopper position
+* *new* [PR22940](https://github.com/mantidproject/mantid/pull/22940) - Exposed most of the methods from ComponentInfo
+* *new* [PR23096](https://github.com/mantidproject/mantid/pull/23096) - Export Sample::getShape()
 * *new* [PR23139](https://github.com/mantidproject/mantid/pull/23139) - Updating sans GUI table
 * *new* [PR23176](https://github.com/mantidproject/mantid/pull/23176) - Enable appending multiple times for event workspaces
 * *new* [PR23211](https://github.com/mantidproject/mantid/pull/23211) - Workbench linux install
@@ -21,6 +23,7 @@ Detailed Merges for Aug 13 to 19, 2018
 * *new* [PR23242](https://github.com/mantidproject/mantid/pull/23242) - Always override MANTIDPATH inside workbench startup code
 * *new* [PR23243](https://github.com/mantidproject/mantid/pull/23243) - Fix a bug where a checkbox is hidden by another widget
 * *new* [PR23247](https://github.com/mantidproject/mantid/pull/23247) - No longer check if file is writable
+* *new* [PR23250](https://github.com/mantidproject/mantid/pull/23250) - Workbench dragndrop plotting
 * *new* [PR23251](https://github.com/mantidproject/mantid/pull/23251) - Add pycharm plugin documentation
 * *new* [PR23255](https://github.com/mantidproject/mantid/pull/23255) - Remove ENABLE_FILE_LOGGING from buildscript
 * *new* [PR23256](https://github.com/mantidproject/mantid/pull/23256) - Convert developer documentation to sphinx
@@ -29,4 +32,7 @@ Detailed Merges for Aug 13 to 19, 2018
 * *new* [PR23267](https://github.com/mantidproject/mantid/pull/23267) - Added GIL release to findRuns python calls
 * *new* [PR23270](https://github.com/mantidproject/mantid/pull/23270) - Change the check for rpm uninstall/upgrade to use $1
 * *new* [PR23271](https://github.com/mantidproject/mantid/pull/23271) - Change getStoredPropertyValue to getPreviousValue
+* *new* [PR23272](https://github.com/mantidproject/mantid/pull/23272) - Fix mantid.dataobjects.TableWorkspace() for Linux clang
+* *new* [PR23273](https://github.com/mantidproject/mantid/pull/23273) - Workbench use QSettings configuration
 * *new* [PR23281](https://github.com/mantidproject/mantid/pull/23281) - Refactored `HistogramIterator` and  `HistogramItem`
+* *new* [PR23282](https://github.com/mantidproject/mantid/pull/23282) - Add isGroup() method to Workspace.h and WorkspaceGroup.h
