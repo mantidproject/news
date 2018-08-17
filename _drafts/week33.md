@@ -14,6 +14,7 @@ Detailed Merges for Aug 13 to 19, 2018
 * *new* [PR22793](https://github.com/mantidproject/mantid/pull/22793) - Refactor ExportSampleLogsToHDF5 to use dtype function.
 * *new* [PR22856](https://github.com/mantidproject/mantid/pull/22856) - Fix V20 Source chopper position
 * *new* [PR22940](https://github.com/mantidproject/mantid/pull/22940) - Exposed most of the methods from ComponentInfo
+* *new* [PR22961](https://github.com/mantidproject/mantid/pull/22961) - ITableWorkspace now updates GUI when data changed via Python
 * *new* [PR23096](https://github.com/mantidproject/mantid/pull/23096) - Export Sample::getShape()
 * *new* [PR23139](https://github.com/mantidproject/mantid/pull/23139) - Updating sans GUI table
 * *new* [PR23176](https://github.com/mantidproject/mantid/pull/23176) - Enable appending multiple times for event workspaces
