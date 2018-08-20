@@ -12,4 +12,6 @@ Detailed Merges for Aug 20 to 26, 2018
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-08-21..2018-08-26)
 
 * *new* [PR23277](https://github.com/mantidproject/mantid/pull/23277) - Use a fixed number of omp threads for unit tests on builders
+* *new* [PR23287](https://github.com/mantidproject/mantid/pull/23287) - Add missing unit test boilerplate
 * *new* [PR23288](https://github.com/mantidproject/mantid/pull/23288) - Algorithm history in python
+* *new* [PR23289](https://github.com/mantidproject/mantid/pull/23289) - Fix memory leaks reported from KernelTest
