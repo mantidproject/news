@@ -26,7 +26,11 @@ Detailed Merges for Aug 20 to 26, 2018
 * *new* [PR23287](https://github.com/mantidproject/mantid/pull/23287) - Add missing unit test boilerplate
 * *new* [PR23288](https://github.com/mantidproject/mantid/pull/23288) - Algorithm history in python
 * *new* [PR23289](https://github.com/mantidproject/mantid/pull/23289) - Fix memory leaks reported from KernelTest
+* *new* [PR23290](https://github.com/mantidproject/mantid/pull/23290) - Fix issues with GeometryTest address identified by address sanitizer
+* *new* [PR23291](https://github.com/mantidproject/mantid/pull/23291) - Fix issues in DataHandlingTest reported by address sanitizer
 * *new* [PR23300](https://github.com/mantidproject/mantid/pull/23300) - Correct workbench window location
 * *new* [PR23311](https://github.com/mantidproject/mantid/pull/23311) - Implementing SortXAxis in Stitch1D
 * *new* [PR23312](https://github.com/mantidproject/mantid/pull/23312) - Add support for fat events to AlignAndFocusPowder
+* *new* [PR23319](https://github.com/mantidproject/mantid/pull/23319) - Allow MDNormSCD to work on merged workspaces
 * *new* [PR23326](https://github.com/mantidproject/mantid/pull/23326) - Obey skipTests method in dynamic CxxTest test suites
+* *new* [PR23331](https://github.com/mantidproject/mantid/pull/23331) - Add parameter name to exception
