@@ -16,6 +16,7 @@ Detailed Merges for Aug 20 to 26, 2018
 * *new* [PR22852](https://github.com/mantidproject/mantid/pull/22852) - Add C++ version of SortXAxis #22515
 * *new* [PR22884](https://github.com/mantidproject/mantid/pull/22884) - Exported SpectrumInfo and SpectrumDefinition
 * *new* [PR23047](https://github.com/mantidproject/mantid/pull/23047) - Add polarization correction data to parameters file
+* *new* [PR23194](https://github.com/mantidproject/mantid/pull/23194) - ConfigService document more properties
 * *new* [PR23199](https://github.com/mantidproject/mantid/pull/23199) - Update OFFSPEC and CRISP IDFs
 * *new* [PR23205](https://github.com/mantidproject/mantid/pull/23205) - ISIS Powder POLARIS load vanadium lifted out of loop
 * *new* [PR23222](https://github.com/mantidproject/mantid/pull/23222) - Elemental Analysis Menu Bar
@@ -34,3 +35,4 @@ Detailed Merges for Aug 20 to 26, 2018
 * *new* [PR23319](https://github.com/mantidproject/mantid/pull/23319) - Allow MDNormSCD to work on merged workspaces
 * *new* [PR23326](https://github.com/mantidproject/mantid/pull/23326) - Obey skipTests method in dynamic CxxTest test suites
 * *new* [PR23331](https://github.com/mantidproject/mantid/pull/23331) - Add parameter name to exception
+* *new* [PR23333](https://github.com/mantidproject/mantid/pull/23333) - Sort peak numbers by detector banks
