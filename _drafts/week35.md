@@ -17,3 +17,4 @@ Detailed Merges for Aug 27 to Sep 2, 2018
 * *new* [PR23226](https://github.com/mantidproject/mantid/pull/23226) - Implemented an iterator for `DetectorInfo`
 * *new* [PR23254](https://github.com/mantidproject/mantid/pull/23254) - Elemental Analysis - Run Data Loading
 * *new* [PR23350](https://github.com/mantidproject/mantid/pull/23350) - Add instruction about devtoolset-7
+* *new* [PR23355](https://github.com/mantidproject/mantid/pull/23355) - Fix workbench plotting test for matplotlib >= v2
