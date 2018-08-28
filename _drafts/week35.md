@@ -12,5 +12,8 @@ Detailed Merges for Aug 27 to Sep 2, 2018
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-08-28..2018-09-02)
 
 * *new* [PR22425](https://github.com/mantidproject/mantid/pull/22425) - LoadLiveData should adjust bin boundaries to fit all events when in PreserveEvents mode
+* *new* [PR23206](https://github.com/mantidproject/mantid/pull/23206) - Updated release notes for info exports
+* *new* [PR23210](https://github.com/mantidproject/mantid/pull/23210) - Fixed run box selection issue and SampleShape change
+* *new* [PR23226](https://github.com/mantidproject/mantid/pull/23226) - Implemented an iterator for `DetectorInfo`
 * *new* [PR23254](https://github.com/mantidproject/mantid/pull/23254) - Elemental Analysis - Run Data Loading
 * *new* [PR23350](https://github.com/mantidproject/mantid/pull/23350) - Add instruction about devtoolset-7
