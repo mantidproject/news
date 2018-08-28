@@ -18,3 +18,4 @@ Detailed Merges for Aug 27 to Sep 2, 2018
 * *new* [PR23254](https://github.com/mantidproject/mantid/pull/23254) - Elemental Analysis - Run Data Loading
 * *new* [PR23350](https://github.com/mantidproject/mantid/pull/23350) - Add instruction about devtoolset-7
 * *new* [PR23355](https://github.com/mantidproject/mantid/pull/23355) - Fix workbench plotting test for matplotlib >= v2
+* *new* [PR23360](https://github.com/mantidproject/mantid/pull/23360) - Removed duplicated exports
