@@ -36,3 +36,4 @@ Detailed Merges for Aug 27 to Sep 2, 2018
 * *new* [PR23370](https://github.com/mantidproject/mantid/pull/23370) - Remove reliance on peak ordering in WISH SC system test
 * *new* [PR23375](https://github.com/mantidproject/mantid/pull/23375) - IndirectILLReductionFWS attempt to fix doctest
 * *new* [PR23378](https://github.com/mantidproject/mantid/pull/23378) - Centralise icon access in mantidqt and workbench
+* *new* [PR23385](https://github.com/mantidproject/mantid/pull/23385) - Crystallography convention bug fixed
