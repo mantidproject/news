@@ -16,3 +16,4 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23299](https://github.com/mantidproject/mantid/pull/23299) - Add missing options to Calculate Monte Carlo Absorption
 * *new* [PR23306](https://github.com/mantidproject/mantid/pull/23306) - Updated default settings in GUI
 * *new* [PR23314](https://github.com/mantidproject/mantid/pull/23314) - RROA now allows Qmin and Qmax to be specified separately
+* *new* [PR23362](https://github.com/mantidproject/mantid/pull/23362) - Updating Job Tree View
