@@ -21,8 +21,11 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23343](https://github.com/mantidproject/mantid/pull/23343) - Add PDFgetN style normalization to SumSpectra
 * *new* [PR23361](https://github.com/mantidproject/mantid/pull/23361) - Improve reflectometry Q conversion algorithms' documentation
 * *new* [PR23362](https://github.com/mantidproject/mantid/pull/23362) - Updating Job Tree View
+* *new* [PR23363](https://github.com/mantidproject/mantid/pull/23363) - Migrate MBC Training to Sphinx
 * *new* [PR23387](https://github.com/mantidproject/mantid/pull/23387) - Run PyQt-based unit tests sequentially
 * *new* [PR23392](https://github.com/mantidproject/mantid/pull/23392) - IndirectILLReductionFWS doc test cleanup
+* *new* [PR23397](https://github.com/mantidproject/mantid/pull/23397) - Get selected spectrum number not combobox index
 * *new* [PR23408](https://github.com/mantidproject/mantid/pull/23408) - Fix typo in PolarizationCorrectionWildes docs
 * *new* [PR23417](https://github.com/mantidproject/mantid/pull/23417) - Fix address sanitizer issues from doc tests
+* *new* [PR23419](https://github.com/mantidproject/mantid/pull/23419) - fix conda build problem with direct calls of std::make_unique
 * *new* [PR23421](https://github.com/mantidproject/mantid/pull/23421) - Fix overlaying peaks on instrument view
