@@ -18,8 +18,11 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23306](https://github.com/mantidproject/mantid/pull/23306) - Updated default settings in GUI
 * *new* [PR23313](https://github.com/mantidproject/mantid/pull/23313) - Elemental Analysis Plotting Wrapper/Interface
 * *new* [PR23314](https://github.com/mantidproject/mantid/pull/23314) - RROA now allows Qmin and Qmax to be specified separately
+* *new* [PR23343](https://github.com/mantidproject/mantid/pull/23343) - Add PDFgetN style normalization to SumSpectra
 * *new* [PR23361](https://github.com/mantidproject/mantid/pull/23361) - Improve reflectometry Q conversion algorithms' documentation
 * *new* [PR23362](https://github.com/mantidproject/mantid/pull/23362) - Updating Job Tree View
+* *new* [PR23387](https://github.com/mantidproject/mantid/pull/23387) - Run PyQt-based unit tests sequentially
 * *new* [PR23392](https://github.com/mantidproject/mantid/pull/23392) - IndirectILLReductionFWS doc test cleanup
 * *new* [PR23408](https://github.com/mantidproject/mantid/pull/23408) - Fix typo in PolarizationCorrectionWildes docs
 * *new* [PR23417](https://github.com/mantidproject/mantid/pull/23417) - Fix address sanitizer issues from doc tests
+* *new* [PR23421](https://github.com/mantidproject/mantid/pull/23421) - Fix overlaying peaks on instrument view
