@@ -21,6 +21,7 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23306](https://github.com/mantidproject/mantid/pull/23306) - Updated default settings in GUI
 * *new* [PR23313](https://github.com/mantidproject/mantid/pull/23313) - Elemental Analysis Plotting Wrapper/Interface
 * *new* [PR23314](https://github.com/mantidproject/mantid/pull/23314) - RROA now allows Qmin and Qmax to be specified separately
+* *new* [PR23337](https://github.com/mantidproject/mantid/pull/23337) - Fix CompareWorkspaces for weighted events.
 * *new* [PR23343](https://github.com/mantidproject/mantid/pull/23343) - Add PDFgetN style normalization to SumSpectra
 * *new* [PR23361](https://github.com/mantidproject/mantid/pull/23361) - Improve reflectometry Q conversion algorithms' documentation
 * *new* [PR23362](https://github.com/mantidproject/mantid/pull/23362) - Updating Job Tree View
