@@ -35,3 +35,4 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23421](https://github.com/mantidproject/mantid/pull/23421) - Fix overlaying peaks on instrument view
 * *new* [PR23432](https://github.com/mantidproject/mantid/pull/23432) - Fix Plot All in workbench with python 3
 * *new* [PR23434](https://github.com/mantidproject/mantid/pull/23434) - TOPAZ IDF for September 2018
+* *new* [PR23435](https://github.com/mantidproject/mantid/pull/23435) - Cncs geometry 2018 b2
