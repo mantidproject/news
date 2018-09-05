@@ -11,10 +11,13 @@ Detailed Merges for Sep 3 to 9, 2018
 ------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-09-04..2018-09-09)
 
+* *new* [PR22790](https://github.com/mantidproject/mantid/pull/22790) - CropToComponent to work for scanning workspaces
+* *new* [PR23075](https://github.com/mantidproject/mantid/pull/23075) - Save reflectometry algorithm
 * *new* [PR23217](https://github.com/mantidproject/mantid/pull/23217) - Check axis type before table transposition Refs #23155
 * *new* [PR23231](https://github.com/mantidproject/mantid/pull/23231) - Fix bad_cast in LoadLiveData
 * *new* [PR23246](https://github.com/mantidproject/mantid/pull/23246) - Updating naming in new backend
 * *new* [PR23299](https://github.com/mantidproject/mantid/pull/23299) - Add missing options to Calculate Monte Carlo Absorption
+* *new* [PR23303](https://github.com/mantidproject/mantid/pull/23303) - Project Recovery: Remove saving of groups
 * *new* [PR23306](https://github.com/mantidproject/mantid/pull/23306) - Updated default settings in GUI
 * *new* [PR23313](https://github.com/mantidproject/mantid/pull/23313) - Elemental Analysis Plotting Wrapper/Interface
 * *new* [PR23314](https://github.com/mantidproject/mantid/pull/23314) - RROA now allows Qmin and Qmax to be specified separately
@@ -29,3 +32,5 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23417](https://github.com/mantidproject/mantid/pull/23417) - Fix address sanitizer issues from doc tests
 * *new* [PR23419](https://github.com/mantidproject/mantid/pull/23419) - fix conda build problem with direct calls of std::make_unique
 * *new* [PR23421](https://github.com/mantidproject/mantid/pull/23421) - Fix overlaying peaks on instrument view
+* *new* [PR23432](https://github.com/mantidproject/mantid/pull/23432) - Fix Plot All in workbench with python 3
+* *new* [PR23434](https://github.com/mantidproject/mantid/pull/23434) - TOPAZ IDF for September 2018
