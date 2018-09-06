@@ -14,7 +14,9 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR22590](https://github.com/mantidproject/mantid/pull/22590) - Add basic models to ISIS Reflectometry Interface
 * *new* [PR22790](https://github.com/mantidproject/mantid/pull/22790) - CropToComponent to work for scanning workspaces
 * *new* [PR22829](https://github.com/mantidproject/mantid/pull/22829) - SumOverlappingTubes produce histogram data
+* *new* [PR22836](https://github.com/mantidproject/mantid/pull/22836) - TOFTOF GUI added testing automation
 * *new* [PR23075](https://github.com/mantidproject/mantid/pull/23075) - Save reflectometry algorithm
+* *new* [PR23157](https://github.com/mantidproject/mantid/pull/23157) - PSI muon data loader
 * *new* [PR23217](https://github.com/mantidproject/mantid/pull/23217) - Check axis type before table transposition Refs #23155
 * *new* [PR23231](https://github.com/mantidproject/mantid/pull/23231) - Fix bad_cast in LoadLiveData
 * *new* [PR23246](https://github.com/mantidproject/mantid/pull/23246) - Updating naming in new backend
@@ -32,6 +34,7 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23363](https://github.com/mantidproject/mantid/pull/23363) - Migrate MBC Training to Sphinx
 * *new* [PR23366](https://github.com/mantidproject/mantid/pull/23366) - Q1DWeighted to support asymmetric wedges
 * *new* [PR23387](https://github.com/mantidproject/mantid/pull/23387) - Run PyQt-based unit tests sequentially
+* *new* [PR23390](https://github.com/mantidproject/mantid/pull/23390) - Notify user of errorreport failure
 * *new* [PR23392](https://github.com/mantidproject/mantid/pull/23392) - IndirectILLReductionFWS doc test cleanup
 * *new* [PR23396](https://github.com/mantidproject/mantid/pull/23396) - Muon - Unit Test the Thread Model
 * *new* [PR23397](https://github.com/mantidproject/mantid/pull/23397) - Get selected spectrum number not combobox index
@@ -43,3 +46,5 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23432](https://github.com/mantidproject/mantid/pull/23432) - Fix Plot All in workbench with python 3
 * *new* [PR23434](https://github.com/mantidproject/mantid/pull/23434) - TOPAZ IDF for September 2018
 * *new* [PR23435](https://github.com/mantidproject/mantid/pull/23435) - Cncs geometry 2018 b2
+* *new* [PR23445](https://github.com/mantidproject/mantid/pull/23445) - Refactor SNAPReduce
+* *new* [PR23460](https://github.com/mantidproject/mantid/pull/23460) - topaz live listener
