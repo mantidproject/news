@@ -13,6 +13,7 @@ Detailed Merges for Sep 3 to 9, 2018
 
 * *new* [PR22590](https://github.com/mantidproject/mantid/pull/22590) - Add basic models to ISIS Reflectometry Interface
 * *new* [PR22790](https://github.com/mantidproject/mantid/pull/22790) - CropToComponent to work for scanning workspaces
+* *new* [PR22829](https://github.com/mantidproject/mantid/pull/22829) - SumOverlappingTubes produce histogram data
 * *new* [PR23075](https://github.com/mantidproject/mantid/pull/23075) - Save reflectometry algorithm
 * *new* [PR23217](https://github.com/mantidproject/mantid/pull/23217) - Check axis type before table transposition Refs #23155
 * *new* [PR23231](https://github.com/mantidproject/mantid/pull/23231) - Fix bad_cast in LoadLiveData
