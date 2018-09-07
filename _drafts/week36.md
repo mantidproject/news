@@ -41,6 +41,7 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23392](https://github.com/mantidproject/mantid/pull/23392) - IndirectILLReductionFWS doc test cleanup
 * *new* [PR23396](https://github.com/mantidproject/mantid/pull/23396) - Muon - Unit Test the Thread Model
 * *new* [PR23397](https://github.com/mantidproject/mantid/pull/23397) - Get selected spectrum number not combobox index
+* *new* [PR23398](https://github.com/mantidproject/mantid/pull/23398) - New algorithm DirectILLTubeBackground
 * *new* [PR23408](https://github.com/mantidproject/mantid/pull/23408) - Fix typo in PolarizationCorrectionWildes docs
 * *new* [PR23417](https://github.com/mantidproject/mantid/pull/23417) - Fix address sanitizer issues from doc tests
 * *new* [PR23419](https://github.com/mantidproject/mantid/pull/23419) - fix conda build problem with direct calls of std::make_unique
