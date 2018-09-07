@@ -17,6 +17,7 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR22836](https://github.com/mantidproject/mantid/pull/22836) - TOFTOF GUI added testing automation
 * *new* [PR23075](https://github.com/mantidproject/mantid/pull/23075) - Save reflectometry algorithm
 * *new* [PR23157](https://github.com/mantidproject/mantid/pull/23157) - PSI muon data loader
+* *new* [PR23178](https://github.com/mantidproject/mantid/pull/23178) - Added GDA saving to ISIS Powder Gem
 * *new* [PR23217](https://github.com/mantidproject/mantid/pull/23217) - Check axis type before table transposition Refs #23155
 * *new* [PR23231](https://github.com/mantidproject/mantid/pull/23231) - Fix bad_cast in LoadLiveData
 * *new* [PR23246](https://github.com/mantidproject/mantid/pull/23246) - Updating naming in new backend
@@ -29,10 +30,12 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23337](https://github.com/mantidproject/mantid/pull/23337) - Fix CompareWorkspaces for weighted events.
 * *new* [PR23341](https://github.com/mantidproject/mantid/pull/23341) - RROA Remove summing of transmission run workspaces
 * *new* [PR23343](https://github.com/mantidproject/mantid/pull/23343) - Add PDFgetN style normalization to SumSpectra
+* *new* [PR23354](https://github.com/mantidproject/mantid/pull/23354) - Allow default grouping option for TOSCA
 * *new* [PR23361](https://github.com/mantidproject/mantid/pull/23361) - Improve reflectometry Q conversion algorithms' documentation
 * *new* [PR23362](https://github.com/mantidproject/mantid/pull/23362) - Updating Job Tree View
 * *new* [PR23363](https://github.com/mantidproject/mantid/pull/23363) - Migrate MBC Training to Sphinx
 * *new* [PR23366](https://github.com/mantidproject/mantid/pull/23366) - Q1DWeighted to support asymmetric wedges
+* *new* [PR23377](https://github.com/mantidproject/mantid/pull/23377) - Apply flood workspace algorithm
 * *new* [PR23387](https://github.com/mantidproject/mantid/pull/23387) - Run PyQt-based unit tests sequentially
 * *new* [PR23390](https://github.com/mantidproject/mantid/pull/23390) - Notify user of errorreport failure
 * *new* [PR23392](https://github.com/mantidproject/mantid/pull/23392) - IndirectILLReductionFWS doc test cleanup
