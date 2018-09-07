@@ -21,6 +21,7 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23217](https://github.com/mantidproject/mantid/pull/23217) - Check axis type before table transposition Refs #23155
 * *new* [PR23231](https://github.com/mantidproject/mantid/pull/23231) - Fix bad_cast in LoadLiveData
 * *new* [PR23246](https://github.com/mantidproject/mantid/pull/23246) - Updating naming in new backend
+* *new* [PR23261](https://github.com/mantidproject/mantid/pull/23261) - Project Recovery: Use a counter to save workspaces instead of name
 * *new* [PR23299](https://github.com/mantidproject/mantid/pull/23299) - Add missing options to Calculate Monte Carlo Absorption
 * *new* [PR23302](https://github.com/mantidproject/mantid/pull/23302) - Allow the option for Python interfaces to save the MantidPlot project
 * *new* [PR23303](https://github.com/mantidproject/mantid/pull/23303) - Project Recovery: Remove saving of groups
@@ -42,6 +43,7 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23396](https://github.com/mantidproject/mantid/pull/23396) - Muon - Unit Test the Thread Model
 * *new* [PR23397](https://github.com/mantidproject/mantid/pull/23397) - Get selected spectrum number not combobox index
 * *new* [PR23398](https://github.com/mantidproject/mantid/pull/23398) - New algorithm DirectILLTubeBackground
+* *new* [PR23405](https://github.com/mantidproject/mantid/pull/23405) - Isolate Qwt-related parts of instrument view
 * *new* [PR23408](https://github.com/mantidproject/mantid/pull/23408) - Fix typo in PolarizationCorrectionWildes docs
 * *new* [PR23417](https://github.com/mantidproject/mantid/pull/23417) - Fix address sanitizer issues from doc tests
 * *new* [PR23419](https://github.com/mantidproject/mantid/pull/23419) - fix conda build problem with direct calls of std::make_unique
@@ -50,5 +52,7 @@ Detailed Merges for Sep 3 to 9, 2018
 * *new* [PR23432](https://github.com/mantidproject/mantid/pull/23432) - Fix Plot All in workbench with python 3
 * *new* [PR23434](https://github.com/mantidproject/mantid/pull/23434) - TOPAZ IDF for September 2018
 * *new* [PR23435](https://github.com/mantidproject/mantid/pull/23435) - Cncs geometry 2018 b2
+* *new* [PR23439](https://github.com/mantidproject/mantid/pull/23439) - Project Recovery: Now runs when you select no or fails
 * *new* [PR23445](https://github.com/mantidproject/mantid/pull/23445) - Refactor SNAPReduce
 * *new* [PR23460](https://github.com/mantidproject/mantid/pull/23460) - topaz live listener
+* *new* [PR23462](https://github.com/mantidproject/mantid/pull/23462) - 23158 auto strong peaks library
