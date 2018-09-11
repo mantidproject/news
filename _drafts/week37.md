@@ -17,4 +17,5 @@ Detailed Merges for Sep 10 to 16, 2018
 * *new* [PR23458](https://github.com/mantidproject/mantid/pull/23458) - Convert to CheckWorkspacesMatch
 * *new* [PR23459](https://github.com/mantidproject/mantid/pull/23459) - Fix TableWorkspace constructor in Python
 * *new* [PR23461](https://github.com/mantidproject/mantid/pull/23461) - Expose WorkspaceGroup Constructor and addWorkspace Method
+* *new* [PR23473](https://github.com/mantidproject/mantid/pull/23473) - Remove BASISReduction311
 * *new* [PR23475](https://github.com/mantidproject/mantid/pull/23475) - MR: Minor fix to MagnetismReflectometryReduction
