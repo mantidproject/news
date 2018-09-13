@@ -12,6 +12,7 @@ Detailed Merges for Sep 10 to 16, 2018
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-09-11..2018-09-16)
 
 * *new* [PR22842](https://github.com/mantidproject/mantid/pull/22842) - D2B feedback implementation
+* *new* [PR23240](https://github.com/mantidproject/mantid/pull/23240) - Updated ISIS Powder Polaris chopper mode error
 * *new* [PR23283](https://github.com/mantidproject/mantid/pull/23283) - ISIS Powder GEM added save all flag
 * *new* [PR23383](https://github.com/mantidproject/mantid/pull/23383) - Error in BASISDiffraction with powder sample
 * *new* [PR23416](https://github.com/mantidproject/mantid/pull/23416) - Elemental Analysis - Checkboxes
@@ -28,3 +29,4 @@ Detailed Merges for Sep 10 to 16, 2018
 * *new* [PR23475](https://github.com/mantidproject/mantid/pull/23475) - MR: Minor fix to MagnetismReflectometryReduction
 * *new* [PR23478](https://github.com/mantidproject/mantid/pull/23478) - General code cleanup
 * *new* [PR23491](https://github.com/mantidproject/mantid/pull/23491) - Remove unused includes, add needed includes
+* *new* [PR23495](https://github.com/mantidproject/mantid/pull/23495) - Fix incident energy output workspace in DirectILLCollectData
