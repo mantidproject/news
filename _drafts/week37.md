@@ -28,5 +28,6 @@ Detailed Merges for Sep 10 to 16, 2018
 * *new* [PR23473](https://github.com/mantidproject/mantid/pull/23473) - Remove BASISReduction311
 * *new* [PR23475](https://github.com/mantidproject/mantid/pull/23475) - MR: Minor fix to MagnetismReflectometryReduction
 * *new* [PR23478](https://github.com/mantidproject/mantid/pull/23478) - General code cleanup
+* *new* [PR23484](https://github.com/mantidproject/mantid/pull/23484) - Indirect - Iqt Monte Carlo Progress bar and option to skip error calculation
 * *new* [PR23491](https://github.com/mantidproject/mantid/pull/23491) - Remove unused includes, add needed includes
 * *new* [PR23495](https://github.com/mantidproject/mantid/pull/23495) - Fix incident energy output workspace in DirectILLCollectData
