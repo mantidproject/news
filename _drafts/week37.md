@@ -15,6 +15,7 @@ Detailed Merges for Sep 10 to 16, 2018
 * *new* [PR23240](https://github.com/mantidproject/mantid/pull/23240) - Updated ISIS Powder Polaris chopper mode error
 * *new* [PR23283](https://github.com/mantidproject/mantid/pull/23283) - ISIS Powder GEM added save all flag
 * *new* [PR23383](https://github.com/mantidproject/mantid/pull/23383) - Error in BASISDiffraction with powder sample
+* *new* [PR23404](https://github.com/mantidproject/mantid/pull/23404) - Fix reflectivity calculation and error propagation in Q grouping in ILL reflectometry reduction
 * *new* [PR23416](https://github.com/mantidproject/mantid/pull/23416) - Elemental Analysis - Checkboxes
 * *new* [PR23443](https://github.com/mantidproject/mantid/pull/23443) - Remove check for existence of recent files list on MantidPlot startup
 * *new* [PR23444](https://github.com/mantidproject/mantid/pull/23444) - Speeding up the system tests further
@@ -30,4 +31,6 @@ Detailed Merges for Sep 10 to 16, 2018
 * *new* [PR23478](https://github.com/mantidproject/mantid/pull/23478) - General code cleanup
 * *new* [PR23484](https://github.com/mantidproject/mantid/pull/23484) - Indirect - Iqt Monte Carlo Progress bar and option to skip error calculation
 * *new* [PR23491](https://github.com/mantidproject/mantid/pull/23491) - Remove unused includes, add needed includes
+* *new* [PR23492](https://github.com/mantidproject/mantid/pull/23492) - Elemental Analysis - Linking
 * *new* [PR23495](https://github.com/mantidproject/mantid/pull/23495) - Fix incident energy output workspace in DirectILLCollectData
+* *new* [PR23508](https://github.com/mantidproject/mantid/pull/23508) - Fix instrument default view
