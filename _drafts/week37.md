@@ -33,4 +33,7 @@ Detailed Merges for Sep 10 to 16, 2018
 * *new* [PR23491](https://github.com/mantidproject/mantid/pull/23491) - Remove unused includes, add needed includes
 * *new* [PR23492](https://github.com/mantidproject/mantid/pull/23492) - Elemental Analysis - Linking
 * *new* [PR23495](https://github.com/mantidproject/mantid/pull/23495) - Fix incident energy output workspace in DirectILLCollectData
+* *new* [PR23501](https://github.com/mantidproject/mantid/pull/23501) - HB2AReduce anode vs temperature
+* *new* [PR23502](https://github.com/mantidproject/mantid/pull/23502) - HB2AReduce allow exp to be omitted
 * *new* [PR23508](https://github.com/mantidproject/mantid/pull/23508) - Fix instrument default view
+* *new* [PR23512](https://github.com/mantidproject/mantid/pull/23512) - Fix validation bug in DGSPlanner
