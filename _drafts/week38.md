@@ -20,6 +20,7 @@ Detailed Merges for Sep 17 to 23, 2018
 * *new* [PR23381](https://github.com/mantidproject/mantid/pull/23381) - ALC interface bug
 * *new* [PR23427](https://github.com/mantidproject/mantid/pull/23427) - Acceptance tests for indirect inelastic interface
 * *new* [PR23466](https://github.com/mantidproject/mantid/pull/23466) - Fixing unscripted tests for project recovery
+* *new* [PR23479](https://github.com/mantidproject/mantid/pull/23479) - D2B add new IPF and IDF for cycle 183
 * *new* [PR23481](https://github.com/mantidproject/mantid/pull/23481) - Project Recovery: Add a call to project recovery from python to call a save
 * *new* [PR23500](https://github.com/mantidproject/mantid/pull/23500) - Elemental Analysis - Plotting Documentation
 * *new* [PR23507](https://github.com/mantidproject/mantid/pull/23507) - Update and rearrange IRIS and OSIRIS parameter files
@@ -27,3 +28,5 @@ Detailed Merges for Sep 17 to 23, 2018
 * *new* [PR23531](https://github.com/mantidproject/mantid/pull/23531) - Correct dev-docs for SystemTests with new scheduler
 * *new* [PR23533](https://github.com/mantidproject/mantid/pull/23533) - Fix segfault in MantidPlot
 * *new* [PR23537](https://github.com/mantidproject/mantid/pull/23537) - Fix some HB2AReduce bugs
+* *new* [PR23541](https://github.com/mantidproject/mantid/pull/23541) - Changes the behaviour of QCompleter to MatchContains on Qt5
+* *new* [PR23542](https://github.com/mantidproject/mantid/pull/23542) - Added PyCharm on Windows section to Workbench dev docs
