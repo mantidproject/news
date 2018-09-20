@@ -19,16 +19,20 @@ Detailed Merges for Sep 17 to 23, 2018
 * *new* [PR23293](https://github.com/mantidproject/mantid/pull/23293) - Add free text box to error reporter
 * *new* [PR23325](https://github.com/mantidproject/mantid/pull/23325) - Elemental Analysis - Plotting Interface Tests
 * *new* [PR23338](https://github.com/mantidproject/mantid/pull/23338) - Add progress bar
+* *new* [PR23353](https://github.com/mantidproject/mantid/pull/23353) - Expose the TSVSerialiser to python
 * *new* [PR23379](https://github.com/mantidproject/mantid/pull/23379) - D33 add a wrapper component for all banks
 * *new* [PR23381](https://github.com/mantidproject/mantid/pull/23381) - ALC interface bug
 * *new* [PR23382](https://github.com/mantidproject/mantid/pull/23382) - Add Hinting line edit to options column
 * *new* [PR23427](https://github.com/mantidproject/mantid/pull/23427) - Acceptance tests for indirect inelastic interface
 * *new* [PR23465](https://github.com/mantidproject/mantid/pull/23465) - Move Run button to allow disabling
 * *new* [PR23466](https://github.com/mantidproject/mantid/pull/23466) - Fixing unscripted tests for project recovery
+* *new* [PR23467](https://github.com/mantidproject/mantid/pull/23467) - Fix local links in dev-docs
 * *new* [PR23479](https://github.com/mantidproject/mantid/pull/23479) - D2B add new IPF and IDF for cycle 183
 * *new* [PR23481](https://github.com/mantidproject/mantid/pull/23481) - Project Recovery: Add a call to project recovery from python to call a save
+* *new* [PR23497](https://github.com/mantidproject/mantid/pull/23497) - Add support for masking workspaces to MaskDetectorsIf
 * *new* [PR23500](https://github.com/mantidproject/mantid/pull/23500) - Elemental Analysis - Plotting Documentation
 * *new* [PR23507](https://github.com/mantidproject/mantid/pull/23507) - Update and rearrange IRIS and OSIRIS parameter files
+* *new* [PR23514](https://github.com/mantidproject/mantid/pull/23514) - Reduce copies made in RebinToWorkspace
 * *new* [PR23522](https://github.com/mantidproject/mantid/pull/23522) - ISIS Powder Pearl Seperated spline coefficient for long_mode
 * *new* [PR23526](https://github.com/mantidproject/mantid/pull/23526) - Add s1 offset option to ConvertWANDSCDtoQ
 * *new* [PR23531](https://github.com/mantidproject/mantid/pull/23531) - Correct dev-docs for SystemTests with new scheduler
@@ -40,3 +44,4 @@ Detailed Merges for Sep 17 to 23, 2018
 * *new* [PR23551](https://github.com/mantidproject/mantid/pull/23551) - Indirect - Read Monte Carlo defaults from IPF's in Corrections
 * *new* [PR23553](https://github.com/mantidproject/mantid/pull/23553) - Indirect - Display error message to catch Plot Current Preview exception
 * *new* [PR23556](https://github.com/mantidproject/mantid/pull/23556) - Avoid documentation warnings
+* *new* [PR23573](https://github.com/mantidproject/mantid/pull/23573) - Move back to correct algorithm
