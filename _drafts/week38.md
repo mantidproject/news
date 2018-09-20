@@ -45,3 +45,4 @@ Detailed Merges for Sep 17 to 23, 2018
 * *new* [PR23553](https://github.com/mantidproject/mantid/pull/23553) - Indirect - Display error message to catch Plot Current Preview exception
 * *new* [PR23556](https://github.com/mantidproject/mantid/pull/23556) - Avoid documentation warnings
 * *new* [PR23573](https://github.com/mantidproject/mantid/pull/23573) - Move back to correct algorithm
+* *new* [PR23577](https://github.com/mantidproject/mantid/pull/23577) - MR: add option to overwrite DANGLE0 and DIRPIX
