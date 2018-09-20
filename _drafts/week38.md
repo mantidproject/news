@@ -29,6 +29,7 @@ Detailed Merges for Sep 17 to 23, 2018
 * *new* [PR23481](https://github.com/mantidproject/mantid/pull/23481) - Project Recovery: Add a call to project recovery from python to call a save
 * *new* [PR23500](https://github.com/mantidproject/mantid/pull/23500) - Elemental Analysis - Plotting Documentation
 * *new* [PR23507](https://github.com/mantidproject/mantid/pull/23507) - Update and rearrange IRIS and OSIRIS parameter files
+* *new* [PR23522](https://github.com/mantidproject/mantid/pull/23522) - ISIS Powder Pearl Seperated spline coefficient for long_mode
 * *new* [PR23526](https://github.com/mantidproject/mantid/pull/23526) - Add s1 offset option to ConvertWANDSCDtoQ
 * *new* [PR23531](https://github.com/mantidproject/mantid/pull/23531) - Correct dev-docs for SystemTests with new scheduler
 * *new* [PR23533](https://github.com/mantidproject/mantid/pull/23533) - Fix segfault in MantidPlot
