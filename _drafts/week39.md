@@ -17,3 +17,4 @@ Detailed Merges for Sep 24 to 30, 2018
 * *new* [PR23571](https://github.com/mantidproject/mantid/pull/23571) - InstrumentMaskTab Exception Fix
 * *new* [PR23581](https://github.com/mantidproject/mantid/pull/23581) - docs: typo fixes
 * *new* [PR23589](https://github.com/mantidproject/mantid/pull/23589) - Fix for ISISPowder_Gem_Focus_Test
+* *new* [PR23601](https://github.com/mantidproject/mantid/pull/23601) - Fix remaining failing system tests
