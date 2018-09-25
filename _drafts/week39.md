@@ -19,3 +19,4 @@ Detailed Merges for Sep 24 to 30, 2018
 * *new* [PR23589](https://github.com/mantidproject/mantid/pull/23589) - Fix for ISISPowder_Gem_Focus_Test
 * *new* [PR23594](https://github.com/mantidproject/mantid/pull/23594) - Create a separate Python/C helper library to remove code duplication
 * *new* [PR23601](https://github.com/mantidproject/mantid/pull/23601) - Fix remaining failing system tests
+* *new* [PR23605](https://github.com/mantidproject/mantid/pull/23605) - output intensities should not change in StatisticsOfPeaksWorkspaces
