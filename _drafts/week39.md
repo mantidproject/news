@@ -20,3 +20,4 @@ Detailed Merges for Sep 24 to 30, 2018
 * *new* [PR23594](https://github.com/mantidproject/mantid/pull/23594) - Create a separate Python/C helper library to remove code duplication
 * *new* [PR23601](https://github.com/mantidproject/mantid/pull/23601) - Fix remaining failing system tests
 * *new* [PR23605](https://github.com/mantidproject/mantid/pull/23605) - output intensities should not change in StatisticsOfPeaksWorkspaces
+* *new* [PR23610](https://github.com/mantidproject/mantid/pull/23610) - Fix sip generation rules for MantidPlot
