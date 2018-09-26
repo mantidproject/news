@@ -28,3 +28,4 @@ Detailed Merges for Sep 24 to 30, 2018
 * *new* [PR23611](https://github.com/mantidproject/mantid/pull/23611) - Fix errors and warnings from llvm 7.0
 * *new* [PR23615](https://github.com/mantidproject/mantid/pull/23615) - Ignore syntax errors on startup
 * *new* [PR23626](https://github.com/mantidproject/mantid/pull/23626) - Remove HFIR Powder Diffraction Reduction Interface
+* *new* [PR23627](https://github.com/mantidproject/mantid/pull/23627) - Mantidplot/ Testing/ buildconfig/ misc. typos
