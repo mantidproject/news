@@ -13,6 +13,7 @@ Detailed Merges for Sep 24 to 30, 2018
 
 * *new* [PR22558](https://github.com/mantidproject/mantid/pull/22558) - Add adjustments to reconstructed data in Maxent
 * *new* [PR23422](https://github.com/mantidproject/mantid/pull/23422) - Update DirectILL documentation
+* *new* [PR23503](https://github.com/mantidproject/mantid/pull/23503) - Project Recovery: Handle multiple instances of mantid properly
 * *new* [PR23511](https://github.com/mantidproject/mantid/pull/23511) - Failing to find added files
 * *new* [PR23530](https://github.com/mantidproject/mantid/pull/23530) - D2B normalisation fix
 * *new* [PR23534](https://github.com/mantidproject/mantid/pull/23534) - Display all valid file extensions first
@@ -26,6 +27,8 @@ Detailed Merges for Sep 24 to 30, 2018
 * *new* [PR23605](https://github.com/mantidproject/mantid/pull/23605) - output intensities should not change in StatisticsOfPeaksWorkspaces
 * *new* [PR23610](https://github.com/mantidproject/mantid/pull/23610) - Fix sip generation rules for MantidPlot
 * *new* [PR23611](https://github.com/mantidproject/mantid/pull/23611) - Fix errors and warnings from llvm 7.0
+* *new* [PR23613](https://github.com/mantidproject/mantid/pull/23613) - Add new algorithm MatchSpectra
 * *new* [PR23615](https://github.com/mantidproject/mantid/pull/23615) - Ignore syntax errors on startup
 * *new* [PR23626](https://github.com/mantidproject/mantid/pull/23626) - Remove HFIR Powder Diffraction Reduction Interface
 * *new* [PR23627](https://github.com/mantidproject/mantid/pull/23627) - Mantidplot/ Testing/ buildconfig/ misc. typos
+* *new* [PR23637](https://github.com/mantidproject/mantid/pull/23637) - Force progress messages to be str
