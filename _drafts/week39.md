@@ -13,12 +13,14 @@ Detailed Merges for Sep 24 to 30, 2018
 
 * *new* [PR22558](https://github.com/mantidproject/mantid/pull/22558) - Add adjustments to reconstructed data in Maxent
 * *new* [PR23422](https://github.com/mantidproject/mantid/pull/23422) - Update DirectILL documentation
+* *new* [PR23441](https://github.com/mantidproject/mantid/pull/23441) - Disable Plot Result for MSD and F(Q) Fit for one spectra
 * *new* [PR23503](https://github.com/mantidproject/mantid/pull/23503) - Project Recovery: Handle multiple instances of mantid properly
 * *new* [PR23511](https://github.com/mantidproject/mantid/pull/23511) - Failing to find added files
 * *new* [PR23530](https://github.com/mantidproject/mantid/pull/23530) - D2B normalisation fix
 * *new* [PR23534](https://github.com/mantidproject/mantid/pull/23534) - Display all valid file extensions first
 * *new* [PR23566](https://github.com/mantidproject/mantid/pull/23566) - Sans table change feature branch
 * *new* [PR23571](https://github.com/mantidproject/mantid/pull/23571) - InstrumentMaskTab Exception Fix
+* *new* [PR23578](https://github.com/mantidproject/mantid/pull/23578) - New algorithm to slice event workspaces for ISIS reflectometry
 * *new* [PR23581](https://github.com/mantidproject/mantid/pull/23581) - docs: typo fixes
 * *new* [PR23589](https://github.com/mantidproject/mantid/pull/23589) - Fix for ISISPowder_Gem_Focus_Test
 * *new* [PR23594](https://github.com/mantidproject/mantid/pull/23594) - Create a separate Python/C helper library to remove code duplication
@@ -33,3 +35,4 @@ Detailed Merges for Sep 24 to 30, 2018
 * *new* [PR23626](https://github.com/mantidproject/mantid/pull/23626) - Remove HFIR Powder Diffraction Reduction Interface
 * *new* [PR23627](https://github.com/mantidproject/mantid/pull/23627) - Mantidplot/ Testing/ buildconfig/ misc. typos
 * *new* [PR23637](https://github.com/mantidproject/mantid/pull/23637) - Force progress messages to be str
+* *new* [PR23641](https://github.com/mantidproject/mantid/pull/23641) - Modified Systemtests to show more failures
