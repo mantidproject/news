@@ -19,6 +19,7 @@ Detailed Merges for Sep 24 to 30, 2018
 * *new* [PR23530](https://github.com/mantidproject/mantid/pull/23530) - D2B normalisation fix
 * *new* [PR23534](https://github.com/mantidproject/mantid/pull/23534) - Display all valid file extensions first
 * *new* [PR23566](https://github.com/mantidproject/mantid/pull/23566) - Sans table change feature branch
+* *new* [PR23568](https://github.com/mantidproject/mantid/pull/23568) - Use local static variable for singleton instance
 * *new* [PR23571](https://github.com/mantidproject/mantid/pull/23571) - InstrumentMaskTab Exception Fix
 * *new* [PR23578](https://github.com/mantidproject/mantid/pull/23578) - New algorithm to slice event workspaces for ISIS reflectometry
 * *new* [PR23581](https://github.com/mantidproject/mantid/pull/23581) - docs: typo fixes
@@ -35,4 +36,5 @@ Detailed Merges for Sep 24 to 30, 2018
 * *new* [PR23626](https://github.com/mantidproject/mantid/pull/23626) - Remove HFIR Powder Diffraction Reduction Interface
 * *new* [PR23627](https://github.com/mantidproject/mantid/pull/23627) - Mantidplot/ Testing/ buildconfig/ misc. typos
 * *new* [PR23637](https://github.com/mantidproject/mantid/pull/23637) - Force progress messages to be str
+* *new* [PR23639](https://github.com/mantidproject/mantid/pull/23639) - Indirect - Fix the default detector grouping option
 * *new* [PR23641](https://github.com/mantidproject/mantid/pull/23641) - Modified Systemtests to show more failures
