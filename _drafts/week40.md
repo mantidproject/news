@@ -11,6 +11,7 @@ Detailed Merges for Oct 1 to 7, 2018
 ------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-10-02..2018-10-07)
 
+* *new* [PR23186](https://github.com/mantidproject/mantid/pull/23186) - Solved fit constraints boundary problem Re #23089
 * *new* [PR23485](https://github.com/mantidproject/mantid/pull/23485) - LoadGudrunOutput improvements
 * *new* [PR23565](https://github.com/mantidproject/mantid/pull/23565) - Project Recovery: Add Unit Tests
 * *new* [PR23567](https://github.com/mantidproject/mantid/pull/23567) - Apply ties in correct order
@@ -19,4 +20,7 @@ Detailed Merges for Oct 1 to 7, 2018
 * *new* [PR23618](https://github.com/mantidproject/mantid/pull/23618) - Quiet down DirectILLDiagnostics
 * *new* [PR23661](https://github.com/mantidproject/mantid/pull/23661) - LiveData Do not rebin event data unless not already binned
 * *new* [PR23674](https://github.com/mantidproject/mantid/pull/23674) - Peak integration improvements
+* *new* [PR23691](https://github.com/mantidproject/mantid/pull/23691) - Re #23690 Fixed issue with overwriting focus results
 * *new* [PR23696](https://github.com/mantidproject/mantid/pull/23696) - enable conda build using anaconda gcc
+* *new* [PR23698](https://github.com/mantidproject/mantid/pull/23698) - Export geometry doc fixes
+* *new* [PR23704](https://github.com/mantidproject/mantid/pull/23704) - Turn off logging for Project Serialiser when saving instrument window
