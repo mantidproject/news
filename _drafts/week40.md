@@ -12,7 +12,10 @@ Detailed Merges for Oct 1 to 7, 2018
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-10-02..2018-10-07)
 
 * *new* [PR23485](https://github.com/mantidproject/mantid/pull/23485) - LoadGudrunOutput improvements
+* *new* [PR23565](https://github.com/mantidproject/mantid/pull/23565) - Project Recovery: Add Unit Tests
 * *new* [PR23567](https://github.com/mantidproject/mantid/pull/23567) - Apply ties in correct order
 * *new* [PR23569](https://github.com/mantidproject/mantid/pull/23569) - Common naming across algorithms
 * *new* [PR23604](https://github.com/mantidproject/mantid/pull/23604) - Fix workspace property handling in MaskDetectors
+* *new* [PR23661](https://github.com/mantidproject/mantid/pull/23661) - LiveData Do not rebin event data unless not already binned
 * *new* [PR23674](https://github.com/mantidproject/mantid/pull/23674) - Peak integration improvements
+* *new* [PR23696](https://github.com/mantidproject/mantid/pull/23696) - enable conda build using anaconda gcc
