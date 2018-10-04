@@ -27,3 +27,4 @@ Detailed Merges for Oct 1 to 7, 2018
 * *new* [PR23698](https://github.com/mantidproject/mantid/pull/23698) - Export geometry doc fixes
 * *new* [PR23704](https://github.com/mantidproject/mantid/pull/23704) - Turn off logging for Project Serialiser when saving instrument window
 * *new* [PR23705](https://github.com/mantidproject/mantid/pull/23705) - Peak numbers unique when peak workspaces combined
+* *new* [PR23714](https://github.com/mantidproject/mantid/pull/23714) - Fix DetectorInfo and SpectrumInfo iterators
