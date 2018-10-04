@@ -20,11 +20,15 @@ Detailed Merges for Oct 1 to 7, 2018
 * *new* [PR23604](https://github.com/mantidproject/mantid/pull/23604) - Fix workspace property handling in MaskDetectors
 * *new* [PR23618](https://github.com/mantidproject/mantid/pull/23618) - Quiet down DirectILLDiagnostics
 * *new* [PR23631](https://github.com/mantidproject/mantid/pull/23631) - PDLoadCharacterizations throw exception when there is unmatch column count
+* *new* [PR23636](https://github.com/mantidproject/mantid/pull/23636) - Add a helper library to enable plotting with matplotlib from C++
 * *new* [PR23661](https://github.com/mantidproject/mantid/pull/23661) - LiveData Do not rebin event data unless not already binned
+* *new* [PR23668](https://github.com/mantidproject/mantid/pull/23668) - Separate included files for Qt4 and Qt5 libraries
 * *new* [PR23674](https://github.com/mantidproject/mantid/pull/23674) - Peak integration improvements
+* *new* [PR23689](https://github.com/mantidproject/mantid/pull/23689) - Indirect - Disable output buttons during a fit
 * *new* [PR23691](https://github.com/mantidproject/mantid/pull/23691) - Re #23690 Fixed issue with overwriting focus results
 * *new* [PR23696](https://github.com/mantidproject/mantid/pull/23696) - enable conda build using anaconda gcc
 * *new* [PR23698](https://github.com/mantidproject/mantid/pull/23698) - Export geometry doc fixes
 * *new* [PR23704](https://github.com/mantidproject/mantid/pull/23704) - Turn off logging for Project Serialiser when saving instrument window
 * *new* [PR23705](https://github.com/mantidproject/mantid/pull/23705) - Peak numbers unique when peak workspaces combined
+* *new* [PR23712](https://github.com/mantidproject/mantid/pull/23712) - Duplicate print statements to the console
 * *new* [PR23714](https://github.com/mantidproject/mantid/pull/23714) - Fix DetectorInfo and SpectrumInfo iterators
