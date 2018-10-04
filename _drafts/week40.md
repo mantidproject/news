@@ -28,7 +28,9 @@ Detailed Merges for Oct 1 to 7, 2018
 * *new* [PR23691](https://github.com/mantidproject/mantid/pull/23691) - Re #23690 Fixed issue with overwriting focus results
 * *new* [PR23696](https://github.com/mantidproject/mantid/pull/23696) - enable conda build using anaconda gcc
 * *new* [PR23698](https://github.com/mantidproject/mantid/pull/23698) - Export geometry doc fixes
+* *new* [PR23702](https://github.com/mantidproject/mantid/pull/23702) - Indirect - MSD Fit - Add option to choose which output parameter to plot
 * *new* [PR23704](https://github.com/mantidproject/mantid/pull/23704) - Turn off logging for Project Serialiser when saving instrument window
 * *new* [PR23705](https://github.com/mantidproject/mantid/pull/23705) - Peak numbers unique when peak workspaces combined
 * *new* [PR23712](https://github.com/mantidproject/mantid/pull/23712) - Duplicate print statements to the console
 * *new* [PR23714](https://github.com/mantidproject/mantid/pull/23714) - Fix DetectorInfo and SpectrumInfo iterators
+* *new* [PR23720](https://github.com/mantidproject/mantid/pull/23720) - Remove extra banks from 2014_08_01 MANDI IDF
