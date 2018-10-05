@@ -35,3 +35,4 @@ Detailed Merges for Oct 1 to 7, 2018
 * *new* [PR23712](https://github.com/mantidproject/mantid/pull/23712) - Duplicate print statements to the console
 * *new* [PR23714](https://github.com/mantidproject/mantid/pull/23714) - Fix DetectorInfo and SpectrumInfo iterators
 * *new* [PR23720](https://github.com/mantidproject/mantid/pull/23720) - Remove extra banks from 2014_08_01 MANDI IDF
+* *new* [PR23729](https://github.com/mantidproject/mantid/pull/23729) - Add missing UI files to workbench CMakeLists
