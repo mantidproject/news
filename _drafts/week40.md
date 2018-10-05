@@ -16,8 +16,11 @@ Detailed Merges for Oct 1 to 7, 2018
 * *new* [PR23565](https://github.com/mantidproject/mantid/pull/23565) - Project Recovery: Add Unit Tests
 * *new* [PR23567](https://github.com/mantidproject/mantid/pull/23567) - Apply ties in correct order
 * *new* [PR23569](https://github.com/mantidproject/mantid/pull/23569) - Common naming across algorithms
+* *new* [PR23586](https://github.com/mantidproject/mantid/pull/23586) - Fix crash when masking nonexistent component
+* *new* [PR23588](https://github.com/mantidproject/mantid/pull/23588) - Removed setting of total phi mask
 * *new* [PR23591](https://github.com/mantidproject/mantid/pull/23591) - refactor EQSANSTofStructure
 * *new* [PR23604](https://github.com/mantidproject/mantid/pull/23604) - Fix workspace property handling in MaskDetectors
+* *new* [PR23616](https://github.com/mantidproject/mantid/pull/23616) - Fix intradocumentation links
 * *new* [PR23618](https://github.com/mantidproject/mantid/pull/23618) - Quiet down DirectILLDiagnostics
 * *new* [PR23631](https://github.com/mantidproject/mantid/pull/23631) - PDLoadCharacterizations throw exception when there is unmatch column count
 * *new* [PR23636](https://github.com/mantidproject/mantid/pull/23636) - Add a helper library to enable plotting with matplotlib from C++
