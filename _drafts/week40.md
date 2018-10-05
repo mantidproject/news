@@ -26,6 +26,7 @@ Detailed Merges for Oct 1 to 7, 2018
 * *new* [PR23674](https://github.com/mantidproject/mantid/pull/23674) - Peak integration improvements
 * *new* [PR23689](https://github.com/mantidproject/mantid/pull/23689) - Indirect - Disable output buttons during a fit
 * *new* [PR23691](https://github.com/mantidproject/mantid/pull/23691) - Re #23690 Fixed issue with overwriting focus results
+* *new* [PR23693](https://github.com/mantidproject/mantid/pull/23693) - Update file headers, new copyright details
 * *new* [PR23696](https://github.com/mantidproject/mantid/pull/23696) - enable conda build using anaconda gcc
 * *new* [PR23698](https://github.com/mantidproject/mantid/pull/23698) - Export geometry doc fixes
 * *new* [PR23702](https://github.com/mantidproject/mantid/pull/23702) - Indirect - MSD Fit - Add option to choose which output parameter to plot
