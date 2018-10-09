@@ -17,6 +17,7 @@ Detailed Merges for Oct 8 to 14, 2018
 * *new* [PR23598](https://github.com/mantidproject/mantid/pull/23598) - Mask zero counting detectors in DirectILLIntegrateVanadium
 * *new* [PR23599](https://github.com/mantidproject/mantid/pull/23599) - Fix bug with saving WISH data to Isaw format
 * *new* [PR23612](https://github.com/mantidproject/mantid/pull/23612) - Added ability to read binary .stl files for mesh objects.
+* *new* [PR23663](https://github.com/mantidproject/mantid/pull/23663) - Changed step values to update correctly
 * *new* [PR23710](https://github.com/mantidproject/mantid/pull/23710) - Fix memory leak in clone to numpy policy
 * *new* [PR23733](https://github.com/mantidproject/mantid/pull/23733) - Le bail fit concepts
 * *new* [PR23740](https://github.com/mantidproject/mantid/pull/23740) - Disable tests on macOS until a solution can be found
