@@ -15,6 +15,7 @@ Detailed Merges for Oct 8 to 14, 2018
 * *new* [PR23529](https://github.com/mantidproject/mantid/pull/23529) - Add flood correction to RROA
 * *new* [PR23532](https://github.com/mantidproject/mantid/pull/23532) - Implementation of Voxels in Mantid as GridDetector
 * *new* [PR23572](https://github.com/mantidproject/mantid/pull/23572) - Add suffix to Mantid shortcuts and package on Windows, remove mantidpython shortcut
+* *new* [PR23583](https://github.com/mantidproject/mantid/pull/23583) - Adding plotting options to the muon plotting
 * *new* [PR23598](https://github.com/mantidproject/mantid/pull/23598) - Mask zero counting detectors in DirectILLIntegrateVanadium
 * *new* [PR23599](https://github.com/mantidproject/mantid/pull/23599) - Fix bug with saving WISH data to Isaw format
 * *new* [PR23612](https://github.com/mantidproject/mantid/pull/23612) - Added ability to read binary .stl files for mesh objects.
