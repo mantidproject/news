@@ -12,6 +12,7 @@ Detailed Merges for Oct 8 to 14, 2018
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-10-09..2018-10-14)
 
 * *new* [PR23480](https://github.com/mantidproject/mantid/pull/23480) - IDA fit browser not updating
+* *new* [PR23529](https://github.com/mantidproject/mantid/pull/23529) - Add flood correction to RROA
 * *new* [PR23532](https://github.com/mantidproject/mantid/pull/23532) - Implementation of Voxels in Mantid as GridDetector
 * *new* [PR23572](https://github.com/mantidproject/mantid/pull/23572) - Add suffix to Mantid shortcuts and package on Windows, remove mantidpython shortcut
 * *new* [PR23598](https://github.com/mantidproject/mantid/pull/23598) - Mask zero counting detectors in DirectILLIntegrateVanadium
@@ -19,7 +20,9 @@ Detailed Merges for Oct 8 to 14, 2018
 * *new* [PR23612](https://github.com/mantidproject/mantid/pull/23612) - Added ability to read binary .stl files for mesh objects.
 * *new* [PR23663](https://github.com/mantidproject/mantid/pull/23663) - Changed step values to update correctly
 * *new* [PR23665](https://github.com/mantidproject/mantid/pull/23665) - Made detector names consistent
+* *new* [PR23707](https://github.com/mantidproject/mantid/pull/23707) - Save message window log level in user settings
 * *new* [PR23710](https://github.com/mantidproject/mantid/pull/23710) - Fix memory leak in clone to numpy policy
+* *new* [PR23716](https://github.com/mantidproject/mantid/pull/23716) - Updated SolidAngle so that it would be correct when using StartWorkspaceIndex
 * *new* [PR23733](https://github.com/mantidproject/mantid/pull/23733) - Le bail fit concepts
 * *new* [PR23740](https://github.com/mantidproject/mantid/pull/23740) - Disable tests on macOS until a solution can be found
 * *new* [PR23743](https://github.com/mantidproject/mantid/pull/23743) - Allow SANS systemtest to be run on Ubuntu
