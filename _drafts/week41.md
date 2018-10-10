@@ -27,4 +27,5 @@ Detailed Merges for Oct 8 to 14, 2018
 * *new* [PR23733](https://github.com/mantidproject/mantid/pull/23733) - Le bail fit concepts
 * *new* [PR23740](https://github.com/mantidproject/mantid/pull/23740) - Disable tests on macOS until a solution can be found
 * *new* [PR23743](https://github.com/mantidproject/mantid/pull/23743) - Allow SANS systemtest to be run on Ubuntu
+* *new* [PR23761](https://github.com/mantidproject/mantid/pull/23761) - Add custom interfaces to workbench menus
 * *new* [PR23763](https://github.com/mantidproject/mantid/pull/23763) - Fixed muon thread model so it no longer crashes
