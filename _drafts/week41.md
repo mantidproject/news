@@ -25,6 +25,7 @@ Detailed Merges for Oct 8 to 14, 2018
 * *new* [PR23710](https://github.com/mantidproject/mantid/pull/23710) - Fix memory leak in clone to numpy policy
 * *new* [PR23716](https://github.com/mantidproject/mantid/pull/23716) - Updated SolidAngle so that it would be correct when using StartWorkspaceIndex
 * *new* [PR23733](https://github.com/mantidproject/mantid/pull/23733) - Le bail fit concepts
+* *new* [PR23737](https://github.com/mantidproject/mantid/pull/23737) - Project Recovery: Add lock file whilst saving
 * *new* [PR23740](https://github.com/mantidproject/mantid/pull/23740) - Disable tests on macOS until a solution can be found
 * *new* [PR23743](https://github.com/mantidproject/mantid/pull/23743) - Allow SANS systemtest to be run on Ubuntu
 * *new* [PR23761](https://github.com/mantidproject/mantid/pull/23761) - Add custom interfaces to workbench menus
