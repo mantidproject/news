@@ -12,6 +12,7 @@ Detailed Merges for Oct 8 to 14, 2018
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-10-09..2018-10-14)
 
 * *new* [PR23480](https://github.com/mantidproject/mantid/pull/23480) - IDA fit browser not updating
+* *new* [PR23516](https://github.com/mantidproject/mantid/pull/23516) - IndirectFitData Unit tests
 * *new* [PR23529](https://github.com/mantidproject/mantid/pull/23529) - Add flood correction to RROA
 * *new* [PR23532](https://github.com/mantidproject/mantid/pull/23532) - Implementation of Voxels in Mantid as GridDetector
 * *new* [PR23572](https://github.com/mantidproject/mantid/pull/23572) - Add suffix to Mantid shortcuts and package on Windows, remove mantidpython shortcut
@@ -30,6 +31,7 @@ Detailed Merges for Oct 8 to 14, 2018
 * *new* [PR23737](https://github.com/mantidproject/mantid/pull/23737) - Project Recovery: Add lock file whilst saving
 * *new* [PR23740](https://github.com/mantidproject/mantid/pull/23740) - Disable tests on macOS until a solution can be found
 * *new* [PR23743](https://github.com/mantidproject/mantid/pull/23743) - Allow SANS systemtest to be run on Ubuntu
+* *new* [PR23750](https://github.com/mantidproject/mantid/pull/23750) - Refactor install dependencies for linux
 * *new* [PR23754](https://github.com/mantidproject/mantid/pull/23754) - Fix class descriptions in Python API documentation
 * *new* [PR23761](https://github.com/mantidproject/mantid/pull/23761) - Add custom interfaces to workbench menus
 * *new* [PR23763](https://github.com/mantidproject/mantid/pull/23763) - Fixed muon thread model so it no longer crashes
