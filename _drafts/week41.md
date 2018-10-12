@@ -24,6 +24,7 @@ Detailed Merges for Oct 8 to 14, 2018
 * *new* [PR23665](https://github.com/mantidproject/mantid/pull/23665) - Made detector names consistent
 * *new* [PR23675](https://github.com/mantidproject/mantid/pull/23675) - Expose setConstraintPenalty to python
 * *new* [PR23707](https://github.com/mantidproject/mantid/pull/23707) - Save message window log level in user settings
+* *new* [PR23709](https://github.com/mantidproject/mantid/pull/23709) - Add SampleLogs widget to workbench
 * *new* [PR23710](https://github.com/mantidproject/mantid/pull/23710) - Fix memory leak in clone to numpy policy
 * *new* [PR23716](https://github.com/mantidproject/mantid/pull/23716) - Updated SolidAngle so that it would be correct when using StartWorkspaceIndex
 * *new* [PR23727](https://github.com/mantidproject/mantid/pull/23727) - Indirect - Move the run button in Data Corrections and disable when running
