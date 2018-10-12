@@ -36,3 +36,4 @@ Detailed Merges for Oct 8 to 14, 2018
 * *new* [PR23754](https://github.com/mantidproject/mantid/pull/23754) - Fix class descriptions in Python API documentation
 * *new* [PR23761](https://github.com/mantidproject/mantid/pull/23761) - Add custom interfaces to workbench menus
 * *new* [PR23763](https://github.com/mantidproject/mantid/pull/23763) - Fixed muon thread model so it no longer crashes
+* *new* [PR23787](https://github.com/mantidproject/mantid/pull/23787) - Add unicode support to loggers in py2
