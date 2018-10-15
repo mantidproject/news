@@ -11,3 +11,5 @@ Detailed Merges for Oct 15 to 21, 2018
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-10-16..2018-10-21)
 
+* *new* [PR23785](https://github.com/mantidproject/mantid/pull/23785) - option for renumbering in SaveIsawPeaks
+* *new* [PR23798](https://github.com/mantidproject/mantid/pull/23798) - Speedup DateAndTime construction
