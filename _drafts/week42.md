@@ -20,6 +20,7 @@ Detailed Merges for Oct 15 to 21, 2018
 * *new* [PR23677](https://github.com/mantidproject/mantid/pull/23677) - Muon - Core Code; Modifications for New Algorithms
 * *new* [PR23695](https://github.com/mantidproject/mantid/pull/23695) - Fix bug when reducing a series of files
 * *new* [PR23715](https://github.com/mantidproject/mantid/pull/23715) - Extract computations from ReflectometryMomentumTransfer to a separate algorithm
+* *new* [PR23732](https://github.com/mantidproject/mantid/pull/23732) - Update TOF PD calibration documentation
 * *new* [PR23778](https://github.com/mantidproject/mantid/pull/23778) - Modernize event filter gui
 * *new* [PR23785](https://github.com/mantidproject/mantid/pull/23785) - option for renumbering in SaveIsawPeaks
 * *new* [PR23788](https://github.com/mantidproject/mantid/pull/23788) - Change figure creation in SampleLogs
@@ -38,3 +39,4 @@ Detailed Merges for Oct 15 to 21, 2018
 * *new* [PR23841](https://github.com/mantidproject/mantid/pull/23841) - Set constraintPenaltyFactor in IntegratePeaksProfileFitting
 * *new* [PR23842](https://github.com/mantidproject/mantid/pull/23842) - Fix error running matplotlib containing interfaces in workbench
 * *new* [PR23843](https://github.com/mantidproject/mantid/pull/23843) - No duplicate peak numbers
+* *new* [PR23856](https://github.com/mantidproject/mantid/pull/23856) - Add unicode support to UsageService in python
