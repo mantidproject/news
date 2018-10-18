@@ -16,6 +16,7 @@ Detailed Merges for Oct 15 to 21, 2018
 * *new* [PR23608](https://github.com/mantidproject/mantid/pull/23608) - SpectrumDetectorMapping constructor
 * *new* [PR23625](https://github.com/mantidproject/mantid/pull/23625) - Pulled STL file code out of LoadSampleShape
 * *new* [PR23646](https://github.com/mantidproject/mantid/pull/23646) - Stitch1DMany: stitching period data for group workspaces
+* *new* [PR23649](https://github.com/mantidproject/mantid/pull/23649) - IndirectFittingModel Unit tests
 * *new* [PR23677](https://github.com/mantidproject/mantid/pull/23677) - Muon - Core Code; Modifications for New Algorithms
 * *new* [PR23695](https://github.com/mantidproject/mantid/pull/23695) - Fix bug when reducing a series of files
 * *new* [PR23715](https://github.com/mantidproject/mantid/pull/23715) - Extract computations from ReflectometryMomentumTransfer to a separate algorithm
