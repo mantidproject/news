@@ -13,6 +13,7 @@ Detailed Merges for Oct 15 to 21, 2018
 
 * *new* [PR22635](https://github.com/mantidproject/mantid/pull/22635) - ONCat Integration
 * *new* [PR23515](https://github.com/mantidproject/mantid/pull/23515) - Muon Context
+* *new* [PR23608](https://github.com/mantidproject/mantid/pull/23608) - SpectrumDetectorMapping constructor
 * *new* [PR23625](https://github.com/mantidproject/mantid/pull/23625) - Pulled STL file code out of LoadSampleShape
 * *new* [PR23646](https://github.com/mantidproject/mantid/pull/23646) - Stitch1DMany: stitching period data for group workspaces
 * *new* [PR23677](https://github.com/mantidproject/mantid/pull/23677) - Muon - Core Code; Modifications for New Algorithms
@@ -35,3 +36,4 @@ Detailed Merges for Oct 15 to 21, 2018
 * *new* [PR23839](https://github.com/mantidproject/mantid/pull/23839) - Uninitialized variable in ReflectometryReductionOneLiveData
 * *new* [PR23841](https://github.com/mantidproject/mantid/pull/23841) - Set constraintPenaltyFactor in IntegratePeaksProfileFitting
 * *new* [PR23842](https://github.com/mantidproject/mantid/pull/23842) - Fix error running matplotlib containing interfaces in workbench
+* *new* [PR23843](https://github.com/mantidproject/mantid/pull/23843) - No duplicate peak numbers
