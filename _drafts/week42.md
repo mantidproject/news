@@ -44,6 +44,7 @@ Detailed Merges for Oct 15 to 21, 2018
 * *new* [PR23841](https://github.com/mantidproject/mantid/pull/23841) - Set constraintPenaltyFactor in IntegratePeaksProfileFitting
 * *new* [PR23842](https://github.com/mantidproject/mantid/pull/23842) - Fix error running matplotlib containing interfaces in workbench
 * *new* [PR23843](https://github.com/mantidproject/mantid/pull/23843) - No duplicate peak numbers
+* *new* [PR23852](https://github.com/mantidproject/mantid/pull/23852) - PyChop qt4/qt5 compatible
 * *new* [PR23853](https://github.com/mantidproject/mantid/pull/23853) - Update ISIS powder docs from mantid help feedback
 * *new* [PR23854](https://github.com/mantidproject/mantid/pull/23854) - Move QE coverage to workbench
 * *new* [PR23856](https://github.com/mantidproject/mantid/pull/23856) - Add unicode support to UsageService in python
