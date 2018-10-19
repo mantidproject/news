@@ -13,6 +13,7 @@ Detailed Merges for Oct 15 to 21, 2018
 
 * *new* [PR22635](https://github.com/mantidproject/mantid/pull/22635) - ONCat Integration
 * *new* [PR23515](https://github.com/mantidproject/mantid/pull/23515) - Muon Context
+* *new* [PR23559](https://github.com/mantidproject/mantid/pull/23559) - ISIS Powder Pearl Prevent issues in Vanadium Spline
 * *new* [PR23608](https://github.com/mantidproject/mantid/pull/23608) - SpectrumDetectorMapping constructor
 * *new* [PR23625](https://github.com/mantidproject/mantid/pull/23625) - Pulled STL file code out of LoadSampleShape
 * *new* [PR23646](https://github.com/mantidproject/mantid/pull/23646) - Stitch1DMany: stitching period data for group workspaces
@@ -34,9 +35,12 @@ Detailed Merges for Oct 15 to 21, 2018
 * *new* [PR23823](https://github.com/mantidproject/mantid/pull/23823) - Indirect - Data Corrections - ApplyAbsorptionCorrections tab adjustments
 * *new* [PR23824](https://github.com/mantidproject/mantid/pull/23824) - Make SampleLogs figure double clickable for new plot
 * *new* [PR23825](https://github.com/mantidproject/mantid/pull/23825) - Workbench dgs planner
+* *new* [PR23826](https://github.com/mantidproject/mantid/pull/23826) - Add unicode support to ConfigService
 * *new* [PR23834](https://github.com/mantidproject/mantid/pull/23834) - Move TofConverter to qtpy and add to workbench
 * *new* [PR23839](https://github.com/mantidproject/mantid/pull/23839) - Uninitialized variable in ReflectometryReductionOneLiveData
 * *new* [PR23841](https://github.com/mantidproject/mantid/pull/23841) - Set constraintPenaltyFactor in IntegratePeaksProfileFitting
 * *new* [PR23842](https://github.com/mantidproject/mantid/pull/23842) - Fix error running matplotlib containing interfaces in workbench
 * *new* [PR23843](https://github.com/mantidproject/mantid/pull/23843) - No duplicate peak numbers
+* *new* [PR23853](https://github.com/mantidproject/mantid/pull/23853) - Update ISIS powder docs from mantid help feedback
+* *new* [PR23854](https://github.com/mantidproject/mantid/pull/23854) - Move QE coverage to workbench
 * *new* [PR23856](https://github.com/mantidproject/mantid/pull/23856) - Add unicode support to UsageService in python
