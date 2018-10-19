@@ -11,7 +11,9 @@ Detailed Merges for Oct 15 to 21, 2018
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-10-16..2018-10-21)
 
+* *new* [PR22032](https://github.com/mantidproject/mantid/pull/22032) - HB3A Single point measurement peak integration
 * *new* [PR22635](https://github.com/mantidproject/mantid/pull/22635) - ONCat Integration
+* *new* [PR23482](https://github.com/mantidproject/mantid/pull/23482) - Improvements to the directtools module
 * *new* [PR23515](https://github.com/mantidproject/mantid/pull/23515) - Muon Context
 * *new* [PR23559](https://github.com/mantidproject/mantid/pull/23559) - ISIS Powder Pearl Prevent issues in Vanadium Spline
 * *new* [PR23608](https://github.com/mantidproject/mantid/pull/23608) - SpectrumDetectorMapping constructor
@@ -20,6 +22,7 @@ Detailed Merges for Oct 15 to 21, 2018
 * *new* [PR23649](https://github.com/mantidproject/mantid/pull/23649) - IndirectFittingModel Unit tests
 * *new* [PR23677](https://github.com/mantidproject/mantid/pull/23677) - Muon - Core Code; Modifications for New Algorithms
 * *new* [PR23695](https://github.com/mantidproject/mantid/pull/23695) - Fix bug when reducing a series of files
+* *new* [PR23713](https://github.com/mantidproject/mantid/pull/23713) - Load an ANSTO EMU datafile (no ticket)
 * *new* [PR23715](https://github.com/mantidproject/mantid/pull/23715) - Extract computations from ReflectometryMomentumTransfer to a separate algorithm
 * *new* [PR23732](https://github.com/mantidproject/mantid/pull/23732) - Update TOF PD calibration documentation
 * *new* [PR23778](https://github.com/mantidproject/mantid/pull/23778) - Modernize event filter gui
