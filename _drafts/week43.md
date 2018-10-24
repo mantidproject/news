@@ -18,4 +18,5 @@ Detailed Merges for Oct 22 to 28, 2018
 * *new* [PR23851](https://github.com/mantidproject/mantid/pull/23851) - Indirect  - Separate plot contour and spectrum options for S(Q,w) Tab
 * *new* [PR23865](https://github.com/mantidproject/mantid/pull/23865) - BASIS: Correct TOF for fast neutrons
 * *new* [PR23866](https://github.com/mantidproject/mantid/pull/23866) - Take care of deprecated hold in PyChop
+* *new* [PR23867](https://github.com/mantidproject/mantid/pull/23867) - Bundle matplotlib with macOS packaging
 * *new* [PR23872](https://github.com/mantidproject/mantid/pull/23872) - Fix bionic packaging
