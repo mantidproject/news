@@ -13,6 +13,8 @@ Detailed Merges for Oct 22 to 28, 2018
 
 * *new* [PR23340](https://github.com/mantidproject/mantid/pull/23340) - ILL SANS Reduction
 * *new* [PR23664](https://github.com/mantidproject/mantid/pull/23664) - Refactor threading on sans gui
+* *new* [PR23684](https://github.com/mantidproject/mantid/pull/23684) - Add in sample geometry columns
+* *new* [PR23723](https://github.com/mantidproject/mantid/pull/23723) - Demo rollout via MaskAngle
 * *new* [PR23744](https://github.com/mantidproject/mantid/pull/23744) - Remove non-sync scan feature from DetectorInfo.
 * *new* [PR23789](https://github.com/mantidproject/mantid/pull/23789) - Add Qt5 build of instrument view and add to workbench
 * *new* [PR23844](https://github.com/mantidproject/mantid/pull/23844) - Fixes #21701 - Refactor and update sample correction documentation
@@ -22,3 +24,5 @@ Detailed Merges for Oct 22 to 28, 2018
 * *new* [PR23867](https://github.com/mantidproject/mantid/pull/23867) - Bundle matplotlib with macOS packaging
 * *new* [PR23872](https://github.com/mantidproject/mantid/pull/23872) - Fix bionic packaging
 * *new* [PR23877](https://github.com/mantidproject/mantid/pull/23877) - Fix pyqt package names for Ubuntu dependencies
+* *new* [PR23881](https://github.com/mantidproject/mantid/pull/23881) - fix doppler phase bug for emu loader (no ticket)
+* *new* [PR23889](https://github.com/mantidproject/mantid/pull/23889) - Expose MatrixWorkspace::isCommonBins to python
