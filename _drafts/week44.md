@@ -18,3 +18,4 @@ Detailed Merges for Oct 29 to Nov 4, 2018
 * *new* [PR23884](https://github.com/mantidproject/mantid/pull/23884) - Add fitPenalty as argument to TOF functions
 * *new* [PR23891](https://github.com/mantidproject/mantid/pull/23891) - ISIS Powder Gem Add keyword to allow disabling of subtract empty
 * *new* [PR23894](https://github.com/mantidproject/mantid/pull/23894) - Fix RPATH in python wrapper for instrument view
+* *new* [PR23906](https://github.com/mantidproject/mantid/pull/23906) - Fix windows build link issues
