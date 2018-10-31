@@ -12,6 +12,7 @@ Detailed Merges for Oct 29 to Nov 4, 2018
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-10-30..2018-11-04)
 
 * *new* [PR23766](https://github.com/mantidproject/mantid/pull/23766) - Reduce workspace history duplication
+* *new* [PR23862](https://github.com/mantidproject/mantid/pull/23862) - Indirect - ConvFit - Fix bug with reading Q values from wrong workspace
 * *new* [PR23876](https://github.com/mantidproject/mantid/pull/23876) - Project Recovery: Made call to config earlier
 * *new* [PR23880](https://github.com/mantidproject/mantid/pull/23880) - Fix warnings building on MacOS High Sierra.
 * *new* [PR23882](https://github.com/mantidproject/mantid/pull/23882) - Project Recovery: Script Builder Logging turned off
