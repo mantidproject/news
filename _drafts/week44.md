@@ -26,3 +26,4 @@ Detailed Merges for Oct 29 to Nov 4, 2018
 * *new* [PR23906](https://github.com/mantidproject/mantid/pull/23906) - Fix windows build link issues
 * *new* [PR23910](https://github.com/mantidproject/mantid/pull/23910) - Add Qt5 qscintilla dependency to deb requirements
 * *new* [PR23919](https://github.com/mantidproject/mantid/pull/23919) - Indirect - Fix incorrect detector grouping during Data Reduction
+* *new* [PR23926](https://github.com/mantidproject/mantid/pull/23926) - Typecast peak number for profile fitting
