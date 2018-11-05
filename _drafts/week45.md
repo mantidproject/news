@@ -15,3 +15,4 @@ Detailed Merges for Nov 5 to 11, 2018
 * *new* [PR23786](https://github.com/mantidproject/mantid/pull/23786) - Extend SpecularReflectionPositionCorrect
 * *new* [PR23846](https://github.com/mantidproject/mantid/pull/23846) - Indirect - Bayes - Move Run button for disabling while processing
 * *new* [PR23915](https://github.com/mantidproject/mantid/pull/23915) - Allow ISIS Powder Gem to deal with sudden spikes in spline that occur in texture mode
+* *new* [PR23932](https://github.com/mantidproject/mantid/pull/23932) - MSDFit-v1.rst - Miss-match of values on different platforms
