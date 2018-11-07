@@ -12,6 +12,7 @@ Detailed Merges for Nov 5 to 11, 2018
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-11-06..2018-11-11)
 
 * *new* [PR23431](https://github.com/mantidproject/mantid/pull/23431) - RRO/RROA Processing instructions switched to taking spectrum numbers instead of workspace indices
+* *new* [PR23554](https://github.com/mantidproject/mantid/pull/23554) - Add requests library
 * *new* [PR23686](https://github.com/mantidproject/mantid/pull/23686) - Common functionality in Mesh type IObjects
 * *new* [PR23751](https://github.com/mantidproject/mantid/pull/23751) - New algorithm MaskBinsIf
 * *new* [PR23782](https://github.com/mantidproject/mantid/pull/23782) - IndirectFitOutput Unit tests and helper file
@@ -27,3 +28,4 @@ Detailed Merges for Nov 5 to 11, 2018
 * *new* [PR23937](https://github.com/mantidproject/mantid/pull/23937) - Add imshow to the list of matplotlib plotting wrappers
 * *new* [PR23940](https://github.com/mantidproject/mantid/pull/23940) - Instrument View Memory Leak Fix
 * *new* [PR23941](https://github.com/mantidproject/mantid/pull/23941) - Fix lintian errors reported by software control center
+* *new* [PR23944](https://github.com/mantidproject/mantid/pull/23944) - Change order of extensions
