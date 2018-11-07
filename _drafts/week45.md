@@ -13,6 +13,7 @@ Detailed Merges for Nov 5 to 11, 2018
 
 * *new* [PR23431](https://github.com/mantidproject/mantid/pull/23431) - RRO/RROA Processing instructions switched to taking spectrum numbers instead of workspace indices
 * *new* [PR23686](https://github.com/mantidproject/mantid/pull/23686) - Common functionality in Mesh type IObjects
+* *new* [PR23751](https://github.com/mantidproject/mantid/pull/23751) - New algorithm MaskBinsIf
 * *new* [PR23782](https://github.com/mantidproject/mantid/pull/23782) - IndirectFitOutput Unit tests and helper file
 * *new* [PR23786](https://github.com/mantidproject/mantid/pull/23786) - Extend SpecularReflectionPositionCorrect
 * *new* [PR23846](https://github.com/mantidproject/mantid/pull/23846) - Indirect - Bayes - Move Run button for disabling while processing
