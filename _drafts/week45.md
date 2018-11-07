@@ -23,6 +23,7 @@ Detailed Merges for Nov 5 to 11, 2018
 * *new* [PR23900](https://github.com/mantidproject/mantid/pull/23900) - Solid Angle Documentation CSG Object
 * *new* [PR23902](https://github.com/mantidproject/mantid/pull/23902) - Project Recovery: Ignore empty groups when they are present in the ADS during save
 * *new* [PR23915](https://github.com/mantidproject/mantid/pull/23915) - Allow ISIS Powder Gem to deal with sudden spikes in spline that occur in texture mode
+* *new* [PR23928](https://github.com/mantidproject/mantid/pull/23928) - recalculate trajectories extents
 * *new* [PR23932](https://github.com/mantidproject/mantid/pull/23932) - MSDFit-v1.rst - Miss-match of values on different platforms
 * *new* [PR23933](https://github.com/mantidproject/mantid/pull/23933) - ISIS Reflectometry GUI SaveASCII Tab saving fix on windows
 * *new* [PR23937](https://github.com/mantidproject/mantid/pull/23937) - Add imshow to the list of matplotlib plotting wrappers
