@@ -13,6 +13,7 @@ Detailed Merges for Nov 5 to 11, 2018
 
 * *new* [PR23431](https://github.com/mantidproject/mantid/pull/23431) - RRO/RROA Processing instructions switched to taking spectrum numbers instead of workspace indices
 * *new* [PR23554](https://github.com/mantidproject/mantid/pull/23554) - Add requests library
+* *new* [PR23638](https://github.com/mantidproject/mantid/pull/23638) - Project Recovery: New GUI and new failure GUI
 * *new* [PR23686](https://github.com/mantidproject/mantid/pull/23686) - Common functionality in Mesh type IObjects
 * *new* [PR23751](https://github.com/mantidproject/mantid/pull/23751) - New algorithm MaskBinsIf
 * *new* [PR23782](https://github.com/mantidproject/mantid/pull/23782) - IndirectFitOutput Unit tests and helper file
@@ -23,6 +24,8 @@ Detailed Merges for Nov 5 to 11, 2018
 * *new* [PR23900](https://github.com/mantidproject/mantid/pull/23900) - Solid Angle Documentation CSG Object
 * *new* [PR23902](https://github.com/mantidproject/mantid/pull/23902) - Project Recovery: Ignore empty groups when they are present in the ADS during save
 * *new* [PR23915](https://github.com/mantidproject/mantid/pull/23915) - Allow ISIS Powder Gem to deal with sudden spikes in spline that occur in texture mode
+* *new* [PR23916](https://github.com/mantidproject/mantid/pull/23916) - Common getFullPath implementation
+* *new* [PR23917](https://github.com/mantidproject/mantid/pull/23917) - Replaced promoted widgets by QFrame.
 * *new* [PR23928](https://github.com/mantidproject/mantid/pull/23928) - recalculate trajectories extents
 * *new* [PR23932](https://github.com/mantidproject/mantid/pull/23932) - MSDFit-v1.rst - Miss-match of values on different platforms
 * *new* [PR23933](https://github.com/mantidproject/mantid/pull/23933) - ISIS Reflectometry GUI SaveASCII Tab saving fix on windows
