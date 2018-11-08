@@ -18,8 +18,11 @@ Detailed Merges for Nov 5 to 11, 2018
 * *new* [PR23751](https://github.com/mantidproject/mantid/pull/23751) - New algorithm MaskBinsIf
 * *new* [PR23782](https://github.com/mantidproject/mantid/pull/23782) - IndirectFitOutput Unit tests and helper file
 * *new* [PR23786](https://github.com/mantidproject/mantid/pull/23786) - Extend SpecularReflectionPositionCorrect
+* *new* [PR23796](https://github.com/mantidproject/mantid/pull/23796) - Wish system tests
+* *new* [PR23809](https://github.com/mantidproject/mantid/pull/23809) - Deploy Workbench on Windows
 * *new* [PR23846](https://github.com/mantidproject/mantid/pull/23846) - Indirect - Bayes - Move Run button for disabling while processing
 * *new* [PR23847](https://github.com/mantidproject/mantid/pull/23847) - ISIS Powder Pearl, Focus Saving XYE
+* *new* [PR23892](https://github.com/mantidproject/mantid/pull/23892) - Project Recovery: Handle live data streams
 * *new* [PR23895](https://github.com/mantidproject/mantid/pull/23895) - Fix issues in sphinx docs
 * *new* [PR23900](https://github.com/mantidproject/mantid/pull/23900) - Solid Angle Documentation CSG Object
 * *new* [PR23902](https://github.com/mantidproject/mantid/pull/23902) - Project Recovery: Ignore empty groups when they are present in the ADS during save
@@ -32,4 +35,7 @@ Detailed Merges for Nov 5 to 11, 2018
 * *new* [PR23937](https://github.com/mantidproject/mantid/pull/23937) - Add imshow to the list of matplotlib plotting wrappers
 * *new* [PR23940](https://github.com/mantidproject/mantid/pull/23940) - Instrument View Memory Leak Fix
 * *new* [PR23941](https://github.com/mantidproject/mantid/pull/23941) - Fix lintian errors reported by software control center
+* *new* [PR23942](https://github.com/mantidproject/mantid/pull/23942) - Add ability to ignore 1D arrays for time value loading in LoadNexusLogs.
 * *new* [PR23944](https://github.com/mantidproject/mantid/pull/23944) - Change order of extensions
+* *new* [PR23945](https://github.com/mantidproject/mantid/pull/23945) - Use NormalizeByIntegratedMonitors in CreateTransmissionWorkspace and CreateTransmissionWorkspaceAuto
+* *new* [PR23949](https://github.com/mantidproject/mantid/pull/23949) - Update SNAP geometry
