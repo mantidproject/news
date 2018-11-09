@@ -24,6 +24,7 @@ Detailed Merges for Nov 5 to 11, 2018
 * *new* [PR23847](https://github.com/mantidproject/mantid/pull/23847) - ISIS Powder Pearl, Focus Saving XYE
 * *new* [PR23892](https://github.com/mantidproject/mantid/pull/23892) - Project Recovery: Handle live data streams
 * *new* [PR23895](https://github.com/mantidproject/mantid/pull/23895) - Fix issues in sphinx docs
+* *new* [PR23896](https://github.com/mantidproject/mantid/pull/23896) - ComputeCalibrationCoefVan: temperature sample log name from IPF
 * *new* [PR23900](https://github.com/mantidproject/mantid/pull/23900) - Solid Angle Documentation CSG Object
 * *new* [PR23902](https://github.com/mantidproject/mantid/pull/23902) - Project Recovery: Ignore empty groups when they are present in the ADS during save
 * *new* [PR23915](https://github.com/mantidproject/mantid/pull/23915) - Allow ISIS Powder Gem to deal with sudden spikes in spline that occur in texture mode
