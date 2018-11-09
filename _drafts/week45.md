@@ -41,3 +41,4 @@ Detailed Merges for Nov 5 to 11, 2018
 * *new* [PR23944](https://github.com/mantidproject/mantid/pull/23944) - Change order of extensions
 * *new* [PR23945](https://github.com/mantidproject/mantid/pull/23945) - Use NormalizeByIntegratedMonitors in CreateTransmissionWorkspace and CreateTransmissionWorkspaceAuto
 * *new* [PR23949](https://github.com/mantidproject/mantid/pull/23949) - Update SNAP geometry
+* *new* [PR23967](https://github.com/mantidproject/mantid/pull/23967) - Add checkbox for HKL MD workspace to SCD interface
