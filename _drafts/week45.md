@@ -22,6 +22,7 @@ Detailed Merges for Nov 5 to 11, 2018
 * *new* [PR23809](https://github.com/mantidproject/mantid/pull/23809) - Deploy Workbench on Windows
 * *new* [PR23846](https://github.com/mantidproject/mantid/pull/23846) - Indirect - Bayes - Move Run button for disabling while processing
 * *new* [PR23847](https://github.com/mantidproject/mantid/pull/23847) - ISIS Powder Pearl, Focus Saving XYE
+* *new* [PR23858](https://github.com/mantidproject/mantid/pull/23858) - Indirect - MSD Fit Plot Output has wrong x units
 * *new* [PR23892](https://github.com/mantidproject/mantid/pull/23892) - Project Recovery: Handle live data streams
 * *new* [PR23895](https://github.com/mantidproject/mantid/pull/23895) - Fix issues in sphinx docs
 * *new* [PR23896](https://github.com/mantidproject/mantid/pull/23896) - ComputeCalibrationCoefVan: temperature sample log name from IPF
