@@ -12,3 +12,4 @@ Detailed Merges for Nov 12 to 18, 2018
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-11-13..2018-11-18)
 
 * *new* [PR23931](https://github.com/mantidproject/mantid/pull/23931) - New algorithm to group point data to X resolution
+* *new* [PR23989](https://github.com/mantidproject/mantid/pull/23989) - NOMAD PDLoadCharacterizations bugfix
