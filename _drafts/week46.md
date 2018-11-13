@@ -19,3 +19,4 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR23977](https://github.com/mantidproject/mantid/pull/23977) - ComputeIncoherentDOS: enable S(2theta,W) as input
 * *new* [PR23982](https://github.com/mantidproject/mantid/pull/23982) - Simplify DirectILLIntegrateVanadium
 * *new* [PR23989](https://github.com/mantidproject/mantid/pull/23989) - NOMAD PDLoadCharacterizations bugfix
+* *new* [PR24004](https://github.com/mantidproject/mantid/pull/24004) - Disable throwing exception
