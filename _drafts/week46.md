@@ -29,3 +29,4 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR23999](https://github.com/mantidproject/mantid/pull/23999) - Higher res splash screen for >1080p resolutions
 * *new* [PR24004](https://github.com/mantidproject/mantid/pull/24004) - Disable throwing exception
 * *new* [PR24005](https://github.com/mantidproject/mantid/pull/24005) - Add aplication icon
+* *new* [PR24019](https://github.com/mantidproject/mantid/pull/24019) - Change AsyncTaskFailure to contain raw stacktrace
