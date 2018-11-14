@@ -19,6 +19,7 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR23931](https://github.com/mantidproject/mantid/pull/23931) - New algorithm to group point data to X resolution
 * *new* [PR23954](https://github.com/mantidproject/mantid/pull/23954) - Added systemtest to check errorreport server
 * *new* [PR23977](https://github.com/mantidproject/mantid/pull/23977) - ComputeIncoherentDOS: enable S(2theta,W) as input
+* *new* [PR23981](https://github.com/mantidproject/mantid/pull/23981) - Add Current Save Folder to SANS, change default save option to Memory
 * *new* [PR23982](https://github.com/mantidproject/mantid/pull/23982) - Simplify DirectILLIntegrateVanadium
 * *new* [PR23986](https://github.com/mantidproject/mantid/pull/23986) - Do not set empty event workspace to single bin
 * *new* [PR23989](https://github.com/mantidproject/mantid/pull/23989) - NOMAD PDLoadCharacterizations bugfix
@@ -27,3 +28,4 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR23997](https://github.com/mantidproject/mantid/pull/23997) - Rename async to asynchronous
 * *new* [PR23999](https://github.com/mantidproject/mantid/pull/23999) - Higher res splash screen for >1080p resolutions
 * *new* [PR24004](https://github.com/mantidproject/mantid/pull/24004) - Disable throwing exception
+* *new* [PR24005](https://github.com/mantidproject/mantid/pull/24005) - Add aplication icon
