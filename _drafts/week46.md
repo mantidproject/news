@@ -16,6 +16,7 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR23678](https://github.com/mantidproject/mantid/pull/23678) - Muon - Algorithm; MuonPreProcess
 * *new* [PR23878](https://github.com/mantidproject/mantid/pull/23878) - Make GroupDetectors obey bin mask
 * *new* [PR23905](https://github.com/mantidproject/mantid/pull/23905) - A new algorithm to mask non-overlapping bins
+* *new* [PR23914](https://github.com/mantidproject/mantid/pull/23914) - Algorithm::doCallProcessGroup() now handles history where previously it's called alogorithms did
 * *new* [PR23931](https://github.com/mantidproject/mantid/pull/23931) - New algorithm to group point data to X resolution
 * *new* [PR23954](https://github.com/mantidproject/mantid/pull/23954) - Added systemtest to check errorreport server
 * *new* [PR23977](https://github.com/mantidproject/mantid/pull/23977) - ComputeIncoherentDOS: enable S(2theta,W) as input
