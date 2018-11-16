@@ -30,12 +30,14 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR23981](https://github.com/mantidproject/mantid/pull/23981) - Add Current Save Folder to SANS, change default save option to Memory
 * *new* [PR23982](https://github.com/mantidproject/mantid/pull/23982) - Simplify DirectILLIntegrateVanadium
 * *new* [PR23986](https://github.com/mantidproject/mantid/pull/23986) - Do not set empty event workspace to single bin
+* *new* [PR23987](https://github.com/mantidproject/mantid/pull/23987) - Add MatrixWorkspaceDisplay to the Workbench
 * *new* [PR23989](https://github.com/mantidproject/mantid/pull/23989) - NOMAD PDLoadCharacterizations bugfix
 * *new* [PR23990](https://github.com/mantidproject/mantid/pull/23990) - Add automatic conversions for unicode to std::string in Python 2
 * *new* [PR23991](https://github.com/mantidproject/mantid/pull/23991) - DirectILLApplySelfShielding: remove upper limit from empty cell scaling
 * *new* [PR23992](https://github.com/mantidproject/mantid/pull/23992) - Upgrade numpy, scipy, matplotlib, pip
 * *new* [PR23994](https://github.com/mantidproject/mantid/pull/23994) - Fix documentation build with sphinx 1.8.1
 * *new* [PR23997](https://github.com/mantidproject/mantid/pull/23997) - Rename async to asynchronous
+* *new* [PR23998](https://github.com/mantidproject/mantid/pull/23998) - Muon asymmetry bins
 * *new* [PR23999](https://github.com/mantidproject/mantid/pull/23999) - Higher res splash screen for >1080p resolutions
 * *new* [PR24004](https://github.com/mantidproject/mantid/pull/24004) - Disable throwing exception
 * *new* [PR24005](https://github.com/mantidproject/mantid/pull/24005) - Add aplication icon
@@ -43,4 +45,5 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR24020](https://github.com/mantidproject/mantid/pull/24020) - Add explicit check for pyqt4 to be initialized
 * *new* [PR24021](https://github.com/mantidproject/mantid/pull/24021) - Add imshow implementation to allow for custom artists.
 * *new* [PR24024](https://github.com/mantidproject/mantid/pull/24024) - Pass in system value of QT_API
+* *new* [PR24026](https://github.com/mantidproject/mantid/pull/24026) - Diamond Attenuation Script to Take UB Matrix
 * *new* [PR24028](https://github.com/mantidproject/mantid/pull/24028) - Fix issue with master not building properly
