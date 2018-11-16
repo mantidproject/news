@@ -14,9 +14,11 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR23509](https://github.com/mantidproject/mantid/pull/23509) - Update scale and shift used in reduction
 * *new* [PR23644](https://github.com/mantidproject/mantid/pull/23644) - Muon - Core Code; Workspace Handle
 * *new* [PR23678](https://github.com/mantidproject/mantid/pull/23678) - Muon - Algorithm; MuonPreProcess
+* *new* [PR23735](https://github.com/mantidproject/mantid/pull/23735) - Indirect - ConvFit FABADA FixTie is not working
 * *new* [PR23860](https://github.com/mantidproject/mantid/pull/23860) - ISIS Powder Pearl Remove Vanadium Splines from workspace after focus
 * *new* [PR23861](https://github.com/mantidproject/mantid/pull/23861) - ISIS Powder Pearl added default Rebin value
 * *new* [PR23878](https://github.com/mantidproject/mantid/pull/23878) - Make GroupDetectors obey bin mask
+* *new* [PR23879](https://github.com/mantidproject/mantid/pull/23879) - ONCat Archive Searching
 * *new* [PR23905](https://github.com/mantidproject/mantid/pull/23905) - A new algorithm to mask non-overlapping bins
 * *new* [PR23914](https://github.com/mantidproject/mantid/pull/23914) - Algorithm::doCallProcessGroup() now handles history where previously it's called alogorithms did
 * *new* [PR23931](https://github.com/mantidproject/mantid/pull/23931) - New algorithm to group point data to X resolution
@@ -30,6 +32,7 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR23989](https://github.com/mantidproject/mantid/pull/23989) - NOMAD PDLoadCharacterizations bugfix
 * *new* [PR23990](https://github.com/mantidproject/mantid/pull/23990) - Add automatic conversions for unicode to std::string in Python 2
 * *new* [PR23991](https://github.com/mantidproject/mantid/pull/23991) - DirectILLApplySelfShielding: remove upper limit from empty cell scaling
+* *new* [PR23992](https://github.com/mantidproject/mantid/pull/23992) - Upgrade numpy, scipy, matplotlib, pip
 * *new* [PR23994](https://github.com/mantidproject/mantid/pull/23994) - Fix documentation build with sphinx 1.8.1
 * *new* [PR23997](https://github.com/mantidproject/mantid/pull/23997) - Rename async to asynchronous
 * *new* [PR23999](https://github.com/mantidproject/mantid/pull/23999) - Higher res splash screen for >1080p resolutions
@@ -37,3 +40,5 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR24005](https://github.com/mantidproject/mantid/pull/24005) - Add aplication icon
 * *new* [PR24019](https://github.com/mantidproject/mantid/pull/24019) - Change AsyncTaskFailure to contain raw stacktrace
 * *new* [PR24020](https://github.com/mantidproject/mantid/pull/24020) - Add explicit check for pyqt4 to be initialized
+* *new* [PR24021](https://github.com/mantidproject/mantid/pull/24021) - Add imshow implementation to allow for custom artists.
+* *new* [PR24024](https://github.com/mantidproject/mantid/pull/24024) - Pass in system value of QT_API
