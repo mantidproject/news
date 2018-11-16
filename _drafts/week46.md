@@ -22,6 +22,7 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR23879](https://github.com/mantidproject/mantid/pull/23879) - ONCat Archive Searching
 * *new* [PR23905](https://github.com/mantidproject/mantid/pull/23905) - A new algorithm to mask non-overlapping bins
 * *new* [PR23914](https://github.com/mantidproject/mantid/pull/23914) - Algorithm::doCallProcessGroup() now handles history where previously it's called alogorithms did
+* *new* [PR23927](https://github.com/mantidproject/mantid/pull/23927) - Reducers qt5 compatibility
 * *new* [PR23931](https://github.com/mantidproject/mantid/pull/23931) - New algorithm to group point data to X resolution
 * *new* [PR23936](https://github.com/mantidproject/mantid/pull/23936) - Indirect Bayes - Stretch tab Contour Plot
 * *new* [PR23954](https://github.com/mantidproject/mantid/pull/23954) - Added systemtest to check errorreport server
