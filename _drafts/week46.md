@@ -17,6 +17,7 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR23735](https://github.com/mantidproject/mantid/pull/23735) - Indirect - ConvFit FABADA FixTie is not working
 * *new* [PR23860](https://github.com/mantidproject/mantid/pull/23860) - ISIS Powder Pearl Remove Vanadium Splines from workspace after focus
 * *new* [PR23861](https://github.com/mantidproject/mantid/pull/23861) - ISIS Powder Pearl added default Rebin value
+* *new* [PR23864](https://github.com/mantidproject/mantid/pull/23864) - Indirect - ConvFit - Loading res before red causes error
 * *new* [PR23878](https://github.com/mantidproject/mantid/pull/23878) - Make GroupDetectors obey bin mask
 * *new* [PR23879](https://github.com/mantidproject/mantid/pull/23879) - ONCat Archive Searching
 * *new* [PR23905](https://github.com/mantidproject/mantid/pull/23905) - A new algorithm to mask non-overlapping bins
@@ -42,3 +43,4 @@ Detailed Merges for Nov 12 to 18, 2018
 * *new* [PR24020](https://github.com/mantidproject/mantid/pull/24020) - Add explicit check for pyqt4 to be initialized
 * *new* [PR24021](https://github.com/mantidproject/mantid/pull/24021) - Add imshow implementation to allow for custom artists.
 * *new* [PR24024](https://github.com/mantidproject/mantid/pull/24024) - Pass in system value of QT_API
+* *new* [PR24028](https://github.com/mantidproject/mantid/pull/24028) - Fix issue with master not building properly
