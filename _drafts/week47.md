@@ -17,6 +17,7 @@ Detailed Merges for Nov 19 to 25, 2018
 * *new* [PR23907](https://github.com/mantidproject/mantid/pull/23907) - More thorough check for common bins
 * *new* [PR23972](https://github.com/mantidproject/mantid/pull/23972) - Indirect - ConvFit - Q value not updating when spectrum changed
 * *new* [PR23985](https://github.com/mantidproject/mantid/pull/23985) - Simplify ReflectometryILLConvertToQ
+* *new* [PR23993](https://github.com/mantidproject/mantid/pull/23993) - Add Tooltip to Wavelength Slicing
 * *new* [PR24014](https://github.com/mantidproject/mantid/pull/24014) - Set default suffix for files being saved to .py
 * *new* [PR24018](https://github.com/mantidproject/mantid/pull/24018) - Rename the stress test stuff to system test stuff
 * *new* [PR24029](https://github.com/mantidproject/mantid/pull/24029) - Add platform path which affects python2
