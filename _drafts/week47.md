@@ -28,5 +28,6 @@ Detailed Merges for Nov 19 to 25, 2018
 * *new* [PR24044](https://github.com/mantidproject/mantid/pull/24044) - Add additional types to conversion tool
 * *new* [PR24051](https://github.com/mantidproject/mantid/pull/24051) - Fix TOFTOF scripter for Workbench
 * *new* [PR24055](https://github.com/mantidproject/mantid/pull/24055) - Switch WANDPowderReduction to use Rebin
+* *new* [PR24060](https://github.com/mantidproject/mantid/pull/24060) - Fixed ISIS Powder Pearl Focus Test
 * *new* [PR24061](https://github.com/mantidproject/mantid/pull/24061) - Add min number of events for rebinning
 * *new* [PR24072](https://github.com/mantidproject/mantid/pull/24072) - Fix toftof scripter unit test
