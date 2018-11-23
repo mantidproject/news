@@ -38,3 +38,4 @@ Detailed Merges for Nov 19 to 25, 2018
 * *new* [PR24066](https://github.com/mantidproject/mantid/pull/24066) - Dealt with nans in ISIS Gem Texture mode output
 * *new* [PR24068](https://github.com/mantidproject/mantid/pull/24068) - Fix Workbench shutdown RuntimeError and GlobalFigureManager tests
 * *new* [PR24072](https://github.com/mantidproject/mantid/pull/24072) - Fix toftof scripter unit test
+* *new* [PR24087](https://github.com/mantidproject/mantid/pull/24087) - Replace use of old IDFs_for_UNIT_TESTING directory name
