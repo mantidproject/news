@@ -15,6 +15,7 @@ Detailed Merges for Nov 26 to Dec 2, 2018
 * *new* [PR23742](https://github.com/mantidproject/mantid/pull/23742) - Fix goniometer to use time average instead of mean
 * *new* [PR23822](https://github.com/mantidproject/mantid/pull/23822) - Indirect - Data Corrections - Plot spectrum option
 * *new* [PR23923](https://github.com/mantidproject/mantid/pull/23923) - IndirectSpectrumSelectionPresenter Unit Tests
+* *new* [PR24030](https://github.com/mantidproject/mantid/pull/24030) - New algorithm: SofTwoThetaTOF
 * *new* [PR24037](https://github.com/mantidproject/mantid/pull/24037) - Pull code out of setSampleMaterial
 * *new* [PR24069](https://github.com/mantidproject/mantid/pull/24069) - Allow Save/LoadNexusProcessed to save and load a MaskWorkspace
 * *new* [PR24071](https://github.com/mantidproject/mantid/pull/24071) - 24045 kafka histo docs
