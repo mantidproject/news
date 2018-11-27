@@ -30,3 +30,5 @@ Detailed Merges for Nov 26 to Dec 2, 2018
 * *new* [PR24099](https://github.com/mantidproject/mantid/pull/24099) - Indirect Diffraction - Move and disable run button
 * *new* [PR24101](https://github.com/mantidproject/mantid/pull/24101) - Indirect Tools - Move and disable run button
 * *new* [PR24102](https://github.com/mantidproject/mantid/pull/24102) - Revert "Switch WANDPowderReduction to use Rebin"
+* *new* [PR24120](https://github.com/mantidproject/mantid/pull/24120) - Fix the facilities list in CatalogLogin
+* *new* [PR24121](https://github.com/mantidproject/mantid/pull/24121) - Use proper min() function
