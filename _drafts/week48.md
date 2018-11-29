@@ -22,6 +22,7 @@ Detailed Merges for Nov 26 to Dec 2, 2018
 * *new* [PR24030](https://github.com/mantidproject/mantid/pull/24030) - New algorithm: SofTwoThetaTOF
 * *new* [PR24037](https://github.com/mantidproject/mantid/pull/24037) - Pull code out of setSampleMaterial
 * *new* [PR24069](https://github.com/mantidproject/mantid/pull/24069) - Allow Save/LoadNexusProcessed to save and load a MaskWorkspace
+* *new* [PR24070](https://github.com/mantidproject/mantid/pull/24070) - IndirectFitPlotPresenter Unit tests
 * *new* [PR24071](https://github.com/mantidproject/mantid/pull/24071) - 24045 kafka histo docs
 * *new* [PR24076](https://github.com/mantidproject/mantid/pull/24076) - Start mantidplot in systemtest
 * *new* [PR24077](https://github.com/mantidproject/mantid/pull/24077) - ILL SANS part 2
@@ -37,3 +38,5 @@ Detailed Merges for Nov 26 to Dec 2, 2018
 * *new* [PR24107](https://github.com/mantidproject/mantid/pull/24107) - ILL old SANS cleanup
 * *new* [PR24120](https://github.com/mantidproject/mantid/pull/24120) - Fix the facilities list in CatalogLogin
 * *new* [PR24121](https://github.com/mantidproject/mantid/pull/24121) - Use proper min() function
+* *new* [PR24138](https://github.com/mantidproject/mantid/pull/24138) - Fix mpl_toolkits import error on OSX
+* *new* [PR24142](https://github.com/mantidproject/mantid/pull/24142) - Workbench: Disable show instrument if no instrument exists
