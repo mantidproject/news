@@ -14,6 +14,8 @@ Detailed Merges for Nov 26 to Dec 2, 2018
 * *new* [PR23679](https://github.com/mantidproject/mantid/pull/23679) - Muon - Algorithm; MuonGroupingCounts
 * *new* [PR23742](https://github.com/mantidproject/mantid/pull/23742) - Fix goniometer to use time average instead of mean
 * *new* [PR23822](https://github.com/mantidproject/mantid/pull/23822) - Indirect - Data Corrections - Plot spectrum option
+* *new* [PR23838](https://github.com/mantidproject/mantid/pull/23838) - Saving the muon analysis 2 GUI
+* *new* [PR23875](https://github.com/mantidproject/mantid/pull/23875) - Move python Framework init to simpleapi
 * *new* [PR23923](https://github.com/mantidproject/mantid/pull/23923) - IndirectSpectrumSelectionPresenter Unit Tests
 * *new* [PR23995](https://github.com/mantidproject/mantid/pull/23995) - System tests for IN4, IN5, IN6 detector efficiency corrections
 * *new* [PR24016](https://github.com/mantidproject/mantid/pull/24016) - Hb3a parse binary 23124
