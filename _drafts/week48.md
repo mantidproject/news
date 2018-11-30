@@ -43,3 +43,4 @@ Detailed Merges for Nov 26 to Dec 2, 2018
 * *new* [PR24138](https://github.com/mantidproject/mantid/pull/24138) - Fix mpl_toolkits import error on OSX
 * *new* [PR24140](https://github.com/mantidproject/mantid/pull/24140) - Skip the test if mantidplot launcher doesn't exist
 * *new* [PR24142](https://github.com/mantidproject/mantid/pull/24142) - Workbench: Disable show instrument if no instrument exists
+* *new* [PR24144](https://github.com/mantidproject/mantid/pull/24144) - CostFuncFitting shall set covariance matrix to fit function
