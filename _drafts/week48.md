@@ -21,6 +21,7 @@ Detailed Merges for Nov 26 to Dec 2, 2018
 * *new* [PR24016](https://github.com/mantidproject/mantid/pull/24016) - Hb3a parse binary 23124
 * *new* [PR24030](https://github.com/mantidproject/mantid/pull/24030) - New algorithm: SofTwoThetaTOF
 * *new* [PR24037](https://github.com/mantidproject/mantid/pull/24037) - Pull code out of setSampleMaterial
+* *new* [PR24057](https://github.com/mantidproject/mantid/pull/24057) - Use Xvfb on Linux build servers
 * *new* [PR24069](https://github.com/mantidproject/mantid/pull/24069) - Allow Save/LoadNexusProcessed to save and load a MaskWorkspace
 * *new* [PR24070](https://github.com/mantidproject/mantid/pull/24070) - IndirectFitPlotPresenter Unit tests
 * *new* [PR24071](https://github.com/mantidproject/mantid/pull/24071) - 24045 kafka histo docs
@@ -43,4 +44,5 @@ Detailed Merges for Nov 26 to Dec 2, 2018
 * *new* [PR24138](https://github.com/mantidproject/mantid/pull/24138) - Fix mpl_toolkits import error on OSX
 * *new* [PR24140](https://github.com/mantidproject/mantid/pull/24140) - Skip the test if mantidplot launcher doesn't exist
 * *new* [PR24142](https://github.com/mantidproject/mantid/pull/24142) - Workbench: Disable show instrument if no instrument exists
+* *new* [PR24143](https://github.com/mantidproject/mantid/pull/24143) - MR: add option not to perform final rebin
 * *new* [PR24144](https://github.com/mantidproject/mantid/pull/24144) - CostFuncFitting shall set covariance matrix to fit function
