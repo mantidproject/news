@@ -38,5 +38,8 @@ Detailed Merges for Nov 26 to Dec 2, 2018
 * *new* [PR24107](https://github.com/mantidproject/mantid/pull/24107) - ILL old SANS cleanup
 * *new* [PR24120](https://github.com/mantidproject/mantid/pull/24120) - Fix the facilities list in CatalogLogin
 * *new* [PR24121](https://github.com/mantidproject/mantid/pull/24121) - Use proper min() function
+* *new* [PR24122](https://github.com/mantidproject/mantid/pull/24122) - Set application name for the UsageService on workbench startup
+* *new* [PR24125](https://github.com/mantidproject/mantid/pull/24125) - Revert polarisation correction property names
 * *new* [PR24138](https://github.com/mantidproject/mantid/pull/24138) - Fix mpl_toolkits import error on OSX
+* *new* [PR24140](https://github.com/mantidproject/mantid/pull/24140) - Skip the test if mantidplot launcher doesn't exist
 * *new* [PR24142](https://github.com/mantidproject/mantid/pull/24142) - Workbench: Disable show instrument if no instrument exists
