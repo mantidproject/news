@@ -13,6 +13,7 @@ Detailed Merges for Dec 3 to 9, 2018
 
 * *new* [PR22865](https://github.com/mantidproject/mantid/pull/22865) - Allow user to specify max iterations and make partial spectra fitting more flexible.
 * *new* [PR23163](https://github.com/mantidproject/mantid/pull/23163) - Indirect Interfaces need to work with Project Recovery after a crash
+* *new* [PR23645](https://github.com/mantidproject/mantid/pull/23645) - Muon - Core Code; New Load Utilities
 * *new* [PR23680](https://github.com/mantidproject/mantid/pull/23680) - Muon - Algorithm; MuonGroupingAsymmetry
 * *new* [PR23681](https://github.com/mantidproject/mantid/pull/23681) - Muon - Algorithm; MuonPairingAsymmetry
 * *new* [PR23771](https://github.com/mantidproject/mantid/pull/23771) - Muon -  ThreadModel Fix
@@ -28,5 +29,6 @@ Detailed Merges for Dec 3 to 9, 2018
 * *new* [PR24155](https://github.com/mantidproject/mantid/pull/24155) - ConvertToMD uses the time average value of logs
 * *new* [PR24163](https://github.com/mantidproject/mantid/pull/24163) - New algorithm DeadTimeCorrection
 * *new* [PR24204](https://github.com/mantidproject/mantid/pull/24204) - Bugfix gui remembering linear/logarithmic binning
+* *new* [PR24215](https://github.com/mantidproject/mantid/pull/24215) - Fixes the input validator for MostLikelyMean
 * *new* [PR24229](https://github.com/mantidproject/mantid/pull/24229) - Decref Python object after copying to C++ std::string
 * *new* [PR24236](https://github.com/mantidproject/mantid/pull/24236) - Add xvfb to system test calls
