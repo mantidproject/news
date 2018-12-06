@@ -16,6 +16,7 @@ Detailed Merges for Dec 3 to 9, 2018
 * *new* [PR23645](https://github.com/mantidproject/mantid/pull/23645) - Muon - Core Code; New Load Utilities
 * *new* [PR23680](https://github.com/mantidproject/mantid/pull/23680) - Muon - Algorithm; MuonGroupingAsymmetry
 * *new* [PR23681](https://github.com/mantidproject/mantid/pull/23681) - Muon - Algorithm; MuonPairingAsymmetry
+* *new* [PR23747](https://github.com/mantidproject/mantid/pull/23747) - Project Recovery: Handle Legacy checkpoints
 * *new* [PR23771](https://github.com/mantidproject/mantid/pull/23771) - Muon -  ThreadModel Fix
 * *new* [PR23965](https://github.com/mantidproject/mantid/pull/23965) - Generalization of SampleLogsBehaviour (MergeRuns, ConjoinXRuns)
 * *new* [PR24033](https://github.com/mantidproject/mantid/pull/24033) - Indirect Bayes - ResNorm adjustments
