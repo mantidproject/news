@@ -15,6 +15,7 @@ Detailed Merges for Dec 3 to 9, 2018
 * *new* [PR23163](https://github.com/mantidproject/mantid/pull/23163) - Indirect Interfaces need to work with Project Recovery after a crash
 * *new* [PR23487](https://github.com/mantidproject/mantid/pull/23487) - Add class to get workspace history
 * *new* [PR23645](https://github.com/mantidproject/mantid/pull/23645) - Muon - Core Code; New Load Utilities
+* *new* [PR23670](https://github.com/mantidproject/mantid/pull/23670) - Muon - Core Code; Load Widget Utilities
 * *new* [PR23680](https://github.com/mantidproject/mantid/pull/23680) - Muon - Algorithm; MuonGroupingAsymmetry
 * *new* [PR23681](https://github.com/mantidproject/mantid/pull/23681) - Muon - Algorithm; MuonPairingAsymmetry
 * *new* [PR23747](https://github.com/mantidproject/mantid/pull/23747) - Project Recovery: Handle Legacy checkpoints
@@ -32,6 +33,7 @@ Detailed Merges for Dec 3 to 9, 2018
 * *new* [PR24131](https://github.com/mantidproject/mantid/pull/24131) - Indirect - Iqt Tiled plot range bug
 * *new* [PR24136](https://github.com/mantidproject/mantid/pull/24136) - Plot advanced against most properties
 * *new* [PR24139](https://github.com/mantidproject/mantid/pull/24139) - New algorithm ParallaxCorrection
+* *new* [PR24141](https://github.com/mantidproject/mantid/pull/24141) - Fix detector 2theta width calculation in SofQWNormalisedPolygon
 * *new* [PR24155](https://github.com/mantidproject/mantid/pull/24155) - ConvertToMD uses the time average value of logs
 * *new* [PR24163](https://github.com/mantidproject/mantid/pull/24163) - New algorithm DeadTimeCorrection
 * *new* [PR24198](https://github.com/mantidproject/mantid/pull/24198) - fix I(Q,t) over IN16B data
