@@ -46,6 +46,9 @@ Detailed Merges for Dec 3 to 9, 2018
 * *new* [PR24229](https://github.com/mantidproject/mantid/pull/24229) - Decref Python object after copying to C++ std::string
 * *new* [PR24236](https://github.com/mantidproject/mantid/pull/24236) - Add xvfb to system test calls
 * *new* [PR24244](https://github.com/mantidproject/mantid/pull/24244) - Add conda bin directory to `Mantid.properties` search path
+* *new* [PR24251](https://github.com/mantidproject/mantid/pull/24251) - Indirect -Error when clicking plot guess from Display without reduced workspace
 * *new* [PR24259](https://github.com/mantidproject/mantid/pull/24259) - Get usagereport status from config dict
 * *new* [PR24263](https://github.com/mantidproject/mantid/pull/24263) - FilterEvents Fails to Open
 * *new* [PR24268](https://github.com/mantidproject/mantid/pull/24268) - Add CLEAN_XVFB option to buildscript
+* *new* [PR24278](https://github.com/mantidproject/mantid/pull/24278) - Disable Sum Runs and Integral while processing
+* *new* [PR24280](https://github.com/mantidproject/mantid/pull/24280) - Fix race condition: Protect access to Kafka decoder callbacks with a mutex
