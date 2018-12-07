@@ -22,6 +22,7 @@ Detailed Merges for Dec 3 to 9, 2018
 * *new* [PR23871](https://github.com/mantidproject/mantid/pull/23871) - SANS - Add Process All Button
 * *new* [PR23934](https://github.com/mantidproject/mantid/pull/23934) - Indirect Bayes - Quasi tab adjustments
 * *new* [PR23965](https://github.com/mantidproject/mantid/pull/23965) - Generalization of SampleLogsBehaviour (MergeRuns, ConjoinXRuns)
+* *new* [PR24001](https://github.com/mantidproject/mantid/pull/24001) - Fix SampleLog units for MergeRun, ConjoinXRuns
 * *new* [PR24033](https://github.com/mantidproject/mantid/pull/24033) - Indirect Bayes - ResNorm adjustments
 * *new* [PR24056](https://github.com/mantidproject/mantid/pull/24056) - Checks for muon analysis x range
 * *new* [PR24079](https://github.com/mantidproject/mantid/pull/24079) - Adapt LoadEventNexus to allow loading of ESS Nexus Files
@@ -37,6 +38,7 @@ Detailed Merges for Dec 3 to 9, 2018
 * *new* [PR24203](https://github.com/mantidproject/mantid/pull/24203) - "Unscripted" Testing assist script (Documentation testing)
 * *new* [PR24204](https://github.com/mantidproject/mantid/pull/24204) - Bugfix gui remembering linear/logarithmic binning
 * *new* [PR24215](https://github.com/mantidproject/mantid/pull/24215) - Fixes the input validator for MostLikelyMean
+* *new* [PR24219](https://github.com/mantidproject/mantid/pull/24219) - Indirect - Crash when loading F(Q) Fit data
 * *new* [PR24222](https://github.com/mantidproject/mantid/pull/24222) - Change update interval for live monitor
 * *new* [PR24228](https://github.com/mantidproject/mantid/pull/24228) - Re-enable Display Mask button upon Error
 * *new* [PR24229](https://github.com/mantidproject/mantid/pull/24229) - Decref Python object after copying to C++ std::string
