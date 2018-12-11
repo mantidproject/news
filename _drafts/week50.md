@@ -16,7 +16,12 @@ Detailed Merges for Dec 10 to 16, 2018
 * *new* [PR23643](https://github.com/mantidproject/mantid/pull/23643) - Muon - Core Code; Groups and Pairs
 * *new* [PR23648](https://github.com/mantidproject/mantid/pull/23648) - Muon - Core Code; Muon Context
 * *new* [PR23650](https://github.com/mantidproject/mantid/pull/23650) - Muon - Core Code; Update to utility files
+* *new* [PR23770](https://github.com/mantidproject/mantid/pull/23770) - ISIS SANS: Add save other window
 * *new* [PR24154](https://github.com/mantidproject/mantid/pull/24154) - Indirect IqtFit - Prevent plotting of one spectra
+* *new* [PR24249](https://github.com/mantidproject/mantid/pull/24249) - IDF Update: Add LARMOR definition with front detector moved
+* *new* [PR24265](https://github.com/mantidproject/mantid/pull/24265) - Improvements to ICat path replacements
 * *new* [PR24279](https://github.com/mantidproject/mantid/pull/24279) - Remove mock dependency from MatrixWorkspaceDisplay model
+* *new* [PR24281](https://github.com/mantidproject/mantid/pull/24281) - Multiple fitting crash when setting values after tie
 * *new* [PR24286](https://github.com/mantidproject/mantid/pull/24286) - Rebin2D changed to work with fractional area tracking on plain Workspace2D
+* *new* [PR24299](https://github.com/mantidproject/mantid/pull/24299) - Moved scanIntervals() outside for loop to optimize MergeRuns
 * *new* [PR24300](https://github.com/mantidproject/mantid/pull/24300) - Update Windows buildscripts to MSVS 2017
