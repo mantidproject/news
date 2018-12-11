@@ -23,6 +23,8 @@ Detailed Merges for Dec 10 to 16, 2018
 * *new* [PR24279](https://github.com/mantidproject/mantid/pull/24279) - Remove mock dependency from MatrixWorkspaceDisplay model
 * *new* [PR24281](https://github.com/mantidproject/mantid/pull/24281) - Multiple fitting crash when setting values after tie
 * *new* [PR24286](https://github.com/mantidproject/mantid/pull/24286) - Rebin2D changed to work with fractional area tracking on plain Workspace2D
+* *new* [PR24289](https://github.com/mantidproject/mantid/pull/24289) - Add an option to set the number of lines of log messages to retain
 * *new* [PR24291](https://github.com/mantidproject/mantid/pull/24291) - EQSANS adjust detector bank position when loading the instrument
 * *new* [PR24299](https://github.com/mantidproject/mantid/pull/24299) - Moved scanIntervals() outside for loop to optimize MergeRuns
 * *new* [PR24300](https://github.com/mantidproject/mantid/pull/24300) - Update Windows buildscripts to MSVS 2017
+* *new* [PR24304](https://github.com/mantidproject/mantid/pull/24304) - Fixing Muon Testing Docs
