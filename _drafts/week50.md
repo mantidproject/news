@@ -11,6 +11,7 @@ Detailed Merges for Dec 10 to 16, 2018
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2018-12-11..2018-12-16)
 
+* *new* [PR23122](https://github.com/mantidproject/mantid/pull/23122) - Remove unnecessary null pointer checks
 * *new* [PR23221](https://github.com/mantidproject/mantid/pull/23221) - Indirect - F(Q) Fit - Only display EISF/Width in drop-down menu if found in workspace
 * *new* [PR23549](https://github.com/mantidproject/mantid/pull/23549) - Add flood correction to the reflectometry gui
 * *new* [PR23643](https://github.com/mantidproject/mantid/pull/23643) - Muon - Core Code; Groups and Pairs
