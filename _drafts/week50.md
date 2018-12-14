@@ -38,5 +38,8 @@ Detailed Merges for Dec 10 to 16, 2018
 * *new* [PR24301](https://github.com/mantidproject/mantid/pull/24301) - Update IN5 pixel shape, monitor detID
 * *new* [PR24304](https://github.com/mantidproject/mantid/pull/24304) - Fixing Muon Testing Docs
 * *new* [PR24309](https://github.com/mantidproject/mantid/pull/24309) - Configure Mantid.properties for RelWithDebInfo MSVC build
+* *new* [PR24310](https://github.com/mantidproject/mantid/pull/24310) - Fixes VSI crash for Pick Mode and threshold with no data
+* *new* [PR24313](https://github.com/mantidproject/mantid/pull/24313) - Indirect Simulations - Move and disable the Run button
 * *new* [PR24318](https://github.com/mantidproject/mantid/pull/24318) - Update OptimizeCrystalPlacement
 * *new* [PR24319](https://github.com/mantidproject/mantid/pull/24319) - Refs #24287. fixing a bug when mantidPlotPath is None.
+* *new* [PR24325](https://github.com/mantidproject/mantid/pull/24325) - move libMantidCatalog.so to lib/
