@@ -20,6 +20,7 @@ Detailed Merges for Dec 10 to 16, 2018
 * *new* [PR23770](https://github.com/mantidproject/mantid/pull/23770) - ISIS SANS: Add save other window
 * *new* [PR24108](https://github.com/mantidproject/mantid/pull/24108) - Add new INTER system test
 * *new* [PR24154](https://github.com/mantidproject/mantid/pull/24154) - Indirect IqtFit - Prevent plotting of one spectra
+* *new* [PR24205](https://github.com/mantidproject/mantid/pull/24205) - Resample colorfill plot for faster interactive viewing.
 * *new* [PR24249](https://github.com/mantidproject/mantid/pull/24249) - IDF Update: Add LARMOR definition with front detector moved
 * *new* [PR24254](https://github.com/mantidproject/mantid/pull/24254) - TOFTOF GUI: add empty can factor for vanadium
 * *new* [PR24255](https://github.com/mantidproject/mantid/pull/24255) - Indirect - Disable Fit and Fit Sequential while fitting
@@ -42,5 +43,6 @@ Detailed Merges for Dec 10 to 16, 2018
 * *new* [PR24313](https://github.com/mantidproject/mantid/pull/24313) - Indirect Simulations - Move and disable the Run button
 * *new* [PR24318](https://github.com/mantidproject/mantid/pull/24318) - Update OptimizeCrystalPlacement
 * *new* [PR24319](https://github.com/mantidproject/mantid/pull/24319) - Refs #24287. fixing a bug when mantidPlotPath is None.
+* *new* [PR24321](https://github.com/mantidproject/mantid/pull/24321) - Print sample log's units, if present
 * *new* [PR24325](https://github.com/mantidproject/mantid/pull/24325) - move libMantidCatalog.so to lib/
 * *new* [PR24327](https://github.com/mantidproject/mantid/pull/24327) - LoadIsawPeaks loads calibration correctly
