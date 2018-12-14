@@ -43,3 +43,4 @@ Detailed Merges for Dec 10 to 16, 2018
 * *new* [PR24318](https://github.com/mantidproject/mantid/pull/24318) - Update OptimizeCrystalPlacement
 * *new* [PR24319](https://github.com/mantidproject/mantid/pull/24319) - Refs #24287. fixing a bug when mantidPlotPath is None.
 * *new* [PR24325](https://github.com/mantidproject/mantid/pull/24325) - move libMantidCatalog.so to lib/
+* *new* [PR24327](https://github.com/mantidproject/mantid/pull/24327) - LoadIsawPeaks loads calibration correctly
