@@ -18,3 +18,5 @@ Detailed Merges for Dec 17 to 23, 2018
 * *new* [PR24344](https://github.com/mantidproject/mantid/pull/24344) - Update PropertyWithValue to use pass-by-value idiom
 * *new* [PR24349](https://github.com/mantidproject/mantid/pull/24349) - Fix MacOS packaging
 * *new* [PR24353](https://github.com/mantidproject/mantid/pull/24353) - Change SNS to use ONCAT
+* *new* [PR24362](https://github.com/mantidproject/mantid/pull/24362) - Revert "Ornl sans loaders"
+* *new* [PR24365](https://github.com/mantidproject/mantid/pull/24365) - Skip PlottingViewPlotFunctions test on windows
