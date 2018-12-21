@@ -25,6 +25,7 @@ Detailed Merges for Dec 17 to 23, 2018
 * *new* [PR24356](https://github.com/mantidproject/mantid/pull/24356) - Indirect Data Analysis - Elwin plot spectrum options
 * *new* [PR24361](https://github.com/mantidproject/mantid/pull/24361) - All AllTests target to Framework-only builds
 * *new* [PR24362](https://github.com/mantidproject/mantid/pull/24362) - Revert "Ornl sans loaders"
+* *new* [PR24363](https://github.com/mantidproject/mantid/pull/24363) - Added missing tolerances for CompressEvents in AlignAndFocusPowderFromFiles
 * *new* [PR24365](https://github.com/mantidproject/mantid/pull/24365) - Skip PlottingViewPlotFunctions test on windows
 * *new* [PR24367](https://github.com/mantidproject/mantid/pull/24367) - Indirect ConvFit - Load Dave ASCII files
 * *new* [PR24371](https://github.com/mantidproject/mantid/pull/24371) - Fix system test reference data
