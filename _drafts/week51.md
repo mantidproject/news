@@ -15,6 +15,7 @@ Detailed Merges for Dec 17 to 23, 2018
 * *new* [PR23672](https://github.com/mantidproject/mantid/pull/23672) - Muon - Widget; Load Run Widget
 * *new* [PR24211](https://github.com/mantidproject/mantid/pull/24211) - Extend running test documentation
 * *new* [PR24316](https://github.com/mantidproject/mantid/pull/24316) - LoadDiffCal error message
+* *new* [PR24331](https://github.com/mantidproject/mantid/pull/24331) - Add SetCrystalLocation
 * *new* [PR24332](https://github.com/mantidproject/mantid/pull/24332) - SEQ map detector name to number
 * *new* [PR24334](https://github.com/mantidproject/mantid/pull/24334) - Ornl sans loaders
 * *new* [PR24340](https://github.com/mantidproject/mantid/pull/24340) - Indirect F(Q)Fit - Plot Spectrum spinbox updating to wrong value when Fit type is changed
