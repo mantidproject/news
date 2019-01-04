@@ -12,6 +12,7 @@ Detailed Merges for Dec 31, 2018 to Jan 6, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-01-01..2019-01-06)
 
 * *new* [PR24104](https://github.com/mantidproject/mantid/pull/24104) - Vates testing docs
+* *new* [PR24134](https://github.com/mantidproject/mantid/pull/24134) - Workbench: Project Save - Workspaces Only
 * *new* [PR24271](https://github.com/mantidproject/mantid/pull/24271) - Ornl sans sensitivity calculation
 * *new* [PR24343](https://github.com/mantidproject/mantid/pull/24343) - Event filtering documentation
 * *new* [PR24389](https://github.com/mantidproject/mantid/pull/24389) - Correct sourcelink in AbsorptionCorrection docs
