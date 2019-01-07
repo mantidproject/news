@@ -15,3 +15,4 @@ Detailed Merges for Jan 7 to 13, 2019
 * *new* [PR24307](https://github.com/mantidproject/mantid/pull/24307) - Developer documentation for the 'scripts' and 'qt' directories
 * *new* [PR24358](https://github.com/mantidproject/mantid/pull/24358) - Fitting tool in workbench
 * *new* [PR24406](https://github.com/mantidproject/mantid/pull/24406) - Set the default facility and instrument in LoadILLDiffractionTest
+* *new* [PR24413](https://github.com/mantidproject/mantid/pull/24413) - Set colorfill plot origin to match pcolormesh
