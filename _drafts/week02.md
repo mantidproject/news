@@ -22,4 +22,6 @@ Detailed Merges for Jan 7 to 13, 2019
 * *new* [PR24410](https://github.com/mantidproject/mantid/pull/24410) - BinaryOperation updated
 * *new* [PR24412](https://github.com/mantidproject/mantid/pull/24412) - Reduce comparisons of logs in AlignAndFocus chunks
 * *new* [PR24413](https://github.com/mantidproject/mantid/pull/24413) - Set colorfill plot origin to match pcolormesh
+* *new* [PR24425](https://github.com/mantidproject/mantid/pull/24425) - Indirect Data Analysis - Error bars for results
 * *new* [PR24433](https://github.com/mantidproject/mantid/pull/24433) - Make Tooltips Readable on Ubuntu18
+* *new* [PR24443](https://github.com/mantidproject/mantid/pull/24443) - EQSANS adjust detector bank position when loading the instrument
