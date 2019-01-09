@@ -19,8 +19,10 @@ Detailed Merges for Jan 7 to 13, 2019
 * *new* [PR24303](https://github.com/mantidproject/mantid/pull/24303) - ConvFitDataPresenter and JumpFitDataPresenter Unit tests
 * *new* [PR24307](https://github.com/mantidproject/mantid/pull/24307) - Developer documentation for the 'scripts' and 'qt' directories
 * *new* [PR24324](https://github.com/mantidproject/mantid/pull/24324) - Workbench Table Workspace Display
+* *new* [PR24335](https://github.com/mantidproject/mantid/pull/24335) - Add Emu workflow support part 2
 * *new* [PR24358](https://github.com/mantidproject/mantid/pull/24358) - Fitting tool in workbench
 * *new* [PR24359](https://github.com/mantidproject/mantid/pull/24359) - Fix BinEdgeAxis in WorkspaceCreation and ExtractSpectra
+* *new* [PR24403](https://github.com/mantidproject/mantid/pull/24403) - Update Merlin IDF and IPF
 * *new* [PR24406](https://github.com/mantidproject/mantid/pull/24406) - Set the default facility and instrument in LoadILLDiffractionTest
 * *new* [PR24409](https://github.com/mantidproject/mantid/pull/24409) - Fixes and unit tests for AlignAndFocusPowder Refs #23888
 * *new* [PR24410](https://github.com/mantidproject/mantid/pull/24410) - BinaryOperation updated
