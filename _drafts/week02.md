@@ -11,6 +11,7 @@ Detailed Merges for Jan 7 to 13, 2019
 -------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-01-08..2019-01-13)
 
+* *new* [PR23008](https://github.com/mantidproject/mantid/pull/23008) - WorkspaceFactory : Remove from Algorithms/src/A*-P*
 * *new* [PR23873](https://github.com/mantidproject/mantid/pull/23873) - Added LoadSampleEnvironment Algorithm
 * *new* [PR24015](https://github.com/mantidproject/mantid/pull/24015) - Export fit browser to python.
 * *new* [PR24096](https://github.com/mantidproject/mantid/pull/24096) - IndirectDataTablePresenter Unit tests
@@ -31,6 +32,7 @@ Detailed Merges for Jan 7 to 13, 2019
 * *new* [PR24410](https://github.com/mantidproject/mantid/pull/24410) - BinaryOperation updated
 * *new* [PR24412](https://github.com/mantidproject/mantid/pull/24412) - Reduce comparisons of logs in AlignAndFocus chunks
 * *new* [PR24413](https://github.com/mantidproject/mantid/pull/24413) - Set colorfill plot origin to match pcolormesh
+* *new* [PR24423](https://github.com/mantidproject/mantid/pull/24423) - Plot HKL in summed miniplot on instrument view
 * *new* [PR24425](https://github.com/mantidproject/mantid/pull/24425) - Indirect Data Analysis - Error bars for results
 * *new* [PR24431](https://github.com/mantidproject/mantid/pull/24431) - Clarification of geometry and material documents
 * *new* [PR24433](https://github.com/mantidproject/mantid/pull/24433) - Make Tooltips Readable on Ubuntu18
