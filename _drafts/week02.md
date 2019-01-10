@@ -38,3 +38,4 @@ Detailed Merges for Jan 7 to 13, 2019
 * *new* [PR24433](https://github.com/mantidproject/mantid/pull/24433) - Make Tooltips Readable on Ubuntu18
 * *new* [PR24443](https://github.com/mantidproject/mantid/pull/24443) - EQSANS adjust detector bank position when loading the instrument
 * *new* [PR24447](https://github.com/mantidproject/mantid/pull/24447) - Minor documentation changes
+* *new* [PR24454](https://github.com/mantidproject/mantid/pull/24454) - Date-split EQ-SANS instrument definition file
