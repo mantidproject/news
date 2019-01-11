@@ -24,6 +24,7 @@ Detailed Merges for Jan 7 to 13, 2019
 * *new* [PR24326](https://github.com/mantidproject/mantid/pull/24326) - Indirect Data Analysis - Keep open option for Multiple Input
 * *new* [PR24335](https://github.com/mantidproject/mantid/pull/24335) - Add Emu workflow support part 2
 * *new* [PR24336](https://github.com/mantidproject/mantid/pull/24336) - Workbench: Project Save for plots
+* *new* [PR24352](https://github.com/mantidproject/mantid/pull/24352) - DownloadInstrument segfault in docker and conda
 * *new* [PR24358](https://github.com/mantidproject/mantid/pull/24358) - Fitting tool in workbench
 * *new* [PR24359](https://github.com/mantidproject/mantid/pull/24359) - Fix BinEdgeAxis in WorkspaceCreation and ExtractSpectra
 * *new* [PR24403](https://github.com/mantidproject/mantid/pull/24403) - Update Merlin IDF and IPF
@@ -40,3 +41,4 @@ Detailed Merges for Jan 7 to 13, 2019
 * *new* [PR24447](https://github.com/mantidproject/mantid/pull/24447) - Minor documentation changes
 * *new* [PR24454](https://github.com/mantidproject/mantid/pull/24454) - Date-split EQ-SANS instrument definition file
 * *new* [PR24460](https://github.com/mantidproject/mantid/pull/24460) - Fix fit browser workspace index bug
+* *new* [PR24468](https://github.com/mantidproject/mantid/pull/24468) - Show error and stop CMake configuration if .NET 2 is not available
