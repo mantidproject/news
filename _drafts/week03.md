@@ -23,5 +23,6 @@ Detailed Merges for Jan 14 to 20, 2019
 * *new* [PR24474](https://github.com/mantidproject/mantid/pull/24474) - Stop crash when writing too many errors to stderr wituout an external console to write to
 * *new* [PR24496](https://github.com/mantidproject/mantid/pull/24496) - Fix not showing last bin boundary in X values
 * *new* [PR24497](https://github.com/mantidproject/mantid/pull/24497) - Prevent a crash when property has no value attribute
+* *new* [PR24498](https://github.com/mantidproject/mantid/pull/24498) - Restrict the Details window to only 1 instance
 * *new* [PR24502](https://github.com/mantidproject/mantid/pull/24502) - Columns in Matrix and Table workspace displays are now adjustable
 * *new* [PR24503](https://github.com/mantidproject/mantid/pull/24503) - Minor fix to absorption corrections
