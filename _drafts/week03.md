@@ -11,6 +11,8 @@ Detailed Merges for Jan 14 to 20, 2019
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-01-15..2019-01-20)
 
+* *new* [PR23630](https://github.com/mantidproject/mantid/pull/23630) - Reflectometry GUI restructuring 1: Settings tabs
+* *new* [PR24221](https://github.com/mantidproject/mantid/pull/24221) - Replace PyEpics with CaChannel in GetLiveInstrumentValue
 * *new* [PR24270](https://github.com/mantidproject/mantid/pull/24270) - SCD interface: proton charge if no monitors and set goniometer
 * *new* [PR24328](https://github.com/mantidproject/mantid/pull/24328) - Stop Hard Crash on JobTreeView Enter Press
 * *new* [PR24338](https://github.com/mantidproject/mantid/pull/24338) - Multiple plotting GUI
@@ -30,3 +32,4 @@ Detailed Merges for Jan 14 to 20, 2019
 * *new* [PR24503](https://github.com/mantidproject/mantid/pull/24503) - Minor fix to absorption corrections
 * *new* [PR24507](https://github.com/mantidproject/mantid/pull/24507) - CodeEditor: Set executing state after the code has been retrieved
 * *new* [PR24513](https://github.com/mantidproject/mantid/pull/24513) - Follow changes in plotly
+* *new* [PR24523](https://github.com/mantidproject/mantid/pull/24523) - Discard preservation of events for monitor counts
