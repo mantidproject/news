@@ -37,9 +37,13 @@ Detailed Merges for Jan 14 to 20, 2019
 * *new* [PR24502](https://github.com/mantidproject/mantid/pull/24502) - Columns in Matrix and Table workspace displays are now adjustable
 * *new* [PR24503](https://github.com/mantidproject/mantid/pull/24503) - Minor fix to absorption corrections
 * *new* [PR24505](https://github.com/mantidproject/mantid/pull/24505) - Rebin2D: avoid NaNs by skipping bins of zero size
+* *new* [PR24506](https://github.com/mantidproject/mantid/pull/24506) - Call OptimizeCrystalPlacement more than once
 * *new* [PR24507](https://github.com/mantidproject/mantid/pull/24507) - CodeEditor: Set executing state after the code has been retrieved
 * *new* [PR24513](https://github.com/mantidproject/mantid/pull/24513) - Follow changes in plotly
+* *new* [PR24516](https://github.com/mantidproject/mantid/pull/24516) - New algorithm for MD Normalization for single crystal data
 * *new* [PR24519](https://github.com/mantidproject/mantid/pull/24519) - JobTreeView Identical Behaviour for Enter and Return Keypresses
 * *new* [PR24523](https://github.com/mantidproject/mantid/pull/24523) - Discard preservation of events for monitor counts
 * *new* [PR24525](https://github.com/mantidproject/mantid/pull/24525) - Avoid linking to both libomp and libgomp on Ubuntu 18.04
 * *new* [PR24536](https://github.com/mantidproject/mantid/pull/24536) - MR: use simple background average
+* *new* [PR24540](https://github.com/mantidproject/mantid/pull/24540) - Add detector bank to TOPAZ IDF
+* *new* [PR24548](https://github.com/mantidproject/mantid/pull/24548) - Try both arg lists for Layout
