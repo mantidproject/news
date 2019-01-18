@@ -23,10 +23,12 @@ Detailed Merges for Jan 14 to 20, 2019
 * *new* [PR24383](https://github.com/mantidproject/mantid/pull/24383) - Fix Variable Q Binning from SANS User File
 * *new* [PR24414](https://github.com/mantidproject/mantid/pull/24414) - Workbench: Update plots if the workspace data changes
 * *new* [PR24420](https://github.com/mantidproject/mantid/pull/24420) - Remove Unecessary calls to ISIS Data Archive
+* *new* [PR24451](https://github.com/mantidproject/mantid/pull/24451) - Initial addition for CalculateEfficiencyCorrection algorithm
 * *new* [PR24455](https://github.com/mantidproject/mantid/pull/24455) - Fix failing system test: IRISIqtAndIqtFitTest
 * *new* [PR24463](https://github.com/mantidproject/mantid/pull/24463) - Tests for TableWorkspaceDisplay presenter
 * *new* [PR24469](https://github.com/mantidproject/mantid/pull/24469) - Add Ctrl+Enter shortcut to execute code in the CodeEditor
 * *new* [PR24471](https://github.com/mantidproject/mantid/pull/24471) - Add PyCharm environment file to CMake configuration
+* *new* [PR24472](https://github.com/mantidproject/mantid/pull/24472) - Cleanup Histogram usage
 * *new* [PR24474](https://github.com/mantidproject/mantid/pull/24474) - Stop crash when writing too many errors to stderr wituout an external console to write to
 * *new* [PR24488](https://github.com/mantidproject/mantid/pull/24488) - Indirect Elwin - Load without history option
 * *new* [PR24496](https://github.com/mantidproject/mantid/pull/24496) - Fix not showing last bin boundary in X values
@@ -34,7 +36,9 @@ Detailed Merges for Jan 14 to 20, 2019
 * *new* [PR24498](https://github.com/mantidproject/mantid/pull/24498) - Restrict the Details window to only 1 instance
 * *new* [PR24502](https://github.com/mantidproject/mantid/pull/24502) - Columns in Matrix and Table workspace displays are now adjustable
 * *new* [PR24503](https://github.com/mantidproject/mantid/pull/24503) - Minor fix to absorption corrections
+* *new* [PR24505](https://github.com/mantidproject/mantid/pull/24505) - Rebin2D: avoid NaNs by skipping bins of zero size
 * *new* [PR24507](https://github.com/mantidproject/mantid/pull/24507) - CodeEditor: Set executing state after the code has been retrieved
 * *new* [PR24513](https://github.com/mantidproject/mantid/pull/24513) - Follow changes in plotly
+* *new* [PR24519](https://github.com/mantidproject/mantid/pull/24519) - JobTreeView Identical Behaviour for Enter and Return Keypresses
 * *new* [PR24523](https://github.com/mantidproject/mantid/pull/24523) - Discard preservation of events for monitor counts
 * *new* [PR24525](https://github.com/mantidproject/mantid/pull/24525) - Avoid linking to both libomp and libgomp on Ubuntu 18.04
