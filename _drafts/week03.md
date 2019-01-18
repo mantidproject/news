@@ -42,3 +42,4 @@ Detailed Merges for Jan 14 to 20, 2019
 * *new* [PR24519](https://github.com/mantidproject/mantid/pull/24519) - JobTreeView Identical Behaviour for Enter and Return Keypresses
 * *new* [PR24523](https://github.com/mantidproject/mantid/pull/24523) - Discard preservation of events for monitor counts
 * *new* [PR24525](https://github.com/mantidproject/mantid/pull/24525) - Avoid linking to both libomp and libgomp on Ubuntu 18.04
+* *new* [PR24536](https://github.com/mantidproject/mantid/pull/24536) - MR: use simple background average
