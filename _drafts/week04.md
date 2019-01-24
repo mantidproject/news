@@ -36,8 +36,8 @@ Detailed Merges for Jan 21 to 27, 2019
 * [PR24530](https://github.com/mantidproject/mantid/pull/24530) - Indirect Data Analysis - Multiple input Unexpected error
 * [PR24535](https://github.com/mantidproject/mantid/pull/24535) - Optimize sample position for each run
 * [PR24542](https://github.com/mantidproject/mantid/pull/24542) - Cleanup `blocksize()` usage
-* *new* [PR24550](https://github.com/mantidproject/mantid/pull/24550) - Increased logging level of creating geometry cache because of slow creation
+* [PR24550](https://github.com/mantidproject/mantid/pull/24550) - Increased logging level of creating geometry cache because of slow creation
 * [PR24566](https://github.com/mantidproject/mantid/pull/24566) - Fix error reporter inside MantidPlot
 * [PR24571](https://github.com/mantidproject/mantid/pull/24571) - Fix TableWorkspaceDisplay resize and add show data context
 * [PR24574](https://github.com/mantidproject/mantid/pull/24574) - MR: Add option to clean data
-* *new* [PR24585](https://github.com/mantidproject/mantid/pull/24585) - Add super-class call for MWD resize event
+* [PR24585](https://github.com/mantidproject/mantid/pull/24585) - Add super-class call for MWD resize event
