@@ -2,9 +2,9 @@
 layout: onto_master
 date: 2018-12-31
 author: Peter Peterson
-title: Updates Week 1 of 2018
+title: Updates Week 1 of 2019
 ---
-Updates for Week 1 of 2018
+Updates for Week 1 of 2019
 --------------------------
 
 * Workbench project saves workspaces
