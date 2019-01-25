@@ -45,5 +45,7 @@ Detailed Merges for Jan 21 to 27, 2019
 * [PR24574](https://github.com/mantidproject/mantid/pull/24574) - MR: Add option to clean data
 * [PR24585](https://github.com/mantidproject/mantid/pull/24585) - Add super-class call for MWD resize event
 * *new* [PR24586](https://github.com/mantidproject/mantid/pull/24586) - Fix column types returned by TableWorkspace in Python
+* *new* [PR24589](https://github.com/mantidproject/mantid/pull/24589) - Add script execution timestamp to editor status
+* *new* [PR24590](https://github.com/mantidproject/mantid/pull/24590) - BASIS banks selections depends on reflection selection
 * *new* [PR24600](https://github.com/mantidproject/mantid/pull/24600) - Add RunNumber to Each Workspace in Multi-Period Event Data
 * *new* [PR24602](https://github.com/mantidproject/mantid/pull/24602) - Updated PyCharm project structure instructions, and local debugging instructions
