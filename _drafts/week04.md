@@ -22,6 +22,7 @@ Detailed Merges for Jan 21 to 27, 2019
 
 * [PR23651](https://github.com/mantidproject/mantid/pull/23651) - Muon - Widget; Muon Grouping Table
 * [PR23652](https://github.com/mantidproject/mantid/pull/23652) - Muon - Widget; Pairing Table
+* *new* [PR23654](https://github.com/mantidproject/mantid/pull/23654) - Muon - Widget; Home Tab Instrument Widget
 * [PR23655](https://github.com/mantidproject/mantid/pull/23655) - Muon - Widget; Home Tab Grouping Widget
 * [PR23673](https://github.com/mantidproject/mantid/pull/23673) - Muon - Widget; Load Widget
 * [PR23951](https://github.com/mantidproject/mantid/pull/23951) - Refactor wish to use align and focus powder
@@ -43,3 +44,6 @@ Detailed Merges for Jan 21 to 27, 2019
 * [PR24571](https://github.com/mantidproject/mantid/pull/24571) - Fix TableWorkspaceDisplay resize and add show data context
 * [PR24574](https://github.com/mantidproject/mantid/pull/24574) - MR: Add option to clean data
 * [PR24585](https://github.com/mantidproject/mantid/pull/24585) - Add super-class call for MWD resize event
+* *new* [PR24586](https://github.com/mantidproject/mantid/pull/24586) - Fix column types returned by TableWorkspace in Python
+* *new* [PR24600](https://github.com/mantidproject/mantid/pull/24600) - Add RunNumber to Each Workspace in Multi-Period Event Data
+* *new* [PR24602](https://github.com/mantidproject/mantid/pull/24602) - Updated PyCharm project structure instructions, and local debugging instructions
