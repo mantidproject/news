@@ -40,6 +40,7 @@ Detailed Merges for Jan 21 to 27, 2019
 * [PR24535](https://github.com/mantidproject/mantid/pull/24535) - Optimize sample position for each run
 * [PR24542](https://github.com/mantidproject/mantid/pull/24542) - Cleanup `blocksize()` usage
 * [PR24550](https://github.com/mantidproject/mantid/pull/24550) - Increased logging level of creating geometry cache because of slow creation
+* *new* [PR24563](https://github.com/mantidproject/mantid/pull/24563) - Update Matrix/TableWorkspaceDisplay and InstrumentView on workspace change
 * [PR24566](https://github.com/mantidproject/mantid/pull/24566) - Fix error reporter inside MantidPlot
 * [PR24571](https://github.com/mantidproject/mantid/pull/24571) - Fix TableWorkspaceDisplay resize and add show data context
 * [PR24574](https://github.com/mantidproject/mantid/pull/24574) - MR: Add option to clean data
@@ -47,5 +48,6 @@ Detailed Merges for Jan 21 to 27, 2019
 * *new* [PR24586](https://github.com/mantidproject/mantid/pull/24586) - Fix column types returned by TableWorkspace in Python
 * *new* [PR24589](https://github.com/mantidproject/mantid/pull/24589) - Add script execution timestamp to editor status
 * *new* [PR24590](https://github.com/mantidproject/mantid/pull/24590) - BASIS banks selections depends on reflection selection
+* *new* [PR24594](https://github.com/mantidproject/mantid/pull/24594) - Some fixes for issues found in testing of MDNorm
 * *new* [PR24600](https://github.com/mantidproject/mantid/pull/24600) - Add RunNumber to Each Workspace in Multi-Period Event Data
 * *new* [PR24602](https://github.com/mantidproject/mantid/pull/24602) - Updated PyCharm project structure instructions, and local debugging instructions
