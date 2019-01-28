@@ -15,6 +15,10 @@ Updates for Week 4 of 2019
 * Muon interface updates and improvements
 * SCD reduction has the ability to optimize sample position for each run
 * Fix cross-platform/python2-3 issues in error reporter
+* [Updated PyCharm project structure instructions](https://developer.mantidproject.org/GettingStartedWithPyCharm.html), and local debugging instructions
+* Workbench bugfixes for viewing dat from `MatrixWorkspace` and `TableWorkspace`
+* `TableWorkspace` column types better reported in python
+* Improved access of geometry from Python
 
 Detailed Merges for Jan 21 to 27, 2019
 --------------------------------------
@@ -22,32 +26,32 @@ Detailed Merges for Jan 21 to 27, 2019
 
 * [PR23651](https://github.com/mantidproject/mantid/pull/23651) - Muon - Widget; Muon Grouping Table
 * [PR23652](https://github.com/mantidproject/mantid/pull/23652) - Muon - Widget; Pairing Table
-* *new* [PR23654](https://github.com/mantidproject/mantid/pull/23654) - Muon - Widget; Home Tab Instrument Widget
+* [PR23654](https://github.com/mantidproject/mantid/pull/23654) - Muon - Widget; Home Tab Instrument Widget
 * [PR23655](https://github.com/mantidproject/mantid/pull/23655) - Muon - Widget; Home Tab Grouping Widget
 * [PR23673](https://github.com/mantidproject/mantid/pull/23673) - Muon - Widget; Load Widget
 * [PR23951](https://github.com/mantidproject/mantid/pull/23951) - Refactor wish to use align and focus powder
 * [PR24082](https://github.com/mantidproject/mantid/pull/24082) - Package Mantid Workbench for OSX
-* *new* [PR24374](https://github.com/mantidproject/mantid/pull/24374) - Reflectometry GUI restructuring 4: Runs tab
+* [PR24374](https://github.com/mantidproject/mantid/pull/24374) - Reflectometry GUI restructuring 4: Runs tab
 * [PR24390](https://github.com/mantidproject/mantid/pull/24390) - Restore full workspace history on WorkspaceGroups
 * [PR24450](https://github.com/mantidproject/mantid/pull/24450) - Allow FileFinder findRuns to Search for Vector of Provided Extensions
 * [PR24456](https://github.com/mantidproject/mantid/pull/24456) - Indirect Data Analysis - Undock mini plots
 * [PR24464](https://github.com/mantidproject/mantid/pull/24464) - Indirect - Automatic rqw contour plot in sqw interface
 * [PR24465](https://github.com/mantidproject/mantid/pull/24465) - Do not double declare properties
-* *new* [PR24473](https://github.com/mantidproject/mantid/pull/24473) - Fixes for Geometry Access via Python
+* [PR24473](https://github.com/mantidproject/mantid/pull/24473) - Fixes for Geometry Access via Python
 * [PR24494](https://github.com/mantidproject/mantid/pull/24494) - Workbench: Project Save saves all plot types and not just basic plots
 * [PR24508](https://github.com/mantidproject/mantid/pull/24508) - Add some more tests for mantid.plots.helperfunctions
 * [PR24530](https://github.com/mantidproject/mantid/pull/24530) - Indirect Data Analysis - Multiple input Unexpected error
 * [PR24535](https://github.com/mantidproject/mantid/pull/24535) - Optimize sample position for each run
 * [PR24542](https://github.com/mantidproject/mantid/pull/24542) - Cleanup `blocksize()` usage
 * [PR24550](https://github.com/mantidproject/mantid/pull/24550) - Increased logging level of creating geometry cache because of slow creation
-* *new* [PR24563](https://github.com/mantidproject/mantid/pull/24563) - Update Matrix/TableWorkspaceDisplay and InstrumentView on workspace change
+* [PR24563](https://github.com/mantidproject/mantid/pull/24563) - Update Matrix/TableWorkspaceDisplay and InstrumentView on workspace change
 * [PR24566](https://github.com/mantidproject/mantid/pull/24566) - Fix error reporter inside MantidPlot
 * [PR24571](https://github.com/mantidproject/mantid/pull/24571) - Fix TableWorkspaceDisplay resize and add show data context
 * [PR24574](https://github.com/mantidproject/mantid/pull/24574) - MR: Add option to clean data
 * [PR24585](https://github.com/mantidproject/mantid/pull/24585) - Add super-class call for MWD resize event
-* *new* [PR24586](https://github.com/mantidproject/mantid/pull/24586) - Fix column types returned by TableWorkspace in Python
-* *new* [PR24589](https://github.com/mantidproject/mantid/pull/24589) - Add script execution timestamp to editor status
-* *new* [PR24590](https://github.com/mantidproject/mantid/pull/24590) - BASIS banks selections depends on reflection selection
-* *new* [PR24594](https://github.com/mantidproject/mantid/pull/24594) - Some fixes for issues found in testing of MDNorm
-* *new* [PR24600](https://github.com/mantidproject/mantid/pull/24600) - Add RunNumber to Each Workspace in Multi-Period Event Data
-* *new* [PR24602](https://github.com/mantidproject/mantid/pull/24602) - Updated PyCharm project structure instructions, and local debugging instructions
+* [PR24586](https://github.com/mantidproject/mantid/pull/24586) - Fix column types returned by TableWorkspace in Python
+* [PR24589](https://github.com/mantidproject/mantid/pull/24589) - Add script execution timestamp to editor status
+* [PR24590](https://github.com/mantidproject/mantid/pull/24590) - BASIS banks selections depends on reflection selection
+* [PR24594](https://github.com/mantidproject/mantid/pull/24594) - Some fixes for issues found in testing of MDNorm
+* [PR24600](https://github.com/mantidproject/mantid/pull/24600) - Add RunNumber to Each Workspace in Multi-Period Event Data
+* [PR24602](https://github.com/mantidproject/mantid/pull/24602) - Updated PyCharm project structure instructions, and local debugging instructions
