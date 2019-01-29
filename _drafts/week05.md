@@ -15,7 +15,9 @@ Detailed Merges for Jan 28 to Feb 3, 2019
 
 * [PR24384](https://github.com/mantidproject/mantid/pull/24384) - Reflectometry GUI restructuring 5: presenter communication
 * [PR24526](https://github.com/mantidproject/mantid/pull/24526) - Indirect - ElasticWindowMultiple doesn't propagate errors
+* *new* [PR24545](https://github.com/mantidproject/mantid/pull/24545) - Indirect Data Analysis - FABADA PDF plotting options
 * [PR24556](https://github.com/mantidproject/mantid/pull/24556) - Enable materials with unknown chemical compositions
+* *new* [PR24599](https://github.com/mantidproject/mantid/pull/24599) - Fix issue with writetosignal tests failing
 * *new* [PR24604](https://github.com/mantidproject/mantid/pull/24604) - Improve developer documentation around pull request reviews
 * [PR24605](https://github.com/mantidproject/mantid/pull/24605) - Add Python API docs for RebinParamsValidator
 * *new* [PR24608](https://github.com/mantidproject/mantid/pull/24608) - Fix transient imports, destroy toolbar on widgetclosed
