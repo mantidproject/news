@@ -31,5 +31,7 @@ Detailed Merges for Jan 28 to Feb 3, 2019
 * [PR24605](https://github.com/mantidproject/mantid/pull/24605) - Add Python API docs for RebinParamsValidator
 * *new* [PR24608](https://github.com/mantidproject/mantid/pull/24608) - Fix transient imports, destroy toolbar on widgetclosed
 * *new* [PR24619](https://github.com/mantidproject/mantid/pull/24619) - Prevent crash when deleting workspace with an open plot
+* *new* [PR24620](https://github.com/mantidproject/mantid/pull/24620) - Doctest info concepts
 * *new* [PR24623](https://github.com/mantidproject/mantid/pull/24623) - Save reflections with modulated indexing in Jana format
 * *new* [PR24627](https://github.com/mantidproject/mantid/pull/24627) - Adding to run info in muon analysis
+* *new* [PR24635](https://github.com/mantidproject/mantid/pull/24635) - DirectILLCollectData: handle broken monitors gracefully
