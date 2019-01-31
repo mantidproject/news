@@ -36,3 +36,4 @@ Detailed Merges for Jan 28 to Feb 3, 2019
 * *new* [PR24624](https://github.com/mantidproject/mantid/pull/24624) - Moved the place where sample closeGroup was called
 * *new* [PR24627](https://github.com/mantidproject/mantid/pull/24627) - Adding to run info in muon analysis
 * *new* [PR24635](https://github.com/mantidproject/mantid/pull/24635) - DirectILLCollectData: handle broken monitors gracefully
+* *new* [PR24639](https://github.com/mantidproject/mantid/pull/24639) - Only process or load rows if not empty
