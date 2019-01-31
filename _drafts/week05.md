@@ -38,3 +38,4 @@ Detailed Merges for Jan 28 to Feb 3, 2019
 * *new* [PR24627](https://github.com/mantidproject/mantid/pull/24627) - Adding to run info in muon analysis
 * *new* [PR24635](https://github.com/mantidproject/mantid/pull/24635) - DirectILLCollectData: handle broken monitors gracefully
 * *new* [PR24639](https://github.com/mantidproject/mantid/pull/24639) - Only process or load rows if not empty
+* *new* [PR24654](https://github.com/mantidproject/mantid/pull/24654) - Add PyStoG as an external project
