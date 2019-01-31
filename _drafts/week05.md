@@ -13,6 +13,7 @@ Detailed Merges for Jan 28 to Feb 3, 2019
 -----------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-01-29..2019-02-03)
 
+* *new* [PR23653](https://github.com/mantidproject/mantid/pull/23653) - Muon - Widget; Grouping Tab
 * *new* [PR23656](https://github.com/mantidproject/mantid/pull/23656) - Muon - Widget; Home Tab Plot and Run Info Widgets
 * *new* [PR23658](https://github.com/mantidproject/mantid/pull/23658) - Muon - Widget; Muon Help Widget
 * *new* [PR24357](https://github.com/mantidproject/mantid/pull/24357) - Autocomplete SampleShape in SANS Table
