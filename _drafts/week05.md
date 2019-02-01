@@ -47,3 +47,4 @@ Detailed Merges for Jan 28 to Feb 3, 2019
 * *new* [PR24667](https://github.com/mantidproject/mantid/pull/24667) - Pass GroupingWorkspace information to CreateCacheFilename in AlignAndFocusPowderFromFiles
 * *new* [PR24668](https://github.com/mantidproject/mantid/pull/24668) - Uniform space separation for Limit strings in user file
 * *new* [PR24672](https://github.com/mantidproject/mantid/pull/24672) - Twin axes
+* *new* [PR24679](https://github.com/mantidproject/mantid/pull/24679) - 2019 a cncs
