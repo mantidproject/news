@@ -31,6 +31,7 @@ Detailed Merges for Jan 28 to Feb 3, 2019
 * *new* [PR24604](https://github.com/mantidproject/mantid/pull/24604) - Improve developer documentation around pull request reviews
 * [PR24605](https://github.com/mantidproject/mantid/pull/24605) - Add Python API docs for RebinParamsValidator
 * *new* [PR24608](https://github.com/mantidproject/mantid/pull/24608) - Fix transient imports, destroy toolbar on widgetclosed
+* *new* [PR24614](https://github.com/mantidproject/mantid/pull/24614) - Indirect IqtFit - Prevent a crash with Plot Current Preview
 * *new* [PR24619](https://github.com/mantidproject/mantid/pull/24619) - Prevent crash when deleting workspace with an open plot
 * *new* [PR24620](https://github.com/mantidproject/mantid/pull/24620) - Doctest info concepts
 * *new* [PR24623](https://github.com/mantidproject/mantid/pull/24623) - Save reflections with modulated indexing in Jana format
@@ -39,3 +40,4 @@ Detailed Merges for Jan 28 to Feb 3, 2019
 * *new* [PR24635](https://github.com/mantidproject/mantid/pull/24635) - DirectILLCollectData: handle broken monitors gracefully
 * *new* [PR24639](https://github.com/mantidproject/mantid/pull/24639) - Only process or load rows if not empty
 * *new* [PR24654](https://github.com/mantidproject/mantid/pull/24654) - Add PyStoG as an external project
+* *new* [PR24667](https://github.com/mantidproject/mantid/pull/24667) - Pass GroupingWorkspace information to CreateCacheFilename in AlignAndFocusPowderFromFiles
