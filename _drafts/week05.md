@@ -38,7 +38,12 @@ Detailed Merges for Jan 28 to Feb 3, 2019
 * *new* [PR24623](https://github.com/mantidproject/mantid/pull/24623) - Save reflections with modulated indexing in Jana format
 * *new* [PR24624](https://github.com/mantidproject/mantid/pull/24624) - Moved the place where sample closeGroup was called
 * *new* [PR24627](https://github.com/mantidproject/mantid/pull/24627) - Adding to run info in muon analysis
+* *new* [PR24631](https://github.com/mantidproject/mantid/pull/24631) - Stop traceback suppression for KeyboardInterrupt
 * *new* [PR24635](https://github.com/mantidproject/mantid/pull/24635) - DirectILLCollectData: handle broken monitors gracefully
 * [PR24639](https://github.com/mantidproject/mantid/pull/24639) - Only process or load rows if not empty
+* *new* [PR24650](https://github.com/mantidproject/mantid/pull/24650) - Indirect Unit tests for fitting models
+* *new* [PR24651](https://github.com/mantidproject/mantid/pull/24651) - Reset SANS user file on loading failure
 * *new* [PR24654](https://github.com/mantidproject/mantid/pull/24654) - Add PyStoG as an external project
 * *new* [PR24667](https://github.com/mantidproject/mantid/pull/24667) - Pass GroupingWorkspace information to CreateCacheFilename in AlignAndFocusPowderFromFiles
+* *new* [PR24668](https://github.com/mantidproject/mantid/pull/24668) - Uniform space separation for Limit strings in user file
+* *new* [PR24672](https://github.com/mantidproject/mantid/pull/24672) - Twin axes
