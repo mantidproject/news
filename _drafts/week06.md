@@ -14,3 +14,4 @@ Detailed Merges for Feb 4 to 10, 2019
 * *new* [PR23783](https://github.com/mantidproject/mantid/pull/23783) - Single crystal calibration of rotations of detectors
 * *new* [PR24342](https://github.com/mantidproject/mantid/pull/24342) - Replace commonBoundaries by isCommonBins and CommonBinsValidator
 * *new* [PR24653](https://github.com/mantidproject/mantid/pull/24653) - Refactor `AlignAndFocusPowderFromFiles` to save and load summed cache
+* *new* [PR24671](https://github.com/mantidproject/mantid/pull/24671) - Converter for powder diffraction real and reciprocal space functions
