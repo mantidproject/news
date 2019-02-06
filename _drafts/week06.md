@@ -14,10 +14,13 @@ Detailed Merges for Feb 4 to 10, 2019
 * *new* [PR23783](https://github.com/mantidproject/mantid/pull/23783) - Single crystal calibration of rotations of detectors
 * *new* [PR24342](https://github.com/mantidproject/mantid/pull/24342) - Replace commonBoundaries by isCommonBins and CommonBinsValidator
 * *new* [PR24609](https://github.com/mantidproject/mantid/pull/24609) - SingleCrystalDiffuseReduction updates
+* *new* [PR24616](https://github.com/mantidproject/mantid/pull/24616) - Indirect Data Analysis - Load workspace when dragged and dropped
 * *new* [PR24626](https://github.com/mantidproject/mantid/pull/24626) - Change marker type for workbench sample logs plot
+* *new* [PR24645](https://github.com/mantidproject/mantid/pull/24645) - ObservingViews now delete themselves on close
 * *new* [PR24653](https://github.com/mantidproject/mantid/pull/24653) - Refactor `AlignAndFocusPowderFromFiles` to save and load summed cache
 * *new* [PR24671](https://github.com/mantidproject/mantid/pull/24671) - Converter for powder diffraction real and reciprocal space functions
 * *new* [PR24673](https://github.com/mantidproject/mantid/pull/24673) - Fixes the bug currently in MayersSampleCorrection
+* *new* [PR24682](https://github.com/mantidproject/mantid/pull/24682) - Close the NeXus file properly in LoadILLTOF
 * *new* [PR24692](https://github.com/mantidproject/mantid/pull/24692) - Fix issue with enginX Script with empty output folder
 * *new* [PR24695](https://github.com/mantidproject/mantid/pull/24695) - Avoid incrementing ref-count during summation.
 * *new* [PR24696](https://github.com/mantidproject/mantid/pull/24696) - Set the loader name at the top of the file
