@@ -12,7 +12,7 @@ Detailed Merges for Feb 4 to 10, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-02-05..2019-02-10)
 
 * *new* [PR23783](https://github.com/mantidproject/mantid/pull/23783) - Single crystal calibration of rotations of detectors
-* *new* [PR24342](https://github.com/mantidproject/mantid/pull/24342) - Replace commonBoundaries by isCommonBins and CommonBinsValidator
+* [PR24342](https://github.com/mantidproject/mantid/pull/24342) - Replace `commonBoundaries` by `isCommonBins` and `CommonBinsValidator`
 * *new* [PR24567](https://github.com/mantidproject/mantid/pull/24567) - 24437 rm line multi plot
 * *new* [PR24609](https://github.com/mantidproject/mantid/pull/24609) - SingleCrystalDiffuseReduction updates
 * *new* [PR24616](https://github.com/mantidproject/mantid/pull/24616) - Indirect Data Analysis - Load workspace when dragged and dropped
