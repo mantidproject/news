@@ -13,8 +13,11 @@ Detailed Merges for Feb 4 to 10, 2019
 
 * *new* [PR23659](https://github.com/mantidproject/mantid/pull/23659) - Muon - Embed Widgets into Interface
 * *new* [PR23783](https://github.com/mantidproject/mantid/pull/23783) - Single crystal calibration of rotations of detectors
+* *new* [PR24046](https://github.com/mantidproject/mantid/pull/24046) - Unscripted tests for SANS GUI v2
 * [PR24342](https://github.com/mantidproject/mantid/pull/24342) - Replace `commonBoundaries` by `isCommonBins` and `CommonBinsValidator`
+* *new* [PR24398](https://github.com/mantidproject/mantid/pull/24398) - Reflectometry GUI restructuring 6: file tidying
 * *new* [PR24567](https://github.com/mantidproject/mantid/pull/24567) - 24437 rm line multi plot
+* *new* [PR24568](https://github.com/mantidproject/mantid/pull/24568) - Skip orphaned detectors in GenerateGroupingPowder
 * *new* [PR24609](https://github.com/mantidproject/mantid/pull/24609) - SingleCrystalDiffuseReduction updates
 * *new* [PR24616](https://github.com/mantidproject/mantid/pull/24616) - Indirect Data Analysis - Load workspace when dragged and dropped
 * *new* [PR24626](https://github.com/mantidproject/mantid/pull/24626) - Change marker type for workbench sample logs plot
@@ -26,3 +29,4 @@ Detailed Merges for Feb 4 to 10, 2019
 * *new* [PR24692](https://github.com/mantidproject/mantid/pull/24692) - Fix issue with enginX Script with empty output folder
 * *new* [PR24695](https://github.com/mantidproject/mantid/pull/24695) - Avoid incrementing ref-count during summation.
 * *new* [PR24696](https://github.com/mantidproject/mantid/pull/24696) - Set the loader name at the top of the file
+* *new* [PR24707](https://github.com/mantidproject/mantid/pull/24707) - added ability to disable default enginx file structure
