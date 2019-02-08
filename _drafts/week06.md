@@ -26,6 +26,7 @@ Detailed Merges for Feb 4 to 10, 2019
 * *new* [PR24645](https://github.com/mantidproject/mantid/pull/24645) - ObservingViews now delete themselves on close
 * *new* [PR24653](https://github.com/mantidproject/mantid/pull/24653) - Refactor `AlignAndFocusPowderFromFiles` to save and load summed cache
 * *new* [PR24658](https://github.com/mantidproject/mantid/pull/24658) - Workbench: Documentation for Project Save
+* *new* [PR24670](https://github.com/mantidproject/mantid/pull/24670) - Indirect Update Documentation
 * *new* [PR24671](https://github.com/mantidproject/mantid/pull/24671) - Converter for powder diffraction real and reciprocal space functions
 * *new* [PR24673](https://github.com/mantidproject/mantid/pull/24673) - Fixes the bug currently in MayersSampleCorrection
 * *new* [PR24682](https://github.com/mantidproject/mantid/pull/24682) - Close the NeXus file properly in LoadILLTOF
@@ -33,9 +34,12 @@ Detailed Merges for Feb 4 to 10, 2019
 * *new* [PR24684](https://github.com/mantidproject/mantid/pull/24684) - Mari definition update
 * *new* [PR24687](https://github.com/mantidproject/mantid/pull/24687) - Add drag and drop of python scripts to editor in workbench
 * *new* [PR24692](https://github.com/mantidproject/mantid/pull/24692) - Fix issue with enginX Script with empty output folder
+* *new* [PR24694](https://github.com/mantidproject/mantid/pull/24694) - Update GUI to use user inputted values if applicable.
 * *new* [PR24695](https://github.com/mantidproject/mantid/pull/24695) - Avoid incrementing ref-count during summation.
 * *new* [PR24696](https://github.com/mantidproject/mantid/pull/24696) - Set the loader name at the top of the file
 * *new* [PR24705](https://github.com/mantidproject/mantid/pull/24705) - Fixed swapped test names in Wish tests
 * *new* [PR24707](https://github.com/mantidproject/mantid/pull/24707) - added ability to disable default enginx file structure
+* *new* [PR24710](https://github.com/mantidproject/mantid/pull/24710) - LoadDiffCal override grouping
 * *new* [PR24713](https://github.com/mantidproject/mantid/pull/24713) - Changes to ISIS WISH POWDER tests to make reliable
 * *new* [PR24720](https://github.com/mantidproject/mantid/pull/24720) - subplot_context python3 failure fixed
+* *new* [PR24725](https://github.com/mantidproject/mantid/pull/24725) - Indirect - Fix Bayes system tests
