@@ -11,3 +11,4 @@ Detailed Merges for Feb 11 to 17, 2019
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-02-12..2019-02-17)
 
+* *new* [PR24418](https://github.com/mantidproject/mantid/pull/24418) - Indirect - Update F(Q) fit functions and documentation
