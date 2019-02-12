@@ -20,3 +20,4 @@ Detailed Merges for Feb 11 to 17, 2019
 * *new* [PR24700](https://github.com/mantidproject/mantid/pull/24700) - Workspace displays status bar
 * *new* [PR24719](https://github.com/mantidproject/mantid/pull/24719) - Add simpleapi import to GeneratePythonScript files
 * *new* [PR24732](https://github.com/mantidproject/mantid/pull/24732) - Overwrite default RKH append property to false in SANS
+* *new* [PR24733](https://github.com/mantidproject/mantid/pull/24733) - Fix updating Matrix display when the workspace is replaced
