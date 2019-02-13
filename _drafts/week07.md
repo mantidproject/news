@@ -26,3 +26,5 @@ Detailed Merges for Feb 11 to 17, 2019
 * *new* [PR24739](https://github.com/mantidproject/mantid/pull/24739) - Stop listing EFixed for each detector pixel in BASIS instrument
 * *new* [PR24741](https://github.com/mantidproject/mantid/pull/24741) - TOPAZ IDF contained wrong bank
 * *new* [PR24751](https://github.com/mantidproject/mantid/pull/24751) - Ornl sans sensitivity
+* *new* [PR24756](https://github.com/mantidproject/mantid/pull/24756) - Turn building the workbench on by default
+* *new* [PR24757](https://github.com/mantidproject/mantid/pull/24757) - Fix sample log comparison in CompareWorkspaces
