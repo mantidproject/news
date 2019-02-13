@@ -15,9 +15,14 @@ Detailed Merges for Feb 11 to 17, 2019
 * *new* [PR23924](https://github.com/mantidproject/mantid/pull/23924) - Pychop fixes
 * *new* [PR24418](https://github.com/mantidproject/mantid/pull/24418) - Indirect - Update F(Q) fit functions and documentation
 * *new* [PR24553](https://github.com/mantidproject/mantid/pull/24553) - CompareWorkspaces: fix comparison of invalid sizes
+* *new* [PR24593](https://github.com/mantidproject/mantid/pull/24593) - LoadEventAndCompress reads logs less often
 * *new* [PR24618](https://github.com/mantidproject/mantid/pull/24618) - Add functions to restore previous script editors
 * *new* [PR24637](https://github.com/mantidproject/mantid/pull/24637) - LinkedUBs algorithm
 * *new* [PR24700](https://github.com/mantidproject/mantid/pull/24700) - Workspace displays status bar
+* *new* [PR24706](https://github.com/mantidproject/mantid/pull/24706) - AlignAndFocusFromFiles Add cache values only once for grouping
 * *new* [PR24719](https://github.com/mantidproject/mantid/pull/24719) - Add simpleapi import to GeneratePythonScript files
 * *new* [PR24732](https://github.com/mantidproject/mantid/pull/24732) - Overwrite default RKH append property to false in SANS
 * *new* [PR24733](https://github.com/mantidproject/mantid/pull/24733) - Fix updating Matrix display when the workspace is replaced
+* *new* [PR24739](https://github.com/mantidproject/mantid/pull/24739) - Stop listing EFixed for each detector pixel in BASIS instrument
+* *new* [PR24741](https://github.com/mantidproject/mantid/pull/24741) - TOPAZ IDF contained wrong bank
+* *new* [PR24751](https://github.com/mantidproject/mantid/pull/24751) - Ornl sans sensitivity
