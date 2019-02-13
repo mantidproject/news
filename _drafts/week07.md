@@ -23,6 +23,7 @@ Detailed Merges for Feb 11 to 17, 2019
 * *new* [PR24719](https://github.com/mantidproject/mantid/pull/24719) - Add simpleapi import to GeneratePythonScript files
 * *new* [PR24732](https://github.com/mantidproject/mantid/pull/24732) - Overwrite default RKH append property to false in SANS
 * *new* [PR24733](https://github.com/mantidproject/mantid/pull/24733) - Fix updating Matrix display when the workspace is replaced
+* *new* [PR24736](https://github.com/mantidproject/mantid/pull/24736) - Instrument 2D view crash
 * *new* [PR24739](https://github.com/mantidproject/mantid/pull/24739) - Stop listing EFixed for each detector pixel in BASIS instrument
 * *new* [PR24741](https://github.com/mantidproject/mantid/pull/24741) - TOPAZ IDF contained wrong bank
 * *new* [PR24751](https://github.com/mantidproject/mantid/pull/24751) - Ornl sans sensitivity
