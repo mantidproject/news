@@ -15,6 +15,7 @@ Detailed Merges for Feb 11 to 17, 2019
 * *new* [PR23924](https://github.com/mantidproject/mantid/pull/23924) - Pychop fixes
 * *new* [PR24418](https://github.com/mantidproject/mantid/pull/24418) - Indirect - Update F(Q) fit functions and documentation
 * *new* [PR24553](https://github.com/mantidproject/mantid/pull/24553) - CompareWorkspaces: fix comparison of invalid sizes
+* *new* [PR24584](https://github.com/mantidproject/mantid/pull/24584) - CylinderAbsorption reads from Sample object
 * *new* [PR24593](https://github.com/mantidproject/mantid/pull/24593) - LoadEventAndCompress reads logs less often
 * *new* [PR24618](https://github.com/mantidproject/mantid/pull/24618) - Add functions to restore previous script editors
 * *new* [PR24637](https://github.com/mantidproject/mantid/pull/24637) - LinkedUBs algorithm
@@ -30,4 +31,8 @@ Detailed Merges for Feb 11 to 17, 2019
 * *new* [PR24751](https://github.com/mantidproject/mantid/pull/24751) - Ornl sans sensitivity
 * *new* [PR24756](https://github.com/mantidproject/mantid/pull/24756) - Turn building the workbench on by default
 * *new* [PR24757](https://github.com/mantidproject/mantid/pull/24757) - Fix sample log comparison in CompareWorkspaces
+* *new* [PR24763](https://github.com/mantidproject/mantid/pull/24763) - Avoid summing empty list of detectors
+* *new* [PR24764](https://github.com/mantidproject/mantid/pull/24764) - Inject the correct PYTHONPATH into error reporter
+* *new* [PR24765](https://github.com/mantidproject/mantid/pull/24765) - Fix IntegrateMDHistoWorkspace for NaNs outside integration range
+* *new* [PR24776](https://github.com/mantidproject/mantid/pull/24776) - Hide the matplotlib toolbar in workbench instrument view
 * *new* [PR24778](https://github.com/mantidproject/mantid/pull/24778) - Only store workspace names in AlignAndFocusPowderFromFiles
