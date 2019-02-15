@@ -21,8 +21,10 @@ Detailed Merges for Feb 11 to 17, 2019
 * *new* [PR24637](https://github.com/mantidproject/mantid/pull/24637) - LinkedUBs algorithm
 * *new* [PR24700](https://github.com/mantidproject/mantid/pull/24700) - Workspace displays status bar
 * *new* [PR24706](https://github.com/mantidproject/mantid/pull/24706) - AlignAndFocusFromFiles Add cache values only once for grouping
+* *new* [PR24716](https://github.com/mantidproject/mantid/pull/24716) - Add ISIS SANS GUI to Workbench
 * *new* [PR24719](https://github.com/mantidproject/mantid/pull/24719) - Add simpleapi import to GeneratePythonScript files
 * *new* [PR24726](https://github.com/mantidproject/mantid/pull/24726) - IntegrateMDHistoWorkspace crash
+* *new* [PR24731](https://github.com/mantidproject/mantid/pull/24731) - Add embedded find/replace dialog to editor widget
 * *new* [PR24732](https://github.com/mantidproject/mantid/pull/24732) - Overwrite default RKH append property to false in SANS
 * *new* [PR24733](https://github.com/mantidproject/mantid/pull/24733) - Fix updating Matrix display when the workspace is replaced
 * *new* [PR24736](https://github.com/mantidproject/mantid/pull/24736) - Instrument 2D view crash
@@ -35,4 +37,5 @@ Detailed Merges for Feb 11 to 17, 2019
 * *new* [PR24764](https://github.com/mantidproject/mantid/pull/24764) - Inject the correct PYTHONPATH into error reporter
 * *new* [PR24765](https://github.com/mantidproject/mantid/pull/24765) - Fix IntegrateMDHistoWorkspace for NaNs outside integration range
 * *new* [PR24776](https://github.com/mantidproject/mantid/pull/24776) - Hide the matplotlib toolbar in workbench instrument view
+* *new* [PR24777](https://github.com/mantidproject/mantid/pull/24777) - Delete Sample Logs windows on close
 * *new* [PR24778](https://github.com/mantidproject/mantid/pull/24778) - Only store workspace names in AlignAndFocusPowderFromFiles
