@@ -17,6 +17,7 @@ Detailed Merges for Feb 18 to 24, 2019
 
 * [PR24544](https://github.com/mantidproject/mantid/pull/24544) - Updated reporting and download urls to https
 * [PR24595](https://github.com/mantidproject/mantid/pull/24595) - Workbench: Project Save for Matrix and Table workspace displays
+* *new* [PR24688](https://github.com/mantidproject/mantid/pull/24688) - Fix Unit Identification in NexusGeometryParser
 * [PR24715](https://github.com/mantidproject/mantid/pull/24715) - Retain old data in Muon GUI
 * [PR24738](https://github.com/mantidproject/mantid/pull/24738) - Handle empty sample names in processed NeXus
 * [PR24773](https://github.com/mantidproject/mantid/pull/24773) - Introduce enum for TrackDirection
