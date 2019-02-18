@@ -19,5 +19,6 @@ Detailed Merges for Feb 18 to 24, 2019
 * *new* [PR24784](https://github.com/mantidproject/mantid/pull/24784) - BASIS: Transfer ModeratorTzeroLinear parameters to reflection-specific parameter files
 * *new* [PR24786](https://github.com/mantidproject/mantid/pull/24786) - Add workspace name to exceptions in NormaliseByCurrent
 * *new* [PR24791](https://github.com/mantidproject/mantid/pull/24791) - System tests: rename tolerance_is_reller to tolerance_is_rel_err
+* *new* [PR24796](https://github.com/mantidproject/mantid/pull/24796) - Prevent TableWorkspaceDisplay error when the data is being reloaded
 * *new* [PR24799](https://github.com/mantidproject/mantid/pull/24799) - Updated Facilities.xml with MARI event live data source
 * *new* [PR24800](https://github.com/mantidproject/mantid/pull/24800) - Set matplotlib backend for test
