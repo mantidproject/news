@@ -21,6 +21,7 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24544](https://github.com/mantidproject/mantid/pull/24544) - Updated reporting and download urls to https
 * *new* [PR24572](https://github.com/mantidproject/mantid/pull/24572) - Allow JSON-representation of PropertyManager loaded
 * [PR24595](https://github.com/mantidproject/mantid/pull/24595) - Workbench: Project Save for Matrix and Table workspace displays
+* *new* [PR24677](https://github.com/mantidproject/mantid/pull/24677) - More reliable point generation in CSGObject for simple shapes
 * *new* [PR24688](https://github.com/mantidproject/mantid/pull/24688) - Fix Unit Identification in NexusGeometryParser
 * *new* [PR24697](https://github.com/mantidproject/mantid/pull/24697) - added ansto pelican support
 * *new* [PR24714](https://github.com/mantidproject/mantid/pull/24714) - Compatibility of MantidPlot scripts with workbench
@@ -37,5 +38,8 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24796](https://github.com/mantidproject/mantid/pull/24796) - Prevent TableWorkspaceDisplay error when the data is being reloaded
 * [PR24799](https://github.com/mantidproject/mantid/pull/24799) - Updated `Facilities.xml` with MARI event live data source
 * [PR24800](https://github.com/mantidproject/mantid/pull/24800) - Set matplotlib backend for test
+* *new* [PR24802](https://github.com/mantidproject/mantid/pull/24802) - Pass custom axes properties to workbench plotting
 * *new* [PR24815](https://github.com/mantidproject/mantid/pull/24815) - Add install bin directory to Python path for workbench
 * *new* [PR24823](https://github.com/mantidproject/mantid/pull/24823) - All .ui files within workbench and mantidqt will now be packaged
+* *new* [PR24826](https://github.com/mantidproject/mantid/pull/24826) - Improve pyqt4 check to not generate exceptions
+* *new* [PR24828](https://github.com/mantidproject/mantid/pull/24828) - Fix ISIS SANS in packaged Mantid
