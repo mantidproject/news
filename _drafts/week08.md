@@ -21,6 +21,7 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24715](https://github.com/mantidproject/mantid/pull/24715) - Retain old data in Muon GUI
 * *new* [PR24721](https://github.com/mantidproject/mantid/pull/24721) - FDA now lets user pick phase table for maxent
 * [PR24738](https://github.com/mantidproject/mantid/pull/24738) - Handle empty sample names in processed NeXus
+* *new* [PR24760](https://github.com/mantidproject/mantid/pull/24760) - Added compare workspace tolerance
 * [PR24773](https://github.com/mantidproject/mantid/pull/24773) - Introduce enum for TrackDirection
 * [PR24784](https://github.com/mantidproject/mantid/pull/24784) - BASIS: Transfer `ModeratorTzeroLinear` parameters to reflection-specific parameter files
 * [PR24786](https://github.com/mantidproject/mantid/pull/24786) - Add workspace name to exceptions in NormaliseByCurrent
