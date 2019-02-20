@@ -21,6 +21,7 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24544](https://github.com/mantidproject/mantid/pull/24544) - Updated reporting and download urls to https
 * *new* [PR24572](https://github.com/mantidproject/mantid/pull/24572) - Allow JSON-representation of PropertyManager loaded
 * [PR24595](https://github.com/mantidproject/mantid/pull/24595) - Workbench: Project Save for Matrix and Table workspace displays
+* *new* [PR24629](https://github.com/mantidproject/mantid/pull/24629) - Add ScaleRHSWorkspace Property to CTW
 * *new* [PR24677](https://github.com/mantidproject/mantid/pull/24677) - More reliable point generation in CSGObject for simple shapes
 * *new* [PR24688](https://github.com/mantidproject/mantid/pull/24688) - Fix Unit Identification in NexusGeometryParser
 * *new* [PR24697](https://github.com/mantidproject/mantid/pull/24697) - added ansto pelican support
@@ -30,6 +31,7 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24738](https://github.com/mantidproject/mantid/pull/24738) - Handle empty sample names in processed NeXus
 * *new* [PR24760](https://github.com/mantidproject/mantid/pull/24760) - Added compare workspace tolerance
 * [PR24773](https://github.com/mantidproject/mantid/pull/24773) - Introduce enum for TrackDirection
+* *new* [PR24779](https://github.com/mantidproject/mantid/pull/24779) - Add group asymmetry estimate to new GUI
 * [PR24784](https://github.com/mantidproject/mantid/pull/24784) - BASIS: Transfer `ModeratorTzeroLinear` parameters to reflection-specific parameter files
 * [PR24786](https://github.com/mantidproject/mantid/pull/24786) - Add workspace name to exceptions in NormaliseByCurrent
 * *new* [PR24787](https://github.com/mantidproject/mantid/pull/24787) - Add wavelength input to LoadDNSLegacy
@@ -43,3 +45,5 @@ Detailed Merges for Feb 18 to 24, 2019
 * *new* [PR24823](https://github.com/mantidproject/mantid/pull/24823) - All .ui files within workbench and mantidqt will now be packaged
 * *new* [PR24826](https://github.com/mantidproject/mantid/pull/24826) - Improve pyqt4 check to not generate exceptions
 * *new* [PR24828](https://github.com/mantidproject/mantid/pull/24828) - Fix ISIS SANS in packaged Mantid
+* *new* [PR24829](https://github.com/mantidproject/mantid/pull/24829) - Increase relative tolerance in WISHDiffractionFocussingAnalysisTest
+* *new* [PR24830](https://github.com/mantidproject/mantid/pull/24830) - Fix warning on MacOS.
