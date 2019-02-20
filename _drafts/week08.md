@@ -15,6 +15,7 @@ Detailed Merges for Feb 18 to 24, 2019
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-02-19..2019-02-24)
 
+* *new* [PR23109](https://github.com/mantidproject/mantid/pull/23109) - Added algorithm and system tests framework
 * *new* [PR23185](https://github.com/mantidproject/mantid/pull/23185) - Improved docs first index page
 * *new* [PR23587](https://github.com/mantidproject/mantid/pull/23587) - Event NeXus parallel loader boost interprocess
 * *new* [PR24351](https://github.com/mantidproject/mantid/pull/24351) - Add Phi Options to SANS Table
