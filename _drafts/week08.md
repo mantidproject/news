@@ -46,9 +46,11 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24799](https://github.com/mantidproject/mantid/pull/24799) - Updated `Facilities.xml` with MARI event live data source
 * [PR24800](https://github.com/mantidproject/mantid/pull/24800) - Set matplotlib backend for test
 * [PR24802](https://github.com/mantidproject/mantid/pull/24802) - Pass custom axes properties to workbench plotting
+* *new* [PR24810](https://github.com/mantidproject/mantid/pull/24810) - basis vanadium wavelength ranges
 * [PR24815](https://github.com/mantidproject/mantid/pull/24815) - Add install bin directory to Python path for workbench
 * [PR24823](https://github.com/mantidproject/mantid/pull/24823) - All `.ui` files within workbench and mantidqt will now be packaged
 * [PR24826](https://github.com/mantidproject/mantid/pull/24826) - Improve pyqt4 check to not generate exceptions
 * [PR24828](https://github.com/mantidproject/mantid/pull/24828) - Fix ISIS SANS in packaged Mantid
 * [PR24829](https://github.com/mantidproject/mantid/pull/24829) - Increase relative tolerance in `WISHDiffractionFocussingAnalysisTest`
 * [PR24830](https://github.com/mantidproject/mantid/pull/24830) - Fix warning on MacOS.
+* *new* [PR24834](https://github.com/mantidproject/mantid/pull/24834) - Prevent __future__ imports being inherited by the CodeEditor execute environment
