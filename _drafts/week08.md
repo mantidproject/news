@@ -37,6 +37,7 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24760](https://github.com/mantidproject/mantid/pull/24760) - Added compare workspace tolerance in [CompareWorkspaces](http://docs.mantidproject.org/nightly/algorithms/CompareWorkspaces-v1.html)
 * [PR24773](https://github.com/mantidproject/mantid/pull/24773) - Introduce enum for `TrackDirection`
 * [PR24779](https://github.com/mantidproject/mantid/pull/24779) - Add group asymmetry estimate to new GUI
+* *new* [PR24781](https://github.com/mantidproject/mantid/pull/24781) - Port workspace history dialog to workbench
 * [PR24784](https://github.com/mantidproject/mantid/pull/24784) - BASIS: Transfer `ModeratorTzeroLinear` parameters to reflection-specific parameter files
 * [PR24786](https://github.com/mantidproject/mantid/pull/24786) - Add workspace name to exceptions in [NormaliseByCurrent](http://docs.mantidproject.org/nightly/algorithms/NormaliseByCurrent-v1.html)
 * [PR24787](https://github.com/mantidproject/mantid/pull/24787) - Add wavelength input to [LoadDNSLegacy](http://docs.mantidproject.org/nightly/algorithms/LoadDNSLegacy-v1.html)
