@@ -23,9 +23,13 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR23185](https://github.com/mantidproject/mantid/pull/23185) - Improved [docs first index page](http://docs.mantidproject.org/nightly/)
 * [PR23587](https://github.com/mantidproject/mantid/pull/23587) - Event NeXus parallel loader boost interprocess
 * [PR24351](https://github.com/mantidproject/mantid/pull/24351) - Add Phi Options to SANS Table
+* *new* [PR24401](https://github.com/mantidproject/mantid/pull/24401) - MergeLogs proposition
+* *new* [PR24435](https://github.com/mantidproject/mantid/pull/24435) - Modifications of the reflectometry reduction
 * [PR24544](https://github.com/mantidproject/mantid/pull/24544) - Updated reporting and download urls to https
 * [PR24572](https://github.com/mantidproject/mantid/pull/24572) - Allow JSON-representation of `PropertyManager` loaded
 * [PR24595](https://github.com/mantidproject/mantid/pull/24595) - Workbench: Project Save for Matrix and Table workspace displays
+* *new* [PR24621](https://github.com/mantidproject/mantid/pull/24621) - Enable mixing of automatic and user bin widths in DirectILLReduction
+* *new* [PR24628](https://github.com/mantidproject/mantid/pull/24628) - Add uncertainties tag to NXcanSASAlgorithm
 * [PR24629](https://github.com/mantidproject/mantid/pull/24629) - Add `ScaleRHSWorkspace` Property to CTW
 * [PR24677](https://github.com/mantidproject/mantid/pull/24677) - More reliable point generation in `CSGObject` for simple shapes
 * [PR24688](https://github.com/mantidproject/mantid/pull/24688) - Fix Unit Identification in `NexusGeometryParser`
@@ -55,3 +59,5 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24829](https://github.com/mantidproject/mantid/pull/24829) - Increase relative tolerance in `WISHDiffractionFocussingAnalysisTest`
 * [PR24830](https://github.com/mantidproject/mantid/pull/24830) - Fix warning on MacOS.
 * [PR24834](https://github.com/mantidproject/mantid/pull/24834) - Prevent `__future__` imports being inherited by the `CodeEditor` execute environment
+* *new* [PR24856](https://github.com/mantidproject/mantid/pull/24856) - Fix systemtest relative tolerance
+* *new* [PR24861](https://github.com/mantidproject/mantid/pull/24861) - Update BuildingWithCMake.rst
