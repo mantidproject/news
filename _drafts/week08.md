@@ -40,6 +40,7 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24738](https://github.com/mantidproject/mantid/pull/24738) - Handle empty sample names in processed NeXus
 * *new* [PR24742](https://github.com/mantidproject/mantid/pull/24742) - ISIS SANS Manual Test Script Updates
 * [PR24760](https://github.com/mantidproject/mantid/pull/24760) - Added compare workspace tolerance in [CompareWorkspaces](http://docs.mantidproject.org/nightly/algorithms/CompareWorkspaces-v1.html)
+* *new* [PR24772](https://github.com/mantidproject/mantid/pull/24772) - Re #24769 Changed the monitor distances according to the measurements
 * [PR24773](https://github.com/mantidproject/mantid/pull/24773) - Introduce enum for `TrackDirection`
 * [PR24779](https://github.com/mantidproject/mantid/pull/24779) - Add group asymmetry estimate to new GUI
 * *new* [PR24781](https://github.com/mantidproject/mantid/pull/24781) - Port workspace history dialog to workbench
@@ -59,7 +60,9 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24828](https://github.com/mantidproject/mantid/pull/24828) - Fix ISIS SANS in packaged Mantid
 * [PR24829](https://github.com/mantidproject/mantid/pull/24829) - Increase relative tolerance in `WISHDiffractionFocussingAnalysisTest`
 * [PR24830](https://github.com/mantidproject/mantid/pull/24830) - Fix warning on MacOS.
+* *new* [PR24831](https://github.com/mantidproject/mantid/pull/24831) - Pack six.py from pip on macOS
 * [PR24834](https://github.com/mantidproject/mantid/pull/24834) - Prevent `__future__` imports being inherited by the `CodeEditor` execute environment
+* *new* [PR24844](https://github.com/mantidproject/mantid/pull/24844) - Workbench: Ship styles/qtwindowsvistastyle.dll for Windows Vista Style
 * *new* [PR24856](https://github.com/mantidproject/mantid/pull/24856) - Fix systemtest relative tolerance
 * *new* [PR24861](https://github.com/mantidproject/mantid/pull/24861) - Update BuildingWithCMake.rst
 * *new* [PR24864](https://github.com/mantidproject/mantid/pull/24864) - 24862 integrate flux validator
