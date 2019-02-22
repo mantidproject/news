@@ -38,6 +38,7 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24715](https://github.com/mantidproject/mantid/pull/24715) - Retain old data in Muon GUI
 * [PR24721](https://github.com/mantidproject/mantid/pull/24721) - FDA now lets user pick phase table for maxent
 * [PR24738](https://github.com/mantidproject/mantid/pull/24738) - Handle empty sample names in processed NeXus
+* *new* [PR24742](https://github.com/mantidproject/mantid/pull/24742) - ISIS SANS Manual Test Script Updates
 * [PR24760](https://github.com/mantidproject/mantid/pull/24760) - Added compare workspace tolerance in [CompareWorkspaces](http://docs.mantidproject.org/nightly/algorithms/CompareWorkspaces-v1.html)
 * [PR24773](https://github.com/mantidproject/mantid/pull/24773) - Introduce enum for `TrackDirection`
 * [PR24779](https://github.com/mantidproject/mantid/pull/24779) - Add group asymmetry estimate to new GUI
@@ -61,3 +62,4 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24834](https://github.com/mantidproject/mantid/pull/24834) - Prevent `__future__` imports being inherited by the `CodeEditor` execute environment
 * *new* [PR24856](https://github.com/mantidproject/mantid/pull/24856) - Fix systemtest relative tolerance
 * *new* [PR24861](https://github.com/mantidproject/mantid/pull/24861) - Update BuildingWithCMake.rst
+* *new* [PR24864](https://github.com/mantidproject/mantid/pull/24864) - 24862 integrate flux validator
