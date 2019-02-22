@@ -22,6 +22,7 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR23109](https://github.com/mantidproject/mantid/pull/23109) - Added algorithm and system tests framework for `BilbySANSDataProcessor`
 * [PR23185](https://github.com/mantidproject/mantid/pull/23185) - Improved [docs first index page](http://docs.mantidproject.org/nightly/)
 * [PR23587](https://github.com/mantidproject/mantid/pull/23587) - Event NeXus parallel loader boost interprocess
+* *new* [PR24103](https://github.com/mantidproject/mantid/pull/24103) - Add algorithm profiling instrumentation and doc
 * [PR24351](https://github.com/mantidproject/mantid/pull/24351) - Add Phi Options to SANS Table
 * *new* [PR24401](https://github.com/mantidproject/mantid/pull/24401) - MergeLogs proposition
 * *new* [PR24435](https://github.com/mantidproject/mantid/pull/24435) - Modifications of the reflectometry reduction
@@ -40,6 +41,7 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24738](https://github.com/mantidproject/mantid/pull/24738) - Handle empty sample names in processed NeXus
 * *new* [PR24742](https://github.com/mantidproject/mantid/pull/24742) - ISIS SANS Manual Test Script Updates
 * [PR24760](https://github.com/mantidproject/mantid/pull/24760) - Added compare workspace tolerance in [CompareWorkspaces](http://docs.mantidproject.org/nightly/algorithms/CompareWorkspaces-v1.html)
+* *new* [PR24771](https://github.com/mantidproject/mantid/pull/24771) - Fix race condition and improve performance of Rebin2D/SofQW algorithms
 * *new* [PR24772](https://github.com/mantidproject/mantid/pull/24772) - Re #24769 Changed the monitor distances according to the measurements
 * [PR24773](https://github.com/mantidproject/mantid/pull/24773) - Introduce enum for `TrackDirection`
 * [PR24779](https://github.com/mantidproject/mantid/pull/24779) - Add group asymmetry estimate to new GUI
@@ -62,7 +64,11 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24830](https://github.com/mantidproject/mantid/pull/24830) - Fix warning on MacOS.
 * *new* [PR24831](https://github.com/mantidproject/mantid/pull/24831) - Pack six.py from pip on macOS
 * [PR24834](https://github.com/mantidproject/mantid/pull/24834) - Prevent `__future__` imports being inherited by the `CodeEditor` execute environment
+* *new* [PR24842](https://github.com/mantidproject/mantid/pull/24842) - Set __file__ attribute in workbench script execution
 * *new* [PR24844](https://github.com/mantidproject/mantid/pull/24844) - Workbench: Ship styles/qtwindowsvistastyle.dll for Windows Vista Style
 * *new* [PR24856](https://github.com/mantidproject/mantid/pull/24856) - Fix systemtest relative tolerance
 * *new* [PR24861](https://github.com/mantidproject/mantid/pull/24861) - Update BuildingWithCMake.rst
 * *new* [PR24864](https://github.com/mantidproject/mantid/pull/24864) - 24862 integrate flux validator
+* *new* [PR24865](https://github.com/mantidproject/mantid/pull/24865) - fixing conda build: make linking of kernel lib public
+* *new* [PR24868](https://github.com/mantidproject/mantid/pull/24868) - Project Recovery in MantidPlot legacy checkpoint removal fixes
+* *new* [PR24870](https://github.com/mantidproject/mantid/pull/24870) - Add missing . to fix import in AlgorithmHistoryWindow
