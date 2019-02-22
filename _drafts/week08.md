@@ -27,6 +27,7 @@ Detailed Merges for Feb 18 to 24, 2019
 * *new* [PR24401](https://github.com/mantidproject/mantid/pull/24401) - MergeLogs proposition
 * *new* [PR24435](https://github.com/mantidproject/mantid/pull/24435) - Modifications of the reflectometry reduction
 * [PR24544](https://github.com/mantidproject/mantid/pull/24544) - Updated reporting and download urls to https
+* *new* [PR24551](https://github.com/mantidproject/mantid/pull/24551) - Nexus IO helper
 * [PR24572](https://github.com/mantidproject/mantid/pull/24572) - Allow JSON-representation of `PropertyManager` loaded
 * [PR24595](https://github.com/mantidproject/mantid/pull/24595) - Workbench: Project Save for Matrix and Table workspace displays
 * *new* [PR24621](https://github.com/mantidproject/mantid/pull/24621) - Enable mixing of automatic and user bin widths in DirectILLReduction
@@ -72,3 +73,5 @@ Detailed Merges for Feb 18 to 24, 2019
 * *new* [PR24865](https://github.com/mantidproject/mantid/pull/24865) - fixing conda build: make linking of kernel lib public
 * *new* [PR24868](https://github.com/mantidproject/mantid/pull/24868) - Project Recovery in MantidPlot legacy checkpoint removal fixes
 * *new* [PR24870](https://github.com/mantidproject/mantid/pull/24870) - Add missing . to fix import in AlgorithmHistoryWindow
+* *new* [PR24873](https://github.com/mantidproject/mantid/pull/24873) - SANSBeamCentreFinder.py: make it work when there is no GUI
+* *new* [PR24874](https://github.com/mantidproject/mantid/pull/24874) - Fix mplcpp Axes::text for python3
