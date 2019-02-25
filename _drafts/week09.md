@@ -14,3 +14,5 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24749](https://github.com/mantidproject/mantid/pull/24749) - Integrating FDA
 * *new* [PR24782](https://github.com/mantidproject/mantid/pull/24782) - Make comparator return bool
 * *new* [PR24813](https://github.com/mantidproject/mantid/pull/24813) - Adding rebinning to new Muon GUI
+* *new* [PR24832](https://github.com/mantidproject/mantid/pull/24832) - Remove incorrect Qt libs from macOS workbench/MantidPlot packages
+* *new* [PR24875](https://github.com/mantidproject/mantid/pull/24875) - MR: leave points with big error
