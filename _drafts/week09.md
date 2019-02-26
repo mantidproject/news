@@ -19,6 +19,7 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * [PR24782](https://github.com/mantidproject/mantid/pull/24782) - Make comparator return bool
 * *new* [PR24813](https://github.com/mantidproject/mantid/pull/24813) - Adding rebinning to new Muon GUI
 * *new* [PR24814](https://github.com/mantidproject/mantid/pull/24814) - Fix convert spectrum axis
+* *new* [PR24821](https://github.com/mantidproject/mantid/pull/24821) - Add chunking to SNAPReduce
 * [PR24832](https://github.com/mantidproject/mantid/pull/24832) - Remove incorrect Qt libs from macOS workbench/MantidPlot packages
 * *new* [PR24859](https://github.com/mantidproject/mantid/pull/24859) - Workbench: Project Save update file save behaviour
 * *new* [PR24871](https://github.com/mantidproject/mantid/pull/24871) - Separate Save Directory for Added Runs
