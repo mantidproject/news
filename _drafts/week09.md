@@ -18,6 +18,7 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24708](https://github.com/mantidproject/mantid/pull/24708) - Fix spectrum number saving loading to/from NeXus
 * *new* [PR24749](https://github.com/mantidproject/mantid/pull/24749) - Integrating FDA
 * [PR24782](https://github.com/mantidproject/mantid/pull/24782) - Make comparator return bool
+* *new* [PR24790](https://github.com/mantidproject/mantid/pull/24790) - Settings window for the Workbench
 * *new* [PR24798](https://github.com/mantidproject/mantid/pull/24798) - Helper function to retrieve date-sorted filenames for IDF's or Parameter files
 * *new* [PR24806](https://github.com/mantidproject/mantid/pull/24806) - Multiplotting and update subplots
 * *new* [PR24813](https://github.com/mantidproject/mantid/pull/24813) - Adding rebinning to new Muon GUI
@@ -27,3 +28,5 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24859](https://github.com/mantidproject/mantid/pull/24859) - Workbench: Project Save update file save behaviour
 * *new* [PR24871](https://github.com/mantidproject/mantid/pull/24871) - Separate Save Directory for Added Runs
 * *new* [PR24875](https://github.com/mantidproject/mantid/pull/24875) - MR: leave points with big error
+* *new* [PR24897](https://github.com/mantidproject/mantid/pull/24897) - Use qtpy in ISISCommandInterface
+* *new* [PR24899](https://github.com/mantidproject/mantid/pull/24899) - Fixes Windows type warning
