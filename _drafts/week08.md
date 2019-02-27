@@ -67,11 +67,11 @@ Detailed Merges for Feb 18 to 24, 2019
 * [PR24834](https://github.com/mantidproject/mantid/pull/24834) - Prevent `__future__` imports being inherited by the `CodeEditor` execute environment
 * *new* [PR24842](https://github.com/mantidproject/mantid/pull/24842) - Set __file__ attribute in workbench script execution
 * *new* [PR24844](https://github.com/mantidproject/mantid/pull/24844) - Workbench: Ship styles/qtwindowsvistastyle.dll for Windows Vista Style
-* *new* [PR24856](https://github.com/mantidproject/mantid/pull/24856) - Fix systemtest relative tolerance
+* [PR24856](https://github.com/mantidproject/mantid/pull/24856) - Fix systemtest relative tolerance
 * *new* [PR24861](https://github.com/mantidproject/mantid/pull/24861) - Update BuildingWithCMake.rst
 * *new* [PR24864](https://github.com/mantidproject/mantid/pull/24864) - 24862 integrate flux validator
 * *new* [PR24865](https://github.com/mantidproject/mantid/pull/24865) - fixing conda build: make linking of kernel lib public
 * *new* [PR24868](https://github.com/mantidproject/mantid/pull/24868) - Project Recovery in MantidPlot legacy checkpoint removal fixes
-* *new* [PR24870](https://github.com/mantidproject/mantid/pull/24870) - Add missing . to fix import in AlgorithmHistoryWindow
+* [PR24870](https://github.com/mantidproject/mantid/pull/24870) - Add missing `.` to fix import in `AlgorithmHistoryWindow`
 * *new* [PR24873](https://github.com/mantidproject/mantid/pull/24873) - SANSBeamCentreFinder.py: make it work when there is no GUI
 * *new* [PR24874](https://github.com/mantidproject/mantid/pull/24874) - Fix mplcpp Axes::text for python3
