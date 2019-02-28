@@ -39,5 +39,9 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24884](https://github.com/mantidproject/mantid/pull/24884) - Insert name for array property
 * *new* [PR24897](https://github.com/mantidproject/mantid/pull/24897) - Use qtpy in ISISCommandInterface
 * *new* [PR24899](https://github.com/mantidproject/mantid/pull/24899) - Fixes Windows type warning
+* *new* [PR24906](https://github.com/mantidproject/mantid/pull/24906) - Workbench: Fit property browser lines now keep all settings from one fit to another.
 * *new* [PR24908](https://github.com/mantidproject/mantid/pull/24908) - Added tab order tracking to new Muon Gui
+* *new* [PR24909](https://github.com/mantidproject/mantid/pull/24909) - Pull in latest updates to mslice
 * *new* [PR24910](https://github.com/mantidproject/mantid/pull/24910) - Workbench: Project Saver fix an issue where instrument view will save data in the a subdir of the project
+* *new* [PR24911](https://github.com/mantidproject/mantid/pull/24911) - Workbench: Instrument view mini peak pick plot will now zoom out on new peak selection
+* *new* [PR24915](https://github.com/mantidproject/mantid/pull/24915) - Workbench/Matplotlib in mantidqt: Make legends draggable
