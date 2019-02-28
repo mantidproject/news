@@ -14,6 +14,8 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR23430](https://github.com/mantidproject/mantid/pull/23430) - Update GetEiMonDet to version 3
 * *new* [PR24419](https://github.com/mantidproject/mantid/pull/24419) - Improve detector 2theta coverage calculation in SofQWNormalisedPolygon
 * *new* [PR24426](https://github.com/mantidproject/mantid/pull/24426) - Center IN6 detector shape at origin
+* *new* [PR24438](https://github.com/mantidproject/mantid/pull/24438) - Reflectometry GUI restructuring 7: processing
+* *new* [PR24562](https://github.com/mantidproject/mantid/pull/24562) - Add peak controls to the workbench fitting tool
 * *new* [PR24625](https://github.com/mantidproject/mantid/pull/24625) - ISIS reflectometry workflow algorithm
 * *new* [PR24708](https://github.com/mantidproject/mantid/pull/24708) - Fix spectrum number saving loading to/from NeXus
 * *new* [PR24723](https://github.com/mantidproject/mantid/pull/24723) - Workbench: Project Recovery
@@ -27,10 +29,15 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24821](https://github.com/mantidproject/mantid/pull/24821) - Add chunking to SNAPReduce
 * *new* [PR24824](https://github.com/mantidproject/mantid/pull/24824) - Fix IN5 pixel type's centre-of-bottom-base
 * [PR24832](https://github.com/mantidproject/mantid/pull/24832) - Remove incorrect Qt libs from macOS workbench/MantidPlot packages
+* *new* [PR24848](https://github.com/mantidproject/mantid/pull/24848) - Workbench: Saving a workspace now correctly selects the workspace that was clicked
+* *new* [PR24852](https://github.com/mantidproject/mantid/pull/24852) - Load current run in muon GUIs
 * *new* [PR24857](https://github.com/mantidproject/mantid/pull/24857) - Update FDA to handle groupasymmetries, multiperiod and co-added data
+* *new* [PR24858](https://github.com/mantidproject/mantid/pull/24858) - SANS GUI user preferences and tooltips
 * *new* [PR24859](https://github.com/mantidproject/mantid/pull/24859) - Workbench: Project Save update file save behaviour
 * *new* [PR24871](https://github.com/mantidproject/mantid/pull/24871) - Separate Save Directory for Added Runs
 * *new* [PR24875](https://github.com/mantidproject/mantid/pull/24875) - MR: leave points with big error
 * *new* [PR24884](https://github.com/mantidproject/mantid/pull/24884) - Insert name for array property
 * *new* [PR24897](https://github.com/mantidproject/mantid/pull/24897) - Use qtpy in ISISCommandInterface
 * *new* [PR24899](https://github.com/mantidproject/mantid/pull/24899) - Fixes Windows type warning
+* *new* [PR24908](https://github.com/mantidproject/mantid/pull/24908) - Added tab order tracking to new Muon Gui
+* *new* [PR24910](https://github.com/mantidproject/mantid/pull/24910) - Workbench: Project Saver fix an issue where instrument view will save data in the a subdir of the project
