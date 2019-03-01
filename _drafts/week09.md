@@ -20,6 +20,7 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24562](https://github.com/mantidproject/mantid/pull/24562) - Add peak controls to the workbench fitting tool
 * *new* [PR24625](https://github.com/mantidproject/mantid/pull/24625) - ISIS reflectometry workflow algorithm
 * *new* [PR24708](https://github.com/mantidproject/mantid/pull/24708) - Fix spectrum number saving loading to/from NeXus
+* *new* [PR24718](https://github.com/mantidproject/mantid/pull/24718) - Indirect Edit Results Option in ConvFit and IqtFit
 * *new* [PR24723](https://github.com/mantidproject/mantid/pull/24723) - Workbench: Project Recovery
 * *new* [PR24749](https://github.com/mantidproject/mantid/pull/24749) - Integrating FDA
 * [PR24782](https://github.com/mantidproject/mantid/pull/24782) - Make comparator return bool
@@ -39,6 +40,7 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24871](https://github.com/mantidproject/mantid/pull/24871) - Separate Save Directory for Added Runs
 * *new* [PR24875](https://github.com/mantidproject/mantid/pull/24875) - MR: leave points with big error
 * *new* [PR24876](https://github.com/mantidproject/mantid/pull/24876) - Enable rebin options in frequency domain analysis
+* *new* [PR24880](https://github.com/mantidproject/mantid/pull/24880) - Allow log bins for QXY
 * *new* [PR24884](https://github.com/mantidproject/mantid/pull/24884) - Insert name for array property
 * *new* [PR24897](https://github.com/mantidproject/mantid/pull/24897) - Use qtpy in ISISCommandInterface
 * *new* [PR24899](https://github.com/mantidproject/mantid/pull/24899) - Fixes Windows type warning
