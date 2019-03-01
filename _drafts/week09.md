@@ -15,6 +15,8 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24419](https://github.com/mantidproject/mantid/pull/24419) - Improve detector 2theta coverage calculation in SofQWNormalisedPolygon
 * *new* [PR24426](https://github.com/mantidproject/mantid/pull/24426) - Center IN6 detector shape at origin
 * *new* [PR24438](https://github.com/mantidproject/mantid/pull/24438) - Reflectometry GUI restructuring 7: processing
+* *new* [PR24441](https://github.com/mantidproject/mantid/pull/24441) - Wiwk2rst
+* *new* [PR24524](https://github.com/mantidproject/mantid/pull/24524) - Add plotDOS function to directtools
 * *new* [PR24562](https://github.com/mantidproject/mantid/pull/24562) - Add peak controls to the workbench fitting tool
 * *new* [PR24625](https://github.com/mantidproject/mantid/pull/24625) - ISIS reflectometry workflow algorithm
 * *new* [PR24708](https://github.com/mantidproject/mantid/pull/24708) - Fix spectrum number saving loading to/from NeXus
@@ -36,10 +38,13 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24859](https://github.com/mantidproject/mantid/pull/24859) - Workbench: Project Save update file save behaviour
 * *new* [PR24871](https://github.com/mantidproject/mantid/pull/24871) - Separate Save Directory for Added Runs
 * *new* [PR24875](https://github.com/mantidproject/mantid/pull/24875) - MR: leave points with big error
+* *new* [PR24876](https://github.com/mantidproject/mantid/pull/24876) - Enable rebin options in frequency domain analysis
 * *new* [PR24884](https://github.com/mantidproject/mantid/pull/24884) - Insert name for array property
 * *new* [PR24897](https://github.com/mantidproject/mantid/pull/24897) - Use qtpy in ISISCommandInterface
 * *new* [PR24899](https://github.com/mantidproject/mantid/pull/24899) - Fixes Windows type warning
+* *new* [PR24903](https://github.com/mantidproject/mantid/pull/24903) - Fix issues regarding zero or non-unity length V3Ds
 * *new* [PR24906](https://github.com/mantidproject/mantid/pull/24906) - Workbench: Fit property browser lines now keep all settings from one fit to another.
+* *new* [PR24907](https://github.com/mantidproject/mantid/pull/24907) - Use fixed-width fonts for text areas in workbench
 * *new* [PR24908](https://github.com/mantidproject/mantid/pull/24908) - Added tab order tracking to new Muon Gui
 * *new* [PR24909](https://github.com/mantidproject/mantid/pull/24909) - Pull in latest updates to mslice
 * *new* [PR24910](https://github.com/mantidproject/mantid/pull/24910) - Workbench: Project Saver fix an issue where instrument view will save data in the a subdir of the project
