@@ -32,6 +32,7 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24821](https://github.com/mantidproject/mantid/pull/24821) - Add chunking to SNAPReduce
 * *new* [PR24824](https://github.com/mantidproject/mantid/pull/24824) - Fix IN5 pixel type's centre-of-bottom-base
 * [PR24832](https://github.com/mantidproject/mantid/pull/24832) - Remove incorrect Qt libs from macOS workbench/MantidPlot packages
+* *new* [PR24835](https://github.com/mantidproject/mantid/pull/24835) - Muon GUI automatically recalculate
 * *new* [PR24848](https://github.com/mantidproject/mantid/pull/24848) - Workbench: Saving a workspace now correctly selects the workspace that was clicked
 * *new* [PR24852](https://github.com/mantidproject/mantid/pull/24852) - Load current run in muon GUIs
 * *new* [PR24857](https://github.com/mantidproject/mantid/pull/24857) - Update FDA to handle groupasymmetries, multiperiod and co-added data
@@ -44,6 +45,7 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24884](https://github.com/mantidproject/mantid/pull/24884) - Insert name for array property
 * *new* [PR24897](https://github.com/mantidproject/mantid/pull/24897) - Use qtpy in ISISCommandInterface
 * *new* [PR24899](https://github.com/mantidproject/mantid/pull/24899) - Fixes Windows type warning
+* *new* [PR24900](https://github.com/mantidproject/mantid/pull/24900) - Code Editor options and context menus
 * *new* [PR24903](https://github.com/mantidproject/mantid/pull/24903) - Fix issues regarding zero or non-unity length V3Ds
 * *new* [PR24906](https://github.com/mantidproject/mantid/pull/24906) - Workbench: Fit property browser lines now keep all settings from one fit to another.
 * *new* [PR24907](https://github.com/mantidproject/mantid/pull/24907) - Use fixed-width fonts for text areas in workbench
@@ -51,4 +53,7 @@ Detailed Merges for Feb 25 to Mar 3, 2019
 * *new* [PR24909](https://github.com/mantidproject/mantid/pull/24909) - Pull in latest updates to mslice
 * *new* [PR24910](https://github.com/mantidproject/mantid/pull/24910) - Workbench: Project Saver fix an issue where instrument view will save data in the a subdir of the project
 * *new* [PR24911](https://github.com/mantidproject/mantid/pull/24911) - Workbench: Instrument view mini peak pick plot will now zoom out on new peak selection
+* *new* [PR24913](https://github.com/mantidproject/mantid/pull/24913) - AlignAndFocusPowderFromFiles logs warning when failing to load a cache file
 * *new* [PR24915](https://github.com/mantidproject/mantid/pull/24915) - Workbench/Matplotlib in mantidqt: Make legends draggable
+* *new* [PR24919](https://github.com/mantidproject/mantid/pull/24919) - AlignFocusPowderFromFiles small fixes
+* *new* [PR24931](https://github.com/mantidproject/mantid/pull/24931) - Small bug fix in loader_path call for OSX
