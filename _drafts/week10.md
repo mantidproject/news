@@ -12,6 +12,7 @@ Detailed Merges for Mar 4 to 10, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-03-05..2019-03-10)
 
 * *new* [PR24248](https://github.com/mantidproject/mantid/pull/24248) - Maximum 12 threads to be used in systemtests
+* *new* [PR24380](https://github.com/mantidproject/mantid/pull/24380) - Testable Python Documents
 * *new* [PR24752](https://github.com/mantidproject/mantid/pull/24752) - Add options to specify number densities as formula units / Ångström^3
 * *new* [PR24780](https://github.com/mantidproject/mantid/pull/24780) - Fix BeamCentre property type in ReflectometrySumInQ
 * *new* [PR24811](https://github.com/mantidproject/mantid/pull/24811) - Fix bug in ikeda carpenter pv
@@ -34,3 +35,4 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR24985](https://github.com/mantidproject/mantid/pull/24985) - Fix EnginX systemtests for python3
 * *new* [PR24986](https://github.com/mantidproject/mantid/pull/24986) - Fix missing import for workbench
 * *new* [PR24988](https://github.com/mantidproject/mantid/pull/24988) - Update mslice to bring in latest fixes
+* *new* [PR25012](https://github.com/mantidproject/mantid/pull/25012) - Ignore complexity warning
