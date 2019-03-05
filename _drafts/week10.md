@@ -19,6 +19,7 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR24867](https://github.com/mantidproject/mantid/pull/24867) - ILL powder few fixes
 * *new* [PR24872](https://github.com/mantidproject/mantid/pull/24872) - Add logging to resource loading
 * *new* [PR24886](https://github.com/mantidproject/mantid/pull/24886) - EnginX stopped unnecessarily creating vanadium files
+* *new* [PR24893](https://github.com/mantidproject/mantid/pull/24893) - Fix performance regression in V3D
 * *new* [PR24894](https://github.com/mantidproject/mantid/pull/24894) - AlignAndFocusPowderFromFiles absorption test
 * *new* [PR24904](https://github.com/mantidproject/mantid/pull/24904) - Change alg landing page to categories, not full index.
 * *new* [PR24914](https://github.com/mantidproject/mantid/pull/24914) - ReflectometryILLSumForeground: better line position for SumInQ
@@ -36,3 +37,5 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR24986](https://github.com/mantidproject/mantid/pull/24986) - Fix missing import for workbench
 * *new* [PR24988](https://github.com/mantidproject/mantid/pull/24988) - Update mslice to bring in latest fixes
 * *new* [PR25012](https://github.com/mantidproject/mantid/pull/25012) - Ignore complexity warning
+* *new* [PR25018](https://github.com/mantidproject/mantid/pull/25018) - Suppress remaining flake8 warnings
+* *new* [PR25022](https://github.com/mantidproject/mantid/pull/25022) - Fix QECoverage in workbench
