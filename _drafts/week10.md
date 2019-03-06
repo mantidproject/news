@@ -52,7 +52,10 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR25018](https://github.com/mantidproject/mantid/pull/25018) - Suppress remaining flake8 warnings
 * *new* [PR25020](https://github.com/mantidproject/mantid/pull/25020) - Change deprecation date for old reflectometry GUI
 * *new* [PR25022](https://github.com/mantidproject/mantid/pull/25022) - Fix QECoverage in workbench
+* *new* [PR25023](https://github.com/mantidproject/mantid/pull/25023) - Optional material in PDConvert...
 * *new* [PR25024](https://github.com/mantidproject/mantid/pull/25024) - Remove Tk dependence from workbench unit test
 * *new* [PR25027](https://github.com/mantidproject/mantid/pull/25027) - Release notes cleanup
 * *new* [PR25028](https://github.com/mantidproject/mantid/pull/25028) - Remove duplicate tabs in session restore
 * *new* [PR25029](https://github.com/mantidproject/mantid/pull/25029) - Specify QT4 before running the error reporter
+* *new* [PR25043](https://github.com/mantidproject/mantid/pull/25043) - Fix for workbench hard crash on project overwrite save
+* *new* [PR25045](https://github.com/mantidproject/mantid/pull/25045) - Make the first letters capital in Plot submenu
