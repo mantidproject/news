@@ -13,6 +13,7 @@ Detailed Merges for Mar 4 to 10, 2019
 
 * *new* [PR24248](https://github.com/mantidproject/mantid/pull/24248) - Maximum 12 threads to be used in systemtests
 * *new* [PR24380](https://github.com/mantidproject/mantid/pull/24380) - Testable Python Documents
+* *new* [PR24601](https://github.com/mantidproject/mantid/pull/24601) - Indirect Energy Transfer - Incorrect histories causing large file sizes
 * *new* [PR24752](https://github.com/mantidproject/mantid/pull/24752) - Add options to specify number densities as formula units / Ångström^3
 * *new* [PR24780](https://github.com/mantidproject/mantid/pull/24780) - Fix BeamCentre property type in ReflectometrySumInQ
 * *new* [PR24811](https://github.com/mantidproject/mantid/pull/24811) - Fix bug in ikeda carpenter pv
@@ -38,4 +39,6 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR24988](https://github.com/mantidproject/mantid/pull/24988) - Update mslice to bring in latest fixes
 * *new* [PR25012](https://github.com/mantidproject/mantid/pull/25012) - Ignore complexity warning
 * *new* [PR25018](https://github.com/mantidproject/mantid/pull/25018) - Suppress remaining flake8 warnings
+* *new* [PR25020](https://github.com/mantidproject/mantid/pull/25020) - Change deprecation date for old reflectometry GUI
 * *new* [PR25022](https://github.com/mantidproject/mantid/pull/25022) - Fix QECoverage in workbench
+* *new* [PR25024](https://github.com/mantidproject/mantid/pull/25024) - Remove Tk dependence from workbench unit test
