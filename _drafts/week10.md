@@ -22,12 +22,14 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR24863](https://github.com/mantidproject/mantid/pull/24863) - Fixed tof calculation for compress weighted events
 * *new* [PR24867](https://github.com/mantidproject/mantid/pull/24867) - ILL powder few fixes
 * *new* [PR24872](https://github.com/mantidproject/mantid/pull/24872) - Add logging to resource loading
+* *new* [PR24883](https://github.com/mantidproject/mantid/pull/24883) - Upgrade bundled version of IPython on Windows
 * *new* [PR24886](https://github.com/mantidproject/mantid/pull/24886) - EnginX stopped unnecessarily creating vanadium files
 * *new* [PR24887](https://github.com/mantidproject/mantid/pull/24887) - Remove Show Transmission Button
 * *new* [PR24888](https://github.com/mantidproject/mantid/pull/24888) - Deprecate Old SANS GUI
 * *new* [PR24890](https://github.com/mantidproject/mantid/pull/24890) - Muon check field type
 * *new* [PR24893](https://github.com/mantidproject/mantid/pull/24893) - Fix performance regression in V3D
 * *new* [PR24894](https://github.com/mantidproject/mantid/pull/24894) - AlignAndFocusPowderFromFiles absorption test
+* *new* [PR24901](https://github.com/mantidproject/mantid/pull/24901) - Enable deprecation warnings in python for development
 * *new* [PR24904](https://github.com/mantidproject/mantid/pull/24904) - Change alg landing page to categories, not full index.
 * *new* [PR24905](https://github.com/mantidproject/mantid/pull/24905) - Add background subtraction to SNAPReduce
 * *new* [PR24914](https://github.com/mantidproject/mantid/pull/24914) - ReflectometryILLSumForeground: better line position for SumInQ
@@ -60,7 +62,11 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR25029](https://github.com/mantidproject/mantid/pull/25029) - Specify QT4 before running the error reporter
 * *new* [PR25034](https://github.com/mantidproject/mantid/pull/25034) - ILL powder rename
 * *new* [PR25043](https://github.com/mantidproject/mantid/pull/25043) - Fix for workbench hard crash on project overwrite save
+* *new* [PR25044](https://github.com/mantidproject/mantid/pull/25044) - Bug fixes for new Muon GUI
 * *new* [PR25045](https://github.com/mantidproject/mantid/pull/25045) - Make the first letters capital in Plot submenu
+* *new* [PR25050](https://github.com/mantidproject/mantid/pull/25050) - SNSPowderReduction chunking vanadium
 * *new* [PR25051](https://github.com/mantidproject/mantid/pull/25051) - Catch possible exceptions from by V3D::normalize in instrument view
 * *new* [PR25053](https://github.com/mantidproject/mantid/pull/25053) - Cleanup SANS release notes
 * *new* [PR25055](https://github.com/mantidproject/mantid/pull/25055) - Pan and zoom tools no longer remain enabled on figures after right click on workbench
+* *new* [PR25057](https://github.com/mantidproject/mantid/pull/25057) - Fix crash when opening instrument view for multiple workspaces
+* *new* [PR25069](https://github.com/mantidproject/mantid/pull/25069) - Workbench: Plot legend draggability - Project Loading and Fitting
