@@ -63,3 +63,4 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR25045](https://github.com/mantidproject/mantid/pull/25045) - Make the first letters capital in Plot submenu
 * *new* [PR25051](https://github.com/mantidproject/mantid/pull/25051) - Catch possible exceptions from by V3D::normalize in instrument view
 * *new* [PR25053](https://github.com/mantidproject/mantid/pull/25053) - Cleanup SANS release notes
+* *new* [PR25055](https://github.com/mantidproject/mantid/pull/25055) - Pan and zoom tools no longer remain enabled on figures after right click on workbench
