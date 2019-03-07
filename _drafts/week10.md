@@ -61,3 +61,5 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR25034](https://github.com/mantidproject/mantid/pull/25034) - ILL powder rename
 * *new* [PR25043](https://github.com/mantidproject/mantid/pull/25043) - Fix for workbench hard crash on project overwrite save
 * *new* [PR25045](https://github.com/mantidproject/mantid/pull/25045) - Make the first letters capital in Plot submenu
+* *new* [PR25051](https://github.com/mantidproject/mantid/pull/25051) - Catch possible exceptions from by V3D::normalize in instrument view
+* *new* [PR25053](https://github.com/mantidproject/mantid/pull/25053) - Cleanup SANS release notes
