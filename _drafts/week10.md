@@ -48,6 +48,7 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR24991](https://github.com/mantidproject/mantid/pull/24991) - Indirect Reduction - qt Signal warnings
 * *new* [PR25008](https://github.com/mantidproject/mantid/pull/25008) - Fix SANSSaveOther
 * *new* [PR25012](https://github.com/mantidproject/mantid/pull/25012) - Ignore complexity warning
+* *new* [PR25013](https://github.com/mantidproject/mantid/pull/25013) - Show keyboard shortcuts in Workbench editor's Options menu
 * *new* [PR25016](https://github.com/mantidproject/mantid/pull/25016) - Update to frequency domain analysis docs
 * *new* [PR25018](https://github.com/mantidproject/mantid/pull/25018) - Suppress remaining flake8 warnings
 * *new* [PR25020](https://github.com/mantidproject/mantid/pull/25020) - Change deprecation date for old reflectometry GUI
@@ -57,5 +58,6 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR25027](https://github.com/mantidproject/mantid/pull/25027) - Release notes cleanup
 * *new* [PR25028](https://github.com/mantidproject/mantid/pull/25028) - Remove duplicate tabs in session restore
 * *new* [PR25029](https://github.com/mantidproject/mantid/pull/25029) - Specify QT4 before running the error reporter
+* *new* [PR25034](https://github.com/mantidproject/mantid/pull/25034) - ILL powder rename
 * *new* [PR25043](https://github.com/mantidproject/mantid/pull/25043) - Fix for workbench hard crash on project overwrite save
 * *new* [PR25045](https://github.com/mantidproject/mantid/pull/25045) - Make the first letters capital in Plot submenu
