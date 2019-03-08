@@ -34,6 +34,7 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR24905](https://github.com/mantidproject/mantid/pull/24905) - Add background subtraction to SNAPReduce
 * *new* [PR24914](https://github.com/mantidproject/mantid/pull/24914) - ReflectometryILLSumForeground: better line position for SumInQ
 * *new* [PR24924](https://github.com/mantidproject/mantid/pull/24924) - Indirect Diffraction - Re-sizeable interface
+* *new* [PR24927](https://github.com/mantidproject/mantid/pull/24927) - Adding multi plot to make elemental analysis v 2.0
 * *new* [PR24928](https://github.com/mantidproject/mantid/pull/24928) - Catch Exception on saving files with event slices
 * *new* [PR24932](https://github.com/mantidproject/mantid/pull/24932) - Add a context menu to plots in the workbench
 * *new* [PR24935](https://github.com/mantidproject/mantid/pull/24935) - Move linker lines to mtd_add_qt_library function call in spectrum viewer widget
@@ -48,6 +49,7 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR24986](https://github.com/mantidproject/mantid/pull/24986) - Fix missing import for workbench
 * *new* [PR24988](https://github.com/mantidproject/mantid/pull/24988) - Update mslice to bring in latest fixes
 * *new* [PR24991](https://github.com/mantidproject/mantid/pull/24991) - Indirect Reduction - qt Signal warnings
+* *new* [PR24999](https://github.com/mantidproject/mantid/pull/24999) - Fixes AddSampleLog to not crash Mantid with MD workspaces
 * *new* [PR25008](https://github.com/mantidproject/mantid/pull/25008) - Fix SANSSaveOther
 * *new* [PR25012](https://github.com/mantidproject/mantid/pull/25012) - Ignore complexity warning
 * *new* [PR25013](https://github.com/mantidproject/mantid/pull/25013) - Show keyboard shortcuts in Workbench editor's Options menu
