@@ -33,6 +33,7 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR24904](https://github.com/mantidproject/mantid/pull/24904) - Change alg landing page to categories, not full index.
 * *new* [PR24905](https://github.com/mantidproject/mantid/pull/24905) - Add background subtraction to SNAPReduce
 * *new* [PR24914](https://github.com/mantidproject/mantid/pull/24914) - ReflectometryILLSumForeground: better line position for SumInQ
+* *new* [PR24917](https://github.com/mantidproject/mantid/pull/24917) - Parallelize frame correction for EQSANS
 * *new* [PR24924](https://github.com/mantidproject/mantid/pull/24924) - Indirect Diffraction - Re-sizeable interface
 * *new* [PR24927](https://github.com/mantidproject/mantid/pull/24927) - Adding multi plot to make elemental analysis v 2.0
 * *new* [PR24928](https://github.com/mantidproject/mantid/pull/24928) - Catch Exception on saving files with event slices
@@ -49,6 +50,7 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR24986](https://github.com/mantidproject/mantid/pull/24986) - Fix missing import for workbench
 * *new* [PR24988](https://github.com/mantidproject/mantid/pull/24988) - Update mslice to bring in latest fixes
 * *new* [PR24991](https://github.com/mantidproject/mantid/pull/24991) - Indirect Reduction - qt Signal warnings
+* *new* [PR24995](https://github.com/mantidproject/mantid/pull/24995) - Indirect Unscripted testing changes
 * *new* [PR24999](https://github.com/mantidproject/mantid/pull/24999) - Fixes AddSampleLog to not crash Mantid with MD workspaces
 * *new* [PR25008](https://github.com/mantidproject/mantid/pull/25008) - Fix SANSSaveOther
 * *new* [PR25012](https://github.com/mantidproject/mantid/pull/25012) - Ignore complexity warning
@@ -62,13 +64,16 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR25027](https://github.com/mantidproject/mantid/pull/25027) - Release notes cleanup
 * *new* [PR25028](https://github.com/mantidproject/mantid/pull/25028) - Remove duplicate tabs in session restore
 * *new* [PR25029](https://github.com/mantidproject/mantid/pull/25029) - Specify QT4 before running the error reporter
+* *new* [PR25032](https://github.com/mantidproject/mantid/pull/25032) - Re #25031. Allow for building workbench with only Qt5 installed.
 * *new* [PR25034](https://github.com/mantidproject/mantid/pull/25034) - ILL powder rename
 * *new* [PR25043](https://github.com/mantidproject/mantid/pull/25043) - Fix for workbench hard crash on project overwrite save
 * *new* [PR25044](https://github.com/mantidproject/mantid/pull/25044) - Bug fixes for new Muon GUI
 * *new* [PR25045](https://github.com/mantidproject/mantid/pull/25045) - Make the first letters capital in Plot submenu
+* *new* [PR25049](https://github.com/mantidproject/mantid/pull/25049) - Restore workbench editor tabs with the same font as used on first construction
 * *new* [PR25050](https://github.com/mantidproject/mantid/pull/25050) - SNSPowderReduction chunking vanadium
 * *new* [PR25051](https://github.com/mantidproject/mantid/pull/25051) - Catch possible exceptions from by V3D::normalize in instrument view
 * *new* [PR25053](https://github.com/mantidproject/mantid/pull/25053) - Cleanup SANS release notes
 * *new* [PR25055](https://github.com/mantidproject/mantid/pull/25055) - Pan and zoom tools no longer remain enabled on figures after right click on workbench
 * *new* [PR25057](https://github.com/mantidproject/mantid/pull/25057) - Fix crash when opening instrument view for multiple workspaces
+* *new* [PR25064](https://github.com/mantidproject/mantid/pull/25064) - Workbench/MantidPlot: Project Recovery - Remove file dumping from the logging
 * *new* [PR25069](https://github.com/mantidproject/mantid/pull/25069) - Workbench: Plot legend draggability - Project Loading and Fitting
