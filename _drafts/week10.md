@@ -75,5 +75,7 @@ Detailed Merges for Mar 4 to 10, 2019
 * *new* [PR25053](https://github.com/mantidproject/mantid/pull/25053) - Cleanup SANS release notes
 * *new* [PR25055](https://github.com/mantidproject/mantid/pull/25055) - Pan and zoom tools no longer remain enabled on figures after right click on workbench
 * *new* [PR25057](https://github.com/mantidproject/mantid/pull/25057) - Fix crash when opening instrument view for multiple workspaces
+* *new* [PR25062](https://github.com/mantidproject/mantid/pull/25062) - Add release notes for 4.1.0
 * *new* [PR25064](https://github.com/mantidproject/mantid/pull/25064) - Workbench/MantidPlot: Project Recovery - Remove file dumping from the logging
 * *new* [PR25069](https://github.com/mantidproject/mantid/pull/25069) - Workbench: Plot legend draggability - Project Loading and Fitting
+* *new* [PR25094](https://github.com/mantidproject/mantid/pull/25094) - SNAPReduce error with wrong output workspace names
