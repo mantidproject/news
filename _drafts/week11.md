@@ -19,3 +19,4 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25082](https://github.com/mantidproject/mantid/pull/25082) - Windows catalog tooltip fix
 * *new* [PR25084](https://github.com/mantidproject/mantid/pull/25084) - Updated Group to use spectrum not workspace index
 * *new* [PR25093](https://github.com/mantidproject/mantid/pull/25093) - PDDetermineCharacterizations throws a meaningful exception
+* *new* [PR25096](https://github.com/mantidproject/mantid/pull/25096) - Cache Beamline in InstrumentDefinitionParser
