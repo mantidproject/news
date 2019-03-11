@@ -12,5 +12,10 @@ Detailed Merges for Mar 11 to 17, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-03-12..2019-03-17)
 
 * *new* [PR24008](https://github.com/mantidproject/mantid/pull/24008) - System tests for ILL's direct geometry reduction
+* *new* [PR24891](https://github.com/mantidproject/mantid/pull/24891) - ILL SANS wavelength dependent flux
+* *new* [PR25058](https://github.com/mantidproject/mantid/pull/25058) - Fix crash upon running enginX's gui calibrate with no calibration directory selected
+* *new* [PR25077](https://github.com/mantidproject/mantid/pull/25077) - Add option to ignore nexus instrument xml
 * *new* [PR25079](https://github.com/mantidproject/mantid/pull/25079) - Fix instrument view exception on 3D rotate
 * *new* [PR25082](https://github.com/mantidproject/mantid/pull/25082) - Windows catalog tooltip fix
+* *new* [PR25084](https://github.com/mantidproject/mantid/pull/25084) - Updated Group to use spectrum not workspace index
+* *new* [PR25093](https://github.com/mantidproject/mantid/pull/25093) - PDDetermineCharacterizations throws a meaningful exception
