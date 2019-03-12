@@ -14,6 +14,7 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR24008](https://github.com/mantidproject/mantid/pull/24008) - System tests for ILL's direct geometry reduction
 * *new* [PR24891](https://github.com/mantidproject/mantid/pull/24891) - ILL SANS wavelength dependent flux
 * *new* [PR25058](https://github.com/mantidproject/mantid/pull/25058) - Fix crash upon running enginX's gui calibrate with no calibration directory selected
+* *new* [PR25068](https://github.com/mantidproject/mantid/pull/25068) - Muon tidy up release notes and add image
 * *new* [PR25077](https://github.com/mantidproject/mantid/pull/25077) - Add option to ignore nexus instrument xml
 * *new* [PR25079](https://github.com/mantidproject/mantid/pull/25079) - Fix instrument view exception on 3D rotate
 * *new* [PR25082](https://github.com/mantidproject/mantid/pull/25082) - Windows catalog tooltip fix
@@ -24,3 +25,6 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25096](https://github.com/mantidproject/mantid/pull/25096) - Cache Beamline in InstrumentDefinitionParser
 * *new* [PR25097](https://github.com/mantidproject/mantid/pull/25097) - Allow opening of sample logs for MDWorkspaces
 * *new* [PR25106](https://github.com/mantidproject/mantid/pull/25106) - Fix curve fitting on curves with user defined labels in Workbench
+* *new* [PR25108](https://github.com/mantidproject/mantid/pull/25108) - Disable context menu in figure toolbar in workbench
+* *new* [PR25118](https://github.com/mantidproject/mantid/pull/25118) - Update FFT PhaseQuad to cope with multiple CHRONUS grouping files
+* *new* [PR25119](https://github.com/mantidproject/mantid/pull/25119) - Show algorithm history for all workpaces in Workbench
