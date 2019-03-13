@@ -13,6 +13,7 @@ Detailed Merges for Mar 11 to 17, 2019
 
 * *new* [PR24008](https://github.com/mantidproject/mantid/pull/24008) - System tests for ILL's direct geometry reduction
 * *new* [PR24159](https://github.com/mantidproject/mantid/pull/24159) - Pychop: `sam0` changed to support annulus
+* *new* [PR24538](https://github.com/mantidproject/mantid/pull/24538) - Documentation on how to change matplotlib defaults
 * *new* [PR24891](https://github.com/mantidproject/mantid/pull/24891) - ILL SANS wavelength dependent flux
 * *new* [PR25058](https://github.com/mantidproject/mantid/pull/25058) - Fix crash upon running enginX's gui calibrate with no calibration directory selected
 * *new* [PR25068](https://github.com/mantidproject/mantid/pull/25068) - Muon tidy up release notes and add image
@@ -29,8 +30,11 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25097](https://github.com/mantidproject/mantid/pull/25097) - Allow opening of sample logs for MDWorkspaces
 * *new* [PR25106](https://github.com/mantidproject/mantid/pull/25106) - Fix curve fitting on curves with user defined labels in Workbench
 * *new* [PR25108](https://github.com/mantidproject/mantid/pull/25108) - Disable context menu in figure toolbar in workbench
+* *new* [PR25112](https://github.com/mantidproject/mantid/pull/25112) - Updated decrement/increment to display one value
 * *new* [PR25118](https://github.com/mantidproject/mantid/pull/25118) - Update FFT PhaseQuad to cope with multiple CHRONUS grouping files
 * *new* [PR25119](https://github.com/mantidproject/mantid/pull/25119) - Show algorithm history for all workpaces in Workbench
 * *new* [PR25120](https://github.com/mantidproject/mantid/pull/25120) - ILL SANS reduction fix for python3
+* *new* [PR25128](https://github.com/mantidproject/mantid/pull/25128) - Add "Save Script as..." option in Workbench
 * *new* [PR25129](https://github.com/mantidproject/mantid/pull/25129) - Enabled FilterEvents to split string time series properties
 * *new* [PR25130](https://github.com/mantidproject/mantid/pull/25130) - AlignAndFocusPowderFromFiles with processed nexus
+* *new* [PR25143](https://github.com/mantidproject/mantid/pull/25143) - Further distinguish deprecated ISIS sans gui from new gui
