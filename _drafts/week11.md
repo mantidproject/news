@@ -37,4 +37,7 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25128](https://github.com/mantidproject/mantid/pull/25128) - Add "Save Script as..." option in Workbench
 * *new* [PR25129](https://github.com/mantidproject/mantid/pull/25129) - Enabled FilterEvents to split string time series properties
 * *new* [PR25130](https://github.com/mantidproject/mantid/pull/25130) - AlignAndFocusPowderFromFiles with processed nexus
+* *new* [PR25134](https://github.com/mantidproject/mantid/pull/25134) - Input parameters for ModeratorTzeroLinear
 * *new* [PR25143](https://github.com/mantidproject/mantid/pull/25143) - Further distinguish deprecated ISIS sans gui from new gui
+* *new* [PR25150](https://github.com/mantidproject/mantid/pull/25150) - Fixed second level algorithm sorting workbench
+* *new* [PR25155](https://github.com/mantidproject/mantid/pull/25155) - Fix power scale on workbench instrument view
