@@ -48,5 +48,7 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25152](https://github.com/mantidproject/mantid/pull/25152) - MuonMaxent checks
 * *new* [PR25154](https://github.com/mantidproject/mantid/pull/25154) - Fix Workbench startup when switching Python versions
 * *new* [PR25155](https://github.com/mantidproject/mantid/pull/25155) - Fix power scale on workbench instrument view
+* *new* [PR25162](https://github.com/mantidproject/mantid/pull/25162) - Fix phase bug in FDA
+* *new* [PR25164](https://github.com/mantidproject/mantid/pull/25164) - Fix workbench running tab-indented scripts
 * *new* [PR25165](https://github.com/mantidproject/mantid/pull/25165) - Removed suggestion that can permanently break enginx gui
 * *new* [PR25167](https://github.com/mantidproject/mantid/pull/25167) - Added preprocessing run suggestions to engineering test doc
