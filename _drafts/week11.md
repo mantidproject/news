@@ -14,9 +14,11 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR24008](https://github.com/mantidproject/mantid/pull/24008) - System tests for ILL's direct geometry reduction
 * *new* [PR24159](https://github.com/mantidproject/mantid/pull/24159) - Pychop: `sam0` changed to support annulus
 * *new* [PR24538](https://github.com/mantidproject/mantid/pull/24538) - Documentation on how to change matplotlib defaults
+* *new* [PR24822](https://github.com/mantidproject/mantid/pull/24822) - EnginX Calibration plots workspace automatically
 * *new* [PR24891](https://github.com/mantidproject/mantid/pull/24891) - ILL SANS wavelength dependent flux
 * *new* [PR24982](https://github.com/mantidproject/mantid/pull/24982) - Indirect Diffraction - Manual Grouping Bug
 * *new* [PR25058](https://github.com/mantidproject/mantid/pull/25058) - Fix crash upon running enginX's gui calibrate with no calibration directory selected
+* *new* [PR25066](https://github.com/mantidproject/mantid/pull/25066) - Ensure beam centre max radius is larger than min radius
 * *new* [PR25068](https://github.com/mantidproject/mantid/pull/25068) - Muon tidy up release notes and add image
 * *new* [PR25070](https://github.com/mantidproject/mantid/pull/25070) - Indirect Reduction Sum files bug with wrong masked detectors
 * *new* [PR25077](https://github.com/mantidproject/mantid/pull/25077) - Add option to ignore nexus instrument xml
@@ -40,6 +42,11 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25129](https://github.com/mantidproject/mantid/pull/25129) - Enabled FilterEvents to split string time series properties
 * *new* [PR25130](https://github.com/mantidproject/mantid/pull/25130) - AlignAndFocusPowderFromFiles with processed nexus
 * *new* [PR25134](https://github.com/mantidproject/mantid/pull/25134) - Input parameters for ModeratorTzeroLinear
+* *new* [PR25136](https://github.com/mantidproject/mantid/pull/25136) - basis paramfiles
 * *new* [PR25143](https://github.com/mantidproject/mantid/pull/25143) - Further distinguish deprecated ISIS sans gui from new gui
 * *new* [PR25150](https://github.com/mantidproject/mantid/pull/25150) - Fixed second level algorithm sorting workbench
+* *new* [PR25152](https://github.com/mantidproject/mantid/pull/25152) - MuonMaxent checks
+* *new* [PR25154](https://github.com/mantidproject/mantid/pull/25154) - Fix Workbench startup when switching Python versions
 * *new* [PR25155](https://github.com/mantidproject/mantid/pull/25155) - Fix power scale on workbench instrument view
+* *new* [PR25165](https://github.com/mantidproject/mantid/pull/25165) - Removed suggestion that can permanently break enginx gui
+* *new* [PR25167](https://github.com/mantidproject/mantid/pull/25167) - Added preprocessing run suggestions to engineering test doc
