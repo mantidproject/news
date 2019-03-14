@@ -15,6 +15,7 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR24159](https://github.com/mantidproject/mantid/pull/24159) - Pychop: `sam0` changed to support annulus
 * *new* [PR24538](https://github.com/mantidproject/mantid/pull/24538) - Documentation on how to change matplotlib defaults
 * *new* [PR24891](https://github.com/mantidproject/mantid/pull/24891) - ILL SANS wavelength dependent flux
+* *new* [PR24982](https://github.com/mantidproject/mantid/pull/24982) - Indirect Diffraction - Manual Grouping Bug
 * *new* [PR25058](https://github.com/mantidproject/mantid/pull/25058) - Fix crash upon running enginX's gui calibrate with no calibration directory selected
 * *new* [PR25068](https://github.com/mantidproject/mantid/pull/25068) - Muon tidy up release notes and add image
 * *new* [PR25070](https://github.com/mantidproject/mantid/pull/25070) - Indirect Reduction Sum files bug with wrong masked detectors
@@ -28,6 +29,7 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25093](https://github.com/mantidproject/mantid/pull/25093) - PDDetermineCharacterizations throws a meaningful exception
 * *new* [PR25096](https://github.com/mantidproject/mantid/pull/25096) - Cache Beamline in InstrumentDefinitionParser
 * *new* [PR25097](https://github.com/mantidproject/mantid/pull/25097) - Allow opening of sample logs for MDWorkspaces
+* *new* [PR25099](https://github.com/mantidproject/mantid/pull/25099) - Workbench: Project recovery progress bar fix
 * *new* [PR25106](https://github.com/mantidproject/mantid/pull/25106) - Fix curve fitting on curves with user defined labels in Workbench
 * *new* [PR25108](https://github.com/mantidproject/mantid/pull/25108) - Disable context menu in figure toolbar in workbench
 * *new* [PR25112](https://github.com/mantidproject/mantid/pull/25112) - Updated decrement/increment to display one value
