@@ -40,11 +40,13 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25119](https://github.com/mantidproject/mantid/pull/25119) - Show algorithm history for all workpaces in Workbench
 * *new* [PR25120](https://github.com/mantidproject/mantid/pull/25120) - ILL SANS reduction fix for python3
 * *new* [PR25123](https://github.com/mantidproject/mantid/pull/25123) - Grouping tab should automatically update upon changes to tables
+* *new* [PR25124](https://github.com/mantidproject/mantid/pull/25124) - VSI crash fixed.
 * *new* [PR25128](https://github.com/mantidproject/mantid/pull/25128) - Add "Save Script as..." option in Workbench
 * *new* [PR25129](https://github.com/mantidproject/mantid/pull/25129) - Enabled FilterEvents to split string time series properties
 * *new* [PR25130](https://github.com/mantidproject/mantid/pull/25130) - AlignAndFocusPowderFromFiles with processed nexus
 * *new* [PR25134](https://github.com/mantidproject/mantid/pull/25134) - Input parameters for ModeratorTzeroLinear
 * *new* [PR25136](https://github.com/mantidproject/mantid/pull/25136) - basis paramfiles
+* *new* [PR25142](https://github.com/mantidproject/mantid/pull/25142) - Fixes left-right parity for D33
 * *new* [PR25143](https://github.com/mantidproject/mantid/pull/25143) - Further distinguish deprecated ISIS sans gui from new gui
 * *new* [PR25150](https://github.com/mantidproject/mantid/pull/25150) - Fixed second level algorithm sorting workbench
 * *new* [PR25152](https://github.com/mantidproject/mantid/pull/25152) - MuonMaxent checks
