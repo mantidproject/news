@@ -56,3 +56,5 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25165](https://github.com/mantidproject/mantid/pull/25165) - Removed suggestion that can permanently break enginx gui
 * *new* [PR25167](https://github.com/mantidproject/mantid/pull/25167) - Added preprocessing run suggestions to engineering test doc
 * *new* [PR25170](https://github.com/mantidproject/mantid/pull/25170) - Reword engineering add peak button
+* *new* [PR25176](https://github.com/mantidproject/mantid/pull/25176) - Unmanaged plots no longer deleted in workbench
+* *new* [PR25179](https://github.com/mantidproject/mantid/pull/25179) - AlgorithmSelector Widget to Observe AlgorithmFactory in Workbench
