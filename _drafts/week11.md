@@ -60,3 +60,5 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25170](https://github.com/mantidproject/mantid/pull/25170) - Reword engineering add peak button
 * *new* [PR25176](https://github.com/mantidproject/mantid/pull/25176) - Unmanaged plots no longer deleted in workbench
 * *new* [PR25179](https://github.com/mantidproject/mantid/pull/25179) - AlgorithmSelector Widget to Observe AlgorithmFactory in Workbench
+* *new* [PR25208](https://github.com/mantidproject/mantid/pull/25208) - Show log value in viewer
+* *new* [PR25210](https://github.com/mantidproject/mantid/pull/25210) - Mock out threading in unit tests
