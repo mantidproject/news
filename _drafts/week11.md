@@ -15,6 +15,7 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR24159](https://github.com/mantidproject/mantid/pull/24159) - Pychop: `sam0` changed to support annulus
 * *new* [PR24538](https://github.com/mantidproject/mantid/pull/24538) - Documentation on how to change matplotlib defaults
 * *new* [PR24822](https://github.com/mantidproject/mantid/pull/24822) - EnginX Calibration plots workspace automatically
+* *new* [PR24825](https://github.com/mantidproject/mantid/pull/24825) - Basic algorithm for background subtraction
 * *new* [PR24891](https://github.com/mantidproject/mantid/pull/24891) - ILL SANS wavelength dependent flux
 * *new* [PR24982](https://github.com/mantidproject/mantid/pull/24982) - Indirect Diffraction - Manual Grouping Bug
 * *new* [PR25058](https://github.com/mantidproject/mantid/pull/25058) - Fix crash upon running enginX's gui calibrate with no calibration directory selected
@@ -38,6 +39,7 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25118](https://github.com/mantidproject/mantid/pull/25118) - Update FFT PhaseQuad to cope with multiple CHRONUS grouping files
 * *new* [PR25119](https://github.com/mantidproject/mantid/pull/25119) - Show algorithm history for all workpaces in Workbench
 * *new* [PR25120](https://github.com/mantidproject/mantid/pull/25120) - ILL SANS reduction fix for python3
+* *new* [PR25123](https://github.com/mantidproject/mantid/pull/25123) - Grouping tab should automatically update upon changes to tables
 * *new* [PR25128](https://github.com/mantidproject/mantid/pull/25128) - Add "Save Script as..." option in Workbench
 * *new* [PR25129](https://github.com/mantidproject/mantid/pull/25129) - Enabled FilterEvents to split string time series properties
 * *new* [PR25130](https://github.com/mantidproject/mantid/pull/25130) - AlignAndFocusPowderFromFiles with processed nexus
@@ -49,6 +51,8 @@ Detailed Merges for Mar 11 to 17, 2019
 * *new* [PR25154](https://github.com/mantidproject/mantid/pull/25154) - Fix Workbench startup when switching Python versions
 * *new* [PR25155](https://github.com/mantidproject/mantid/pull/25155) - Fix power scale on workbench instrument view
 * *new* [PR25162](https://github.com/mantidproject/mantid/pull/25162) - Fix phase bug in FDA
+* *new* [PR25163](https://github.com/mantidproject/mantid/pull/25163) - Fix Fitting crash Enginx gui
 * *new* [PR25164](https://github.com/mantidproject/mantid/pull/25164) - Fix workbench running tab-indented scripts
 * *new* [PR25165](https://github.com/mantidproject/mantid/pull/25165) - Removed suggestion that can permanently break enginx gui
 * *new* [PR25167](https://github.com/mantidproject/mantid/pull/25167) - Added preprocessing run suggestions to engineering test doc
+* *new* [PR25170](https://github.com/mantidproject/mantid/pull/25170) - Reword engineering add peak button
