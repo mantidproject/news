@@ -30,3 +30,4 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25234](https://github.com/mantidproject/mantid/pull/25234) - Elemental analysis and release notes
 * *new* [PR25236](https://github.com/mantidproject/mantid/pull/25236) - Indirect Paalman Pings re-enable Run button after an error
 * *new* [PR25237](https://github.com/mantidproject/mantid/pull/25237) - Crash when opening AlgorithmHistoryWindow with a workspace with no history
+* *new* [PR25250](https://github.com/mantidproject/mantid/pull/25250) - Indirect Fit Output - Save each result workspace individually
