@@ -22,5 +22,7 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25211](https://github.com/mantidproject/mantid/pull/25211) - Fix ORNL SANS setup workflow algorithms
 * *new* [PR25219](https://github.com/mantidproject/mantid/pull/25219) - Disable fit button on workbench plots with no associated workspaces
 * *new* [PR25220](https://github.com/mantidproject/mantid/pull/25220) - Indirect - Fix ApplyCorrections when only sample attenuation
+* *new* [PR25221](https://github.com/mantidproject/mantid/pull/25221) - Indirect Data Reduction Interface, Symmetrise tab behaviour changes
 * *new* [PR25223](https://github.com/mantidproject/mantid/pull/25223) - Indirect data reduction transmission crash fix
 * *new* [PR25226](https://github.com/mantidproject/mantid/pull/25226) - Change Mask Energies Label Indirect
+* *new* [PR25236](https://github.com/mantidproject/mantid/pull/25236) - Indirect Paalman Pings re-enable Run button after an error
