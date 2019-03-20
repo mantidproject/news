@@ -31,10 +31,14 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25225](https://github.com/mantidproject/mantid/pull/25225) - Resolve compilation issue for gcc 8.2.1
 * *new* [PR25226](https://github.com/mantidproject/mantid/pull/25226) - Change Mask Energies Label Indirect
 * *new* [PR25228](https://github.com/mantidproject/mantid/pull/25228) - Indirect - Prevent loading of workspace with one data point on FQFit
+* *new* [PR25229](https://github.com/mantidproject/mantid/pull/25229) - Corrected range validation
 * *new* [PR25233](https://github.com/mantidproject/mantid/pull/25233) - Prevent figure window close if subplot deleted
 * *new* [PR25234](https://github.com/mantidproject/mantid/pull/25234) - Elemental analysis and release notes
 * *new* [PR25236](https://github.com/mantidproject/mantid/pull/25236) - Indirect Paalman Pings re-enable Run button after an error
 * *new* [PR25237](https://github.com/mantidproject/mantid/pull/25237) - Crash when opening AlgorithmHistoryWindow with a workspace with no history
+* *new* [PR25239](https://github.com/mantidproject/mantid/pull/25239) - TableWorkspaceDisplay - automatically mark columns as X/Y/YErr. Add Scatter with Errors
+* *new* [PR25246](https://github.com/mantidproject/mantid/pull/25246) - MantidPlot: Stop crashing when plotting color fill for workspace with text axis
 * *new* [PR25250](https://github.com/mantidproject/mantid/pull/25250) - Indirect Fit Output - Save each result workspace individually
 * *new* [PR25258](https://github.com/mantidproject/mantid/pull/25258) - Handle the exception when a connection cannot be made to the error reporting remote
 * *new* [PR25261](https://github.com/mantidproject/mantid/pull/25261) - Indirect Multiple Input hard crash
+* *new* [PR25277](https://github.com/mantidproject/mantid/pull/25277) - Fix broken png files created by draw.io
