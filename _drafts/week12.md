@@ -21,9 +21,11 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25173](https://github.com/mantidproject/mantid/pull/25173) - ILL powder detector scan copy logs from input
 * *new* [PR25174](https://github.com/mantidproject/mantid/pull/25174) - Crop phasequad by first and last good data
 * *new* [PR25182](https://github.com/mantidproject/mantid/pull/25182) - Group and pair names unchangeable after creation
+* *new* [PR25184](https://github.com/mantidproject/mantid/pull/25184) - ILL powder reduce single run
 * *new* [PR25187](https://github.com/mantidproject/mantid/pull/25187) - Removes geometry input from Indirect>Corrections>Apply Abs Corr
 * *new* [PR25194](https://github.com/mantidproject/mantid/pull/25194) - Indirect ConvFit : avoid nullptr if component does not exist
 * *new* [PR25198](https://github.com/mantidproject/mantid/pull/25198) - Double-clicking algorithm opens run dialog in Workbench
+* *new* [PR25199](https://github.com/mantidproject/mantid/pull/25199) - Crop the IvsQ output of RROA if Q limits specified
 * *new* [PR25202](https://github.com/mantidproject/mantid/pull/25202) - Turn off X errorbars in workbench plots
 * *new* [PR25211](https://github.com/mantidproject/mantid/pull/25211) - Fix ORNL SANS setup workflow algorithms
 * *new* [PR25219](https://github.com/mantidproject/mantid/pull/25219) - Disable fit button on workbench plots with no associated workspaces
@@ -40,6 +42,7 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25236](https://github.com/mantidproject/mantid/pull/25236) - Indirect Paalman Pings re-enable Run button after an error
 * *new* [PR25237](https://github.com/mantidproject/mantid/pull/25237) - Crash when opening AlgorithmHistoryWindow with a workspace with no history
 * *new* [PR25239](https://github.com/mantidproject/mantid/pull/25239) - TableWorkspaceDisplay - automatically mark columns as X/Y/YErr. Add Scatter with Errors
+* *new* [PR25241](https://github.com/mantidproject/mantid/pull/25241) - Fix cppcheck 1.87 warnings in DataObjects
 * *new* [PR25246](https://github.com/mantidproject/mantid/pull/25246) - MantidPlot: Stop crashing when plotting color fill for workspace with text axis
 * *new* [PR25247](https://github.com/mantidproject/mantid/pull/25247) - Indirect Reduction TOSCA - Include Summed File Masked Detectors
 * *new* [PR25250](https://github.com/mantidproject/mantid/pull/25250) - Indirect Fit Output - Save each result workspace individually
@@ -47,4 +50,7 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25258](https://github.com/mantidproject/mantid/pull/25258) - Handle the exception when a connection cannot be made to the error reporting remote
 * *new* [PR25259](https://github.com/mantidproject/mantid/pull/25259) - Muon - Add algorithms to SeeAlso
 * *new* [PR25261](https://github.com/mantidproject/mantid/pull/25261) - Indirect Multiple Input hard crash
+* *new* [PR25265](https://github.com/mantidproject/mantid/pull/25265) - Fix cppcheck 1.87 warnings in HistogramData
+* *new* [PR25271](https://github.com/mantidproject/mantid/pull/25271) - SortXAxis allow a skip of the histogram validity check
 * *new* [PR25277](https://github.com/mantidproject/mantid/pull/25277) - Fix broken png files created by draw.io
+* *new* [PR25282](https://github.com/mantidproject/mantid/pull/25282) - Add introductory paragraph to v4.0.0 release notes
