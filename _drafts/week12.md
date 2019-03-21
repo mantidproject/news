@@ -44,6 +44,7 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25237](https://github.com/mantidproject/mantid/pull/25237) - Crash when opening AlgorithmHistoryWindow with a workspace with no history
 * *new* [PR25239](https://github.com/mantidproject/mantid/pull/25239) - TableWorkspaceDisplay - automatically mark columns as X/Y/YErr. Add Scatter with Errors
 * *new* [PR25241](https://github.com/mantidproject/mantid/pull/25241) - Fix cppcheck 1.87 warnings in DataObjects
+* *new* [PR25245](https://github.com/mantidproject/mantid/pull/25245) - Fix instrument view crash
 * *new* [PR25246](https://github.com/mantidproject/mantid/pull/25246) - MantidPlot: Stop crashing when plotting color fill for workspace with text axis
 * *new* [PR25247](https://github.com/mantidproject/mantid/pull/25247) - Indirect Reduction TOSCA - Include Summed File Masked Detectors
 * *new* [PR25250](https://github.com/mantidproject/mantid/pull/25250) - Indirect Fit Output - Save each result workspace individually
@@ -58,4 +59,9 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25277](https://github.com/mantidproject/mantid/pull/25277) - Fix broken png files created by draw.io
 * *new* [PR25278](https://github.com/mantidproject/mantid/pull/25278) - Updated errorreporter to correctly specify application name
 * *new* [PR25282](https://github.com/mantidproject/mantid/pull/25282) - Add introductory paragraph to v4.0.0 release notes
+* *new* [PR25283](https://github.com/mantidproject/mantid/pull/25283) - Project Recovery: add execCount to the comment for call to GeneratePythonScript
 * *new* [PR25289](https://github.com/mantidproject/mantid/pull/25289) - Project Recovery: MantidPlot handles repair with successful sanity check.
+* *new* [PR25292](https://github.com/mantidproject/mantid/pull/25292) - Update shipped version of mslice
+* *new* [PR25311](https://github.com/mantidproject/mantid/pull/25311) - Enable TSVSerializer for Qt5 shape saving.
+* *new* [PR25312](https://github.com/mantidproject/mantid/pull/25312) - Improve release notes
+* *new* [PR25319](https://github.com/mantidproject/mantid/pull/25319) - Workbench help links open in web browser
