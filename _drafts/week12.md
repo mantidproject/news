@@ -36,6 +36,7 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25226](https://github.com/mantidproject/mantid/pull/25226) - Change Mask Energies Label Indirect
 * *new* [PR25228](https://github.com/mantidproject/mantid/pull/25228) - Indirect - Prevent loading of workspace with one data point on FQFit
 * *new* [PR25229](https://github.com/mantidproject/mantid/pull/25229) - Corrected range validation
+* *new* [PR25231](https://github.com/mantidproject/mantid/pull/25231) - Update Windows build instructions for cmake 3.14
 * *new* [PR25232](https://github.com/mantidproject/mantid/pull/25232) - Fix multi dataset fitting bugs
 * *new* [PR25233](https://github.com/mantidproject/mantid/pull/25233) - Prevent figure window close if subplot deleted
 * *new* [PR25234](https://github.com/mantidproject/mantid/pull/25234) - Elemental analysis and release notes
@@ -51,6 +52,10 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25259](https://github.com/mantidproject/mantid/pull/25259) - Muon - Add algorithms to SeeAlso
 * *new* [PR25261](https://github.com/mantidproject/mantid/pull/25261) - Indirect Multiple Input hard crash
 * *new* [PR25265](https://github.com/mantidproject/mantid/pull/25265) - Fix cppcheck 1.87 warnings in HistogramData
+* *new* [PR25266](https://github.com/mantidproject/mantid/pull/25266) - Fix cppcheck 1.87 warnings in ICat
 * *new* [PR25271](https://github.com/mantidproject/mantid/pull/25271) - SortXAxis allow a skip of the histogram validity check
+* *new* [PR25275](https://github.com/mantidproject/mantid/pull/25275) - Enable Frequency Domain Analysis GUI on failure
 * *new* [PR25277](https://github.com/mantidproject/mantid/pull/25277) - Fix broken png files created by draw.io
+* *new* [PR25278](https://github.com/mantidproject/mantid/pull/25278) - Updated errorreporter to correctly specify application name
 * *new* [PR25282](https://github.com/mantidproject/mantid/pull/25282) - Add introductory paragraph to v4.0.0 release notes
+* *new* [PR25289](https://github.com/mantidproject/mantid/pull/25289) - Project Recovery: MantidPlot handles repair with successful sanity check.
