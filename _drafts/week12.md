@@ -64,9 +64,11 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25283](https://github.com/mantidproject/mantid/pull/25283) - Project Recovery: add execCount to the comment for call to GeneratePythonScript
 * *new* [PR25289](https://github.com/mantidproject/mantid/pull/25289) - Project Recovery: MantidPlot handles repair with successful sanity check.
 * *new* [PR25292](https://github.com/mantidproject/mantid/pull/25292) - Update shipped version of mslice
+* *new* [PR25303](https://github.com/mantidproject/mantid/pull/25303) - Stop Multiple Manage Directories Opening in SANS
 * *new* [PR25309](https://github.com/mantidproject/mantid/pull/25309) - LoadAndMerge:
 * *new* [PR25311](https://github.com/mantidproject/mantid/pull/25311) - Enable TSVSerializer for Qt5 shape saving.
 * *new* [PR25312](https://github.com/mantidproject/mantid/pull/25312) - Improve release notes
 * *new* [PR25319](https://github.com/mantidproject/mantid/pull/25319) - Workbench help links open in web browser
 * *new* [PR25327](https://github.com/mantidproject/mantid/pull/25327) - Change pyqtSignal to Signal to fix DGSPlanner not opening in MantidPlot
 * *new* [PR25332](https://github.com/mantidproject/mantid/pull/25332) - Adds the GIMP project for the workbench icon
+* *new* [PR25337](https://github.com/mantidproject/mantid/pull/25337) - Make a copy of an output workspace group
