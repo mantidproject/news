@@ -26,6 +26,7 @@ Detailed Merges for Mar 18 to 24, 2019
 * *new* [PR25194](https://github.com/mantidproject/mantid/pull/25194) - Indirect ConvFit : avoid nullptr if component does not exist
 * *new* [PR25198](https://github.com/mantidproject/mantid/pull/25198) - Double-clicking algorithm opens run dialog in Workbench
 * *new* [PR25199](https://github.com/mantidproject/mantid/pull/25199) - Crop the IvsQ output of RROA if Q limits specified
+* *new* [PR25200](https://github.com/mantidproject/mantid/pull/25200) - Change unittest mock imports
 * *new* [PR25202](https://github.com/mantidproject/mantid/pull/25202) - Turn off X errorbars in workbench plots
 * *new* [PR25211](https://github.com/mantidproject/mantid/pull/25211) - Fix ORNL SANS setup workflow algorithms
 * *new* [PR25219](https://github.com/mantidproject/mantid/pull/25219) - Disable fit button on workbench plots with no associated workspaces
