@@ -12,11 +12,19 @@ Detailed Merges for Mar 25 to 31, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-03-26..2019-03-31)
 
 * *new* [PR24515](https://github.com/mantidproject/mantid/pull/24515) - High-resolution zoom of colorfill plots
+* *new* [PR25137](https://github.com/mantidproject/mantid/pull/25137) - Ensure BASISCrystalReduction can read events files with updated DAS
 * *new* [PR25181](https://github.com/mantidproject/mantid/pull/25181) - Allow ShapeInfo to understand Hollow Cylinder Geometry
 * *new* [PR25205](https://github.com/mantidproject/mantid/pull/25205) - Fix cppcheck 1.87 warnings in Crystal
 * *new* [PR25272](https://github.com/mantidproject/mantid/pull/25272) - Add optional flags to clang-tidy
 * *new* [PR25300](https://github.com/mantidproject/mantid/pull/25300) - Numerical absorption refactor
+* *new* [PR25304](https://github.com/mantidproject/mantid/pull/25304) - Remove GPUAlgorithms
+* *new* [PR25307](https://github.com/mantidproject/mantid/pull/25307) - Reduce function complexity and remove noqa c901
 * *new* [PR25318](https://github.com/mantidproject/mantid/pull/25318) - Indirect Example Workflows for Data Analysis and Reduction
+* *new* [PR25336](https://github.com/mantidproject/mantid/pull/25336) - Fix cppcheck 1.87 warnings in Muon
+* *new* [PR25338](https://github.com/mantidproject/mantid/pull/25338) - Remove old Git workflow helper scripts
 * *new* [PR25339](https://github.com/mantidproject/mantid/pull/25339) - Fix cppcheck 1.87 warnings in Nexus
 * *new* [PR25340](https://github.com/mantidproject/mantid/pull/25340) - Fix cppcheck 1.87 warnings in Parallel
+* *new* [PR25342](https://github.com/mantidproject/mantid/pull/25342) - Clang-tidy modernize-loop-convert Risky
+* *new* [PR25343](https://github.com/mantidproject/mantid/pull/25343) - Indirect Add system tests to cover TOSCA bug
 * *new* [PR25347](https://github.com/mantidproject/mantid/pull/25347) - Fix workbench startup script on macOS under Gatekeeper
+* *new* [PR25356](https://github.com/mantidproject/mantid/pull/25356) - Increase font size in SANS table
