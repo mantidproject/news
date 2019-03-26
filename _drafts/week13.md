@@ -28,5 +28,9 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25343](https://github.com/mantidproject/mantid/pull/25343) - Indirect Add system tests to cover TOSCA bug
 * *new* [PR25347](https://github.com/mantidproject/mantid/pull/25347) - Fix workbench startup script on macOS under Gatekeeper
 * *new* [PR25356](https://github.com/mantidproject/mantid/pull/25356) - Increase font size in SANS table
+* *new* [PR25365](https://github.com/mantidproject/mantid/pull/25365) - Remove unnesecary iostream imports
+* *new* [PR25367](https://github.com/mantidproject/mantid/pull/25367) - Formatting CMake files: scripts to tools
 * *new* [PR25371](https://github.com/mantidproject/mantid/pull/25371) - Indirect Moments Crash
 * *new* [PR25381](https://github.com/mantidproject/mantid/pull/25381) - Workbench reduce logging for help
+* *new* [PR25382](https://github.com/mantidproject/mantid/pull/25382) - Indirect Reduction - Disable Plot Time while running
+* *new* [PR25386](https://github.com/mantidproject/mantid/pull/25386) - Remove SCARF LSF job manager
