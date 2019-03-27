@@ -36,6 +36,7 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25356](https://github.com/mantidproject/mantid/pull/25356) - Increase font size in SANS table
 * *new* [PR25359](https://github.com/mantidproject/mantid/pull/25359) - Formatting CMake files: framework - pythonInterface
 * *new* [PR25360](https://github.com/mantidproject/mantid/pull/25360) - Indirect ConvFit - Loading sample error
+* *new* [PR25362](https://github.com/mantidproject/mantid/pull/25362) - Formatted CMake files in framework Kernel to RemoteJobManagers
 * *new* [PR25365](https://github.com/mantidproject/mantid/pull/25365) - Remove unnesecary iostream imports
 * *new* [PR25367](https://github.com/mantidproject/mantid/pull/25367) - Formatting CMake files: scripts to tools
 * *new* [PR25371](https://github.com/mantidproject/mantid/pull/25371) - Indirect Moments Crash
@@ -43,3 +44,4 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25382](https://github.com/mantidproject/mantid/pull/25382) - Indirect Reduction - Disable Plot Time while running
 * *new* [PR25386](https://github.com/mantidproject/mantid/pull/25386) - Remove SCARF LSF job manager
 * *new* [PR25392](https://github.com/mantidproject/mantid/pull/25392) - Turn off clang-tidy for MantidPlot
+* *new* [PR25395](https://github.com/mantidproject/mantid/pull/25395) - Fix cppcheck 1.87 warnings in SINQ
