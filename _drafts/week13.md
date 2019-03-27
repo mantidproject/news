@@ -18,6 +18,7 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25205](https://github.com/mantidproject/mantid/pull/25205) - Fix cppcheck 1.87 warnings in Crystal
 * *new* [PR25272](https://github.com/mantidproject/mantid/pull/25272) - Add optional flags to clang-tidy
 * *new* [PR25274](https://github.com/mantidproject/mantid/pull/25274) - Clang-tidy modernize-loop-convert Framework
+* *new* [PR25279](https://github.com/mantidproject/mantid/pull/25279) - Clang-tidy readability-named-parameter to Framework
 * *new* [PR25300](https://github.com/mantidproject/mantid/pull/25300) - Numerical absorption refactor
 * *new* [PR25304](https://github.com/mantidproject/mantid/pull/25304) - Remove GPUAlgorithms
 * *new* [PR25307](https://github.com/mantidproject/mantid/pull/25307) - Reduce function complexity and remove noqa c901
@@ -31,6 +32,7 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25347](https://github.com/mantidproject/mantid/pull/25347) - Fix workbench startup script on macOS under Gatekeeper
 * *new* [PR25356](https://github.com/mantidproject/mantid/pull/25356) - Increase font size in SANS table
 * *new* [PR25359](https://github.com/mantidproject/mantid/pull/25359) - Formatting CMake files: framework - pythonInterface
+* *new* [PR25360](https://github.com/mantidproject/mantid/pull/25360) - Indirect ConvFit - Loading sample error
 * *new* [PR25365](https://github.com/mantidproject/mantid/pull/25365) - Remove unnesecary iostream imports
 * *new* [PR25367](https://github.com/mantidproject/mantid/pull/25367) - Formatting CMake files: scripts to tools
 * *new* [PR25371](https://github.com/mantidproject/mantid/pull/25371) - Indirect Moments Crash
