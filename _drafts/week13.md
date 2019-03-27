@@ -12,10 +12,12 @@ Detailed Merges for Mar 25 to 31, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-03-26..2019-03-31)
 
 * *new* [PR24515](https://github.com/mantidproject/mantid/pull/24515) - High-resolution zoom of colorfill plots
+* *new* [PR25087](https://github.com/mantidproject/mantid/pull/25087) - Add KAREN peak filter to DeltaPDF3D
 * *new* [PR25137](https://github.com/mantidproject/mantid/pull/25137) - Ensure BASISCrystalReduction can read events files with updated DAS
 * *new* [PR25181](https://github.com/mantidproject/mantid/pull/25181) - Allow ShapeInfo to understand Hollow Cylinder Geometry
 * *new* [PR25205](https://github.com/mantidproject/mantid/pull/25205) - Fix cppcheck 1.87 warnings in Crystal
 * *new* [PR25272](https://github.com/mantidproject/mantid/pull/25272) - Add optional flags to clang-tidy
+* *new* [PR25274](https://github.com/mantidproject/mantid/pull/25274) - Clang-tidy modernize-loop-convert Framework
 * *new* [PR25300](https://github.com/mantidproject/mantid/pull/25300) - Numerical absorption refactor
 * *new* [PR25304](https://github.com/mantidproject/mantid/pull/25304) - Remove GPUAlgorithms
 * *new* [PR25307](https://github.com/mantidproject/mantid/pull/25307) - Reduce function complexity and remove noqa c901
@@ -28,6 +30,7 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25343](https://github.com/mantidproject/mantid/pull/25343) - Indirect Add system tests to cover TOSCA bug
 * *new* [PR25347](https://github.com/mantidproject/mantid/pull/25347) - Fix workbench startup script on macOS under Gatekeeper
 * *new* [PR25356](https://github.com/mantidproject/mantid/pull/25356) - Increase font size in SANS table
+* *new* [PR25359](https://github.com/mantidproject/mantid/pull/25359) - Formatting CMake files: framework - pythonInterface
 * *new* [PR25365](https://github.com/mantidproject/mantid/pull/25365) - Remove unnesecary iostream imports
 * *new* [PR25367](https://github.com/mantidproject/mantid/pull/25367) - Formatting CMake files: scripts to tools
 * *new* [PR25371](https://github.com/mantidproject/mantid/pull/25371) - Indirect Moments Crash
