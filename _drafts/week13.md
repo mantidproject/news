@@ -25,10 +25,12 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25274](https://github.com/mantidproject/mantid/pull/25274) - Clang-tidy modernize-loop-convert Framework
 * *new* [PR25279](https://github.com/mantidproject/mantid/pull/25279) - Clang-tidy readability-named-parameter to Framework
 * *new* [PR25287](https://github.com/mantidproject/mantid/pull/25287) - Fix cppcheck 1.87 warnings in MDAlgorithms
+* *new* [PR25295](https://github.com/mantidproject/mantid/pull/25295) - TOFTOF LoadMLZ: add instrument parameter Efixed
 * *new* [PR25300](https://github.com/mantidproject/mantid/pull/25300) - Numerical absorption refactor
 * *new* [PR25304](https://github.com/mantidproject/mantid/pull/25304) - Remove GPUAlgorithms
 * *new* [PR25307](https://github.com/mantidproject/mantid/pull/25307) - Reduce function complexity and remove noqa c901
 * *new* [PR25318](https://github.com/mantidproject/mantid/pull/25318) - Indirect Example Workflows for Data Analysis and Reduction
+* *new* [PR25330](https://github.com/mantidproject/mantid/pull/25330) - Add clang-tidy instructions to dev-docs
 * *new* [PR25336](https://github.com/mantidproject/mantid/pull/25336) - Fix cppcheck 1.87 warnings in Muon
 * *new* [PR25338](https://github.com/mantidproject/mantid/pull/25338) - Remove old Git workflow helper scripts
 * *new* [PR25339](https://github.com/mantidproject/mantid/pull/25339) - Fix cppcheck 1.87 warnings in Nexus
@@ -47,9 +49,11 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25365](https://github.com/mantidproject/mantid/pull/25365) - Remove unnesecary iostream imports
 * *new* [PR25367](https://github.com/mantidproject/mantid/pull/25367) - Formatting CMake files: scripts to tools
 * *new* [PR25371](https://github.com/mantidproject/mantid/pull/25371) - Indirect Moments Crash
+* *new* [PR25378](https://github.com/mantidproject/mantid/pull/25378) - BASISReduction: optional normalization by proton charge
 * *new* [PR25381](https://github.com/mantidproject/mantid/pull/25381) - Workbench reduce logging for help
 * *new* [PR25382](https://github.com/mantidproject/mantid/pull/25382) - Indirect Reduction - Disable Plot Time while running
 * *new* [PR25386](https://github.com/mantidproject/mantid/pull/25386) - Remove SCARF LSF job manager
 * *new* [PR25391](https://github.com/mantidproject/mantid/pull/25391) - Fix cppcheck 1.87 warnings in ScriptRepository
 * *new* [PR25392](https://github.com/mantidproject/mantid/pull/25392) - Turn off clang-tidy for MantidPlot
 * *new* [PR25395](https://github.com/mantidproject/mantid/pull/25395) - Fix cppcheck 1.87 warnings in SINQ
+* *new* [PR25410](https://github.com/mantidproject/mantid/pull/25410) - Filter some warnings
