@@ -43,6 +43,7 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25360](https://github.com/mantidproject/mantid/pull/25360) - Indirect ConvFit - Loading sample error
 * *new* [PR25362](https://github.com/mantidproject/mantid/pull/25362) - Formatted CMake files in framework Kernel to RemoteJobManagers
 * *new* [PR25363](https://github.com/mantidproject/mantid/pull/25363) - Formatting CMake files: dev-docs to mantidplot
+* *new* [PR25364](https://github.com/mantidproject/mantid/pull/25364) - Formatting CMake files: qt from applications to python
 * *new* [PR25365](https://github.com/mantidproject/mantid/pull/25365) - Remove unnesecary iostream imports
 * *new* [PR25367](https://github.com/mantidproject/mantid/pull/25367) - Formatting CMake files: scripts to tools
 * *new* [PR25371](https://github.com/mantidproject/mantid/pull/25371) - Indirect Moments Crash
