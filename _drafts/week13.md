@@ -13,6 +13,7 @@ Detailed Merges for Mar 25 to 31, 2019
 
 * *new* [PR24113](https://github.com/mantidproject/mantid/pull/24113) - Indirect - Chi squared in Result workspace and plot combobox
 * *new* [PR24515](https://github.com/mantidproject/mantid/pull/24515) - High-resolution zoom of colorfill plots
+* *new* [PR24754](https://github.com/mantidproject/mantid/pull/24754) - Monitor moving functionality for ZOOM
 * *new* [PR25087](https://github.com/mantidproject/mantid/pull/25087) - Add KAREN peak filter to DeltaPDF3D
 * *new* [PR25137](https://github.com/mantidproject/mantid/pull/25137) - Ensure BASISCrystalReduction can read events files with updated DAS
 * *new* [PR25153](https://github.com/mantidproject/mantid/pull/25153) - Preliminary support for Panther at ILL
@@ -26,7 +27,9 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25279](https://github.com/mantidproject/mantid/pull/25279) - Clang-tidy readability-named-parameter to Framework
 * *new* [PR25287](https://github.com/mantidproject/mantid/pull/25287) - Fix cppcheck 1.87 warnings in MDAlgorithms
 * *new* [PR25295](https://github.com/mantidproject/mantid/pull/25295) - TOFTOF LoadMLZ: add instrument parameter Efixed
+* *new* [PR25298](https://github.com/mantidproject/mantid/pull/25298) - Corrected manage user directories help page link
 * *new* [PR25300](https://github.com/mantidproject/mantid/pull/25300) - Numerical absorption refactor
+* *new* [PR25302](https://github.com/mantidproject/mantid/pull/25302) - Remove fitfunction crystal field documentation
 * *new* [PR25304](https://github.com/mantidproject/mantid/pull/25304) - Remove GPUAlgorithms
 * *new* [PR25307](https://github.com/mantidproject/mantid/pull/25307) - Reduce function complexity and remove noqa c901
 * *new* [PR25318](https://github.com/mantidproject/mantid/pull/25318) - Indirect Example Workflows for Data Analysis and Reduction
