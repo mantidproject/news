@@ -61,7 +61,9 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25391](https://github.com/mantidproject/mantid/pull/25391) - Fix cppcheck 1.87 warnings in ScriptRepository
 * *new* [PR25392](https://github.com/mantidproject/mantid/pull/25392) - Turn off clang-tidy for MantidPlot
 * *new* [PR25395](https://github.com/mantidproject/mantid/pull/25395) - Fix cppcheck 1.87 warnings in SINQ
+* *new* [PR25408](https://github.com/mantidproject/mantid/pull/25408) - Fix error when double-clicking in algorithm selector widget with nothing selected
 * *new* [PR25409](https://github.com/mantidproject/mantid/pull/25409) - Clarify the equation in the LorentzCorrection user docs
 * *new* [PR25410](https://github.com/mantidproject/mantid/pull/25410) - Filter some warnings
+* *new* [PR25412](https://github.com/mantidproject/mantid/pull/25412) - Clang-tidy readability-named-parameter to qt
 * *new* [PR25414](https://github.com/mantidproject/mantid/pull/25414) - Fix cppcheck 1.87 warnings in TestHelpers
 * *new* [PR25418](https://github.com/mantidproject/mantid/pull/25418) - Remove unused variable that snuck in FindReplace dialog PR
