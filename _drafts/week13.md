@@ -15,6 +15,7 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR24515](https://github.com/mantidproject/mantid/pull/24515) - High-resolution zoom of colorfill plots
 * *new* [PR24754](https://github.com/mantidproject/mantid/pull/24754) - Monitor moving functionality for ZOOM
 * *new* [PR25087](https://github.com/mantidproject/mantid/pull/25087) - Add KAREN peak filter to DeltaPDF3D
+* *new* [PR25133](https://github.com/mantidproject/mantid/pull/25133) - Ensure BASISPowderReduction can read events files with updated DAS
 * *new* [PR25137](https://github.com/mantidproject/mantid/pull/25137) - Ensure BASISCrystalReduction can read events files with updated DAS
 * *new* [PR25153](https://github.com/mantidproject/mantid/pull/25153) - Preliminary support for Panther at ILL
 * *new* [PR25181](https://github.com/mantidproject/mantid/pull/25181) - Allow ShapeInfo to understand Hollow Cylinder Geometry
@@ -56,9 +57,11 @@ Detailed Merges for Mar 25 to 31, 2019
 * *new* [PR25381](https://github.com/mantidproject/mantid/pull/25381) - Workbench reduce logging for help
 * *new* [PR25382](https://github.com/mantidproject/mantid/pull/25382) - Indirect Reduction - Disable Plot Time while running
 * *new* [PR25386](https://github.com/mantidproject/mantid/pull/25386) - Remove SCARF LSF job manager
+* *new* [PR25387](https://github.com/mantidproject/mantid/pull/25387) - Minor Fixes to SANS BeamCentreFinder tab
 * *new* [PR25391](https://github.com/mantidproject/mantid/pull/25391) - Fix cppcheck 1.87 warnings in ScriptRepository
 * *new* [PR25392](https://github.com/mantidproject/mantid/pull/25392) - Turn off clang-tidy for MantidPlot
 * *new* [PR25395](https://github.com/mantidproject/mantid/pull/25395) - Fix cppcheck 1.87 warnings in SINQ
 * *new* [PR25409](https://github.com/mantidproject/mantid/pull/25409) - Clarify the equation in the LorentzCorrection user docs
 * *new* [PR25410](https://github.com/mantidproject/mantid/pull/25410) - Filter some warnings
+* *new* [PR25414](https://github.com/mantidproject/mantid/pull/25414) - Fix cppcheck 1.87 warnings in TestHelpers
 * *new* [PR25418](https://github.com/mantidproject/mantid/pull/25418) - Remove unused variable that snuck in FindReplace dialog PR
