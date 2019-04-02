@@ -14,5 +14,7 @@ Detailed Merges for Apr 1 to 7, 2019
 * *new* [PR25329](https://github.com/mantidproject/mantid/pull/25329) - Improve tracking of curves on matplotlib plots
 * *new* [PR25375](https://github.com/mantidproject/mantid/pull/25375) - Indirect Elwin Crash when changing Preview Spectrum after running
 * *new* [PR25388](https://github.com/mantidproject/mantid/pull/25388) - Enable negative indexing of WorkspaceGroups in Python API
+* *new* [PR25401](https://github.com/mantidproject/mantid/pull/25401) - Dis/Enable SANS output modes when reduction mode changes
 * *new* [PR25403](https://github.com/mantidproject/mantid/pull/25403) - Update the buildconfig files with new cmake format
+* *new* [PR25411](https://github.com/mantidproject/mantid/pull/25411) - Make Create States Error Box More Helpful
 * *new* [PR25424](https://github.com/mantidproject/mantid/pull/25424) - Workbench: Enable comment current line in script editor with no selection
