@@ -20,6 +20,7 @@ Detailed Merges for Apr 1 to 7, 2019
 * *new* [PR25403](https://github.com/mantidproject/mantid/pull/25403) - Update the buildconfig files with new cmake format
 * *new* [PR25405](https://github.com/mantidproject/mantid/pull/25405) - Fixed bugs in engineering gui
 * *new* [PR25411](https://github.com/mantidproject/mantid/pull/25411) - Make Create States Error Box More Helpful
+* *new* [PR25413](https://github.com/mantidproject/mantid/pull/25413) - Attempt to fix conda system tests
 * *new* [PR25423](https://github.com/mantidproject/mantid/pull/25423) - Suppress get states warnings from Masking Table Presenter
 * *new* [PR25424](https://github.com/mantidproject/mantid/pull/25424) - Workbench: Enable comment current line in script editor with no selection
 * *new* [PR25435](https://github.com/mantidproject/mantid/pull/25435) - Move SANS BinningType to enums
