@@ -24,6 +24,7 @@ Detailed Merges for Apr 1 to 7, 2019
 * *new* [PR25423](https://github.com/mantidproject/mantid/pull/25423) - Suppress get states warnings from Masking Table Presenter
 * *new* [PR25424](https://github.com/mantidproject/mantid/pull/25424) - Workbench: Enable comment current line in script editor with no selection
 * *new* [PR25435](https://github.com/mantidproject/mantid/pull/25435) - Move SANS BinningType to enums
+* *new* [PR25447](https://github.com/mantidproject/mantid/pull/25447) - BASISPowderReduction: optional normalization by proton charge
 * *new* [PR25449](https://github.com/mantidproject/mantid/pull/25449) - BASISReduction: retain only events within a time window
 * *new* [PR25454](https://github.com/mantidproject/mantid/pull/25454) - Fix SANS Export Table in Workbench
 * *new* [PR25462](https://github.com/mantidproject/mantid/pull/25462) - Create CPPModernization.rst
