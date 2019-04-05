@@ -30,3 +30,4 @@ Detailed Merges for Apr 1 to 7, 2019
 * *new* [PR25454](https://github.com/mantidproject/mantid/pull/25454) - Fix SANS Export Table in Workbench
 * *new* [PR25462](https://github.com/mantidproject/mantid/pull/25462) - Create CPPModernization.rst
 * *new* [PR25466](https://github.com/mantidproject/mantid/pull/25466) - Add Docker build information to dev-docs
+* *new* [PR25473](https://github.com/mantidproject/mantid/pull/25473) - Add note about dropping windows 7 support
