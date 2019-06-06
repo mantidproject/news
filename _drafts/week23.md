@@ -23,6 +23,10 @@ Detailed Merges for Jun 3 to 9, 2019
 * *new* [PR25816](https://github.com/mantidproject/mantid/pull/25816) - ISIS Pearl Longmode fix
 * *new* [PR25827](https://github.com/mantidproject/mantid/pull/25827) - Add support for step size in IntArrayProperty
 * *new* [PR25832](https://github.com/mantidproject/mantid/pull/25832) - Update cmake format with our custom functions
+* *new* [PR25834](https://github.com/mantidproject/mantid/pull/25834) - ISIS Powder Pearl Long-mode attenuation
 * *new* [PR25835](https://github.com/mantidproject/mantid/pull/25835) - Porting Indirect Diffraction interface
+* *new* [PR25838](https://github.com/mantidproject/mantid/pull/25838) - Tidy up naming of fit workspaces in ads
+* *new* [PR25839](https://github.com/mantidproject/mantid/pull/25839) - Cleanup Python unit tests
 * *new* [PR25846](https://github.com/mantidproject/mantid/pull/25846) - Final functionality for Workbench Corrections Interface
+* *new* [PR25847](https://github.com/mantidproject/mantid/pull/25847) - Remove Kernel::Make_Unique
 * *new* [PR25849](https://github.com/mantidproject/mantid/pull/25849) - Fix TypeError in Calibration
