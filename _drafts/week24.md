@@ -11,5 +11,7 @@ Detailed Merges for Jun 10 to 16, 2019
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-06-11..2019-06-16)
 
+* *new* [PR25808](https://github.com/mantidproject/mantid/pull/25808) - Remove warning
+* *new* [PR25854](https://github.com/mantidproject/mantid/pull/25854) - Throw clear error when invalid periods in LoadEventNexus
 * *new* [PR25859](https://github.com/mantidproject/mantid/pull/25859) - FunctionBrowser add/remove function bug.
 * *new* [PR25860](https://github.com/mantidproject/mantid/pull/25860) - Port Indirect Tools and Simulation
