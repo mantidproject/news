@@ -18,3 +18,4 @@ Detailed Merges for Jun 10 to 16, 2019
 * *new* [PR25859](https://github.com/mantidproject/mantid/pull/25859) - FunctionBrowser add/remove function bug.
 * *new* [PR25860](https://github.com/mantidproject/mantid/pull/25860) - Port Indirect Tools and Simulation
 * *new* [PR25873](https://github.com/mantidproject/mantid/pull/25873) - Unreliable muon pyqt tests
+* *new* [PR25875](https://github.com/mantidproject/mantid/pull/25875) - Removed old wish test
