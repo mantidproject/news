@@ -22,3 +22,4 @@ Detailed Merges for Jun 10 to 16, 2019
 * *new* [PR25873](https://github.com/mantidproject/mantid/pull/25873) - Unreliable muon pyqt tests
 * *new* [PR25875](https://github.com/mantidproject/mantid/pull/25875) - Removed old wish test
 * *new* [PR25876](https://github.com/mantidproject/mantid/pull/25876) - Add all results for simultaneous fit to Muon fit model
+* *new* [PR25892](https://github.com/mantidproject/mantid/pull/25892) - Expose getMaxOrder to python
