@@ -18,6 +18,7 @@ Detailed Merges for Jun 10 to 16, 2019
 * *new* [PR25807](https://github.com/mantidproject/mantid/pull/25807) - SANS Reduction Non-compatibility mode
 * *new* [PR25808](https://github.com/mantidproject/mantid/pull/25808) - Remove warning
 * *new* [PR25852](https://github.com/mantidproject/mantid/pull/25852) - Remove Spectra Algorithm
+* *new* [PR25853](https://github.com/mantidproject/mantid/pull/25853) - Remove SortXAxis temporary property and fix TOSCA Workflow
 * *new* [PR25854](https://github.com/mantidproject/mantid/pull/25854) - Throw clear error when invalid periods in LoadEventNexus
 * *new* [PR25859](https://github.com/mantidproject/mantid/pull/25859) - FunctionBrowser add/remove function bug.
 * *new* [PR25860](https://github.com/mantidproject/mantid/pull/25860) - Port Indirect Tools and Simulation
@@ -27,4 +28,5 @@ Detailed Merges for Jun 10 to 16, 2019
 * *new* [PR25886](https://github.com/mantidproject/mantid/pull/25886) - Fix matplotlib backend warning when running system tests
 * *new* [PR25888](https://github.com/mantidproject/mantid/pull/25888) - Muon analysis qlineedit signal not emmitiing
 * *new* [PR25892](https://github.com/mantidproject/mantid/pull/25892) - Expose getMaxOrder to python
+* *new* [PR25894](https://github.com/mantidproject/mantid/pull/25894) - added EQSANSTOFStructureTest
 * *new* [PR25902](https://github.com/mantidproject/mantid/pull/25902) - Sansill reduction test quickfix
