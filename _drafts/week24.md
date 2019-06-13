@@ -16,6 +16,7 @@ Detailed Merges for Jun 10 to 16, 2019
 * *new* [PR25759](https://github.com/mantidproject/mantid/pull/25759) - Predict integer peaks duplicates
 * *new* [PR25807](https://github.com/mantidproject/mantid/pull/25807) - SANS Reduction Non-compatibility mode
 * *new* [PR25808](https://github.com/mantidproject/mantid/pull/25808) - Remove warning
+* *new* [PR25852](https://github.com/mantidproject/mantid/pull/25852) - Remove Spectra Algorithm
 * *new* [PR25854](https://github.com/mantidproject/mantid/pull/25854) - Throw clear error when invalid periods in LoadEventNexus
 * *new* [PR25859](https://github.com/mantidproject/mantid/pull/25859) - FunctionBrowser add/remove function bug.
 * *new* [PR25860](https://github.com/mantidproject/mantid/pull/25860) - Port Indirect Tools and Simulation
