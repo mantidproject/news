@@ -27,6 +27,7 @@ Detailed Merges for Jun 10 to 16, 2019
 * *new* [PR25876](https://github.com/mantidproject/mantid/pull/25876) - Add all results for simultaneous fit to Muon fit model
 * *new* [PR25886](https://github.com/mantidproject/mantid/pull/25886) - Fix matplotlib backend warning when running system tests
 * *new* [PR25888](https://github.com/mantidproject/mantid/pull/25888) - Muon analysis qlineedit signal not emmitiing
+* *new* [PR25889](https://github.com/mantidproject/mantid/pull/25889) - Adding composite functions to function browser list
 * *new* [PR25892](https://github.com/mantidproject/mantid/pull/25892) - Expose getMaxOrder to python
 * *new* [PR25894](https://github.com/mantidproject/mantid/pull/25894) - added EQSANSTOFStructureTest
 * *new* [PR25902](https://github.com/mantidproject/mantid/pull/25902) - Sansill reduction test quickfix
