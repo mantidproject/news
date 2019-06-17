@@ -14,3 +14,4 @@ Detailed Merges for Jun 17 to 23, 2019
 * *new* [PR25611](https://github.com/mantidproject/mantid/pull/25611) - BilbyCustomFunctions_Reduction.py script update
 * *new* [PR25836](https://github.com/mantidproject/mantid/pull/25836) - Save Environment Algorithm
 * *new* [PR25864](https://github.com/mantidproject/mantid/pull/25864) - Muon Analysis: Only display single parameter in results for global parameters
+* *new* [PR25912](https://github.com/mantidproject/mantid/pull/25912) - SliceViewer bug fixes
