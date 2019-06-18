@@ -26,3 +26,4 @@ Detailed Merges for Jun 17 to 23, 2019
 * *new* [PR25905](https://github.com/mantidproject/mantid/pull/25905) - Add lots of links between docs
 * *new* [PR25912](https://github.com/mantidproject/mantid/pull/25912) - SliceViewer bug fixes
 * *new* [PR25914](https://github.com/mantidproject/mantid/pull/25914) - Make Sliceviewer work with QT4 again
+* *new* [PR25924](https://github.com/mantidproject/mantid/pull/25924) - Fix broken test
