@@ -26,7 +26,10 @@ Detailed Merges for Jun 17 to 23, 2019
 * *new* [PR25882](https://github.com/mantidproject/mantid/pull/25882) - Group TOF workspaces
 * *new* [PR25903](https://github.com/mantidproject/mantid/pull/25903) - Adding basic single plots to muon Analysis
 * *new* [PR25905](https://github.com/mantidproject/mantid/pull/25905) - Add lots of links between docs
+* *new* [PR25911](https://github.com/mantidproject/mantid/pull/25911) - Muon results table logs display improvements
 * *new* [PR25912](https://github.com/mantidproject/mantid/pull/25912) - SliceViewer bug fixes
 * *new* [PR25914](https://github.com/mantidproject/mantid/pull/25914) - Make Sliceviewer work with QT4 again
+* *new* [PR25919](https://github.com/mantidproject/mantid/pull/25919) - Add EQSANSCorrectFrame algorithm
 * *new* [PR25920](https://github.com/mantidproject/mantid/pull/25920) - MaskBTP adds property for masking named components
 * *new* [PR25924](https://github.com/mantidproject/mantid/pull/25924) - Fix broken test
+* *new* [PR25940](https://github.com/mantidproject/mantid/pull/25940) - fixed system test tolerance
