@@ -25,6 +25,7 @@ Detailed Merges for Jun 17 to 23, 2019
 * *new* [PR25864](https://github.com/mantidproject/mantid/pull/25864) - Muon Analysis: Only display single parameter in results for global parameters
 * *new* [PR25868](https://github.com/mantidproject/mantid/pull/25868) - Add LoadHFIRSANS algorithm
 * *new* [PR25882](https://github.com/mantidproject/mantid/pull/25882) - Group TOF workspaces
+* *new* [PR25883](https://github.com/mantidproject/mantid/pull/25883) - remove owning pointers
 * *new* [PR25887](https://github.com/mantidproject/mantid/pull/25887) - Optimise SANS reductions for event slices
 * *new* [PR25903](https://github.com/mantidproject/mantid/pull/25903) - Adding basic single plots to muon Analysis
 * *new* [PR25905](https://github.com/mantidproject/mantid/pull/25905) - Add lots of links between docs
