@@ -16,6 +16,7 @@ Detailed Merges for Jun 17 to 23, 2019
 * *new* [PR25710](https://github.com/mantidproject/mantid/pull/25710) - Convert bytes to string before updating SANS gui model
 * *new* [PR25713](https://github.com/mantidproject/mantid/pull/25713) - Statistics without fractional HKL peaks
 * *new* [PR25730](https://github.com/mantidproject/mantid/pull/25730) - Reflectometry GUI Restructuring 10: Autoprocess
+* *new* [PR25798](https://github.com/mantidproject/mantid/pull/25798) - GUI Restructuring 11: Progress bar
 * *new* [PR25818](https://github.com/mantidproject/mantid/pull/25818) - Muon Analysis results tab docs
 * *new* [PR25824](https://github.com/mantidproject/mantid/pull/25824) - Peak range property changed to take spectra
 * *new* [PR25833](https://github.com/mantidproject/mantid/pull/25833) - Add option to change workspace names
@@ -35,6 +36,7 @@ Detailed Merges for Jun 17 to 23, 2019
 * *new* [PR25914](https://github.com/mantidproject/mantid/pull/25914) - Make Sliceviewer work with QT4 again
 * *new* [PR25919](https://github.com/mantidproject/mantid/pull/25919) - Add EQSANSCorrectFrame algorithm
 * *new* [PR25920](https://github.com/mantidproject/mantid/pull/25920) - MaskBTP adds property for masking named components
+* *new* [PR25922](https://github.com/mantidproject/mantid/pull/25922) - Increment <locations> detector names
 * *new* [PR25924](https://github.com/mantidproject/mantid/pull/25924) - Fix broken test
 * *new* [PR25936](https://github.com/mantidproject/mantid/pull/25936) - Multiprocessing loading
 * *new* [PR25940](https://github.com/mantidproject/mantid/pull/25940) - fixed system test tolerance
