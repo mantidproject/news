@@ -13,6 +13,7 @@ Detailed Merges for Jun 17 to 23, 2019
 
 * *new* [PR25611](https://github.com/mantidproject/mantid/pull/25611) - BilbyCustomFunctions_Reduction.py script update
 * *new* [PR25660](https://github.com/mantidproject/mantid/pull/25660) - IndexUB with commonUB only for no modulation vector
+* *new* [PR25685](https://github.com/mantidproject/mantid/pull/25685) - LoadPSIMuonBin Muon GUI Integration
 * *new* [PR25710](https://github.com/mantidproject/mantid/pull/25710) - Convert bytes to string before updating SANS gui model
 * *new* [PR25713](https://github.com/mantidproject/mantid/pull/25713) - Statistics without fractional HKL peaks
 * *new* [PR25730](https://github.com/mantidproject/mantid/pull/25730) - Reflectometry GUI Restructuring 10: Autoprocess
@@ -21,6 +22,7 @@ Detailed Merges for Jun 17 to 23, 2019
 * *new* [PR25824](https://github.com/mantidproject/mantid/pull/25824) - Peak range property changed to take spectra
 * *new* [PR25833](https://github.com/mantidproject/mantid/pull/25833) - Add option to change workspace names
 * *new* [PR25836](https://github.com/mantidproject/mantid/pull/25836) - Save Environment Algorithm
+* *new* [PR25843](https://github.com/mantidproject/mantid/pull/25843) - Reflectometry GUI Restructuring 12: live monitor settings
 * *new* [PR25850](https://github.com/mantidproject/mantid/pull/25850) - IN16B BATS energy transfer reduction
 * *new* [PR25858](https://github.com/mantidproject/mantid/pull/25858) - VSCode Guide Developer Documentation
 * *new* [PR25862](https://github.com/mantidproject/mantid/pull/25862) - New TOPAZ instrument geometry for 2019B run cycle
