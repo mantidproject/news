@@ -11,3 +11,4 @@ Detailed Merges for Jun 24 to 30, 2019
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-06-25..2019-06-30)
 
+* *new* [PR25982](https://github.com/mantidproject/mantid/pull/25982) - Fixing a bug in MaskBTP for SEQUOIA
