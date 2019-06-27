@@ -24,4 +24,5 @@ Detailed Merges for Jun 24 to 30, 2019
 * *new* [PR25996](https://github.com/mantidproject/mantid/pull/25996) - make GetEiT0atSNS to work with monitor data with TOF not wrapped to first frame
 * *new* [PR25999](https://github.com/mantidproject/mantid/pull/25999) - Runs table not cleared on autoprocess
 * *new* [PR26003](https://github.com/mantidproject/mantid/pull/26003) - Update SANS test script
+* *new* [PR26009](https://github.com/mantidproject/mantid/pull/26009) - Fix ICat Login for new Reflectometry GUI on Workbench
 * *new* [PR26011](https://github.com/mantidproject/mantid/pull/26011) - Reflectometry GUI: Change defaults for Instrument Settings
