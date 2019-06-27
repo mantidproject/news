@@ -15,6 +15,7 @@ Detailed Merges for Jun 24 to 30, 2019
 * *new* [PR25918](https://github.com/mantidproject/mantid/pull/25918) - Fast plotting of MatrixWorkspaces in SliceViewer
 * *new* [PR25931](https://github.com/mantidproject/mantid/pull/25931) - Adding ads observer to muon analysis
 * *new* [PR25954](https://github.com/mantidproject/mantid/pull/25954) - Fix adding rows bug when erasing rows
+* *new* [PR25969](https://github.com/mantidproject/mantid/pull/25969) - add newest EQSANS IDF
 * *new* [PR25972](https://github.com/mantidproject/mantid/pull/25972) - Fix autosaving of group workspaces on the reflectometry GUI
 * *new* [PR25974](https://github.com/mantidproject/mantid/pull/25974) - ISIS Pearl crop to avoid noise in long-mode
 * *new* [PR25982](https://github.com/mantidproject/mantid/pull/25982) - Fixing a bug in MaskBTP for SEQUOIA
