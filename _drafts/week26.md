@@ -35,6 +35,7 @@ Detailed Merges for Jun 24 to 30, 2019
 * *new* [PR26009](https://github.com/mantidproject/mantid/pull/26009) - Fix ICat Login for new Reflectometry GUI on Workbench
 * *new* [PR26011](https://github.com/mantidproject/mantid/pull/26011) - Reflectometry GUI: Change defaults for Instrument Settings
 * *new* [PR26012](https://github.com/mantidproject/mantid/pull/26012) - Change shortcut to avoid clash on on workbench
+* *new* [PR26014](https://github.com/mantidproject/mantid/pull/26014) - Improved plot updating logic in Muon Analysis
 * *new* [PR26019](https://github.com/mantidproject/mantid/pull/26019) - Updated ISIS powder docs
 * *new* [PR26024](https://github.com/mantidproject/mantid/pull/26024) - Fix help button segfault on reflectometry GUI
 * *new* [PR26027](https://github.com/mantidproject/mantid/pull/26027) - Add new ISIS SANS reductions to SANS release notes
