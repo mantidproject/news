@@ -21,5 +21,8 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR26000](https://github.com/mantidproject/mantid/pull/26000) - Dis/enable beam centre component boxes on component update
 * *new* [PR26016](https://github.com/mantidproject/mantid/pull/26016) - Reflectometry GUI Restructuring: feature branch merge
 * *new* [PR26042](https://github.com/mantidproject/mantid/pull/26042) - Added a CSG example to SetSample documentation
+* *new* [PR26044](https://github.com/mantidproject/mantid/pull/26044) - Fix workbench plotting options in reflectometry GUI
+* *new* [PR26054](https://github.com/mantidproject/mantid/pull/26054) - Disable multiple autoprocessing processes
 * *new* [PR26064](https://github.com/mantidproject/mantid/pull/26064) - Update MaskBTP.py
+* *new* [PR26065](https://github.com/mantidproject/mantid/pull/26065) - Add missing property to workflow algorithm
 * *new* [PR26067](https://github.com/mantidproject/mantid/pull/26067) - Skip over empty chunks in AlignAndFocusPowderFromFiles
