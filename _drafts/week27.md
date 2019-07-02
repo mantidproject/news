@@ -12,6 +12,7 @@ Detailed Merges for Jul 1 to 7, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-07-02..2019-07-07)
 
 * *new* [PR25615](https://github.com/mantidproject/mantid/pull/25615) - Modify LoadDNSSCD to load raw data
+* *new* [PR25628](https://github.com/mantidproject/mantid/pull/25628) - Improve MC absorption algorithm by refactoring code to use vectors.
 * *new* [PR25702](https://github.com/mantidproject/mantid/pull/25702) - Plot workpsace on double-click (workbench)
 * *new* [PR25845](https://github.com/mantidproject/mantid/pull/25845) - Indirect Diffraction - Prevent out of range spectra
 * *new* [PR25938](https://github.com/mantidproject/mantid/pull/25938) - New Algorithm: CalculateEfficiency v2
@@ -40,3 +41,5 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR26069](https://github.com/mantidproject/mantid/pull/26069) - muon analysis 1 - fix TFAsymm mode
 * *new* [PR26123](https://github.com/mantidproject/mantid/pull/26123) - Restore workbench-script startup file on Linux package
 * *new* [PR26126](https://github.com/mantidproject/mantid/pull/26126) - First Time Setup - Do not show until next release remove instrument check
+* *new* [PR26129](https://github.com/mantidproject/mantid/pull/26129) - Reflectometry GUI: Fix workbench plotting
+* *new* [PR26132](https://github.com/mantidproject/mantid/pull/26132) - Help failing on workbench
