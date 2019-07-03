@@ -15,6 +15,7 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR25628](https://github.com/mantidproject/mantid/pull/25628) - Improve MC absorption algorithm by refactoring code to use vectors.
 * *new* [PR25702](https://github.com/mantidproject/mantid/pull/25702) - Plot workpsace on double-click (workbench)
 * *new* [PR25845](https://github.com/mantidproject/mantid/pull/25845) - Indirect Diffraction - Prevent out of range spectra
+* *new* [PR25934](https://github.com/mantidproject/mantid/pull/25934) - Option to save default layout workbench
 * *new* [PR25938](https://github.com/mantidproject/mantid/pull/25938) - New Algorithm: CalculateEfficiency v2
 * *new* [PR25939](https://github.com/mantidproject/mantid/pull/25939) - Add Sample Geometry to Batch File
 * *new* [PR25959](https://github.com/mantidproject/mantid/pull/25959) - Added error copying on function cloning
@@ -29,6 +30,7 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR26001](https://github.com/mantidproject/mantid/pull/26001) - D2B load single point scans
 * *new* [PR26010](https://github.com/mantidproject/mantid/pull/26010) - Speedup ILL loaders
 * *new* [PR26016](https://github.com/mantidproject/mantid/pull/26016) - Reflectometry GUI Restructuring: feature branch merge
+* *new* [PR26040](https://github.com/mantidproject/mantid/pull/26040) - Reflectometry GUI tidying
 * *new* [PR26042](https://github.com/mantidproject/mantid/pull/26042) - Added a CSG example to SetSample documentation
 * *new* [PR26044](https://github.com/mantidproject/mantid/pull/26044) - Fix workbench plotting options in reflectometry GUI
 * *new* [PR26045](https://github.com/mantidproject/mantid/pull/26045) - Indirect FQFit Column Heading value is wrong
