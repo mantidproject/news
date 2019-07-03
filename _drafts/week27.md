@@ -12,6 +12,7 @@ Detailed Merges for Jul 1 to 7, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-07-02..2019-07-07)
 
 * *new* [PR25615](https://github.com/mantidproject/mantid/pull/25615) - Modify LoadDNSSCD to load raw data
+* *new* [PR25626](https://github.com/mantidproject/mantid/pull/25626) - Norm MD Error with non-intersecting accumulation workspaces
 * *new* [PR25628](https://github.com/mantidproject/mantid/pull/25628) - Improve MC absorption algorithm by refactoring code to use vectors.
 * *new* [PR25702](https://github.com/mantidproject/mantid/pull/25702) - Plot workpsace on double-click (workbench)
 * *new* [PR25845](https://github.com/mantidproject/mantid/pull/25845) - Indirect Diffraction - Prevent out of range spectra
@@ -46,3 +47,6 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR26126](https://github.com/mantidproject/mantid/pull/26126) - First Time Setup - Do not show until next release remove instrument check
 * *new* [PR26129](https://github.com/mantidproject/mantid/pull/26129) - Reflectometry GUI: Fix workbench plotting
 * *new* [PR26132](https://github.com/mantidproject/mantid/pull/26132) - Help failing on workbench
+* *new* [PR26133](https://github.com/mantidproject/mantid/pull/26133) - Add required memory to allow for WISH file
+* *new* [PR26148](https://github.com/mantidproject/mantid/pull/26148) - Now uses MantidDesktopServices to open the link correctly
+* *new* [PR26150](https://github.com/mantidproject/mantid/pull/26150) - Cmake small fixes
