@@ -30,6 +30,7 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR26001](https://github.com/mantidproject/mantid/pull/26001) - D2B load single point scans
 * *new* [PR26010](https://github.com/mantidproject/mantid/pull/26010) - Speedup ILL loaders
 * *new* [PR26016](https://github.com/mantidproject/mantid/pull/26016) - Reflectometry GUI Restructuring: feature branch merge
+* *new* [PR26034](https://github.com/mantidproject/mantid/pull/26034) - Reflectometry GUI: Autoprocess doesn't start when not possible
 * *new* [PR26040](https://github.com/mantidproject/mantid/pull/26040) - Reflectometry GUI tidying
 * *new* [PR26042](https://github.com/mantidproject/mantid/pull/26042) - Added a CSG example to SetSample documentation
 * *new* [PR26044](https://github.com/mantidproject/mantid/pull/26044) - Fix workbench plotting options in reflectometry GUI
