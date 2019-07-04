@@ -46,9 +46,18 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR26123](https://github.com/mantidproject/mantid/pull/26123) - Restore workbench-script startup file on Linux package
 * *new* [PR26126](https://github.com/mantidproject/mantid/pull/26126) - First Time Setup - Do not show until next release remove instrument check
 * *new* [PR26129](https://github.com/mantidproject/mantid/pull/26129) - Reflectometry GUI: Fix workbench plotting
+* *new* [PR26131](https://github.com/mantidproject/mantid/pull/26131) - Fix unhandled exception with slicing by log value
 * *new* [PR26132](https://github.com/mantidproject/mantid/pull/26132) - Help failing on workbench
 * *new* [PR26133](https://github.com/mantidproject/mantid/pull/26133) - Add required memory to allow for WISH file
+* *new* [PR26141](https://github.com/mantidproject/mantid/pull/26141) - Mantid Basics Course Documentation - Unscripted Test changes
 * *new* [PR26146](https://github.com/mantidproject/mantid/pull/26146) - SNAPReduce accumulation fix
 * *new* [PR26148](https://github.com/mantidproject/mantid/pull/26148) - Now uses MantidDesktopServices to open the link correctly
 * *new* [PR26150](https://github.com/mantidproject/mantid/pull/26150) - Cmake small fixes
 * *new* [PR26153](https://github.com/mantidproject/mantid/pull/26153) - Correction to script in workspace group doc
+* *new* [PR26156](https://github.com/mantidproject/mantid/pull/26156) - Reflectometry GUI (Old): Push back deprecation date
+* *new* [PR26174](https://github.com/mantidproject/mantid/pull/26174) - Reflectometry GUI: Hide Load Batch
+* *new* [PR26175](https://github.com/mantidproject/mantid/pull/26175) - About links can now be opened with Firefox on Ubuntu
+* *new* [PR26176](https://github.com/mantidproject/mantid/pull/26176) - Reflectometry GUI: Ensure there is always a batch present
+* *new* [PR26178](https://github.com/mantidproject/mantid/pull/26178) - No longer tries to plot TableWorkspaces/PeaksWS
+* *new* [PR26181](https://github.com/mantidproject/mantid/pull/26181) - Fix failing SumOverlappingTubes
+* *new* [PR26184](https://github.com/mantidproject/mantid/pull/26184) - Remove debugging code accidentally left behind
