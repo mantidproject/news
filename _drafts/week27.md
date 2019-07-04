@@ -51,3 +51,4 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR26146](https://github.com/mantidproject/mantid/pull/26146) - SNAPReduce accumulation fix
 * *new* [PR26148](https://github.com/mantidproject/mantid/pull/26148) - Now uses MantidDesktopServices to open the link correctly
 * *new* [PR26150](https://github.com/mantidproject/mantid/pull/26150) - Cmake small fixes
+* *new* [PR26153](https://github.com/mantidproject/mantid/pull/26153) - Correction to script in workspace group doc
