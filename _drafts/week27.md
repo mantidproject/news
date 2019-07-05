@@ -20,6 +20,7 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR25934](https://github.com/mantidproject/mantid/pull/25934) - Option to save default layout workbench
 * *new* [PR25938](https://github.com/mantidproject/mantid/pull/25938) - New Algorithm: CalculateEfficiency v2
 * *new* [PR25939](https://github.com/mantidproject/mantid/pull/25939) - Add Sample Geometry to Batch File
+* *new* [PR25945](https://github.com/mantidproject/mantid/pull/25945) - Replace matplotlib plot config dialog
 * *new* [PR25953](https://github.com/mantidproject/mantid/pull/25953) - Fix restore to default rescaling
 * *new* [PR25959](https://github.com/mantidproject/mantid/pull/25959) - Added error copying on function cloning
 * *new* [PR25961](https://github.com/mantidproject/mantid/pull/25961) - Fix sorting in `CalculatePolynomialBackground`
@@ -33,6 +34,7 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR26001](https://github.com/mantidproject/mantid/pull/26001) - D2B load single point scans
 * *new* [PR26010](https://github.com/mantidproject/mantid/pull/26010) - Speedup ILL loaders
 * *new* [PR26016](https://github.com/mantidproject/mantid/pull/26016) - Reflectometry GUI Restructuring: feature branch merge
+* *new* [PR26032](https://github.com/mantidproject/mantid/pull/26032) - Reflectometry GUI: Add group and row when empty
 * *new* [PR26034](https://github.com/mantidproject/mantid/pull/26034) - Reflectometry GUI: Autoprocess doesn't start when not possible
 * *new* [PR26040](https://github.com/mantidproject/mantid/pull/26040) - Reflectometry GUI tidying
 * *new* [PR26042](https://github.com/mantidproject/mantid/pull/26042) - Added a CSG example to SetSample documentation
@@ -72,3 +74,8 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR26192](https://github.com/mantidproject/mantid/pull/26192) - Update the version of mslice to the latest version
 * *new* [PR26197](https://github.com/mantidproject/mantid/pull/26197) - Workbench: Fix error on entering invalid values in axis limit editor
 * *new* [PR26198](https://github.com/mantidproject/mantid/pull/26198) - Indirect Fix Corrections Crashes
+* *new* [PR26199](https://github.com/mantidproject/mantid/pull/26199) - Indirect Remove Plot Raw from ISIS Calibration
+* *new* [PR26205](https://github.com/mantidproject/mantid/pull/26205) - Reflectometry GUI: No longer duplicate first option when processing.
+* *new* [PR26206](https://github.com/mantidproject/mantid/pull/26206) - Reflectometry GUI: Fix workspace group processing
+* *new* [PR26207](https://github.com/mantidproject/mantid/pull/26207) - Indirect - Fix Settings Cancel bug
+* *new* [PR26210](https://github.com/mantidproject/mantid/pull/26210) - Add mapping files for POLARIS and GEM to ISIS Powder
