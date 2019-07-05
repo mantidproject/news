@@ -79,3 +79,4 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR26206](https://github.com/mantidproject/mantid/pull/26206) - Reflectometry GUI: Fix workspace group processing
 * *new* [PR26207](https://github.com/mantidproject/mantid/pull/26207) - Indirect - Fix Settings Cancel bug
 * *new* [PR26210](https://github.com/mantidproject/mantid/pull/26210) - Add mapping files for POLARIS and GEM to ISIS Powder
+* *new* [PR26214](https://github.com/mantidproject/mantid/pull/26214) - Added missing view update Re #26145
