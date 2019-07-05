@@ -70,3 +70,5 @@ Detailed Merges for Jul 1 to 7, 2019
 * *new* [PR26184](https://github.com/mantidproject/mantid/pull/26184) - Remove debugging code accidentally left behind
 * *new* [PR26190](https://github.com/mantidproject/mantid/pull/26190) - MantidQtIcons: Icons display as gray when disabled.
 * *new* [PR26192](https://github.com/mantidproject/mantid/pull/26192) - Update the version of mslice to the latest version
+* *new* [PR26197](https://github.com/mantidproject/mantid/pull/26197) - Workbench: Fix error on entering invalid values in axis limit editor
+* *new* [PR26198](https://github.com/mantidproject/mantid/pull/26198) - Indirect Fix Corrections Crashes
