@@ -13,9 +13,11 @@ Detailed Merges for Jul 8 to 14, 2019
 
 * *new* [PR25665](https://github.com/mantidproject/mantid/pull/25665) - Add CylinderAxis property to cylinder absorption algorithm
 * *new* [PR25937](https://github.com/mantidproject/mantid/pull/25937) - add approximate position of beam monitor 4
+* *new* [PR25956](https://github.com/mantidproject/mantid/pull/25956) - Port Indirect Data Reduction
 * *new* [PR26038](https://github.com/mantidproject/mantid/pull/26038) - Adding plotting, fitting and results table into FDA
 * *new* [PR26068](https://github.com/mantidproject/mantid/pull/26068) - New CNCS geometry for 2019 b
 * *new* [PR26112](https://github.com/mantidproject/mantid/pull/26112) - Elemental analysis line colour
+* *new* [PR26177](https://github.com/mantidproject/mantid/pull/26177) - Enforce synchronicity in Muon Analysis
 * *new* [PR26200](https://github.com/mantidproject/mantid/pull/26200) - Results  table fix for muon analysis 1
 * *new* [PR26211](https://github.com/mantidproject/mantid/pull/26211) - Muon Analysis 2: When the instrument changes, a plot should close.
 * *new* [PR26221](https://github.com/mantidproject/mantid/pull/26221) - Frequency Domain Analysis imaginary workspace re-appearing
@@ -25,5 +27,7 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26239](https://github.com/mantidproject/mantid/pull/26239) - Release notes updates for index, framework, mantiplot and workbench
 * *new* [PR26240](https://github.com/mantidproject/mantid/pull/26240) - Update muon unscripted tests
 * *new* [PR26241](https://github.com/mantidproject/mantid/pull/26241) - Remove all code related to Vates Quantification
+* *new* [PR26243](https://github.com/mantidproject/mantid/pull/26243) - Indirect Data analysis interface fitting crash
 * *new* [PR26247](https://github.com/mantidproject/mantid/pull/26247) - Muon Analysis, adding in recalculation update when loading default groups
 * *new* [PR26248](https://github.com/mantidproject/mantid/pull/26248) - Make building the docs optional (default on)
+* *new* [PR26252](https://github.com/mantidproject/mantid/pull/26252) - Indirect Tools - Added chemical formula validation check
