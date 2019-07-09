@@ -17,6 +17,7 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26038](https://github.com/mantidproject/mantid/pull/26038) - Adding plotting, fitting and results table into FDA
 * *new* [PR26068](https://github.com/mantidproject/mantid/pull/26068) - New CNCS geometry for 2019 b
 * *new* [PR26112](https://github.com/mantidproject/mantid/pull/26112) - Elemental analysis line colour
+* *new* [PR26147](https://github.com/mantidproject/mantid/pull/26147) - FunctionBrowser crash editing Convolution
 * *new* [PR26177](https://github.com/mantidproject/mantid/pull/26177) - Enforce synchronicity in Muon Analysis
 * *new* [PR26200](https://github.com/mantidproject/mantid/pull/26200) - Results  table fix for muon analysis 1
 * *new* [PR26211](https://github.com/mantidproject/mantid/pull/26211) - Muon Analysis 2: When the instrument changes, a plot should close.
@@ -28,6 +29,8 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26240](https://github.com/mantidproject/mantid/pull/26240) - Update muon unscripted tests
 * *new* [PR26241](https://github.com/mantidproject/mantid/pull/26241) - Remove all code related to Vates Quantification
 * *new* [PR26243](https://github.com/mantidproject/mantid/pull/26243) - Indirect Data analysis interface fitting crash
+* *new* [PR26246](https://github.com/mantidproject/mantid/pull/26246) - Muon Analysis 2: Update results table selection on new fit
 * *new* [PR26247](https://github.com/mantidproject/mantid/pull/26247) - Muon Analysis, adding in recalculation update when loading default groups
 * *new* [PR26248](https://github.com/mantidproject/mantid/pull/26248) - Make building the docs optional (default on)
 * *new* [PR26252](https://github.com/mantidproject/mantid/pull/26252) - Indirect Tools - Added chemical formula validation check
+* *new* [PR26258](https://github.com/mantidproject/mantid/pull/26258) - GroupWorkspaces: Can overwrite group workspaces with input workspaces again
