@@ -39,3 +39,4 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26258](https://github.com/mantidproject/mantid/pull/26258) - GroupWorkspaces: Can overwrite group workspaces with input workspaces again
 * *new* [PR26265](https://github.com/mantidproject/mantid/pull/26265) - Minor change to column labels in the reflectometry GUI
 * *new* [PR26266](https://github.com/mantidproject/mantid/pull/26266) - Set Workbench's DPI awareness to 1 on Windows
+* *new* [PR26284](https://github.com/mantidproject/mantid/pull/26284) - Add documentation to Workspace Group
