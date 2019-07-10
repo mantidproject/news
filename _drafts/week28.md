@@ -12,6 +12,7 @@ Detailed Merges for Jul 8 to 14, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-07-09..2019-07-14)
 
 * *new* [PR25665](https://github.com/mantidproject/mantid/pull/25665) - Add CylinderAxis property to cylinder absorption algorithm
+* *new* [PR25673](https://github.com/mantidproject/mantid/pull/25673) - Abins atom-resolved spectrum
 * *new* [PR25937](https://github.com/mantidproject/mantid/pull/25937) - add approximate position of beam monitor 4
 * *new* [PR25956](https://github.com/mantidproject/mantid/pull/25956) - Port Indirect Data Reduction
 * *new* [PR26038](https://github.com/mantidproject/mantid/pull/26038) - Adding plotting, fitting and results table into FDA
@@ -34,3 +35,4 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26248](https://github.com/mantidproject/mantid/pull/26248) - Make building the docs optional (default on)
 * *new* [PR26252](https://github.com/mantidproject/mantid/pull/26252) - Indirect Tools - Added chemical formula validation check
 * *new* [PR26258](https://github.com/mantidproject/mantid/pull/26258) - GroupWorkspaces: Can overwrite group workspaces with input workspaces again
+* *new* [PR26265](https://github.com/mantidproject/mantid/pull/26265) - Minor change to column labels in the reflectometry GUI
