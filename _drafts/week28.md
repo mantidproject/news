@@ -24,6 +24,7 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26211](https://github.com/mantidproject/mantid/pull/26211) - Muon Analysis 2: When the instrument changes, a plot should close.
 * *new* [PR26221](https://github.com/mantidproject/mantid/pull/26221) - Frequency Domain Analysis imaginary workspace re-appearing
 * *new* [PR26226](https://github.com/mantidproject/mantid/pull/26226) - Fix a bug handling existing workspace names
+* *new* [PR26228](https://github.com/mantidproject/mantid/pull/26228) - Indirect Make WorkspaceSelectors empty initially
 * *new* [PR26230](https://github.com/mantidproject/mantid/pull/26230) - Add missing transmission run inputs to reflectometry GUI
 * *new* [PR26233](https://github.com/mantidproject/mantid/pull/26233) - Reset GUI to previously loaded data on load failure
 * *new* [PR26239](https://github.com/mantidproject/mantid/pull/26239) - Release notes updates for index, framework, mantiplot and workbench
@@ -34,5 +35,7 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26247](https://github.com/mantidproject/mantid/pull/26247) - Muon Analysis, adding in recalculation update when loading default groups
 * *new* [PR26248](https://github.com/mantidproject/mantid/pull/26248) - Make building the docs optional (default on)
 * *new* [PR26252](https://github.com/mantidproject/mantid/pull/26252) - Indirect Tools - Added chemical formula validation check
+* *new* [PR26257](https://github.com/mantidproject/mantid/pull/26257) - Workbench sample logs: Use Run::startTime to compute t0
 * *new* [PR26258](https://github.com/mantidproject/mantid/pull/26258) - GroupWorkspaces: Can overwrite group workspaces with input workspaces again
 * *new* [PR26265](https://github.com/mantidproject/mantid/pull/26265) - Minor change to column labels in the reflectometry GUI
+* *new* [PR26266](https://github.com/mantidproject/mantid/pull/26266) - Set Workbench's DPI awareness to 1 on Windows
