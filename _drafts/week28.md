@@ -23,6 +23,7 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26200](https://github.com/mantidproject/mantid/pull/26200) - Results  table fix for muon analysis 1
 * *new* [PR26211](https://github.com/mantidproject/mantid/pull/26211) - Muon Analysis 2: When the instrument changes, a plot should close.
 * *new* [PR26221](https://github.com/mantidproject/mantid/pull/26221) - Frequency Domain Analysis imaginary workspace re-appearing
+* *new* [PR26224](https://github.com/mantidproject/mantid/pull/26224) - Indirect Sqw - Check Q and E are within the plot range
 * *new* [PR26226](https://github.com/mantidproject/mantid/pull/26226) - Fix a bug handling existing workspace names
 * *new* [PR26228](https://github.com/mantidproject/mantid/pull/26228) - Indirect Make WorkspaceSelectors empty initially
 * *new* [PR26230](https://github.com/mantidproject/mantid/pull/26230) - Add missing transmission run inputs to reflectometry GUI
@@ -36,10 +37,12 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26247](https://github.com/mantidproject/mantid/pull/26247) - Muon Analysis, adding in recalculation update when loading default groups
 * *new* [PR26248](https://github.com/mantidproject/mantid/pull/26248) - Make building the docs optional (default on)
 * *new* [PR26252](https://github.com/mantidproject/mantid/pull/26252) - Indirect Tools - Added chemical formula validation check
+* *new* [PR26256](https://github.com/mantidproject/mantid/pull/26256) - Muon Fix crash when Selector is removed
 * *new* [PR26257](https://github.com/mantidproject/mantid/pull/26257) - Workbench sample logs: Use Run::startTime to compute t0
 * *new* [PR26258](https://github.com/mantidproject/mantid/pull/26258) - GroupWorkspaces: Can overwrite group workspaces with input workspaces again
 * *new* [PR26265](https://github.com/mantidproject/mantid/pull/26265) - Minor change to column labels in the reflectometry GUI
 * *new* [PR26266](https://github.com/mantidproject/mantid/pull/26266) - Set Workbench's DPI awareness to 1 on Windows
+* *new* [PR26268](https://github.com/mantidproject/mantid/pull/26268) - New parameters for D2B
 * *new* [PR26269](https://github.com/mantidproject/mantid/pull/26269) - Fix a bug where row highlighting is lost
 * *new* [PR26275](https://github.com/mantidproject/mantid/pull/26275) - Fix bug in check for if time belongs in a filter region
 * *new* [PR26277](https://github.com/mantidproject/mantid/pull/26277) - refs #26238. Improved handling ESC in Remove plot
