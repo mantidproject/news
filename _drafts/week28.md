@@ -18,6 +18,7 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26038](https://github.com/mantidproject/mantid/pull/26038) - Adding plotting, fitting and results table into FDA
 * *new* [PR26068](https://github.com/mantidproject/mantid/pull/26068) - New CNCS geometry for 2019 b
 * *new* [PR26112](https://github.com/mantidproject/mantid/pull/26112) - Elemental analysis line colour
+* *new* [PR26113](https://github.com/mantidproject/mantid/pull/26113) - refs #25326. Fixed file loader, clearing old lines
 * *new* [PR26147](https://github.com/mantidproject/mantid/pull/26147) - FunctionBrowser crash editing Convolution
 * *new* [PR26177](https://github.com/mantidproject/mantid/pull/26177) - Enforce synchronicity in Muon Analysis
 * *new* [PR26200](https://github.com/mantidproject/mantid/pull/26200) - Results  table fix for muon analysis 1
@@ -44,7 +45,9 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26266](https://github.com/mantidproject/mantid/pull/26266) - Set Workbench's DPI awareness to 1 on Windows
 * *new* [PR26268](https://github.com/mantidproject/mantid/pull/26268) - New parameters for D2B
 * *new* [PR26269](https://github.com/mantidproject/mantid/pull/26269) - Fix a bug where row highlighting is lost
+* *new* [PR26272](https://github.com/mantidproject/mantid/pull/26272) - Indirect Connect up the Error bars for external workbench plots
 * *new* [PR26275](https://github.com/mantidproject/mantid/pull/26275) - Fix bug in check for if time belongs in a filter region
 * *new* [PR26277](https://github.com/mantidproject/mantid/pull/26277) - refs #26238. Improved handling ESC in Remove plot
 * *new* [PR26283](https://github.com/mantidproject/mantid/pull/26283) - Avoid incrementing/decrementing shared_ptr in SolidAngle
 * *new* [PR26284](https://github.com/mantidproject/mantid/pull/26284) - Add documentation to Workspace Group
+* *new* [PR26298](https://github.com/mantidproject/mantid/pull/26298) - Symmterise algorithm: New implementation for finding XMax
