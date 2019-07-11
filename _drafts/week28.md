@@ -27,6 +27,7 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26228](https://github.com/mantidproject/mantid/pull/26228) - Indirect Make WorkspaceSelectors empty initially
 * *new* [PR26230](https://github.com/mantidproject/mantid/pull/26230) - Add missing transmission run inputs to reflectometry GUI
 * *new* [PR26233](https://github.com/mantidproject/mantid/pull/26233) - Reset GUI to previously loaded data on load failure
+* *new* [PR26234](https://github.com/mantidproject/mantid/pull/26234) - Muon Analysis 2: Output results in a table workspace that aren't numbers
 * *new* [PR26239](https://github.com/mantidproject/mantid/pull/26239) - Release notes updates for index, framework, mantiplot and workbench
 * *new* [PR26240](https://github.com/mantidproject/mantid/pull/26240) - Update muon unscripted tests
 * *new* [PR26241](https://github.com/mantidproject/mantid/pull/26241) - Remove all code related to Vates Quantification
@@ -39,4 +40,8 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26258](https://github.com/mantidproject/mantid/pull/26258) - GroupWorkspaces: Can overwrite group workspaces with input workspaces again
 * *new* [PR26265](https://github.com/mantidproject/mantid/pull/26265) - Minor change to column labels in the reflectometry GUI
 * *new* [PR26266](https://github.com/mantidproject/mantid/pull/26266) - Set Workbench's DPI awareness to 1 on Windows
+* *new* [PR26269](https://github.com/mantidproject/mantid/pull/26269) - Fix a bug where row highlighting is lost
+* *new* [PR26275](https://github.com/mantidproject/mantid/pull/26275) - Fix bug in check for if time belongs in a filter region
+* *new* [PR26277](https://github.com/mantidproject/mantid/pull/26277) - refs #26238. Improved handling ESC in Remove plot
+* *new* [PR26283](https://github.com/mantidproject/mantid/pull/26283) - Avoid incrementing/decrementing shared_ptr in SolidAngle
 * *new* [PR26284](https://github.com/mantidproject/mantid/pull/26284) - Add documentation to Workspace Group
