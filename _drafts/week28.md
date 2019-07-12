@@ -13,6 +13,7 @@ Detailed Merges for Jul 8 to 14, 2019
 
 * *new* [PR25665](https://github.com/mantidproject/mantid/pull/25665) - Add CylinderAxis property to cylinder absorption algorithm
 * *new* [PR25673](https://github.com/mantidproject/mantid/pull/25673) - Abins atom-resolved spectrum
+* *new* [PR25856](https://github.com/mantidproject/mantid/pull/25856) - Revised MVP tutorial.
 * *new* [PR25937](https://github.com/mantidproject/mantid/pull/25937) - add approximate position of beam monitor 4
 * *new* [PR25956](https://github.com/mantidproject/mantid/pull/25956) - Port Indirect Data Reduction
 * *new* [PR26038](https://github.com/mantidproject/mantid/pull/26038) - Adding plotting, fitting and results table into FDA
@@ -51,5 +52,6 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26283](https://github.com/mantidproject/mantid/pull/26283) - Avoid incrementing/decrementing shared_ptr in SolidAngle
 * *new* [PR26284](https://github.com/mantidproject/mantid/pull/26284) - Add documentation to Workspace Group
 * *new* [PR26285](https://github.com/mantidproject/mantid/pull/26285) - fix GetEiT0atSNS bug with pump pulses
+* *new* [PR26289](https://github.com/mantidproject/mantid/pull/26289) - Elemental Analysis: fix the segfault from occuring on multiplot window close
 * *new* [PR26295](https://github.com/mantidproject/mantid/pull/26295) - Instrument View for MantidPlot: Pick tab miniplot fixes
 * *new* [PR26298](https://github.com/mantidproject/mantid/pull/26298) - Symmterise algorithm: New implementation for finding XMax
