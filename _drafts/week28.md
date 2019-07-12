@@ -50,4 +50,6 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26277](https://github.com/mantidproject/mantid/pull/26277) - refs #26238. Improved handling ESC in Remove plot
 * *new* [PR26283](https://github.com/mantidproject/mantid/pull/26283) - Avoid incrementing/decrementing shared_ptr in SolidAngle
 * *new* [PR26284](https://github.com/mantidproject/mantid/pull/26284) - Add documentation to Workspace Group
+* *new* [PR26285](https://github.com/mantidproject/mantid/pull/26285) - fix GetEiT0atSNS bug with pump pulses
+* *new* [PR26295](https://github.com/mantidproject/mantid/pull/26295) - Instrument View for MantidPlot: Pick tab miniplot fixes
 * *new* [PR26298](https://github.com/mantidproject/mantid/pull/26298) - Symmterise algorithm: New implementation for finding XMax
