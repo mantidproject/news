@@ -39,6 +39,7 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26247](https://github.com/mantidproject/mantid/pull/26247) - Muon Analysis, adding in recalculation update when loading default groups
 * *new* [PR26248](https://github.com/mantidproject/mantid/pull/26248) - Make building the docs optional (default on)
 * *new* [PR26252](https://github.com/mantidproject/mantid/pull/26252) - Indirect Tools - Added chemical formula validation check
+* *new* [PR26255](https://github.com/mantidproject/mantid/pull/26255) - Fix sliceviewer crash
 * *new* [PR26256](https://github.com/mantidproject/mantid/pull/26256) - Muon Fix crash when Selector is removed
 * *new* [PR26257](https://github.com/mantidproject/mantid/pull/26257) - Workbench sample logs: Use Run::startTime to compute t0
 * *new* [PR26258](https://github.com/mantidproject/mantid/pull/26258) - GroupWorkspaces: Can overwrite group workspaces with input workspaces again
@@ -48,6 +49,7 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26269](https://github.com/mantidproject/mantid/pull/26269) - Fix a bug where row highlighting is lost
 * *new* [PR26272](https://github.com/mantidproject/mantid/pull/26272) - Indirect Connect up the Error bars for external workbench plots
 * *new* [PR26275](https://github.com/mantidproject/mantid/pull/26275) - Fix bug in check for if time belongs in a filter region
+* *new* [PR26276](https://github.com/mantidproject/mantid/pull/26276) - Update reflectometry release notes
 * *new* [PR26277](https://github.com/mantidproject/mantid/pull/26277) - refs #26238. Improved handling ESC in Remove plot
 * *new* [PR26283](https://github.com/mantidproject/mantid/pull/26283) - Avoid incrementing/decrementing shared_ptr in SolidAngle
 * *new* [PR26284](https://github.com/mantidproject/mantid/pull/26284) - Add documentation to Workspace Group
@@ -55,3 +57,8 @@ Detailed Merges for Jul 8 to 14, 2019
 * *new* [PR26289](https://github.com/mantidproject/mantid/pull/26289) - Elemental Analysis: fix the segfault from occuring on multiplot window close
 * *new* [PR26295](https://github.com/mantidproject/mantid/pull/26295) - Instrument View for MantidPlot: Pick tab miniplot fixes
 * *new* [PR26298](https://github.com/mantidproject/mantid/pull/26298) - Symmterise algorithm: New implementation for finding XMax
+* *new* [PR26312](https://github.com/mantidproject/mantid/pull/26312) - Fix bad link to algorithm index in alg pages
+* *new* [PR26316](https://github.com/mantidproject/mantid/pull/26316) - Update reflectometry gui documentation
+* *new* [PR26319](https://github.com/mantidproject/mantid/pull/26319) - Workbench Single and Range Selectors disappear when moving legend
+* *new* [PR26320](https://github.com/mantidproject/mantid/pull/26320) - Added cleanup methods to muon context
+* *new* [PR26323](https://github.com/mantidproject/mantid/pull/26323) - Update diffraction and direct geometry release notes for 4.1
