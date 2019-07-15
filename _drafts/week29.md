@@ -11,10 +11,23 @@ Detailed Merges for Jul 15 to 21, 2019
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-07-16..2019-07-21)
 
+* *new* [PR26191](https://github.com/mantidproject/mantid/pull/26191) - Removed GetNegMuMuonicXRDDialog, no longer used
+* *new* [PR26236](https://github.com/mantidproject/mantid/pull/26236) - Update to Muon interface release notes
+* *new* [PR26242](https://github.com/mantidproject/mantid/pull/26242) - Elemental analysis missing documentation
+* *new* [PR26253](https://github.com/mantidproject/mantid/pull/26253) - Default dead time muon analysis
+* *new* [PR26267](https://github.com/mantidproject/mantid/pull/26267) - Naming bug in frequency domain analysis
 * *new* [PR26273](https://github.com/mantidproject/mantid/pull/26273) - workbench setting documentation
 * *new* [PR26280](https://github.com/mantidproject/mantid/pull/26280) - Changed colour cycle of peak lines in elemental analysis to default one
+* *new* [PR26286](https://github.com/mantidproject/mantid/pull/26286) - Muon Analysis 2 - Fix load current run
+* *new* [PR26292](https://github.com/mantidproject/mantid/pull/26292) - Removed disabling of centering boxes
 * *new* [PR26293](https://github.com/mantidproject/mantid/pull/26293) - Reordered columns in list selector
+* *new* [PR26296](https://github.com/mantidproject/mantid/pull/26296) - Fixed FDA old bug that stopped phasequad
 * *new* [PR26303](https://github.com/mantidproject/mantid/pull/26303) - Multi plot canvas bug and fixes Muon grouping tab test
+* *new* [PR26308](https://github.com/mantidproject/mantid/pull/26308) - Maintenance: Remove Ubuntu 14.04 compatibility fixes
 * *new* [PR26309](https://github.com/mantidproject/mantid/pull/26309) - Workbench: Fix poor plot config dialog scaling on high resolution displays
 * *new* [PR26313](https://github.com/mantidproject/mantid/pull/26313) - Changed Elemental Analysis y-axis label to "counts"
+* *new* [PR26318](https://github.com/mantidproject/mantid/pull/26318) - Prevents rename_plot being triggered by unexpected focus grab
 * *new* [PR26322](https://github.com/mantidproject/mantid/pull/26322) - Log selector size
+* *new* [PR26331](https://github.com/mantidproject/mantid/pull/26331) - Workbench: Scale Matplotlib figure sizes with monitor's DPI
+* *new* [PR26336](https://github.com/mantidproject/mantid/pull/26336) - Update name of InstrumentView variable, now mask displayed
+* *new* [PR26337](https://github.com/mantidproject/mantid/pull/26337) - Search hidden algorithms in workbench
