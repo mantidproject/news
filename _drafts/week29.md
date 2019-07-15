@@ -12,6 +12,7 @@ Detailed Merges for Jul 15 to 21, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-07-16..2019-07-21)
 
 * *new* [PR26191](https://github.com/mantidproject/mantid/pull/26191) - Removed GetNegMuMuonicXRDDialog, no longer used
+* *new* [PR26220](https://github.com/mantidproject/mantid/pull/26220) - Removed limit on number of runs loaded by Muon Analysis 2
 * *new* [PR26236](https://github.com/mantidproject/mantid/pull/26236) - Update to Muon interface release notes
 * *new* [PR26242](https://github.com/mantidproject/mantid/pull/26242) - Elemental analysis missing documentation
 * *new* [PR26253](https://github.com/mantidproject/mantid/pull/26253) - Default dead time muon analysis
@@ -28,6 +29,10 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26313](https://github.com/mantidproject/mantid/pull/26313) - Changed Elemental Analysis y-axis label to "counts"
 * *new* [PR26318](https://github.com/mantidproject/mantid/pull/26318) - Prevents rename_plot being triggered by unexpected focus grab
 * *new* [PR26322](https://github.com/mantidproject/mantid/pull/26322) - Log selector size
+* *new* [PR26327](https://github.com/mantidproject/mantid/pull/26327) - Convert input workspace to histogram in CalculateEfficiency
 * *new* [PR26331](https://github.com/mantidproject/mantid/pull/26331) - Workbench: Scale Matplotlib figure sizes with monitor's DPI
 * *new* [PR26336](https://github.com/mantidproject/mantid/pull/26336) - Update name of InstrumentView variable, now mask displayed
 * *new* [PR26337](https://github.com/mantidproject/mantid/pull/26337) - Search hidden algorithms in workbench
+* *new* [PR26345](https://github.com/mantidproject/mantid/pull/26345) - Added plotting and fixed COM mode
+* *new* [PR26347](https://github.com/mantidproject/mantid/pull/26347) - Workbench Plot Guess with NaN values
+* *new* [PR26348](https://github.com/mantidproject/mantid/pull/26348) - Handled 'None' in peak data file
