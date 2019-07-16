@@ -32,6 +32,7 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26318](https://github.com/mantidproject/mantid/pull/26318) - Prevents rename_plot being triggered by unexpected focus grab
 * *new* [PR26322](https://github.com/mantidproject/mantid/pull/26322) - Log selector size
 * *new* [PR26327](https://github.com/mantidproject/mantid/pull/26327) - Convert input workspace to histogram in CalculateEfficiency
+* *new* [PR26328](https://github.com/mantidproject/mantid/pull/26328) - Update to the latest version of mslice
 * *new* [PR26331](https://github.com/mantidproject/mantid/pull/26331) - Workbench: Scale Matplotlib figure sizes with monitor's DPI
 * *new* [PR26336](https://github.com/mantidproject/mantid/pull/26336) - Update name of InstrumentView variable, now mask displayed
 * *new* [PR26337](https://github.com/mantidproject/mantid/pull/26337) - Search hidden algorithms in workbench
@@ -42,3 +43,4 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26354](https://github.com/mantidproject/mantid/pull/26354) - Indirect Data Reduction - Load parameter file only once
 * *new* [PR26355](https://github.com/mantidproject/mantid/pull/26355) - Fix bug with GEM scripts when enabling absorption corrections
 * *new* [PR26356](https://github.com/mantidproject/mantid/pull/26356) - Error Reporter: Allow resizeable window so that smaller screens can use it.
+* *new* [PR26360](https://github.com/mantidproject/mantid/pull/26360) - Indirect - Remove warning from release notes
