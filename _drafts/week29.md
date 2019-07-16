@@ -38,5 +38,7 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26345](https://github.com/mantidproject/mantid/pull/26345) - Added plotting and fixed COM mode
 * *new* [PR26347](https://github.com/mantidproject/mantid/pull/26347) - Workbench Plot Guess with NaN values
 * *new* [PR26348](https://github.com/mantidproject/mantid/pull/26348) - Handled 'None' in peak data file
+* *new* [PR26350](https://github.com/mantidproject/mantid/pull/26350) - Workbench: Enable fit button on errorbar plots
 * *new* [PR26354](https://github.com/mantidproject/mantid/pull/26354) - Indirect Data Reduction - Load parameter file only once
+* *new* [PR26355](https://github.com/mantidproject/mantid/pull/26355) - Fix bug with GEM scripts when enabling absorption corrections
 * *new* [PR26356](https://github.com/mantidproject/mantid/pull/26356) - Error Reporter: Allow resizeable window so that smaller screens can use it.
