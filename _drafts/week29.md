@@ -11,6 +11,7 @@ Detailed Merges for Jul 15 to 21, 2019
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-07-16..2019-07-21)
 
+* *new* [PR25617](https://github.com/mantidproject/mantid/pull/25617) - Context menu to toggle error bars on plot
 * *new* [PR26191](https://github.com/mantidproject/mantid/pull/26191) - Removed GetNegMuMuonicXRDDialog, no longer used
 * *new* [PR26220](https://github.com/mantidproject/mantid/pull/26220) - Removed limit on number of runs loaded by Muon Analysis 2
 * *new* [PR26236](https://github.com/mantidproject/mantid/pull/26236) - Update to Muon interface release notes
@@ -23,6 +24,7 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26292](https://github.com/mantidproject/mantid/pull/26292) - Removed disabling of centering boxes
 * *new* [PR26293](https://github.com/mantidproject/mantid/pull/26293) - Reordered columns in list selector
 * *new* [PR26296](https://github.com/mantidproject/mantid/pull/26296) - Fixed FDA old bug that stopped phasequad
+* *new* [PR26299](https://github.com/mantidproject/mantid/pull/26299) - Adding in handling of fit numbers when fits removed
 * *new* [PR26303](https://github.com/mantidproject/mantid/pull/26303) - Multi plot canvas bug and fixes Muon grouping tab test
 * *new* [PR26308](https://github.com/mantidproject/mantid/pull/26308) - Maintenance: Remove Ubuntu 14.04 compatibility fixes
 * *new* [PR26309](https://github.com/mantidproject/mantid/pull/26309) - Workbench: Fix poor plot config dialog scaling on high resolution displays
@@ -36,3 +38,5 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26345](https://github.com/mantidproject/mantid/pull/26345) - Added plotting and fixed COM mode
 * *new* [PR26347](https://github.com/mantidproject/mantid/pull/26347) - Workbench Plot Guess with NaN values
 * *new* [PR26348](https://github.com/mantidproject/mantid/pull/26348) - Handled 'None' in peak data file
+* *new* [PR26354](https://github.com/mantidproject/mantid/pull/26354) - Indirect Data Reduction - Load parameter file only once
+* *new* [PR26356](https://github.com/mantidproject/mantid/pull/26356) - Error Reporter: Allow resizeable window so that smaller screens can use it.
