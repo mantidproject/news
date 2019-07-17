@@ -48,3 +48,5 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26356](https://github.com/mantidproject/mantid/pull/26356) - Error Reporter: Allow resizeable window so that smaller screens can use it.
 * *new* [PR26360](https://github.com/mantidproject/mantid/pull/26360) - Indirect - Remove warning from release notes
 * *new* [PR26364](https://github.com/mantidproject/mantid/pull/26364) - Workbench: Fix errorbar toggle via context menu for multiple axes
+* *new* [PR26368](https://github.com/mantidproject/mantid/pull/26368) - Add release note regarding last supported Mac OS versions
+* *new* [PR26371](https://github.com/mantidproject/mantid/pull/26371) - Indirect Tools - No valid Analyzers bug
