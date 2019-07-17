@@ -34,13 +34,17 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26327](https://github.com/mantidproject/mantid/pull/26327) - Convert input workspace to histogram in CalculateEfficiency
 * *new* [PR26328](https://github.com/mantidproject/mantid/pull/26328) - Update to the latest version of mslice
 * *new* [PR26331](https://github.com/mantidproject/mantid/pull/26331) - Workbench: Scale Matplotlib figure sizes with monitor's DPI
+* *new* [PR26335](https://github.com/mantidproject/mantid/pull/26335) - Watch for KeyboardInterrupt and gracefully terminate all subprocesses
 * *new* [PR26336](https://github.com/mantidproject/mantid/pull/26336) - Update name of InstrumentView variable, now mask displayed
 * *new* [PR26337](https://github.com/mantidproject/mantid/pull/26337) - Search hidden algorithms in workbench
+* *new* [PR26344](https://github.com/mantidproject/mantid/pull/26344) - Invalid detector list message popping up continually
 * *new* [PR26345](https://github.com/mantidproject/mantid/pull/26345) - Added plotting and fixed COM mode
 * *new* [PR26347](https://github.com/mantidproject/mantid/pull/26347) - Workbench Plot Guess with NaN values
 * *new* [PR26348](https://github.com/mantidproject/mantid/pull/26348) - Handled 'None' in peak data file
 * *new* [PR26350](https://github.com/mantidproject/mantid/pull/26350) - Workbench: Enable fit button on errorbar plots
+* *new* [PR26351](https://github.com/mantidproject/mantid/pull/26351) - Small GCC8 warning clear up
 * *new* [PR26354](https://github.com/mantidproject/mantid/pull/26354) - Indirect Data Reduction - Load parameter file only once
 * *new* [PR26355](https://github.com/mantidproject/mantid/pull/26355) - Fix bug with GEM scripts when enabling absorption corrections
 * *new* [PR26356](https://github.com/mantidproject/mantid/pull/26356) - Error Reporter: Allow resizeable window so that smaller screens can use it.
 * *new* [PR26360](https://github.com/mantidproject/mantid/pull/26360) - Indirect - Remove warning from release notes
+* *new* [PR26364](https://github.com/mantidproject/mantid/pull/26364) - Workbench: Fix errorbar toggle via context menu for multiple axes
