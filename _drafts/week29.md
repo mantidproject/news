@@ -30,6 +30,7 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26309](https://github.com/mantidproject/mantid/pull/26309) - Workbench: Fix poor plot config dialog scaling on high resolution displays
 * *new* [PR26313](https://github.com/mantidproject/mantid/pull/26313) - Changed Elemental Analysis y-axis label to "counts"
 * *new* [PR26318](https://github.com/mantidproject/mantid/pull/26318) - Prevents rename_plot being triggered by unexpected focus grab
+* *new* [PR26321](https://github.com/mantidproject/mantid/pull/26321) - Add skeleton release notes for v4.2.0
 * *new* [PR26322](https://github.com/mantidproject/mantid/pull/26322) - Log selector size
 * *new* [PR26327](https://github.com/mantidproject/mantid/pull/26327) - Convert input workspace to histogram in CalculateEfficiency
 * *new* [PR26328](https://github.com/mantidproject/mantid/pull/26328) - Update to the latest version of mslice
@@ -48,5 +49,7 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26356](https://github.com/mantidproject/mantid/pull/26356) - Error Reporter: Allow resizeable window so that smaller screens can use it.
 * *new* [PR26360](https://github.com/mantidproject/mantid/pull/26360) - Indirect - Remove warning from release notes
 * *new* [PR26364](https://github.com/mantidproject/mantid/pull/26364) - Workbench: Fix errorbar toggle via context menu for multiple axes
+* *new* [PR26366](https://github.com/mantidproject/mantid/pull/26366) - Corrections for muon gui tutorial
 * *new* [PR26368](https://github.com/mantidproject/mantid/pull/26368) - Add release note regarding last supported Mac OS versions
 * *new* [PR26371](https://github.com/mantidproject/mantid/pull/26371) - Indirect Tools - No valid Analyzers bug
+* *new* [PR26373](https://github.com/mantidproject/mantid/pull/26373) - Allow cmake to handle the future change in name of the GSL cblas library on Windows
