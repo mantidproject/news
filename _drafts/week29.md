@@ -11,6 +11,7 @@ Detailed Merges for Jul 15 to 21, 2019
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-07-16..2019-07-21)
 
+* *new* [PR25571](https://github.com/mantidproject/mantid/pull/25571) - Remove runs with bad proton charges from added runs
 * *new* [PR25617](https://github.com/mantidproject/mantid/pull/25617) - Context menu to toggle error bars on plot
 * *new* [PR26191](https://github.com/mantidproject/mantid/pull/26191) - Removed GetNegMuMuonicXRDDialog, no longer used
 * *new* [PR26220](https://github.com/mantidproject/mantid/pull/26220) - Removed limit on number of runs loaded by Muon Analysis 2
@@ -52,4 +53,5 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26366](https://github.com/mantidproject/mantid/pull/26366) - Corrections for muon gui tutorial
 * *new* [PR26368](https://github.com/mantidproject/mantid/pull/26368) - Add release note regarding last supported Mac OS versions
 * *new* [PR26371](https://github.com/mantidproject/mantid/pull/26371) - Indirect Tools - No valid Analyzers bug
+* *new* [PR26372](https://github.com/mantidproject/mantid/pull/26372) - Update PyCharm's Linux instructions
 * *new* [PR26373](https://github.com/mantidproject/mantid/pull/26373) - Allow cmake to handle the future change in name of the GSL cblas library on Windows
