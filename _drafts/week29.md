@@ -56,6 +56,7 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26371](https://github.com/mantidproject/mantid/pull/26371) - Indirect Tools - No valid Analyzers bug
 * *new* [PR26372](https://github.com/mantidproject/mantid/pull/26372) - Update PyCharm's Linux instructions
 * *new* [PR26373](https://github.com/mantidproject/mantid/pull/26373) - Allow cmake to handle the future change in name of the GSL cblas library on Windows
+* *new* [PR26379](https://github.com/mantidproject/mantid/pull/26379) - Fix compiler warning with llvm clang 4
 * *new* [PR26382](https://github.com/mantidproject/mantid/pull/26382) - Outputing covariance matrix from Muon Analysis
 * *new* [PR26390](https://github.com/mantidproject/mantid/pull/26390) - Protect against possible missing property
 * *new* [PR26397](https://github.com/mantidproject/mantid/pull/26397) - Update Abins.py
