@@ -14,6 +14,7 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR25563](https://github.com/mantidproject/mantid/pull/25563) - Buffered Kafka event decoder
 * *new* [PR25571](https://github.com/mantidproject/mantid/pull/25571) - Remove runs with bad proton charges from added runs
 * *new* [PR25617](https://github.com/mantidproject/mantid/pull/25617) - Context menu to toggle error bars on plot
+* *new* [PR25752](https://github.com/mantidproject/mantid/pull/25752) - False Positive From Version Check
 * *new* [PR26191](https://github.com/mantidproject/mantid/pull/26191) - Removed GetNegMuMuonicXRDDialog, no longer used
 * *new* [PR26220](https://github.com/mantidproject/mantid/pull/26220) - Removed limit on number of runs loaded by Muon Analysis 2
 * *new* [PR26236](https://github.com/mantidproject/mantid/pull/26236) - Update to Muon interface release notes
