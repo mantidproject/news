@@ -72,3 +72,4 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26426](https://github.com/mantidproject/mantid/pull/26426) - Workbench: Hide ManageUserDirectories' help button
 * *new* [PR26427](https://github.com/mantidproject/mantid/pull/26427) - Only set min/max bounds for range selector if they are provided.
 * *new* [PR26428](https://github.com/mantidproject/mantid/pull/26428) - Proxy improve error handling
+* *new* [PR26434](https://github.com/mantidproject/mantid/pull/26434) - SNAPReduce Cannot skip logs if the accumulation workspace doesn't exist
