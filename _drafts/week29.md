@@ -64,3 +64,5 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26400](https://github.com/mantidproject/mantid/pull/26400) - Engineering Diffraction: Avoid exception when hitting stop focus
 * *new* [PR26401](https://github.com/mantidproject/mantid/pull/26401) - fix positions of 4 A-row packs for SEQ
 * *new* [PR26402](https://github.com/mantidproject/mantid/pull/26402) - Workbench: Fix error when setting figure title with non ascii characters
+* *new* [PR26403](https://github.com/mantidproject/mantid/pull/26403) - Run button in ILL indirect reduction GUI
+* *new* [PR26409](https://github.com/mantidproject/mantid/pull/26409) - Add warning to sequential fit
