@@ -66,3 +66,9 @@ Detailed Merges for Jul 15 to 21, 2019
 * *new* [PR26402](https://github.com/mantidproject/mantid/pull/26402) - Workbench: Fix error when setting figure title with non ascii characters
 * *new* [PR26403](https://github.com/mantidproject/mantid/pull/26403) - Run button in ILL indirect reduction GUI
 * *new* [PR26409](https://github.com/mantidproject/mantid/pull/26409) - Add warning to sequential fit
+* *new* [PR26421](https://github.com/mantidproject/mantid/pull/26421) - Added try catch clause around failing call
+* *new* [PR26422](https://github.com/mantidproject/mantid/pull/26422) - Install missing Qt5 libraries/plugins in Workbench on Mac
+* *new* [PR26425](https://github.com/mantidproject/mantid/pull/26425) - Add qtpy dependency to rpm/deb packages.
+* *new* [PR26426](https://github.com/mantidproject/mantid/pull/26426) - Workbench: Hide ManageUserDirectories' help button
+* *new* [PR26427](https://github.com/mantidproject/mantid/pull/26427) - Only set min/max bounds for range selector if they are provided.
+* *new* [PR26428](https://github.com/mantidproject/mantid/pull/26428) - Proxy improve error handling
