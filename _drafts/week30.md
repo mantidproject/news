@@ -12,3 +12,5 @@ Detailed Merges for Jul 22 to 28, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-07-23..2019-07-28)
 
 * *new* [PR26433](https://github.com/mantidproject/mantid/pull/26433) - Avoid calculating cos(arccos(cos(x))) in SolidAngle
+* *new* [PR26435](https://github.com/mantidproject/mantid/pull/26435) - Add a decorator to start QApplication and delete object on exit
+* *new* [PR26442](https://github.com/mantidproject/mantid/pull/26442) - Project Save: Improve error handling with nested groups of groups
