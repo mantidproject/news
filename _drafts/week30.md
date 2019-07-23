@@ -11,6 +11,7 @@ Detailed Merges for Jul 22 to 28, 2019
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-07-23..2019-07-28)
 
+* *new* [PR26367](https://github.com/mantidproject/mantid/pull/26367) - Run clang-tidy with modernize-use-auto on Framework
 * *new* [PR26418](https://github.com/mantidproject/mantid/pull/26418) - Fix performance issues with ILLDetectorEfficiencyCorUserTest.IN5 test
 * *new* [PR26433](https://github.com/mantidproject/mantid/pull/26433) - Avoid calculating cos(arccos(cos(x))) in SolidAngle
 * *new* [PR26435](https://github.com/mantidproject/mantid/pull/26435) - Add a decorator to start QApplication and delete object on exit
