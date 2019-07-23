@@ -15,7 +15,7 @@ Detailed Merges for Jul 22 to 28, 2019
 * [PR26367](https://github.com/mantidproject/mantid/pull/26367) - Run `clang-tidy` with modernize-use-auto on Framework
 * [PR26380](https://github.com/mantidproject/mantid/pull/26380) - Adds ILL logo to about page
 * [PR26418](https://github.com/mantidproject/mantid/pull/26418) - Fix performance issues with ILLDetectorEfficiencyCorUserTest.IN5 test
-* *new* [PR26433](https://github.com/mantidproject/mantid/pull/26433) - Avoid calculating cos(arccos(cos(x))) in [SolidAngle](https://docs.mantidproject.org/nightly/algorithms/SolidAngle-v1.html)
+* [PR26433](https://github.com/mantidproject/mantid/pull/26433) - Avoid calculating cos(arccos(cos(x))) in [SolidAngle](https://docs.mantidproject.org/nightly/algorithms/SolidAngle-v1.html)
 * [PR26435](https://github.com/mantidproject/mantid/pull/26435) - Add a decorator to start ``QApplication` and delete object on exit
 * [PR26437](https://github.com/mantidproject/mantid/pull/26437) - Change the units for time remaining in the algorithm progress bar from h-h to h-min
 * [PR26442](https://github.com/mantidproject/mantid/pull/26442) - Project Save: Improve error handling with nested groups of groups
