@@ -23,4 +23,5 @@ Detailed Merges for Jul 22 to 28, 2019
 * [PR26442](https://github.com/mantidproject/mantid/pull/26442) - Project Save: Improve error handling with nested groups of groups
 * [PR26443](https://github.com/mantidproject/mantid/pull/26443) - Flattened muon ADS lists
 * [PR26448](https://github.com/mantidproject/mantid/pull/26448) - Add link to C++ intro page to developer documentation
+* *new* [PR26452](https://github.com/mantidproject/mantid/pull/26452) - IN16B instrument configuration
 * [PR26469](https://github.com/mantidproject/mantid/pull/26469) - Fix flaky `ScalesTest`
