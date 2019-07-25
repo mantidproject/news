@@ -23,6 +23,8 @@ Detailed Merges for Jul 22 to 28, 2019
 * [PR26437](https://github.com/mantidproject/mantid/pull/26437) - Change the units for time remaining in the algorithm progress bar from h-h to h-min
 * [PR26442](https://github.com/mantidproject/mantid/pull/26442) - Project Save: Improve error handling with nested groups of groups
 * [PR26443](https://github.com/mantidproject/mantid/pull/26443) - Flattened muon ADS lists
+* *new* [PR26445](https://github.com/mantidproject/mantid/pull/26445) - Workbench: ISIS Reflectometry pause button is disabled on opening
 * [PR26448](https://github.com/mantidproject/mantid/pull/26448) - Add link to C++ intro page to developer documentation
 * [PR26452](https://github.com/mantidproject/mantid/pull/26452) - IN16B instrument configuration
+* *new* [PR26460](https://github.com/mantidproject/mantid/pull/26460) - Build PythonInterface with FrameworkTests
 * [PR26469](https://github.com/mantidproject/mantid/pull/26469) - Fix flaky `ScalesTest`
