@@ -28,3 +28,4 @@ Detailed Merges for Jul 22 to 28, 2019
 * [PR26452](https://github.com/mantidproject/mantid/pull/26452) - IN16B instrument configuration
 * *new* [PR26460](https://github.com/mantidproject/mantid/pull/26460) - Build PythonInterface with FrameworkTests
 * [PR26469](https://github.com/mantidproject/mantid/pull/26469) - Fix flaky `ScalesTest`
+* *new* [PR26476](https://github.com/mantidproject/mantid/pull/26476) - Workbench: Remove ? button from title bar of dialog windows
