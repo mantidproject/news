@@ -18,3 +18,4 @@ Detailed Merges for Jul 29 to Aug 4, 2019
 * [PR26485](https://github.com/mantidproject/mantid/pull/26485) - Changes to move to Visual Studio 2019
 * *new* [PR26490](https://github.com/mantidproject/mantid/pull/26490) - Made Error Reporter more user friendly
 * *new* [PR26503](https://github.com/mantidproject/mantid/pull/26503) - Workbench: fix Ubuntu AttributeError
+* *new* [PR26504](https://github.com/mantidproject/mantid/pull/26504) - Warn if saving >10GB on MantidPlot
