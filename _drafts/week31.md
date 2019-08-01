@@ -21,3 +21,7 @@ Detailed Merges for Jul 29 to Aug 4, 2019
 * *new* [PR26490](https://github.com/mantidproject/mantid/pull/26490) - Made Error Reporter more user friendly
 * *new* [PR26503](https://github.com/mantidproject/mantid/pull/26503) - Workbench: fix Ubuntu AttributeError
 * *new* [PR26504](https://github.com/mantidproject/mantid/pull/26504) - Warn if saving >10GB on MantidPlot
+* *new* [PR26507](https://github.com/mantidproject/mantid/pull/26507) - LoadPSIMuonBin: Allow all expected PSI muon bin data to be loadable
+* *new* [PR26514](https://github.com/mantidproject/mantid/pull/26514) - LoadPSIMuonBin: Handle poorly converted bin files better
+* *new* [PR26540](https://github.com/mantidproject/mantid/pull/26540) - Add new InPlane option to MaskAngle
+* *new* [PR26541](https://github.com/mantidproject/mantid/pull/26541) - Add unit tests for reflectometry GUI defaults
