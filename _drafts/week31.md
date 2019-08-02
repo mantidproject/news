@@ -28,5 +28,6 @@ Detailed Merges for Jul 29 to Aug 4, 2019
 * [PR26514](https://github.com/mantidproject/mantid/pull/26514) - [LoadPSIMuonBin](https://docs.mantidproject.org/nightly/algorithms/LoadPSIMuonBin-v1.html): Handle poorly converted bin files better
 * *new* [PR26516](https://github.com/mantidproject/mantid/pull/26516) - Workbench: Make it possible to close an existing project and save it with a new name
 * *new* [PR26517](https://github.com/mantidproject/mantid/pull/26517) - Add tests for parsing search results to reflectometry GUI
+* *new* [PR26523](https://github.com/mantidproject/mantid/pull/26523) - Workbench: add a keyboard shortcut to create a new tab in the script editor
 * [PR26540](https://github.com/mantidproject/mantid/pull/26540) - Add new `InPlane` option to [MaskAngle](https://docs.mantidproject.org/nightly/algorithms/MaskAngle-v1.html)
 * [PR26541](https://github.com/mantidproject/mantid/pull/26541) - Add unit tests for reflectometry GUI defaults
