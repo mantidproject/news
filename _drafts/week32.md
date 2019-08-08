@@ -26,3 +26,4 @@ Detailed Merges for Aug 5 to 11, 2019
 * [PR26562](https://github.com/mantidproject/mantid/pull/26562) - Update Windows' build scripts for Visual Studio 2019
 * *new* [PR26569](https://github.com/mantidproject/mantid/pull/26569) - Updated workspace selection on run change
 * [PR26571](https://github.com/mantidproject/mantid/pull/26571) - Correct ToF calculation in Kafka event decoder
+* *new* [PR26586](https://github.com/mantidproject/mantid/pull/26586) - Fix LoadNexusMonitors2 bug
