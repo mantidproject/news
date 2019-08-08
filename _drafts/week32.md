@@ -25,9 +25,12 @@ Detailed Merges for Aug 5 to 11, 2019
 * *new* [PR26527](https://github.com/mantidproject/mantid/pull/26527) - Instrument 2.0 to nexus file
 * *new* [PR26546](https://github.com/mantidproject/mantid/pull/26546) - Sample Transmission Calculator: remove option to change y-axis to logarithmic
 * [PR26547](https://github.com/mantidproject/mantid/pull/26547) - Move model creation functions to a `TestHelpers` subdirectory
+* *new* [PR26559](https://github.com/mantidproject/mantid/pull/26559) - LoadPSIMuonBin: Max array value is chosen when each spectra has individual T0
 * [PR26562](https://github.com/mantidproject/mantid/pull/26562) - Update Windows' build scripts for Visual Studio 2019
 * *new* [PR26569](https://github.com/mantidproject/mantid/pull/26569) - Updated workspace selection on run change
 * [PR26571](https://github.com/mantidproject/mantid/pull/26571) - Correct ToF calculation in Kafka event decoder
+* *new* [PR26573](https://github.com/mantidproject/mantid/pull/26573) - FDA better start guess for FFT
+* *new* [PR26583](https://github.com/mantidproject/mantid/pull/26583) - Overlay plots in tf asymmetry mode
 * *new* [PR26586](https://github.com/mantidproject/mantid/pull/26586) - Fix LoadNexusMonitors2 bug
 * *new* [PR26587](https://github.com/mantidproject/mantid/pull/26587) - Fit browser crash on invalid default peak
 * *new* [PR26590](https://github.com/mantidproject/mantid/pull/26590) - Update workbench tutorial with new list of interfaces.
