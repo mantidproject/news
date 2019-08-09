@@ -39,3 +39,6 @@ Detailed Merges for Aug 5 to 11, 2019
 * *new* [PR26587](https://github.com/mantidproject/mantid/pull/26587) - Fit browser crash on invalid default peak
 * *new* [PR26588](https://github.com/mantidproject/mantid/pull/26588) - Fix Monitor Number Bug
 * *new* [PR26590](https://github.com/mantidproject/mantid/pull/26590) - Update workbench tutorial with new list of interfaces.
+* *new* [PR26597](https://github.com/mantidproject/mantid/pull/26597) - Fix prompt pulse masking and vanadium peak masking in HRPD
+* *new* [PR26604](https://github.com/mantidproject/mantid/pull/26604) - Fixing use of wrong unit in elemental analysis interface
+* *new* [PR26605](https://github.com/mantidproject/mantid/pull/26605) - Added log copying in TF asymmetry mode
