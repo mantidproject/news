@@ -15,6 +15,8 @@ Detailed Merges for Aug 5 to 11, 2019
 
 * [PR26263](https://github.com/mantidproject/mantid/pull/26263) - Add remaining packages to build mantid-framework py3 on rhel7
 * [PR26444](https://github.com/mantidproject/mantid/pull/26444) - Restructured elemental analysis peak data file
+* *new* [PR26446](https://github.com/mantidproject/mantid/pull/26446) - Added elemental analysis tests
+* *new* [PR26456](https://github.com/mantidproject/mantid/pull/26456) - Added warning if saving >10GB on workbench.
 * [PR26472](https://github.com/mantidproject/mantid/pull/26472) - IndirectILL harmonise grouping
 * *new* [PR26473](https://github.com/mantidproject/mantid/pull/26473) - Investigate slow plotting during sequential fits in Muon Analysis
 * [PR26508](https://github.com/mantidproject/mantid/pull/26508) - Normalisation of fit results on workbench
@@ -30,7 +32,10 @@ Detailed Merges for Aug 5 to 11, 2019
 * *new* [PR26569](https://github.com/mantidproject/mantid/pull/26569) - Updated workspace selection on run change
 * [PR26571](https://github.com/mantidproject/mantid/pull/26571) - Correct ToF calculation in Kafka event decoder
 * *new* [PR26573](https://github.com/mantidproject/mantid/pull/26573) - FDA better start guess for FFT
+* *new* [PR26575](https://github.com/mantidproject/mantid/pull/26575) - Whitespace now ignored in MultiFile names
 * *new* [PR26583](https://github.com/mantidproject/mantid/pull/26583) - Overlay plots in tf asymmetry mode
+* *new* [PR26585](https://github.com/mantidproject/mantid/pull/26585) - Make python tests work in framework only build
 * *new* [PR26586](https://github.com/mantidproject/mantid/pull/26586) - Fix LoadNexusMonitors2 bug
 * *new* [PR26587](https://github.com/mantidproject/mantid/pull/26587) - Fit browser crash on invalid default peak
+* *new* [PR26588](https://github.com/mantidproject/mantid/pull/26588) - Fix Monitor Number Bug
 * *new* [PR26590](https://github.com/mantidproject/mantid/pull/26590) - Update workbench tutorial with new list of interfaces.
