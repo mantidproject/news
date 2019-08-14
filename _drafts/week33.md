@@ -18,6 +18,7 @@ Detailed Merges for Aug 12 to 18, 2019
 * [PR26561](https://github.com/mantidproject/mantid/pull/26561) - Elemental Analysis color function now returns same color for same element
 * [PR26567](https://github.com/mantidproject/mantid/pull/26567) - added support for lambda on two mode (no ticket)
 * [PR26615](https://github.com/mantidproject/mantid/pull/26615) - Elemental analysis plot correct lines when changing peak data file
+* *new* [PR26622](https://github.com/mantidproject/mantid/pull/26622) - EQSANSCorrectTofStructure: Use either path to individual pixel or to the center of the detector
 * *new* [PR26623](https://github.com/mantidproject/mantid/pull/26623) - Workbench fixing table validation
 * [PR26626](https://github.com/mantidproject/mantid/pull/26626) - Delete the documentation for LatticeErrors function
 * [PR26634](https://github.com/mantidproject/mantid/pull/26634) - Update Indirect Output Plotting Documentations
