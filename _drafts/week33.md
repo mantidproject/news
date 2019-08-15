@@ -27,3 +27,4 @@ Detailed Merges for Aug 12 to 18, 2019
 * *new* [PR26623](https://github.com/mantidproject/mantid/pull/26623) - Workbench fixing table validation
 * [PR26626](https://github.com/mantidproject/mantid/pull/26626) - Delete the documentation for LatticeErrors function
 * [PR26634](https://github.com/mantidproject/mantid/pull/26634) - Update Indirect Output Plotting Documentations
+* *new* [PR26651](https://github.com/mantidproject/mantid/pull/26651) - Tests for FDA
