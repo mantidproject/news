@@ -19,6 +19,7 @@ Detailed Merges for Aug 12 to 18, 2019
 * [PR26548](https://github.com/mantidproject/mantid/pull/26548) - Add a namespace for the ISISReflectometry GUI
 * [PR26561](https://github.com/mantidproject/mantid/pull/26561) - Elemental Analysis color function now returns same color for same element
 * *new* [PR26565](https://github.com/mantidproject/mantid/pull/26565) - Workbench: make closing the save and overwrite dialog behave correctly
+* *new* [PR26566](https://github.com/mantidproject/mantid/pull/26566) - New method to get azimuthal angle
 * [PR26567](https://github.com/mantidproject/mantid/pull/26567) - added support for lambda on two mode (no ticket)
 * *new* [PR26579](https://github.com/mantidproject/mantid/pull/26579) - Sample Transmission Calculator no longer accepts negative wavelength values
 * [PR26615](https://github.com/mantidproject/mantid/pull/26615) - Elemental analysis plot correct lines when changing peak data file
