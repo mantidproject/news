@@ -20,3 +20,4 @@ Detailed Merges for Aug 19 to 25, 2019
 * [PR26659](https://github.com/mantidproject/mantid/pull/26659) - Add reflectometry GUI runs presenter tests
 * [PR26662](https://github.com/mantidproject/mantid/pull/26662) - Remove dead declaration
 * [PR26672](https://github.com/mantidproject/mantid/pull/26672) - Delete old file no longer used after refactor
+* *new* [PR26681](https://github.com/mantidproject/mantid/pull/26681) - Add option to ignore module import failure for system tests
