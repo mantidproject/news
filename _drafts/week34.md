@@ -21,6 +21,7 @@ Detailed Merges for Aug 19 to 25, 2019
 * [PR26659](https://github.com/mantidproject/mantid/pull/26659) - Add reflectometry GUI runs presenter tests
 * [PR26662](https://github.com/mantidproject/mantid/pull/26662) - Remove dead declaration
 * *new* [PR26664](https://github.com/mantidproject/mantid/pull/26664) - Context Menu Change Axis' Scale to Axis Aware on Workbench
+* *new* [PR26665](https://github.com/mantidproject/mantid/pull/26665) - Workbench: Move ProjectSave and ProjectLoad to a worker thread
 * *new* [PR26669](https://github.com/mantidproject/mantid/pull/26669) - ISIS Reflectometry: Ensure batch tabs numbers are unique
 * *new* [PR26670](https://github.com/mantidproject/mantid/pull/26670) - ISIS Reflectometry: Reset row state if the reduced workspace is renamed/replaced
 * [PR26672](https://github.com/mantidproject/mantid/pull/26672) - Delete old file no longer used after refactor
