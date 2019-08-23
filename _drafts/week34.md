@@ -26,3 +26,5 @@ Detailed Merges for Aug 19 to 25, 2019
 * *new* [PR26670](https://github.com/mantidproject/mantid/pull/26670) - ISIS Reflectometry: Reset row state if the reduced workspace is renamed/replaced
 * [PR26672](https://github.com/mantidproject/mantid/pull/26672) - Delete old file no longer used after refactor
 * *new* [PR26681](https://github.com/mantidproject/mantid/pull/26681) - Add option to ignore module import failure for system tests
+* *new* [PR26683](https://github.com/mantidproject/mantid/pull/26683) - Fix the axis quick editor tab order
+* *new* [PR26687](https://github.com/mantidproject/mantid/pull/26687) - Make the spectrum selector dialog select the spectrum number input box by default
