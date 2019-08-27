@@ -12,3 +12,4 @@ Detailed Merges for Aug 26 to Sep 1, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-08-27..2019-09-01)
 
 * *new* [PR26666](https://github.com/mantidproject/mantid/pull/26666) - Adding markers to workbench plots
+* *new* [PR26712](https://github.com/mantidproject/mantid/pull/26712) - Fix documentation warnings from Sphinx 1.6.7
