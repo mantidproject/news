@@ -17,7 +17,9 @@ Detailed Merges for Aug 26 to Sep 1, 2019
 * *new* [PR26666](https://github.com/mantidproject/mantid/pull/26666) - Adding markers to workbench plots
 * *new* [PR26695](https://github.com/mantidproject/mantid/pull/26695) - Add icons to colormap selector in plot options
 * *new* [PR26705](https://github.com/mantidproject/mantid/pull/26705) - Options -R/-E for runSystemTests is now treated as a regex
+* *new* [PR26708](https://github.com/mantidproject/mantid/pull/26708) - Adding plot guess to fitting in muon analysis
 * *new* [PR26712](https://github.com/mantidproject/mantid/pull/26712) - Fix documentation warnings from Sphinx 1.6.7
 * *new* [PR26714](https://github.com/mantidproject/mantid/pull/26714) - Removed FABADA minimizer from Muon Analysis
+* *new* [PR26715](https://github.com/mantidproject/mantid/pull/26715) - Fix the difference still being plotted when Plot Difference is unticked
 * *new* [PR26716](https://github.com/mantidproject/mantid/pull/26716) - Plot legend shows label instead of spectrum number if the spectrum has a label
 * *new* [PR26723](https://github.com/mantidproject/mantid/pull/26723) - Catch and fail system tests if the any error is detected
