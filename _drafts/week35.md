@@ -17,3 +17,4 @@ Detailed Merges for Aug 26 to Sep 1, 2019
 * *new* [PR26695](https://github.com/mantidproject/mantid/pull/26695) - Add icons to colormap selector in plot options
 * *new* [PR26705](https://github.com/mantidproject/mantid/pull/26705) - Options -R/-E for runSystemTests is now treated as a regex
 * *new* [PR26712](https://github.com/mantidproject/mantid/pull/26712) - Fix documentation warnings from Sphinx 1.6.7
+* *new* [PR26714](https://github.com/mantidproject/mantid/pull/26714) - Removed FABADA minimizer from Muon Analysis
