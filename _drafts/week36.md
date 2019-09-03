@@ -11,9 +11,12 @@ Detailed Merges for Sep 2 to 8, 2019
 ------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-09-03..2019-09-08)
 
+* *new* [PR26455](https://github.com/mantidproject/mantid/pull/26455) - Remove Qt5 libraries from macOS MantidPlot.app bundle
 * *new* [PR26698](https://github.com/mantidproject/mantid/pull/26698) - 5c1 instrument definition
 * *new* [PR26711](https://github.com/mantidproject/mantid/pull/26711) - Update GPSANS instrument definition file
+* *new* [PR26713](https://github.com/mantidproject/mantid/pull/26713) - Update codebase ready for C++17
 * *new* [PR26720](https://github.com/mantidproject/mantid/pull/26720) - Add options to SaveMD for MDHistoWorkspace
+* *new* [PR26722](https://github.com/mantidproject/mantid/pull/26722) - Make the text box in the ColorSelector widget editable
 * *new* [PR26727](https://github.com/mantidproject/mantid/pull/26727) - Updates on workbench markers
 * *new* [PR26739](https://github.com/mantidproject/mantid/pull/26739) - Workaround a bug in argparse with arguments starting with a dash
 * *new* [PR26742](https://github.com/mantidproject/mantid/pull/26742) - Fix add_python_package for mantid package
