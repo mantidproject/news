@@ -14,4 +14,6 @@ Detailed Merges for Sep 2 to 8, 2019
 * *new* [PR26698](https://github.com/mantidproject/mantid/pull/26698) - 5c1 instrument definition
 * *new* [PR26711](https://github.com/mantidproject/mantid/pull/26711) - Update GPSANS instrument definition file
 * *new* [PR26720](https://github.com/mantidproject/mantid/pull/26720) - Add options to SaveMD for MDHistoWorkspace
+* *new* [PR26727](https://github.com/mantidproject/mantid/pull/26727) - Updates on workbench markers
 * *new* [PR26739](https://github.com/mantidproject/mantid/pull/26739) - Workaround a bug in argparse with arguments starting with a dash
+* *new* [PR26742](https://github.com/mantidproject/mantid/pull/26742) - Fix add_python_package for mantid package
