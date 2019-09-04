@@ -18,5 +18,8 @@ Detailed Merges for Sep 2 to 8, 2019
 * *new* [PR26720](https://github.com/mantidproject/mantid/pull/26720) - Add options to SaveMD for MDHistoWorkspace
 * *new* [PR26722](https://github.com/mantidproject/mantid/pull/26722) - Make the text box in the ColorSelector widget editable
 * *new* [PR26727](https://github.com/mantidproject/mantid/pull/26727) - Updates on workbench markers
+* *new* [PR26730](https://github.com/mantidproject/mantid/pull/26730) - Document BufferThreshold for Kafka event stream
+* *new* [PR26737](https://github.com/mantidproject/mantid/pull/26737) - ignore nan values in FindCenterOfMassPosition
 * *new* [PR26739](https://github.com/mantidproject/mantid/pull/26739) - Workaround a bug in argparse with arguments starting with a dash
 * *new* [PR26742](https://github.com/mantidproject/mantid/pull/26742) - Fix add_python_package for mantid package
+* *new* [PR26744](https://github.com/mantidproject/mantid/pull/26744) - Resize the remove curve button in figure options
