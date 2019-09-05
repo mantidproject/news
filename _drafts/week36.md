@@ -30,3 +30,4 @@ Detailed Merges for Sep 2 to 8, 2019
 * *new* [PR26744](https://github.com/mantidproject/mantid/pull/26744) - Resize the remove curve button in figure options
 * *new* [PR26756](https://github.com/mantidproject/mantid/pull/26756) - Use vector::emplace_back to avoid a false positive warning
 * *new* [PR26757](https://github.com/mantidproject/mantid/pull/26757) - Ensure users can close Workbench after closing the Load Project dialog
+* *new* [PR26758](https://github.com/mantidproject/mantid/pull/26758) - Tweaks to ISIS powder scripts for HRPD
