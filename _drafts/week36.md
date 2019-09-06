@@ -32,3 +32,4 @@ Detailed Merges for Sep 2 to 8, 2019
 * *new* [PR26757](https://github.com/mantidproject/mantid/pull/26757) - Ensure users can close Workbench after closing the Load Project dialog
 * *new* [PR26758](https://github.com/mantidproject/mantid/pull/26758) - Tweaks to ISIS powder scripts for HRPD
 * *new* [PR26761](https://github.com/mantidproject/mantid/pull/26761) - GPSANS: correct translation equation along X-axis
+* *new* [PR26765](https://github.com/mantidproject/mantid/pull/26765) - Add CHESS and ZEEMANS instruments to SNS
