@@ -13,3 +13,4 @@ Detailed Merges for Sep 9 to 15, 2019
 
 * *new* [PR26747](https://github.com/mantidproject/mantid/pull/26747) - Update script repository endpoints to https
 * *new* [PR26763](https://github.com/mantidproject/mantid/pull/26763) - Remove seeAlso list containing only an empty string
+* *new* [PR26770](https://github.com/mantidproject/mantid/pull/26770) - Update Facilities.xml
