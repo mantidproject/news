@@ -15,7 +15,9 @@ Detailed Merges for Sep 9 to 15, 2019
 * *new* [PR26734](https://github.com/mantidproject/mantid/pull/26734) - SaveNexusESS
 * *new* [PR26747](https://github.com/mantidproject/mantid/pull/26747) - Update script repository endpoints to https
 * *new* [PR26751](https://github.com/mantidproject/mantid/pull/26751) - Processing nested components in NexusGeometrySave
+* *new* [PR26759](https://github.com/mantidproject/mantid/pull/26759) - 26743 utilities in Nexus geometry
 * *new* [PR26763](https://github.com/mantidproject/mantid/pull/26763) - Remove seeAlso list containing only an empty string
 * *new* [PR26764](https://github.com/mantidproject/mantid/pull/26764) - Fix system tests on macOS
 * *new* [PR26770](https://github.com/mantidproject/mantid/pull/26770) - Update Facilities.xml
 * *new* [PR26791](https://github.com/mantidproject/mantid/pull/26791) - Reload instrument when chunking
+* *new* [PR26796](https://github.com/mantidproject/mantid/pull/26796) - Resolve Framework warnings on Linux Clang
