@@ -18,3 +18,5 @@ Detailed Merges for Sep 16 to 22, 2019
 * *new* [PR26799](https://github.com/mantidproject/mantid/pull/26799) - Hide PeakParameterFunction from gui dialogs
 * *new* [PR26800](https://github.com/mantidproject/mantid/pull/26800) - Add 0 scale validators to reflectometry GUI
 * *new* [PR26802](https://github.com/mantidproject/mantid/pull/26802) - Fix HRPD file naming bugs
+* *new* [PR26807](https://github.com/mantidproject/mantid/pull/26807) - Fix indexing bug in IndexPeak algorithms
+* *new* [PR26809](https://github.com/mantidproject/mantid/pull/26809) - in line 400 `self.chunksize` has to be `self.chunkSize`
