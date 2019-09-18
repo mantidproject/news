@@ -14,11 +14,15 @@ Detailed Merges for Sep 16 to 22, 2019
 * *new* [PR26215](https://github.com/mantidproject/mantid/pull/26215) - ILL SANS Auto
 * *new* [PR26589](https://github.com/mantidproject/mantid/pull/26589) - Create a script from a matplotlib figure
 * *new* [PR26628](https://github.com/mantidproject/mantid/pull/26628) - iTableWorkspace update GUI when removeColumn is called in Work…
+* *new* [PR26671](https://github.com/mantidproject/mantid/pull/26671) - Sync instrument across components in the reflectometry GUI
 * *new* [PR26755](https://github.com/mantidproject/mantid/pull/26755) - Poisson Cost Function
 * *new* [PR26766](https://github.com/mantidproject/mantid/pull/26766) - SaveNexusESS complex mappings
+* *new* [PR26772](https://github.com/mantidproject/mantid/pull/26772) - Figure Options Legend Tab
 * *new* [PR26775](https://github.com/mantidproject/mantid/pull/26775) - nGEM Data Loader Created
 * *new* [PR26799](https://github.com/mantidproject/mantid/pull/26799) - Hide PeakParameterFunction from gui dialogs
 * *new* [PR26800](https://github.com/mantidproject/mantid/pull/26800) - Add 0 scale validators to reflectometry GUI
 * *new* [PR26802](https://github.com/mantidproject/mantid/pull/26802) - Fix HRPD file naming bugs
 * *new* [PR26807](https://github.com/mantidproject/mantid/pull/26807) - Fix indexing bug in IndexPeak algorithms
 * *new* [PR26809](https://github.com/mantidproject/mantid/pull/26809) - in line 400 `self.chunksize` has to be `self.chunkSize`
+* *new* [PR26813](https://github.com/mantidproject/mantid/pull/26813) - Mark masked spectra in plots as masked numpy arrays
+* *new* [PR26815](https://github.com/mantidproject/mantid/pull/26815) - Revert changed input parameters
