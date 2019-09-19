@@ -29,3 +29,4 @@ Detailed Merges for Sep 16 to 22, 2019
 * [PR26809](https://github.com/mantidproject/mantid/pull/26809) - in line 400 `self.chunksize` has to be `self.chunkSize`
 * [PR26813](https://github.com/mantidproject/mantid/pull/26813) - Mark masked spectra in plots as masked numpy arrays
 * [PR26815](https://github.com/mantidproject/mantid/pull/26815) - Revert changed input parameters
+* *new* [PR26828](https://github.com/mantidproject/mantid/pull/26828) - Fix comment in history
