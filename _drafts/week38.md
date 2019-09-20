@@ -17,6 +17,7 @@ Detailed Merges for Sep 16 to 22, 2019
 * *new* [PR26628](https://github.com/mantidproject/mantid/pull/26628) - iTableWorkspace update GUI when removeColumn is called in Work…
 * *new* [PR26671](https://github.com/mantidproject/mantid/pull/26671) - Sync instrument across components in the reflectometry GUI
 * *new* [PR26709](https://github.com/mantidproject/mantid/pull/26709) - Added unit tests for GroupTOFWorkspaces property
+* *new* [PR26721](https://github.com/mantidproject/mantid/pull/26721) - Create 1:1 spec-det map when message is missing
 * *new* [PR26755](https://github.com/mantidproject/mantid/pull/26755) - Poisson Cost Function
 * *new* [PR26766](https://github.com/mantidproject/mantid/pull/26766) - SaveNexusESS complex mappings
 * *new* [PR26772](https://github.com/mantidproject/mantid/pull/26772) - Figure Options Legend Tab
@@ -31,3 +32,4 @@ Detailed Merges for Sep 16 to 22, 2019
 * [PR26815](https://github.com/mantidproject/mantid/pull/26815) - Revert changed input parameters
 * *new* [PR26817](https://github.com/mantidproject/mantid/pull/26817) - Fix case sensitivity in LoadInstrument
 * *new* [PR26828](https://github.com/mantidproject/mantid/pull/26828) - Fix comment in history
+* *new* [PR26842](https://github.com/mantidproject/mantid/pull/26842) - Adding plot markers no longer raises error on early mpl versions
