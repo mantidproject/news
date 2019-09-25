@@ -16,5 +16,8 @@ Detailed Merges for Sep 23 to 29, 2019
 * *new* [PR26789](https://github.com/mantidproject/mantid/pull/26789) - Restore help button to Manage User Directories
 * *new* [PR26806](https://github.com/mantidproject/mantid/pull/26806) - Powder diffraction Lorentz for POWGEN
 * *new* [PR26820](https://github.com/mantidproject/mantid/pull/26820) - Remove references to MantidPlot from Workbench
+* *new* [PR26821](https://github.com/mantidproject/mantid/pull/26821) - Add CombGaussLorentzKT
+* *new* [PR26825](https://github.com/mantidproject/mantid/pull/26825) - Add FmuF to fit function
 * *new* [PR26861](https://github.com/mantidproject/mantid/pull/26861) - Add system tests for algorithms
+* *new* [PR26863](https://github.com/mantidproject/mantid/pull/26863) - Changed duplicate DetectorInfo link to ComponentInfo
 * *new* [PR26864](https://github.com/mantidproject/mantid/pull/26864) - Add missing ENABLE_WORKBENCH check
