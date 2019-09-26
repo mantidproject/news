@@ -16,11 +16,13 @@ Detailed Merges for Sep 23 to 29, 2019
 * *new* [PR26784](https://github.com/mantidproject/mantid/pull/26784) - S(Q, w) table checks
 * *new* [PR26787](https://github.com/mantidproject/mantid/pull/26787) - Plotting of results for fitting table workspaces
 * *new* [PR26789](https://github.com/mantidproject/mantid/pull/26789) - Restore help button to Manage User Directories
+* *new* [PR26804](https://github.com/mantidproject/mantid/pull/26804) - V20 nexus geometry parser fixes
 * *new* [PR26806](https://github.com/mantidproject/mantid/pull/26806) - Powder diffraction Lorentz for POWGEN
 * *new* [PR26814](https://github.com/mantidproject/mantid/pull/26814) - Add ability to filter message window statements
 * *new* [PR26820](https://github.com/mantidproject/mantid/pull/26820) - Remove references to MantidPlot from Workbench
 * *new* [PR26821](https://github.com/mantidproject/mantid/pull/26821) - Add CombGaussLorentzKT
 * *new* [PR26825](https://github.com/mantidproject/mantid/pull/26825) - Add FmuF to fit function
+* *new* [PR26858](https://github.com/mantidproject/mantid/pull/26858) - Fixes streaming issues identified at last V20 experiment
 * *new* [PR26861](https://github.com/mantidproject/mantid/pull/26861) - Add system tests for algorithms
 * *new* [PR26863](https://github.com/mantidproject/mantid/pull/26863) - Changed duplicate DetectorInfo link to ComponentInfo
 * *new* [PR26864](https://github.com/mantidproject/mantid/pull/26864) - Add missing ENABLE_WORKBENCH check
