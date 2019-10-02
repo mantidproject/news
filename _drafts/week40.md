@@ -17,3 +17,4 @@ Detailed Merges for Sep 30 to Oct 6, 2019
 * *new* [PR26873](https://github.com/mantidproject/mantid/pull/26873) - Add instrument definition for NEAT at HZB
 * *new* [PR26894](https://github.com/mantidproject/mantid/pull/26894) - Shape parsing fixes
 * *new* [PR26909](https://github.com/mantidproject/mantid/pull/26909) - Removed dead link from accounts creation section of DeveloperAccounts.rst
+* *new* [PR26925](https://github.com/mantidproject/mantid/pull/26925) - New CHESS IDF file and Parameter file
