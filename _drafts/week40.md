@@ -21,5 +21,6 @@ Detailed Merges for Sep 30 to Oct 6, 2019
 * *new* [PR26889](https://github.com/mantidproject/mantid/pull/26889) - Add TriangleOsc function to fit functions
 * *new* [PR26894](https://github.com/mantidproject/mantid/pull/26894) - Shape parsing fixes
 * *new* [PR26909](https://github.com/mantidproject/mantid/pull/26909) - Removed dead link from accounts creation section of DeveloperAccounts.rst
+* *new* [PR26921](https://github.com/mantidproject/mantid/pull/26921) - Add StaticLorentzianKT to fit functions
 * *new* [PR26925](https://github.com/mantidproject/mantid/pull/26925) - New CHESS IDF file and Parameter file
 * *new* [PR26929](https://github.com/mantidproject/mantid/pull/26929) - Bump required memory for WISH SX peak system test
