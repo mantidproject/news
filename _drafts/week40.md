@@ -21,6 +21,7 @@ Detailed Merges for Sep 30 to Oct 6, 2019
 * *new* [PR26857](https://github.com/mantidproject/mantid/pull/26857) - Add StandardSC to fit function
 * *new* [PR26859](https://github.com/mantidproject/mantid/pull/26859) - Add SilverBaseline to fit function
 * *new* [PR26860](https://github.com/mantidproject/mantid/pull/26860) - Correct run numbers in Kafka event stream
+* *new* [PR26865](https://github.com/mantidproject/mantid/pull/26865) - Updated Function Browser and related files
 * *new* [PR26872](https://github.com/mantidproject/mantid/pull/26872) - Add TFMuonium to fit functions
 * *new* [PR26873](https://github.com/mantidproject/mantid/pull/26873) - Add instrument definition for NEAT at HZB
 * *new* [PR26876](https://github.com/mantidproject/mantid/pull/26876) - Add HighTFMuonium to fit functions
@@ -30,4 +31,6 @@ Detailed Merges for Sep 30 to Oct 6, 2019
 * *new* [PR26921](https://github.com/mantidproject/mantid/pull/26921) - Add StaticLorentzianKT to fit functions
 * *new* [PR26925](https://github.com/mantidproject/mantid/pull/26925) - New CHESS IDF file and Parameter file
 * *new* [PR26929](https://github.com/mantidproject/mantid/pull/26929) - Bump required memory for WISH SX peak system test
+* *new* [PR26931](https://github.com/mantidproject/mantid/pull/26931) - Fix crash when fitting tablews with column of type float
 * *new* [PR26939](https://github.com/mantidproject/mantid/pull/26939) - Add RFresonance to fit functions
+* *new* [PR26941](https://github.com/mantidproject/mantid/pull/26941) - Fix ModHKL range, should be -0.5<q<=0.5
