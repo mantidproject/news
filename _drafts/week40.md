@@ -34,3 +34,4 @@ Detailed Merges for Sep 30 to Oct 6, 2019
 * *new* [PR26931](https://github.com/mantidproject/mantid/pull/26931) - Fix crash when fitting tablews with column of type float
 * *new* [PR26939](https://github.com/mantidproject/mantid/pull/26939) - Add RFresonance to fit functions
 * *new* [PR26941](https://github.com/mantidproject/mantid/pull/26941) - Fix ModHKL range, should be -0.5<q<=0.5
+* *new* [PR26946](https://github.com/mantidproject/mantid/pull/26946) - Add missing kwarg for SANS GUI init
