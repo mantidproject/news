@@ -15,3 +15,4 @@ Detailed Merges for Oct 7 to 13, 2019
 * *new* [PR26822](https://github.com/mantidproject/mantid/pull/26822) - Add StretchedKT to fit functions
 * *new* [PR26877](https://github.com/mantidproject/mantid/pull/26877) - Adding basic ALFView
 * *new* [PR26936](https://github.com/mantidproject/mantid/pull/26936) - Refactor algorithm to use Divide
+* *new* [PR26978](https://github.com/mantidproject/mantid/pull/26978) - Revert "Fix ModHKL range, should be -0.5<q<=0.5"
