@@ -16,3 +16,4 @@ Detailed Merges for Oct 14 to 20, 2019
 * *new* [PR26927](https://github.com/mantidproject/mantid/pull/26927) - Make IPython custom shell compatible with IPython >= 7.1
 * *new* [PR26990](https://github.com/mantidproject/mantid/pull/26990) - Copyable Sample and Run
 * *new* [PR27002](https://github.com/mantidproject/mantid/pull/27002) - Plot legend shows label instead of spectrum number if the spectrum has a numeric label
+* *new* [PR27003](https://github.com/mantidproject/mantid/pull/27003) - output transformation matrix
