@@ -27,6 +27,7 @@ Detailed Merges for Oct 14 to 20, 2019
 * *new* [PR27005](https://github.com/mantidproject/mantid/pull/27005) - Remove SANS Normalize To Monitor Wrkflw alg.
 * *new* [PR27006](https://github.com/mantidproject/mantid/pull/27006) - Fix Engineering Diffraction Calibration Output Files
 * *new* [PR27008](https://github.com/mantidproject/mantid/pull/27008) - Remove SANS Calculate Transmission Wrkflw
+* *new* [PR27009](https://github.com/mantidproject/mantid/pull/27009) - Remove SANSCreateAdjustment workflow algorithms
 * *new* [PR27010](https://github.com/mantidproject/mantid/pull/27010) - Remove custom dialog for CreateSampleShape
 * *new* [PR27011](https://github.com/mantidproject/mantid/pull/27011) - Absorbtion for isis direct inelastic scripts
 * *new* [PR27014](https://github.com/mantidproject/mantid/pull/27014) - 26919 load ngem compiler error
