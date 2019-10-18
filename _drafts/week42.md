@@ -21,9 +21,11 @@ Detailed Merges for Oct 14 to 20, 2019
 * *new* [PR26989](https://github.com/mantidproject/mantid/pull/26989) - Remove SANSConv.ToWavelength and SANSScale
 * *new* [PR26990](https://github.com/mantidproject/mantid/pull/26990) - Copyable Sample and Run
 * *new* [PR26992](https://github.com/mantidproject/mantid/pull/26992) - SaveNexusGeometry property name change
+* *new* [PR26994](https://github.com/mantidproject/mantid/pull/26994) - Remove SANS Convert To Q Workflw. Alg
 * *new* [PR27002](https://github.com/mantidproject/mantid/pull/27002) - Plot legend shows label instead of spectrum number if the spectrum has a numeric label
 * *new* [PR27003](https://github.com/mantidproject/mantid/pull/27003) - output transformation matrix
 * *new* [PR27005](https://github.com/mantidproject/mantid/pull/27005) - Remove SANS Normalize To Monitor Wrkflw alg.
+* *new* [PR27006](https://github.com/mantidproject/mantid/pull/27006) - Fix Engineering Diffraction Calibration Output Files
 * *new* [PR27008](https://github.com/mantidproject/mantid/pull/27008) - Remove SANS Calculate Transmission Wrkflw
 * *new* [PR27010](https://github.com/mantidproject/mantid/pull/27010) - Remove custom dialog for CreateSampleShape
 * *new* [PR27011](https://github.com/mantidproject/mantid/pull/27011) - Absorbtion for isis direct inelastic scripts
