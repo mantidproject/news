@@ -12,6 +12,7 @@ Detailed Merges for Oct 21 to 27, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-10-22..2019-10-27)
 
 * *new* [PR26707](https://github.com/mantidproject/mantid/pull/26707) - ReflectometryReductionOneAuto code tidied
+* *new* [PR26781](https://github.com/mantidproject/mantid/pull/26781) - Added live data update interval to ISIS Reflectometry interface
 * *new* [PR26902](https://github.com/mantidproject/mantid/pull/26902) - Abins documentation: update "concepts" documentation
 * *new* [PR26913](https://github.com/mantidproject/mantid/pull/26913) - Rename badly named variables
 * *new* [PR26918](https://github.com/mantidproject/mantid/pull/26918) - Add unit tests for reflectometry GUI clipboard
@@ -23,7 +24,10 @@ Detailed Merges for Oct 21 to 27, 2019
 * *new* [PR27041](https://github.com/mantidproject/mantid/pull/27041) - Update intersphinx links to https
 * *new* [PR27045](https://github.com/mantidproject/mantid/pull/27045) - Set QApplication arguments for all C++ unit tests.
 * *new* [PR27046](https://github.com/mantidproject/mantid/pull/27046) - Move observer_pattern from Muon GUI to Common Location
+* *new* [PR27047](https://github.com/mantidproject/mantid/pull/27047) - Fit and plot guess no longer update axis limits
+* *new* [PR27050](https://github.com/mantidproject/mantid/pull/27050) - Create Inital Focusing Tab for New Engineering Diffraction GUI
 * *new* [PR27063](https://github.com/mantidproject/mantid/pull/27063) - Avoid systemtest bat script eating --classic
 * *new* [PR27073](https://github.com/mantidproject/mantid/pull/27073) - Fix __future__ import behaviour in Workbench scripts
 * *new* [PR27079](https://github.com/mantidproject/mantid/pull/27079) - Add a shortcut to abort a running script
 * *new* [PR27081](https://github.com/mantidproject/mantid/pull/27081) - Stop script tab order changing when Workbench is closed and reopened
+* *new* [PR27084](https://github.com/mantidproject/mantid/pull/27084) - Fix error thrown when toggling errorbars on line plot
