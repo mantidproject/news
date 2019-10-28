@@ -11,6 +11,7 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 -----------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-10-29..2019-11-03)
 
+* *new* [PR26866](https://github.com/mantidproject/mantid/pull/26866) - Set minimum macOS version to High Sierra
 * *new* [PR26903](https://github.com/mantidproject/mantid/pull/26903) - Indirect Inelastic Fixed Window Scan
 * *new* [PR26910](https://github.com/mantidproject/mantid/pull/26910) - Merge IndexPeaks and IndexPeaksWithSatellites. Deprecate IndexPeaksWithSatellites.
 * *new* [PR27032](https://github.com/mantidproject/mantid/pull/27032) - Report usage statistics for ISIS Reflectometry GUI
@@ -27,3 +28,4 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR27105](https://github.com/mantidproject/mantid/pull/27105) - Workbench can now save scripts containing non-ascii characters
 * *new* [PR27109](https://github.com/mantidproject/mantid/pull/27109) - Pass include directory via cmake argument
 * *new* [PR27110](https://github.com/mantidproject/mantid/pull/27110) - Make SetGoniometer work on PeaksWorkspace et al.
+* *new* [PR27147](https://github.com/mantidproject/mantid/pull/27147) - Fix index error crash on spectrum viewer drag-drop
