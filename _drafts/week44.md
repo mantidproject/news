@@ -29,3 +29,4 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR27109](https://github.com/mantidproject/mantid/pull/27109) - Pass include directory via cmake argument
 * *new* [PR27110](https://github.com/mantidproject/mantid/pull/27110) - Make SetGoniometer work on PeaksWorkspace et al.
 * *new* [PR27147](https://github.com/mantidproject/mantid/pull/27147) - Fix index error crash on spectrum viewer drag-drop
+* *new* [PR27153](https://github.com/mantidproject/mantid/pull/27153) - Add new IDF for HB3A
