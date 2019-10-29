@@ -15,6 +15,8 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR26903](https://github.com/mantidproject/mantid/pull/26903) - Indirect Inelastic Fixed Window Scan
 * *new* [PR26910](https://github.com/mantidproject/mantid/pull/26910) - Merge IndexPeaks and IndexPeaksWithSatellites. Deprecate IndexPeaksWithSatellites.
 * *new* [PR27032](https://github.com/mantidproject/mantid/pull/27032) - Report usage statistics for ISIS Reflectometry GUI
+* *new* [PR27038](https://github.com/mantidproject/mantid/pull/27038) - Remove Workflow Algs with SANSState
+* *new* [PR27040](https://github.com/mantidproject/mantid/pull/27040) - Remove SANSSliceEvent
 * *new* [PR27049](https://github.com/mantidproject/mantid/pull/27049) - Workbench plots to stay on top of main window
 * *new* [PR27053](https://github.com/mantidproject/mantid/pull/27053) - DirectILL swap container subtraction and self-shielding correction
 * *new* [PR27082](https://github.com/mantidproject/mantid/pull/27082) - Updated Muon GUI's to usage report and deprecation of old
