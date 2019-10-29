@@ -23,6 +23,7 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR27082](https://github.com/mantidproject/mantid/pull/27082) - Updated Muon GUI's to usage report and deprecation of old
 * *new* [PR27086](https://github.com/mantidproject/mantid/pull/27086) - Fix being unable to fit on a plot with no legend
 * *new* [PR27092](https://github.com/mantidproject/mantid/pull/27092) - Populate ParameterMap when loading MD if empty
+* *new* [PR27094](https://github.com/mantidproject/mantid/pull/27094) - Adding ALF view
 * *new* [PR27095](https://github.com/mantidproject/mantid/pull/27095) - Fix support for WISH in Load/SaveIsawPeaks
 * *new* [PR27098](https://github.com/mantidproject/mantid/pull/27098) - Fix plot drag-and-drop on matplotlib v1.5
 * *new* [PR27101](https://github.com/mantidproject/mantid/pull/27101) - Fix registering an algorithm duplicating the list of algorithms in the algorithm selector widget
@@ -34,3 +35,4 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR27147](https://github.com/mantidproject/mantid/pull/27147) - Fix index error crash on spectrum viewer drag-drop
 * *new* [PR27153](https://github.com/mantidproject/mantid/pull/27153) - Add new IDF for HB3A
 * *new* [PR27161](https://github.com/mantidproject/mantid/pull/27161) - Fix z-offsets check and monitor saving
+* *new* [PR27173](https://github.com/mantidproject/mantid/pull/27173) - Update CG2 (GPSANS) instrument definition file
