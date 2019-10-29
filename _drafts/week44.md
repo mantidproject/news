@@ -17,6 +17,7 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR27032](https://github.com/mantidproject/mantid/pull/27032) - Report usage statistics for ISIS Reflectometry GUI
 * *new* [PR27038](https://github.com/mantidproject/mantid/pull/27038) - Remove Workflow Algs with SANSState
 * *new* [PR27040](https://github.com/mantidproject/mantid/pull/27040) - Remove SANSSliceEvent
+* *new* [PR27044](https://github.com/mantidproject/mantid/pull/27044) - Apply placzek correction to polaris workflow
 * *new* [PR27049](https://github.com/mantidproject/mantid/pull/27049) - Workbench plots to stay on top of main window
 * *new* [PR27053](https://github.com/mantidproject/mantid/pull/27053) - DirectILL swap container subtraction and self-shielding correction
 * *new* [PR27082](https://github.com/mantidproject/mantid/pull/27082) - Updated Muon GUI's to usage report and deprecation of old
@@ -32,3 +33,4 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR27110](https://github.com/mantidproject/mantid/pull/27110) - Make SetGoniometer work on PeaksWorkspace et al.
 * *new* [PR27147](https://github.com/mantidproject/mantid/pull/27147) - Fix index error crash on spectrum viewer drag-drop
 * *new* [PR27153](https://github.com/mantidproject/mantid/pull/27153) - Add new IDF for HB3A
+* *new* [PR27161](https://github.com/mantidproject/mantid/pull/27161) - Fix z-offsets check and monitor saving
