@@ -11,6 +11,7 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR26903](https://github.com/mantidproject/mantid/pull/26903) - Indirect Inelastic Fixed Window Scan
 * *new* [PR26910](https://github.com/mantidproject/mantid/pull/26910) - Merge IndexPeaks and IndexPeaksWithSatellites. Deprecate IndexPeaksWithSatellites.
 * *new* [PR26911](https://github.com/mantidproject/mantid/pull/26911) - Script Editor Zoom
+* *new* [PR26933](https://github.com/mantidproject/mantid/pull/26933) - ISIS SANS Usability Fixes
 * *new* [PR26988](https://github.com/mantidproject/mantid/pull/26988) - CreateDetectorTable algorithm for Workbench
 * *new* [PR27031](https://github.com/mantidproject/mantid/pull/27031) - Add usage stats to ISIS SANS
 * *new* [PR27032](https://github.com/mantidproject/mantid/pull/27032) - Report usage statistics for ISIS Reflectometry GUI
