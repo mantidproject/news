@@ -4,12 +4,17 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 -----------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-10-29..2019-11-03)
 
+* *new* [PR26650](https://github.com/mantidproject/mantid/pull/26650) - Abins algorithm: overhaul AbinsParameters
 * *new* [PR26786](https://github.com/mantidproject/mantid/pull/26786) - IN16B QENS improvements
 * *new* [PR26866](https://github.com/mantidproject/mantid/pull/26866) - Set minimum macOS version to High Sierra
+* *new* [PR26874](https://github.com/mantidproject/mantid/pull/26874) - SaveAscii: add possibility to save the values of the spectrum…
 * *new* [PR26903](https://github.com/mantidproject/mantid/pull/26903) - Indirect Inelastic Fixed Window Scan
 * *new* [PR26910](https://github.com/mantidproject/mantid/pull/26910) - Merge IndexPeaks and IndexPeaksWithSatellites. Deprecate IndexPeaksWithSatellites.
+* *new* [PR26911](https://github.com/mantidproject/mantid/pull/26911) - Script Editor Zoom
+* *new* [PR26988](https://github.com/mantidproject/mantid/pull/26988) - CreateDetectorTable algorithm for Workbench
 * *new* [PR27031](https://github.com/mantidproject/mantid/pull/27031) - Add usage stats to ISIS SANS
 * *new* [PR27032](https://github.com/mantidproject/mantid/pull/27032) - Report usage statistics for ISIS Reflectometry GUI
+* *new* [PR27034](https://github.com/mantidproject/mantid/pull/27034) - Display Fit result workspaces in the fit property browser
 * *new* [PR27038](https://github.com/mantidproject/mantid/pull/27038) - Remove Workflow Algs with SANSState
 * *new* [PR27040](https://github.com/mantidproject/mantid/pull/27040) - Remove SANSSliceEvent
 * *new* [PR27044](https://github.com/mantidproject/mantid/pull/27044) - Apply placzek correction to polaris workflow
@@ -29,6 +34,9 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR27153](https://github.com/mantidproject/mantid/pull/27153) - Add new IDF for HB3A
 * *new* [PR27161](https://github.com/mantidproject/mantid/pull/27161) - Fix z-offsets check and monitor saving
 * *new* [PR27165](https://github.com/mantidproject/mantid/pull/27165) - Recognise new SYSTEST_NPROCS variable in systemtest scripts
+* *new* [PR27167](https://github.com/mantidproject/mantid/pull/27167) - Fixed issue with WANDPowderReduction handling of event workspaces
 * *new* [PR27171](https://github.com/mantidproject/mantid/pull/27171) - Fix instability with multiple plot windows on Workbench
 * *new* [PR27173](https://github.com/mantidproject/mantid/pull/27173) - Update CG2 (GPSANS) instrument definition file
+* *new* [PR27174](https://github.com/mantidproject/mantid/pull/27174) - Provide algorithm to convert HFIR SANS files to wavelength
 * *new* [PR27182](https://github.com/mantidproject/mantid/pull/27182) - Fix source location of NonOrthogonalSourcePlugin on Windows
+* *new* [PR27186](https://github.com/mantidproject/mantid/pull/27186) - Add run numbers to Engineering Diffraction test doc that can be run from archive
