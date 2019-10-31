@@ -10,9 +10,11 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR26874](https://github.com/mantidproject/mantid/pull/26874) - SaveAscii: add possibility to save the values of the spectrum…
 * *new* [PR26890](https://github.com/mantidproject/mantid/pull/26890) - Add Pair from Context Menu Allows Name Allocation
 * *new* [PR26903](https://github.com/mantidproject/mantid/pull/26903) - Indirect Inelastic Fixed Window Scan
+* *new* [PR26908](https://github.com/mantidproject/mantid/pull/26908) - Add simultaneous fitting to IQt fit tab
 * *new* [PR26910](https://github.com/mantidproject/mantid/pull/26910) - Merge IndexPeaks and IndexPeaksWithSatellites. Deprecate IndexPeaksWithSatellites.
 * *new* [PR26911](https://github.com/mantidproject/mantid/pull/26911) - Script Editor Zoom
 * *new* [PR26933](https://github.com/mantidproject/mantid/pull/26933) - ISIS SANS Usability Fixes
+* *new* [PR26937](https://github.com/mantidproject/mantid/pull/26937) - Deadtime from table workspace not working
 * *new* [PR26988](https://github.com/mantidproject/mantid/pull/26988) - CreateDetectorTable algorithm for Workbench
 * *new* [PR27031](https://github.com/mantidproject/mantid/pull/27031) - Add usage stats to ISIS SANS
 * *new* [PR27032](https://github.com/mantidproject/mantid/pull/27032) - Report usage statistics for ISIS Reflectometry GUI
@@ -51,8 +53,10 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR27174](https://github.com/mantidproject/mantid/pull/27174) - Provide algorithm to convert HFIR SANS files to wavelength
 * *new* [PR27181](https://github.com/mantidproject/mantid/pull/27181) - Fix Search Results List in Reflectometry not resizing
 * *new* [PR27182](https://github.com/mantidproject/mantid/pull/27182) - Fix source location of NonOrthogonalSourcePlugin on Windows
+* *new* [PR27183](https://github.com/mantidproject/mantid/pull/27183) - Create symlinks only for existing targets in macOS package
 * *new* [PR27186](https://github.com/mantidproject/mantid/pull/27186) - Add run numbers to Engineering Diffraction test doc that can be run from archive
 * *new* [PR27190](https://github.com/mantidproject/mantid/pull/27190) - Linking docs to dev-docs
 * *new* [PR27191](https://github.com/mantidproject/mantid/pull/27191) - Update workbench differences docs
 * *new* [PR27192](https://github.com/mantidproject/mantid/pull/27192) - Updating link that was altered
 * *new* [PR27195](https://github.com/mantidproject/mantid/pull/27195) - Fix unhandled exceptions when pasting multiple groups
+* *new* [PR27205](https://github.com/mantidproject/mantid/pull/27205) - Fix EventsFilter GUI crash
