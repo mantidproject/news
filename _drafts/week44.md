@@ -8,6 +8,7 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR26786](https://github.com/mantidproject/mantid/pull/26786) - IN16B QENS improvements
 * *new* [PR26866](https://github.com/mantidproject/mantid/pull/26866) - Set minimum macOS version to High Sierra
 * *new* [PR26874](https://github.com/mantidproject/mantid/pull/26874) - SaveAscii: add possibility to save the values of the spectrum…
+* *new* [PR26890](https://github.com/mantidproject/mantid/pull/26890) - Add Pair from Context Menu Allows Name Allocation
 * *new* [PR26903](https://github.com/mantidproject/mantid/pull/26903) - Indirect Inelastic Fixed Window Scan
 * *new* [PR26910](https://github.com/mantidproject/mantid/pull/26910) - Merge IndexPeaks and IndexPeaksWithSatellites. Deprecate IndexPeaksWithSatellites.
 * *new* [PR26911](https://github.com/mantidproject/mantid/pull/26911) - Script Editor Zoom
