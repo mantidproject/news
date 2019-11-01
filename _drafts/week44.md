@@ -61,5 +61,7 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR27192](https://github.com/mantidproject/mantid/pull/27192) - Updating link that was altered
 * *new* [PR27195](https://github.com/mantidproject/mantid/pull/27195) - Fix unhandled exceptions when pasting multiple groups
 * *new* [PR27205](https://github.com/mantidproject/mantid/pull/27205) - Fix EventsFilter GUI crash
+* *new* [PR27210](https://github.com/mantidproject/mantid/pull/27210) - Add python2-sip/python3-sip to search directory for PyQt sip files
 * *new* [PR27214](https://github.com/mantidproject/mantid/pull/27214) - Muon Analysis 2 Crash When Fitting
 * *new* [PR27218](https://github.com/mantidproject/mantid/pull/27218) - Add unscripted test instructions for live data
+* *new* [PR27219](https://github.com/mantidproject/mantid/pull/27219) - Bundle mock with macOS Python
