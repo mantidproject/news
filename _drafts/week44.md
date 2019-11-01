@@ -39,6 +39,7 @@ Detailed Merges for Oct 28 to Nov 3, 2019
 * *new* [PR27105](https://github.com/mantidproject/mantid/pull/27105) - Workbench can now save scripts containing non-ascii characters
 * *new* [PR27106](https://github.com/mantidproject/mantid/pull/27106) - Load current run in muon analysis
 * *new* [PR27107](https://github.com/mantidproject/mantid/pull/27107) - Output correct transmission workspaces for debug mode
+* *new* [PR27108](https://github.com/mantidproject/mantid/pull/27108) - Fix sequential fitting bug to update parameters and do plot
 * *new* [PR27109](https://github.com/mantidproject/mantid/pull/27109) - Pass include directory via cmake argument
 * *new* [PR27110](https://github.com/mantidproject/mantid/pull/27110) - Make SetGoniometer work on PeaksWorkspace et al.
 * *new* [PR27113](https://github.com/mantidproject/mantid/pull/27113) - Use CMake generated export headers in additional libraries
