@@ -11,8 +11,12 @@ Detailed Merges for Nov 4 to 10, 2019
 -------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-11-05..2019-11-10)
 
+* *new* [PR27209](https://github.com/mantidproject/mantid/pull/27209) - Add catch for negative min x when plotting with a log scale
 * *new* [PR27213](https://github.com/mantidproject/mantid/pull/27213) - Updates to Error Report Manual Testing
 * *new* [PR27217](https://github.com/mantidproject/mantid/pull/27217) - Disable fit button for tiled plots
 * *new* [PR27230](https://github.com/mantidproject/mantid/pull/27230) - Fix SANS MUD crash on changing save dir
 * *new* [PR27234](https://github.com/mantidproject/mantid/pull/27234) - Direct inelastic reduction string and unboundedlocal bugfixes
+* *new* [PR27235](https://github.com/mantidproject/mantid/pull/27235) - Fix Duplication of Workspaces in GroupWorkspaces when Saving Projects
+* *new* [PR27237](https://github.com/mantidproject/mantid/pull/27237) - Fix colorbar scale not updating in colorfill plot
 * *new* [PR27240](https://github.com/mantidproject/mantid/pull/27240) - Create skeleton release notes for version 4.3
+* *new* [PR27254](https://github.com/mantidproject/mantid/pull/27254) - Package ParaView python modules on macOS
