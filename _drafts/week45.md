@@ -23,4 +23,5 @@ Detailed Merges for Nov 4 to 10, 2019
 * *new* [PR27243](https://github.com/mantidproject/mantid/pull/27243) - Add unscripted testing instructions for ISIS Reflectometry
 * *new* [PR27249](https://github.com/mantidproject/mantid/pull/27249) - import nxs not working on Windows
 * *new* [PR27254](https://github.com/mantidproject/mantid/pull/27254) - Package ParaView python modules on macOS
+* *new* [PR27262](https://github.com/mantidproject/mantid/pull/27262) - Update BIOSANS instrument
 * *new* [PR27270](https://github.com/mantidproject/mantid/pull/27270) - Correct precision for header on data window
