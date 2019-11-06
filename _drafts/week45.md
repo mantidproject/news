@@ -33,3 +33,5 @@ Detailed Merges for Nov 4 to 10, 2019
 * *new* [PR27262](https://github.com/mantidproject/mantid/pull/27262) - Update BIOSANS instrument
 * *new* [PR27263](https://github.com/mantidproject/mantid/pull/27263) - Log Xvfb errors to a file
 * *new* [PR27270](https://github.com/mantidproject/mantid/pull/27270) - Correct precision for header on data window
+* *new* [PR27286](https://github.com/mantidproject/mantid/pull/27286) - Accept spec nums other than 4 or 5 for SANS Monitor
+* *new* [PR27292](https://github.com/mantidproject/mantid/pull/27292) - Fix documentation typo in DetectorInfoItem
