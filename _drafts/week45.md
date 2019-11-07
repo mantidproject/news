@@ -22,6 +22,7 @@ Detailed Merges for Nov 4 to 10, 2019
 * *new* [PR27234](https://github.com/mantidproject/mantid/pull/27234) - Direct inelastic reduction string and unboundedlocal bugfixes
 * *new* [PR27235](https://github.com/mantidproject/mantid/pull/27235) - Fix Duplication of Workspaces in GroupWorkspaces when Saving Projects
 * *new* [PR27237](https://github.com/mantidproject/mantid/pull/27237) - Fix colorbar scale not updating in colorfill plot
+* *new* [PR27239](https://github.com/mantidproject/mantid/pull/27239) - Move file loading and processing async in SANS
 * *new* [PR27240](https://github.com/mantidproject/mantid/pull/27240) - Create skeleton release notes for version 4.3
 * *new* [PR27243](https://github.com/mantidproject/mantid/pull/27243) - Add unscripted testing instructions for ISIS Reflectometry
 * *new* [PR27249](https://github.com/mantidproject/mantid/pull/27249) - import nxs not working on Windows
@@ -33,5 +34,9 @@ Detailed Merges for Nov 4 to 10, 2019
 * *new* [PR27262](https://github.com/mantidproject/mantid/pull/27262) - Update BIOSANS instrument
 * *new* [PR27263](https://github.com/mantidproject/mantid/pull/27263) - Log Xvfb errors to a file
 * *new* [PR27270](https://github.com/mantidproject/mantid/pull/27270) - Correct precision for header on data window
+* *new* [PR27276](https://github.com/mantidproject/mantid/pull/27276) - Fix figure options on matplotlib v1.5 - RHEL7 only
+* *new* [PR27278](https://github.com/mantidproject/mantid/pull/27278) - Update HB3A IDF, correct 2theta direction and panel positions
 * *new* [PR27286](https://github.com/mantidproject/mantid/pull/27286) - Accept spec nums other than 4 or 5 for SANS Monitor
+* *new* [PR27287](https://github.com/mantidproject/mantid/pull/27287) - Add back event slices tooltip
 * *new* [PR27292](https://github.com/mantidproject/mantid/pull/27292) - Fix documentation typo in DetectorInfoItem
+* *new* [PR27296](https://github.com/mantidproject/mantid/pull/27296) - Add check on qt version to disable docking in I(Q, t) fit tab browser
