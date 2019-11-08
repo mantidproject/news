@@ -39,10 +39,13 @@ Detailed Merges for Nov 4 to 10, 2019
 * *new* [PR27273](https://github.com/mantidproject/mantid/pull/27273) - Update Release Notes 4.2
 * *new* [PR27276](https://github.com/mantidproject/mantid/pull/27276) - Fix figure options on matplotlib v1.5 - RHEL7 only
 * *new* [PR27278](https://github.com/mantidproject/mantid/pull/27278) - Update HB3A IDF, correct 2theta direction and panel positions
+* *new* [PR27283](https://github.com/mantidproject/mantid/pull/27283) - Load other facilities.xml if one fails
 * *new* [PR27286](https://github.com/mantidproject/mantid/pull/27286) - Accept spec nums other than 4 or 5 for SANS Monitor
 * *new* [PR27287](https://github.com/mantidproject/mantid/pull/27287) - Add back event slices tooltip
 * *new* [PR27292](https://github.com/mantidproject/mantid/pull/27292) - Fix documentation typo in DetectorInfoItem
 * *new* [PR27295](https://github.com/mantidproject/mantid/pull/27295) - Pull in latest fixes for mslice from external repository
 * *new* [PR27296](https://github.com/mantidproject/mantid/pull/27296) - Add check on qt version to disable docking in I(Q, t) fit tab browser
 * *new* [PR27301](https://github.com/mantidproject/mantid/pull/27301) - Update Release Notes v4.2 Step2
+* *new* [PR27302](https://github.com/mantidproject/mantid/pull/27302) - Change output name in fit browser for multiple plots of the same workspace
 * *new* [PR27303](https://github.com/mantidproject/mantid/pull/27303) - Convert output workspace from elemental analysis to histogram
+* *new* [PR27306](https://github.com/mantidproject/mantid/pull/27306) - Fix Mantid crashing if the ALC interface was closed while loading a data set.
