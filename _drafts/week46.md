@@ -31,6 +31,7 @@ Detailed Merges for Nov 11 to 17, 2019
 * *new* [PR27338](https://github.com/mantidproject/mantid/pull/27338) - Muon load next run
 * *new* [PR27339](https://github.com/mantidproject/mantid/pull/27339) - Fix problem with naming of output workspaces from Jump Fit (aka F(Q) Fit)
 * *new* [PR27341](https://github.com/mantidproject/mantid/pull/27341) - Use full wavelength range in HRPD efficiency correction
+* *new* [PR27343](https://github.com/mantidproject/mantid/pull/27343) - Fix crash when setting max cores lower than machine cores on Linux
 * *new* [PR27344](https://github.com/mantidproject/mantid/pull/27344) - Fix crash with completion API on workbench
 * *new* [PR27347](https://github.com/mantidproject/mantid/pull/27347) - Fix import error opening old Reflectometry GUI
 * *new* [PR27352](https://github.com/mantidproject/mantid/pull/27352) - Fix legend transparency not showing correct value in figure options
@@ -41,5 +42,9 @@ Detailed Merges for Nov 11 to 17, 2019
 * *new* [PR27369](https://github.com/mantidproject/mantid/pull/27369) - Fix crash in IQT fit when removing a workspace
 * *new* [PR27370](https://github.com/mantidproject/mantid/pull/27370) - Create CreateDetectorTable Documentation
 * *new* [PR27371](https://github.com/mantidproject/mantid/pull/27371) - Restrict the input workspaces to MatrixWorkspaces …
+* *new* [PR27372](https://github.com/mantidproject/mantid/pull/27372) - Recatagorised muon fitting functions
+* *new* [PR27373](https://github.com/mantidproject/mantid/pull/27373) - Add Poisson documentation
 * *new* [PR27376](https://github.com/mantidproject/mantid/pull/27376) - Catch save ascii from menu error
 * *new* [PR27377](https://github.com/mantidproject/mantid/pull/27377) - Add 16 new fitfunctions
+* *new* [PR27385](https://github.com/mantidproject/mantid/pull/27385) - Fix legend resetting after clearing fit curves
+* *new* [PR27388](https://github.com/mantidproject/mantid/pull/27388) - Release notes 4.2 final fixes
