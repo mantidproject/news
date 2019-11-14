@@ -37,6 +37,9 @@ Detailed Merges for Nov 11 to 17, 2019
 * *new* [PR27356](https://github.com/mantidproject/mantid/pull/27356) - Fix plot types for plots created from data table
 * *new* [PR27357](https://github.com/mantidproject/mantid/pull/27357) - Disallow opening multiple instances of an interface
 * *new* [PR27358](https://github.com/mantidproject/mantid/pull/27358) - Fix CreateDetectorTable causing crash when value entered for WorkspaceIndices is outside of the range of workspace indices
+* *new* [PR27366](https://github.com/mantidproject/mantid/pull/27366) - Allow Scripts Containing Encoding Declarations to be Loaded and Run in Workbench
 * *new* [PR27369](https://github.com/mantidproject/mantid/pull/27369) - Fix crash in IQT fit when removing a workspace
 * *new* [PR27370](https://github.com/mantidproject/mantid/pull/27370) - Create CreateDetectorTable Documentation
 * *new* [PR27371](https://github.com/mantidproject/mantid/pull/27371) - Restrict the input workspaces to MatrixWorkspaces …
+* *new* [PR27376](https://github.com/mantidproject/mantid/pull/27376) - Catch save ascii from menu error
+* *new* [PR27377](https://github.com/mantidproject/mantid/pull/27377) - Add 16 new fitfunctions
