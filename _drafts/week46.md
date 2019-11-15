@@ -48,3 +48,5 @@ Detailed Merges for Nov 11 to 17, 2019
 * *new* [PR27377](https://github.com/mantidproject/mantid/pull/27377) - Add 16 new fitfunctions
 * *new* [PR27385](https://github.com/mantidproject/mantid/pull/27385) - Fix legend resetting after clearing fit curves
 * *new* [PR27388](https://github.com/mantidproject/mantid/pull/27388) - Release notes 4.2 final fixes
+* *new* [PR27402](https://github.com/mantidproject/mantid/pull/27402) - Handle point/binned numeric axes in workbench data table.
+* *new* [PR27403](https://github.com/mantidproject/mantid/pull/27403) - Fix issue with scripts containing unicode characters on unix systems
