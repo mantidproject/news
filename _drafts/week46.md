@@ -19,6 +19,7 @@ Detailed Merges for Nov 11 to 17, 2019
 * *new* [PR27310](https://github.com/mantidproject/mantid/pull/27310) - Duplicated definition/parameters files for GPSANS and BIOSANS
 * *new* [PR27315](https://github.com/mantidproject/mantid/pull/27315) - Use file name rather than nxs tag in SANS
 * *new* [PR27320](https://github.com/mantidproject/mantid/pull/27320) - RROA now scales IvsQ outputs
+* *new* [PR27321](https://github.com/mantidproject/mantid/pull/27321) - Change push_back to emplace_back where possible
 * *new* [PR27322](https://github.com/mantidproject/mantid/pull/27322) - Fix problem with help window appearing behind Indirect settings
 * *new* [PR27325](https://github.com/mantidproject/mantid/pull/27325) - Remove disconnected start and end x comboboxes
 * *new* [PR27327](https://github.com/mantidproject/mantid/pull/27327) - Fix various memory bugs detected by the address sanitizer
@@ -50,3 +51,4 @@ Detailed Merges for Nov 11 to 17, 2019
 * *new* [PR27388](https://github.com/mantidproject/mantid/pull/27388) - Release notes 4.2 final fixes
 * *new* [PR27402](https://github.com/mantidproject/mantid/pull/27402) - Handle point/binned numeric axes in workbench data table.
 * *new* [PR27403](https://github.com/mantidproject/mantid/pull/27403) - Fix issue with scripts containing unicode characters on unix systems
+* *new* [PR27404](https://github.com/mantidproject/mantid/pull/27404) - Make c++ interfaces not children of workbench
