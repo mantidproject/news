@@ -18,3 +18,4 @@ Detailed Merges for Nov 18 to 24, 2019
 * *new* [PR27422](https://github.com/mantidproject/mantid/pull/27422) - Elemental analysis cannot load if dirty paths
 * *new* [PR27423](https://github.com/mantidproject/mantid/pull/27423) - Fix crash when opening any help menu after opening the Manage User Directories help menu
 * *new* [PR27425](https://github.com/mantidproject/mantid/pull/27425) - Fixing layouts in IndirectFitDataView
+* *new* [PR27426](https://github.com/mantidproject/mantid/pull/27426) - Adds `hasAnyMaskedBins` on MatrixWorkspace
