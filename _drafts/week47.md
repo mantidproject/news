@@ -12,6 +12,7 @@ Detailed Merges for Nov 18 to 24, 2019
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-11-19..2019-11-24)
 
 * *new* [PR26762](https://github.com/mantidproject/mantid/pull/26762) - V20 Fixes and changes for Streaming
+* *new* [PR27326](https://github.com/mantidproject/mantid/pull/27326) - Custom output name does not have details within
 * *new* [PR27351](https://github.com/mantidproject/mantid/pull/27351) - EQSANS adjust detector bank position when loading the instrument
 * *new* [PR27410](https://github.com/mantidproject/mantid/pull/27410) - Rewrite the HB3A IDF
 * *new* [PR27419](https://github.com/mantidproject/mantid/pull/27419) - Fix settings not being respected in SANS settings
