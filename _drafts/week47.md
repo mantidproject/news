@@ -22,3 +22,4 @@ Detailed Merges for Nov 18 to 24, 2019
 * *new* [PR27425](https://github.com/mantidproject/mantid/pull/27425) - Fixing layouts in IndirectFitDataView
 * *new* [PR27426](https://github.com/mantidproject/mantid/pull/27426) - Adds `hasAnyMaskedBins` on MatrixWorkspace
 * *new* [PR27428](https://github.com/mantidproject/mantid/pull/27428) - Fix performance tests
+* *new* [PR27451](https://github.com/mantidproject/mantid/pull/27451) - Reformat codebase with clang-format 6.0
