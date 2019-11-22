@@ -20,3 +20,4 @@ Detailed Merges for Nov 18 to 24, 2019
 * *new* [PR27451](https://github.com/mantidproject/mantid/pull/27451) - Reformat codebase with clang-format 6.0
 * *new* [PR27455](https://github.com/mantidproject/mantid/pull/27455) - Add archive mounting instructions for Ubuntu
 * *new* [PR27457](https://github.com/mantidproject/mantid/pull/27457) - Require Boost 1.65 as a minimum
+* *new* [PR27478](https://github.com/mantidproject/mantid/pull/27478) - Update MaskBTP with the new instrument names
