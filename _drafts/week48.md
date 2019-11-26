@@ -15,3 +15,4 @@ Detailed Merges for Nov 25 to Dec 1, 2019
 * *new* [PR27433](https://github.com/mantidproject/mantid/pull/27433) - Move unscripted testing from user-docs to dev-docs
 * *new* [PR27479](https://github.com/mantidproject/mantid/pull/27479) - Expose adding weighted events from python
 * *new* [PR27480](https://github.com/mantidproject/mantid/pull/27480) - Small fix in JSONGeometryParser
+* *new* [PR27496](https://github.com/mantidproject/mantid/pull/27496) - Remov canWrite checks in FileValidator
