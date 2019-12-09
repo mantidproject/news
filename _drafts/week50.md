@@ -14,3 +14,4 @@ Detailed Merges for Dec 9 to 15, 2019
 * *new* [PR27460](https://github.com/mantidproject/mantid/pull/27460) - Replace hardcoded index for MergeSpectra in polaris create_total_scattering_pdf
 * *new* [PR27516](https://github.com/mantidproject/mantid/pull/27516) - Bump Minimum CMake to 3.13
 * *new* [PR27525](https://github.com/mantidproject/mantid/pull/27525) - Add SANS to LOQ sys tests filenames
+* *new* [PR27561](https://github.com/mantidproject/mantid/pull/27561) - Fix test failure on RHEL 7 when not using UTC timezone
