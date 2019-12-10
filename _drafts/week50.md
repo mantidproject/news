@@ -1,17 +1,12 @@
----
-layout: onto_master
-date: 2019-12-09
-author: Peter Peterson
-title: Updates Week 50 of 2019
----
-Updates for Week 50 of 2019
----------------------------
+
 
 Detailed Merges for Dec 9 to 15, 2019
 -------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-12-10..2019-12-15)
 
+* *new* [PR27396](https://github.com/mantidproject/mantid/pull/27396) - Move axis functions from curves tab widget presenter to figure…
 * *new* [PR27460](https://github.com/mantidproject/mantid/pull/27460) - Replace hardcoded index for MergeSpectra in polaris create_total_scattering_pdf
+* *new* [PR27491](https://github.com/mantidproject/mantid/pull/27491) - Attach muon plotting to GUI
 * *new* [PR27516](https://github.com/mantidproject/mantid/pull/27516) - Bump Minimum CMake to 3.13
 * *new* [PR27525](https://github.com/mantidproject/mantid/pull/27525) - Add SANS to LOQ sys tests filenames
 * *new* [PR27561](https://github.com/mantidproject/mantid/pull/27561) - Fix test failure on RHEL 7 when not using UTC timezone
