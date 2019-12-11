@@ -9,5 +9,6 @@ Detailed Merges for Dec 9 to 15, 2019
 * *new* [PR27491](https://github.com/mantidproject/mantid/pull/27491) - Attach muon plotting to GUI
 * *new* [PR27516](https://github.com/mantidproject/mantid/pull/27516) - Bump Minimum CMake to 3.13
 * *new* [PR27525](https://github.com/mantidproject/mantid/pull/27525) - Add SANS to LOQ sys tests filenames
+* *new* [PR27526](https://github.com/mantidproject/mantid/pull/27526) - Add normalisation by bin width for 2d plots in workbench
 * *new* [PR27561](https://github.com/mantidproject/mantid/pull/27561) - Fix test failure on RHEL 7 when not using UTC timezone
 * *new* [PR27562](https://github.com/mantidproject/mantid/pull/27562) - Fix crash when opening script with syntax error
