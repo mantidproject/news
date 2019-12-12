@@ -20,3 +20,4 @@ Detailed Merges for Dec 9 to 15, 2019
 * *new* [PR27561](https://github.com/mantidproject/mantid/pull/27561) - Fix test failure on RHEL 7 when not using UTC timezone
 * *new* [PR27562](https://github.com/mantidproject/mantid/pull/27562) - Fix crash when opening script with syntax error
 * *new* [PR27573](https://github.com/mantidproject/mantid/pull/27573) - Add modulation vector inputs to PredictFractionalPeaks
+* *new* [PR27580](https://github.com/mantidproject/mantid/pull/27580) - Allow any sample thickness in HRPDSlabCanAbsorption
