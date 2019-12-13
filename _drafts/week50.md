@@ -11,6 +11,7 @@ Detailed Merges for Dec 9 to 15, 2019
 * *new* [PR27486](https://github.com/mantidproject/mantid/pull/27486) - Add Ability to Load Existing Calibration into Engineering Diffraction UI
 * *new* [PR27491](https://github.com/mantidproject/mantid/pull/27491) - Attach muon plotting to GUI
 * *new* [PR27502](https://github.com/mantidproject/mantid/pull/27502) - Examples for creating Custom ColorCycles and ColorMaps
+* *new* [PR27508](https://github.com/mantidproject/mantid/pull/27508) - Use Native Enums In ISIS SANS
 * *new* [PR27516](https://github.com/mantidproject/mantid/pull/27516) - Bump Minimum CMake to 3.13
 * *new* [PR27520](https://github.com/mantidproject/mantid/pull/27520) - Fix various CMake and GCC Warnings
 * *new* [PR27525](https://github.com/mantidproject/mantid/pull/27525) - Add SANS to LOQ sys tests filenames
