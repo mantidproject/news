@@ -14,3 +14,4 @@ Detailed Merges for Dec 16 to 22, 2019
 * *new* [PR27068](https://github.com/mantidproject/mantid/pull/27068) - Remove curves that do not exist any more when refreshing a plot
 * *new* [PR27569](https://github.com/mantidproject/mantid/pull/27569) - Fix colorbar scale so numbers appear on scale on log scale
 * *new* [PR27589](https://github.com/mantidproject/mantid/pull/27589) - Add Compiler Check for Setting OpenMP Thread Count Using Config Value
+* *new* [PR27595](https://github.com/mantidproject/mantid/pull/27595) - New ConvertHFIRSCDtoMDE algorithm for WAND and DEMAND
