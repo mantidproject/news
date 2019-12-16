@@ -1,0 +1,16 @@
+---
+layout: onto_master
+date: 2019-12-16
+author: Peter Peterson
+title: Updates Week 51 of 2019
+---
+Updates for Week 51 of 2019
+---------------------------
+
+Detailed Merges for Dec 16 to 22, 2019
+--------------------------------------
+[on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-12-17..2019-12-22)
+
+* *new* [PR27068](https://github.com/mantidproject/mantid/pull/27068) - Remove curves that do not exist any more when refreshing a plot
+* *new* [PR27569](https://github.com/mantidproject/mantid/pull/27569) - Fix colorbar scale so numbers appear on scale on log scale
+* *new* [PR27589](https://github.com/mantidproject/mantid/pull/27589) - Add Compiler Check for Setting OpenMP Thread Count Using Config Value
