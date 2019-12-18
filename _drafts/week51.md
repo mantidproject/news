@@ -19,3 +19,4 @@ Detailed Merges for Dec 16 to 22, 2019
 * *new* [PR27579](https://github.com/mantidproject/mantid/pull/27579) - Remove check that max value is greater than min value in the figure options images tab
 * *new* [PR27589](https://github.com/mantidproject/mantid/pull/27589) - Add Compiler Check for Setting OpenMP Thread Count Using Config Value
 * *new* [PR27595](https://github.com/mantidproject/mantid/pull/27595) - New ConvertHFIRSCDtoMDE algorithm for WAND and DEMAND
+* *new* [PR27625](https://github.com/mantidproject/mantid/pull/27625) - fixed getting started instructions for Linux
