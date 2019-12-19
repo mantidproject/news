@@ -16,7 +16,10 @@ Detailed Merges for Dec 16 to 22, 2019
 * *new* [PR27519](https://github.com/mantidproject/mantid/pull/27519) - Make Improvements to the Engineering Diffraction 2 GUI
 * *new* [PR27560](https://github.com/mantidproject/mantid/pull/27560) - Add normalize by bin width option for sliceviewer
 * *new* [PR27569](https://github.com/mantidproject/mantid/pull/27569) - Fix colorbar scale so numbers appear on scale on log scale
+* *new* [PR27572](https://github.com/mantidproject/mantid/pull/27572) - MDFrame export to include isQ
 * *new* [PR27579](https://github.com/mantidproject/mantid/pull/27579) - Remove check that max value is greater than min value in the figure options images tab
 * *new* [PR27589](https://github.com/mantidproject/mantid/pull/27589) - Add Compiler Check for Setting OpenMP Thread Count Using Config Value
 * *new* [PR27595](https://github.com/mantidproject/mantid/pull/27595) - New ConvertHFIRSCDtoMDE algorithm for WAND and DEMAND
+* *new* [PR27613](https://github.com/mantidproject/mantid/pull/27613) - Remove 'Of' in .getNumberPeaks()
 * *new* [PR27625](https://github.com/mantidproject/mantid/pull/27625) - fixed getting started instructions for Linux
+* *new* [PR27627](https://github.com/mantidproject/mantid/pull/27627) - Implements EventList method to add a different pulsetime per event
