@@ -21,5 +21,6 @@ Detailed Merges for Dec 16 to 22, 2019
 * *new* [PR27589](https://github.com/mantidproject/mantid/pull/27589) - Add Compiler Check for Setting OpenMP Thread Count Using Config Value
 * *new* [PR27595](https://github.com/mantidproject/mantid/pull/27595) - New ConvertHFIRSCDtoMDE algorithm for WAND and DEMAND
 * *new* [PR27613](https://github.com/mantidproject/mantid/pull/27613) - Remove 'Of' in .getNumberPeaks()
+* *new* [PR27620](https://github.com/mantidproject/mantid/pull/27620) - Add Indirect note in the SaveAscii v1 Docs
 * *new* [PR27625](https://github.com/mantidproject/mantid/pull/27625) - fixed getting started instructions for Linux
 * *new* [PR27627](https://github.com/mantidproject/mantid/pull/27627) - Implements EventList method to add a different pulsetime per event
