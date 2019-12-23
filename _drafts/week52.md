@@ -11,3 +11,4 @@ Detailed Merges for Dec 23 to 29, 2019
 --------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2019-12-24..2019-12-29)
 
+* *new* [PR27641](https://github.com/mantidproject/mantid/pull/27641) - Fix Spelling Mistake in Algm Description
