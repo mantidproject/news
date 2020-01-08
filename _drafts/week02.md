@@ -25,3 +25,4 @@ Detailed Merges for Jan 6 to 12, 2020
 * *new* [PR27651](https://github.com/mantidproject/mantid/pull/27651) - Add NOW4 instrument to SNS
 * *new* [PR27653](https://github.com/mantidproject/mantid/pull/27653) - Update HDF5 docs URL to fix sphinx warning
 * *new* [PR27673](https://github.com/mantidproject/mantid/pull/27673) - Fix speed regression when plotting spectra
+* *new* [PR27675](https://github.com/mantidproject/mantid/pull/27675) - Refs 27674 additional log entries
