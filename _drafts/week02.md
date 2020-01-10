@@ -19,10 +19,13 @@ Detailed Merges for Jan 6 to 12, 2020
 * *new* [PR27578](https://github.com/mantidproject/mantid/pull/27578) - Refactor TSP Split By Vector
 * *new* [PR27597](https://github.com/mantidproject/mantid/pull/27597) - Correct error on peak intensity in IntegrateEllipsoids
 * *new* [PR27612](https://github.com/mantidproject/mantid/pull/27612) - SaveAscii support for table workspaces
+* *new* [PR27629](https://github.com/mantidproject/mantid/pull/27629) - Add Settings Menu to Engineering Diffraction 2 GUI
 * *new* [PR27643](https://github.com/mantidproject/mantid/pull/27643) - 27638 sample logs
 * *new* [PR27644](https://github.com/mantidproject/mantid/pull/27644) - Disable wide_integer overloads for different size types
+* *new* [PR27647](https://github.com/mantidproject/mantid/pull/27647) - Windows: Add support for Python 3 build
 * *new* [PR27649](https://github.com/mantidproject/mantid/pull/27649) - Rename log entry name in GPSANS IDF
 * *new* [PR27651](https://github.com/mantidproject/mantid/pull/27651) - Add NOW4 instrument to SNS
 * *new* [PR27653](https://github.com/mantidproject/mantid/pull/27653) - Update HDF5 docs URL to fix sphinx warning
 * *new* [PR27673](https://github.com/mantidproject/mantid/pull/27673) - Fix speed regression when plotting spectra
 * *new* [PR27675](https://github.com/mantidproject/mantid/pull/27675) - Refs 27674 additional log entries
+* *new* [PR27679](https://github.com/mantidproject/mantid/pull/27679) - Make normalization of fit curve match the data curve
