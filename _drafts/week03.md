@@ -1,0 +1,15 @@
+---
+layout: onto_master
+date: 2020-01-13
+author: Peter Peterson
+title: Updates Week 3 of 2020
+---
+Updates for Week 3 of 2020
+--------------------------
+
+Detailed Merges for Jan 13 to 19, 2020
+--------------------------------------
+[on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2020-01-14..2020-01-19)
+
+* *new* [PR27528](https://github.com/mantidproject/mantid/pull/27528) - exposed rebinned output to python and fix load save as nxs (no ticket)
+* *new* [PR27670](https://github.com/mantidproject/mantid/pull/27670) - Disable show instrument if there is no spectra axis
