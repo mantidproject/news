@@ -14,4 +14,5 @@ Detailed Merges for Jan 13 to 19, 2020
 * *new* [PR27528](https://github.com/mantidproject/mantid/pull/27528) - exposed rebinned output to python and fix load save as nxs (no ticket)
 * *new* [PR27668](https://github.com/mantidproject/mantid/pull/27668) - Remove the dead tool code DAEServ
 * *new* [PR27670](https://github.com/mantidproject/mantid/pull/27670) - Disable show instrument if there is no spectra axis
+* *new* [PR27672](https://github.com/mantidproject/mantid/pull/27672) - Cosmetic changes to directtools plot on Workbench
 * *new* [PR27702](https://github.com/mantidproject/mantid/pull/27702) - Update python path in the pycharm environment file
