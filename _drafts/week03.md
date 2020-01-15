@@ -17,4 +17,5 @@ Detailed Merges for Jan 13 to 19, 2020
 * *new* [PR27670](https://github.com/mantidproject/mantid/pull/27670) - Disable show instrument if there is no spectra axis
 * *new* [PR27672](https://github.com/mantidproject/mantid/pull/27672) - Cosmetic changes to directtools plot on Workbench
 * *new* [PR27702](https://github.com/mantidproject/mantid/pull/27702) - Update python path in the pycharm environment file
+* *new* [PR27708](https://github.com/mantidproject/mantid/pull/27708) - Fix issues with workbench plotting with matplotlib 3.1
 * *new* [PR27709](https://github.com/mantidproject/mantid/pull/27709) - Update macOS package script to account for Python 3 requirements
