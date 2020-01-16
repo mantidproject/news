@@ -14,6 +14,7 @@ Detailed Merges for Jan 13 to 19, 2020
 * *new* [PR27528](https://github.com/mantidproject/mantid/pull/27528) - exposed rebinned output to python and fix load save as nxs (no ticket)
 * *new* [PR27568](https://github.com/mantidproject/mantid/pull/27568) - Workbench: Notification service and Notifications on errors
 * *new* [PR27584](https://github.com/mantidproject/mantid/pull/27584) - 27571 d33 usage example
+* *new* [PR27591](https://github.com/mantidproject/mantid/pull/27591) - Merge pull request #27591 from mantidproject/v20_december_fixes
 * *new* [PR27668](https://github.com/mantidproject/mantid/pull/27668) - Remove the dead tool code DAEServ
 * *new* [PR27670](https://github.com/mantidproject/mantid/pull/27670) - Disable show instrument if there is no spectra axis
 * *new* [PR27672](https://github.com/mantidproject/mantid/pull/27672) - Cosmetic changes to directtools plot on Workbench
@@ -22,3 +23,4 @@ Detailed Merges for Jan 13 to 19, 2020
 * *new* [PR27709](https://github.com/mantidproject/mantid/pull/27709) - Update macOS package script to account for Python 3 requirements
 * *new* [PR27719](https://github.com/mantidproject/mantid/pull/27719) - Fix show detectors in workbench with Python 3
 * *new* [PR27721](https://github.com/mantidproject/mantid/pull/27721) - Avoid new implicit float to int conversion warnings in Python 3.8
+* *new* [PR27726](https://github.com/mantidproject/mantid/pull/27726) - Use the longest form of a filename as ws name for drag drop
