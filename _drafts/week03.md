@@ -15,6 +15,7 @@ Detailed Merges for Jan 13 to 19, 2020
 * *new* [PR27568](https://github.com/mantidproject/mantid/pull/27568) - Workbench: Notification service and Notifications on errors
 * *new* [PR27584](https://github.com/mantidproject/mantid/pull/27584) - 27571 d33 usage example
 * *new* [PR27591](https://github.com/mantidproject/mantid/pull/27591) - Merge pull request #27591 from mantidproject/v20_december_fixes
+* *new* [PR27667](https://github.com/mantidproject/mantid/pull/27667) - Add option to set PDF type on polaris create_total_scattering_pdf
 * *new* [PR27668](https://github.com/mantidproject/mantid/pull/27668) - Remove the dead tool code DAEServ
 * *new* [PR27670](https://github.com/mantidproject/mantid/pull/27670) - Disable show instrument if there is no spectra axis
 * *new* [PR27672](https://github.com/mantidproject/mantid/pull/27672) - Cosmetic changes to directtools plot on Workbench
