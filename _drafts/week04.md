@@ -15,6 +15,7 @@ Detailed Merges for Jan 20 to 26, 2020
 * *new* [PR27501](https://github.com/mantidproject/mantid/pull/27501) - Rework Abins broadening
 * *new* [PR27512](https://github.com/mantidproject/mantid/pull/27512) - Expand ISIS reflectometry system tests
 * *new* [PR27529](https://github.com/mantidproject/mantid/pull/27529) - Improve muon analysis plotting
+* *new* [PR27639](https://github.com/mantidproject/mantid/pull/27639) - Adding plotting options to the Muon Analysis GUI
 * *new* [PR27656](https://github.com/mantidproject/mantid/pull/27656) - Add options dialog to Reflectometry GUI [PART 2]
 * *new* [PR27669](https://github.com/mantidproject/mantid/pull/27669) - Create total scattering pdf rebin output
 * *new* [PR27685](https://github.com/mantidproject/mantid/pull/27685) - Fix bug with dummy detectors in MayersSampleCorrection
