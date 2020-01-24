@@ -25,6 +25,7 @@ Detailed Merges for Jan 20 to 26, 2020
 * *new* [PR27710](https://github.com/mantidproject/mantid/pull/27710) - Switch to JSON Parser for SANS State
 * *new* [PR27714](https://github.com/mantidproject/mantid/pull/27714) - Add Cropping Options to Eng Diff Calib Tab
 * *new* [PR27715](https://github.com/mantidproject/mantid/pull/27715) - Improve sampling of scatter points in absorption correction simulation
+* *new* [PR27725](https://github.com/mantidproject/mantid/pull/27725) - Load and display data for PANTHER in diffraction mode
 * *new* [PR27730](https://github.com/mantidproject/mantid/pull/27730) - Fix settings test for python 3 in windows
 * *new* [PR27733](https://github.com/mantidproject/mantid/pull/27733) - Re Expose getting time averaged std to python
 * *new* [PR27735](https://github.com/mantidproject/mantid/pull/27735) - Flips D22 and D33 detector pixel numbering
