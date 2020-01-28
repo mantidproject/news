@@ -16,3 +16,4 @@ Detailed Merges for Jan 27 to Feb 2, 2020
 * *new* [PR27763](https://github.com/mantidproject/mantid/pull/27763) - Add Full Calibration Saving and Loading to Eng Diff GUI
 * *new* [PR27764](https://github.com/mantidproject/mantid/pull/27764) - Build against Python 3 by default
 * *new* [PR27786](https://github.com/mantidproject/mantid/pull/27786) - Add missing custom stylesheet for docs with newer sphinx_bootstrap_theme
+* *new* [PR27802](https://github.com/mantidproject/mantid/pull/27802) - Restore Python 2 compatability
