@@ -19,4 +19,7 @@ Detailed Merges for Jan 27 to Feb 2, 2020
 * *new* [PR27783](https://github.com/mantidproject/mantid/pull/27783) - Delete deprecated IndexPeaksWithSatellites algorithm
 * *new* [PR27786](https://github.com/mantidproject/mantid/pull/27786) - Add missing custom stylesheet for docs with newer sphinx_bootstrap_theme
 * *new* [PR27802](https://github.com/mantidproject/mantid/pull/27802) - Restore Python 2 compatability
+* *new* [PR27804](https://github.com/mantidproject/mantid/pull/27804) - Add exclude option to the fit property browser
 * *new* [PR27809](https://github.com/mantidproject/mantid/pull/27809) - FitPeaks automation for pseudo-Voigt
+* *new* [PR27810](https://github.com/mantidproject/mantid/pull/27810) - Correct instrument view default axis
+* *new* [PR27813](https://github.com/mantidproject/mantid/pull/27813) - Only run system tests on RHEL Python 3 builds
