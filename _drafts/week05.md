@@ -26,3 +26,4 @@ Detailed Merges for Jan 27 to Feb 2, 2020
 * *new* [PR27809](https://github.com/mantidproject/mantid/pull/27809) - FitPeaks automation for pseudo-Voigt
 * *new* [PR27810](https://github.com/mantidproject/mantid/pull/27810) - Correct instrument view default axis
 * *new* [PR27813](https://github.com/mantidproject/mantid/pull/27813) - Only run system tests on RHEL Python 3 builds
+* *new* [PR27818](https://github.com/mantidproject/mantid/pull/27818) - Add nested categories for fit functions
