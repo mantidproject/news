@@ -23,6 +23,7 @@ Detailed Merges for Jan 27 to Feb 2, 2020
 * *new* [PR27783](https://github.com/mantidproject/mantid/pull/27783) - Delete deprecated IndexPeaksWithSatellites algorithm
 * *new* [PR27786](https://github.com/mantidproject/mantid/pull/27786) - Add missing custom stylesheet for docs with newer sphinx_bootstrap_theme
 * *new* [PR27787](https://github.com/mantidproject/mantid/pull/27787) - Add manitdplot settings to workbench - part 1
+* *new* [PR27800](https://github.com/mantidproject/mantid/pull/27800) - Add manitdplot settings to workbench - part 2
 * *new* [PR27802](https://github.com/mantidproject/mantid/pull/27802) - Restore Python 2 compatability
 * *new* [PR27804](https://github.com/mantidproject/mantid/pull/27804) - Add exclude option to the fit property browser
 * *new* [PR27806](https://github.com/mantidproject/mantid/pull/27806) - Add unit for atomic distance to unit factory
