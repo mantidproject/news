@@ -11,6 +11,8 @@ Detailed Merges for Jan 27 to Feb 2, 2020
 -----------------------------------------
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2020-01-28..2020-02-02)
 
+* *new* [PR27485](https://github.com/mantidproject/mantid/pull/27485) - ILL Reflectometry workflow
+* *new* [PR27492](https://github.com/mantidproject/mantid/pull/27492) - Fix unrolling consecutive workflow algorithms in workspace history
 * *new* [PR27567](https://github.com/mantidproject/mantid/pull/27567) - Waterfall Plots in Workbench
 * *new* [PR27741](https://github.com/mantidproject/mantid/pull/27741) - Add NumberOfBins property to LoadEventNexus
 * *new* [PR27747](https://github.com/mantidproject/mantid/pull/27747) - Merge pull request #27747 from mantidproject/27734_move_grouping_from_params
@@ -23,7 +25,9 @@ Detailed Merges for Jan 27 to Feb 2, 2020
 * *new* [PR27787](https://github.com/mantidproject/mantid/pull/27787) - Add manitdplot settings to workbench - part 1
 * *new* [PR27802](https://github.com/mantidproject/mantid/pull/27802) - Restore Python 2 compatability
 * *new* [PR27804](https://github.com/mantidproject/mantid/pull/27804) - Add exclude option to the fit property browser
+* *new* [PR27806](https://github.com/mantidproject/mantid/pull/27806) - Add unit for atomic distance to unit factory
 * *new* [PR27809](https://github.com/mantidproject/mantid/pull/27809) - FitPeaks automation for pseudo-Voigt
 * *new* [PR27810](https://github.com/mantidproject/mantid/pull/27810) - Correct instrument view default axis
 * *new* [PR27813](https://github.com/mantidproject/mantid/pull/27813) - Only run system tests on RHEL Python 3 builds
+* *new* [PR27816](https://github.com/mantidproject/mantid/pull/27816) - Fix crash in Indirect ILL Reduction GUI
 * *new* [PR27818](https://github.com/mantidproject/mantid/pull/27818) - Add nested categories for fit functions
