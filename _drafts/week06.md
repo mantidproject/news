@@ -13,6 +13,7 @@ Detailed Merges for Feb 3 to 9, 2020
 
 * *new* [PR26818](https://github.com/mantidproject/mantid/pull/26818) - Add section on Python debugging and clangd to VS Code docs
 * *new* [PR27111](https://github.com/mantidproject/mantid/pull/27111) - Add option to SaveReflections to separate by modulation vector
+* *new* [PR27760](https://github.com/mantidproject/mantid/pull/27760) - Updated mantidworkbench to send stacktrace
 * *new* [PR27782](https://github.com/mantidproject/mantid/pull/27782) - Remove workaround for GSL library name switch.
 * *new* [PR27799](https://github.com/mantidproject/mantid/pull/27799) - Add description of output types to PDFFourierTransform
 * *new* [PR27811](https://github.com/mantidproject/mantid/pull/27811) - Bundle Windows printer support plugin with Qt5 plugins.
