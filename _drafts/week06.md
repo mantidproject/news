@@ -24,7 +24,9 @@ Detailed Merges for Feb 3 to 9, 2020
 * *new* [PR27831](https://github.com/mantidproject/mantid/pull/27831) - Set sample and run via python
 * *new* [PR27832](https://github.com/mantidproject/mantid/pull/27832) - Allow workbench to load the workspaces from mantidplot projects
 * *new* [PR27833](https://github.com/mantidproject/mantid/pull/27833) - Eng Diff Fitting Tab - Loading Files
+* *new* [PR27836](https://github.com/mantidproject/mantid/pull/27836) - Fix crash in workbench when fitting in script editor
 * *new* [PR27837](https://github.com/mantidproject/mantid/pull/27837) - Preserve Lattice Parameters in PredictFractionalPeaks
 * *new* [PR27841](https://github.com/mantidproject/mantid/pull/27841) - Merge pull request #27841 from mantidproject/27077_ability_to_cancel_live_data
 * *new* [PR27842](https://github.com/mantidproject/mantid/pull/27842) - Remove systemtests dump of version_tested/revision_tested
 * *new* [PR27844](https://github.com/mantidproject/mantid/pull/27844) - Edit WorkspaceGroup docs
+* *new* [PR27845](https://github.com/mantidproject/mantid/pull/27845) - fill algorithm details dialog with running algs
