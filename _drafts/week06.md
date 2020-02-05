@@ -30,3 +30,4 @@ Detailed Merges for Feb 3 to 9, 2020
 * *new* [PR27842](https://github.com/mantidproject/mantid/pull/27842) - Remove systemtests dump of version_tested/revision_tested
 * *new* [PR27844](https://github.com/mantidproject/mantid/pull/27844) - Edit WorkspaceGroup docs
 * *new* [PR27845](https://github.com/mantidproject/mantid/pull/27845) - fill algorithm details dialog with running algs
+* *new* [PR27851](https://github.com/mantidproject/mantid/pull/27851) - Fix colorfill right-click change colorbar scale
