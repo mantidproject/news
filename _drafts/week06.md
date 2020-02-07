@@ -13,6 +13,7 @@ Detailed Merges for Feb 3 to 9, 2020
 
 * *new* [PR26818](https://github.com/mantidproject/mantid/pull/26818) - Add section on Python debugging and clangd to VS Code docs
 * *new* [PR27111](https://github.com/mantidproject/mantid/pull/27111) - Add option to SaveReflections to separate by modulation vector
+* *new* [PR27657](https://github.com/mantidproject/mantid/pull/27657) - Add options dialog to Reflectometry GUI [PART 3]
 * *new* [PR27662](https://github.com/mantidproject/mantid/pull/27662) - Adds Python TOML lib
 * *new* [PR27723](https://github.com/mantidproject/mantid/pull/27723) - D33 separate panels, simplify water normalisation
 * *new* [PR27760](https://github.com/mantidproject/mantid/pull/27760) - Updated mantidworkbench to send stacktrace
