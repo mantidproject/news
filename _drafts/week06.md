@@ -35,6 +35,7 @@ Detailed Merges for Feb 3 to 9, 2020
 * *new* [PR27849](https://github.com/mantidproject/mantid/pull/27849) - Fix error bars on normalised fits
 * *new* [PR27851](https://github.com/mantidproject/mantid/pull/27851) - Fix colorfill right-click change colorbar scale
 * *new* [PR27852](https://github.com/mantidproject/mantid/pull/27852) - Fix incorrect sign when checking valid satellite peak if q convention is set to crystallography
+* *new* [PR27854](https://github.com/mantidproject/mantid/pull/27854) - Use algorithm documentation for tooltips on the table
 * *new* [PR27871](https://github.com/mantidproject/mantid/pull/27871) - Add warning message to Workbench when attempting to plot lots of spectra
 * *new* [PR27873](https://github.com/mantidproject/mantid/pull/27873) - Update CIFS mounting instructions
 * *new* [PR27875](https://github.com/mantidproject/mantid/pull/27875) - Correct typo to fix error when running a fit from script
