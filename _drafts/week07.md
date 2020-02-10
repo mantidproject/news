@@ -18,3 +18,4 @@ Detailed Merges for Feb 10 to 16, 2020
 * *new* [PR27880](https://github.com/mantidproject/mantid/pull/27880) - Fix PreviewPlot for mpl3
 * *new* [PR27882](https://github.com/mantidproject/mantid/pull/27882) - Remove CropWorkspaceRagged from the workflow category
 * *new* [PR27886](https://github.com/mantidproject/mantid/pull/27886) - Asserts a minimum size for colour fill plots
+* *new* [PR27901](https://github.com/mantidproject/mantid/pull/27901) - Change test import to use PyCompat
