@@ -13,6 +13,7 @@ Detailed Merges for Feb 10 to 16, 2020
 
 * *new* [PR27527](https://github.com/mantidproject/mantid/pull/27527) - Remove RunSelectorPresenter factory
 * *new* [PR27784](https://github.com/mantidproject/mantid/pull/27784) - Muon analysis old has muon fittting funcs
+* *new* [PR27805](https://github.com/mantidproject/mantid/pull/27805) - Make Simple Improvements to Engineering Diffraction 2 GUI
 * *new* [PR27853](https://github.com/mantidproject/mantid/pull/27853) - Added some protection around loading config files in workbench
 * *new* [PR27864](https://github.com/mantidproject/mantid/pull/27864) - Resolve a bug with algrothim tree building in workbench settings
 * *new* [PR27880](https://github.com/mantidproject/mantid/pull/27880) - Fix PreviewPlot for mpl3
