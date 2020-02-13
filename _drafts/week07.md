@@ -35,3 +35,4 @@ Detailed Merges for Feb 10 to 16, 2020
 * *new* [PR27903](https://github.com/mantidproject/mantid/pull/27903) - Remove the save menu option for SaveASCII v1
 * *new* [PR27904](https://github.com/mantidproject/mantid/pull/27904) - Fixed is not literal comparison warning
 * *new* [PR27917](https://github.com/mantidproject/mantid/pull/27917) - Allow waterfall plot to be made with single spectrum number and multiple workspaces
+* *new* [PR27928](https://github.com/mantidproject/mantid/pull/27928) - Indirect simultaneous feature branch
