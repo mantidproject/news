@@ -23,6 +23,7 @@ Detailed Merges for Feb 10 to 16, 2020
 * *new* [PR27864](https://github.com/mantidproject/mantid/pull/27864) - Resolve a bug with algrothim tree building in workbench settings
 * *new* [PR27865](https://github.com/mantidproject/mantid/pull/27865) - Implement fourier filter to Polaris.create_total_scattering_pdf
 * *new* [PR27866](https://github.com/mantidproject/mantid/pull/27866) - Workbench apply settings without relaunch
+* *new* [PR27869](https://github.com/mantidproject/mantid/pull/27869) - Add sequential and simultaneous-sequential fitting to the Muon Analysis 2 GUI
 * *new* [PR27872](https://github.com/mantidproject/mantid/pull/27872) - Add a check for specialized vglrun wrapper script
 * *new* [PR27880](https://github.com/mantidproject/mantid/pull/27880) - Fix PreviewPlot for mpl3
 * *new* [PR27882](https://github.com/mantidproject/mantid/pull/27882) - Remove CropWorkspaceRagged from the workflow category
