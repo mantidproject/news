@@ -34,6 +34,8 @@ Detailed Merges for Feb 10 to 16, 2020
 * *new* [PR27902](https://github.com/mantidproject/mantid/pull/27902) - Fix "is" with a literal. Did you mean "=="? warning from python 3.8
 * *new* [PR27903](https://github.com/mantidproject/mantid/pull/27903) - Remove the save menu option for SaveASCII v1
 * *new* [PR27904](https://github.com/mantidproject/mantid/pull/27904) - Fixed is not literal comparison warning
+* *new* [PR27913](https://github.com/mantidproject/mantid/pull/27913) - Add support for stl file paths to sample environment xml
 * *new* [PR27917](https://github.com/mantidproject/mantid/pull/27917) - Allow waterfall plot to be made with single spectrum number and multiple workspaces
+* *new* [PR27927](https://github.com/mantidproject/mantid/pull/27927) - Poco version information is hexadecimal
 * *new* [PR27928](https://github.com/mantidproject/mantid/pull/27928) - Indirect simultaneous feature branch
 * *new* [PR27938](https://github.com/mantidproject/mantid/pull/27938) - Add LogTypes parameter to AddSampleLogsMultiple
