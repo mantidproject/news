@@ -13,4 +13,5 @@ Detailed Merges for Feb 17 to 23, 2020
 
 * *new* [PR27874](https://github.com/mantidproject/mantid/pull/27874) - Adds test for ILL loaders choice
 * *new* [PR27908](https://github.com/mantidproject/mantid/pull/27908) - Add search option for adding fit functions
+* *new* [PR27930](https://github.com/mantidproject/mantid/pull/27930) - Fix Engineering System and Doc Tests
 * *new* [PR27940](https://github.com/mantidproject/mantid/pull/27940) - Muon fitting feature branch
