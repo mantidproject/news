@@ -12,6 +12,7 @@ Detailed Merges for Feb 17 to 23, 2020
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2020-02-18..2020-02-23)
 
 * *new* [PR26887](https://github.com/mantidproject/mantid/pull/26887) - Abins thresholding changes
+* *new* [PR27680](https://github.com/mantidproject/mantid/pull/27680) - Add adapter for SANS txt parsing
 * *new* [PR27706](https://github.com/mantidproject/mantid/pull/27706) - Add d16 loader
 * *new* [PR27788](https://github.com/mantidproject/mantid/pull/27788) - Added MSD specific files
 * *new* [PR27874](https://github.com/mantidproject/mantid/pull/27874) - Adds test for ILL loaders choice
@@ -25,4 +26,8 @@ Detailed Merges for Feb 17 to 23, 2020
 * *new* [PR27933](https://github.com/mantidproject/mantid/pull/27933) - Get tooltips from ReflectometryISISLoadAndProcess
 * *new* [PR27936](https://github.com/mantidproject/mantid/pull/27936) - Fix workbench double-spacing on saving Python scripts on Windows
 * *new* [PR27940](https://github.com/mantidproject/mantid/pull/27940) - Muon fitting feature branch
+* *new* [PR27947](https://github.com/mantidproject/mantid/pull/27947) - Make Engineering Diffraction 2 GUI Visible and Add Usage Reporting
+* *new* [PR27956](https://github.com/mantidproject/mantid/pull/27956) - Disable desktop notifications for Qt 4
 * *new* [PR27958](https://github.com/mantidproject/mantid/pull/27958) - Double-click algorithm with multiple versions should open dialog
+* *new* [PR27960](https://github.com/mantidproject/mantid/pull/27960) - Addition of tooltip to the workbench plot 1D validation
+* *new* [PR27968](https://github.com/mantidproject/mantid/pull/27968) - Fix Engineering System Test Failure on Windows
