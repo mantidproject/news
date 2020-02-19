@@ -27,6 +27,7 @@ Detailed Merges for Feb 17 to 23, 2020
 * *new* [PR27936](https://github.com/mantidproject/mantid/pull/27936) - Fix workbench double-spacing on saving Python scripts on Windows
 * *new* [PR27940](https://github.com/mantidproject/mantid/pull/27940) - Muon fitting feature branch
 * *new* [PR27947](https://github.com/mantidproject/mantid/pull/27947) - Make Engineering Diffraction 2 GUI Visible and Add Usage Reporting
+* *new* [PR27951](https://github.com/mantidproject/mantid/pull/27951) - Remove old ISIS Reflectometry GUI
 * *new* [PR27956](https://github.com/mantidproject/mantid/pull/27956) - Disable desktop notifications for Qt 4
 * *new* [PR27958](https://github.com/mantidproject/mantid/pull/27958) - Double-click algorithm with multiple versions should open dialog
 * *new* [PR27960](https://github.com/mantidproject/mantid/pull/27960) - Addition of tooltip to the workbench plot 1D validation
