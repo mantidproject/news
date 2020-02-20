@@ -32,3 +32,4 @@ Detailed Merges for Feb 17 to 23, 2020
 * *new* [PR27958](https://github.com/mantidproject/mantid/pull/27958) - Double-click algorithm with multiple versions should open dialog
 * *new* [PR27960](https://github.com/mantidproject/mantid/pull/27960) - Addition of tooltip to the workbench plot 1D validation
 * *new* [PR27968](https://github.com/mantidproject/mantid/pull/27968) - Fix Engineering System Test Failure on Windows
+* *new* [PR27980](https://github.com/mantidproject/mantid/pull/27980) - Allow waterfall plot to be made with single spectrum number and multiple workspaces (again)
