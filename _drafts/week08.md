@@ -14,10 +14,12 @@ Detailed Merges for Feb 17 to 23, 2020
 * *new* [PR26887](https://github.com/mantidproject/mantid/pull/26887) - Abins thresholding changes
 * *new* [PR27680](https://github.com/mantidproject/mantid/pull/27680) - Add adapter for SANS txt parsing
 * *new* [PR27706](https://github.com/mantidproject/mantid/pull/27706) - Add d16 loader
+* *new* [PR27771](https://github.com/mantidproject/mantid/pull/27771) - Fix ISIS command iface expecting user file in batch
 * *new* [PR27788](https://github.com/mantidproject/mantid/pull/27788) - Added MSD specific files
 * *new* [PR27874](https://github.com/mantidproject/mantid/pull/27874) - Adds test for ILL loaders choice
 * *new* [PR27888](https://github.com/mantidproject/mantid/pull/27888) - Implement a basic plotBin and expose plotSpectrum in workbench
 * *new* [PR27890](https://github.com/mantidproject/mantid/pull/27890) - ApplyCalibration should handle bar scans
+* *new* [PR27891](https://github.com/mantidproject/mantid/pull/27891) - Fix ties in crystal field fitting
 * *new* [PR27908](https://github.com/mantidproject/mantid/pull/27908) - Add search option for adding fit functions
 * *new* [PR27912](https://github.com/mantidproject/mantid/pull/27912) - Workbench: Use the selected ws as the default for 1st inputws prop
 * *new* [PR27916](https://github.com/mantidproject/mantid/pull/27916) - Add help button to add function dialog in fitting
@@ -32,4 +34,6 @@ Detailed Merges for Feb 17 to 23, 2020
 * *new* [PR27958](https://github.com/mantidproject/mantid/pull/27958) - Double-click algorithm with multiple versions should open dialog
 * *new* [PR27960](https://github.com/mantidproject/mantid/pull/27960) - Addition of tooltip to the workbench plot 1D validation
 * *new* [PR27968](https://github.com/mantidproject/mantid/pull/27968) - Fix Engineering System Test Failure on Windows
+* *new* [PR27975](https://github.com/mantidproject/mantid/pull/27975) - Add Engineering Diffraction 2 gui unscripted tests
 * *new* [PR27980](https://github.com/mantidproject/mantid/pull/27980) - Allow waterfall plot to be made with single spectrum number and multiple workspaces (again)
+* *new* [PR27988](https://github.com/mantidproject/mantid/pull/27988) - Fix deprecation warning: h5py calls from Abins
