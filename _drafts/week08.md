@@ -16,6 +16,7 @@ Detailed Merges for Feb 17 to 23, 2020
 * *new* [PR27706](https://github.com/mantidproject/mantid/pull/27706) - Add d16 loader
 * *new* [PR27771](https://github.com/mantidproject/mantid/pull/27771) - Fix ISIS command iface expecting user file in batch
 * *new* [PR27788](https://github.com/mantidproject/mantid/pull/27788) - Added MSD specific files
+* *new* [PR27796](https://github.com/mantidproject/mantid/pull/27796) - Don't act differently on 0 offset M5
 * *new* [PR27848](https://github.com/mantidproject/mantid/pull/27848) - Add background subtraction child algorithm to workflow
 * *new* [PR27874](https://github.com/mantidproject/mantid/pull/27874) - Adds test for ILL loaders choice
 * *new* [PR27888](https://github.com/mantidproject/mantid/pull/27888) - Implement a basic plotBin and expose plotSpectrum in workbench
@@ -25,11 +26,13 @@ Detailed Merges for Feb 17 to 23, 2020
 * *new* [PR27908](https://github.com/mantidproject/mantid/pull/27908) - Add search option for adding fit functions
 * *new* [PR27912](https://github.com/mantidproject/mantid/pull/27912) - Workbench: Use the selected ws as the default for 1st inputws prop
 * *new* [PR27916](https://github.com/mantidproject/mantid/pull/27916) - Add help button to add function dialog in fitting
+* *new* [PR27921](https://github.com/mantidproject/mantid/pull/27921) - Fix bugs in PSI data loader
 * *new* [PR27922](https://github.com/mantidproject/mantid/pull/27922) - Reload data sets in Muon Analysis without crash
 * *new* [PR27930](https://github.com/mantidproject/mantid/pull/27930) - Fix Engineering System and Doc Tests
 * *new* [PR27933](https://github.com/mantidproject/mantid/pull/27933) - Get tooltips from ReflectometryISISLoadAndProcess
 * *new* [PR27936](https://github.com/mantidproject/mantid/pull/27936) - Fix workbench double-spacing on saving Python scripts on Windows
 * *new* [PR27940](https://github.com/mantidproject/mantid/pull/27940) - Muon fitting feature branch
+* *new* [PR27945](https://github.com/mantidproject/mantid/pull/27945) - Create file outputs for PDFGui and RMCProfile
 * *new* [PR27947](https://github.com/mantidproject/mantid/pull/27947) - Make Engineering Diffraction 2 GUI Visible and Add Usage Reporting
 * *new* [PR27951](https://github.com/mantidproject/mantid/pull/27951) - Remove old ISIS Reflectometry GUI
 * *new* [PR27956](https://github.com/mantidproject/mantid/pull/27956) - Disable desktop notifications for Qt 4
@@ -38,6 +41,7 @@ Detailed Merges for Feb 17 to 23, 2020
 * *new* [PR27964](https://github.com/mantidproject/mantid/pull/27964) - Limit progress bar updates to 1000Hz maximum
 * *new* [PR27968](https://github.com/mantidproject/mantid/pull/27968) - Fix Engineering System Test Failure on Windows
 * *new* [PR27969](https://github.com/mantidproject/mantid/pull/27969) - Add new commands to ISISCommandInterface
+* *new* [PR27974](https://github.com/mantidproject/mantid/pull/27974) - Eng Diff 2: Allow Focusing of Multiple Files
 * *new* [PR27975](https://github.com/mantidproject/mantid/pull/27975) - Add Engineering Diffraction 2 gui unscripted tests
 * *new* [PR27979](https://github.com/mantidproject/mantid/pull/27979) - Fix normalisation when overplotting onto a plot with errors of distribution data
 * *new* [PR27980](https://github.com/mantidproject/mantid/pull/27980) - Allow waterfall plot to be made with single spectrum number and multiple workspaces (again)
