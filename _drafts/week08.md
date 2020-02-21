@@ -13,6 +13,7 @@ Detailed Merges for Feb 17 to 23, 2020
 
 * *new* [PR26887](https://github.com/mantidproject/mantid/pull/26887) - Abins thresholding changes
 * *new* [PR27658](https://github.com/mantidproject/mantid/pull/27658) - Add options dialog to Reflectometry GUI [PART 4]
+* *new* [PR27660](https://github.com/mantidproject/mantid/pull/27660) - Add options dialog to Reflectometry GUI [PART 5]
 * *new* [PR27680](https://github.com/mantidproject/mantid/pull/27680) - Add adapter for SANS txt parsing
 * *new* [PR27697](https://github.com/mantidproject/mantid/pull/27697) - Fixes for reflectometry workflow algorithms history
 * *new* [PR27706](https://github.com/mantidproject/mantid/pull/27706) - Add d16 loader
@@ -65,3 +66,4 @@ Detailed Merges for Feb 17 to 23, 2020
 * *new* [PR27996](https://github.com/mantidproject/mantid/pull/27996) - Create plotting figure in overplot if doesn't exist
 * *new* [PR27998](https://github.com/mantidproject/mantid/pull/27998) - Fix error when removing constraints
 * *new* [PR28000](https://github.com/mantidproject/mantid/pull/28000) - IN16B minor changes
+* *new* [PR28004](https://github.com/mantidproject/mantid/pull/28004) - Refs #12028. Added HB2B IDF.
