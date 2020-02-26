@@ -23,3 +23,7 @@ Detailed Merges for Feb 24 to Mar 1, 2020
 * *new* [PR28071](https://github.com/mantidproject/mantid/pull/28071) - Only show relevant facilities in some interface drop-down menus
 * *new* [PR28084](https://github.com/mantidproject/mantid/pull/28084) - Update Error Reporter Unscripted Test
 * *new* [PR28087](https://github.com/mantidproject/mantid/pull/28087) - Fix hard crash when extra details selected in plot error reporter
+* *new* [PR28095](https://github.com/mantidproject/mantid/pull/28095) - Sample Logs: Catch exception reading log values/metadata
+* *new* [PR28098](https://github.com/mantidproject/mantid/pull/28098) - Fix sans gui catching wrong exception
+* *new* [PR28099](https://github.com/mantidproject/mantid/pull/28099) - Fetch latest fixes from mslice
+* *new* [PR28109](https://github.com/mantidproject/mantid/pull/28109) - Fix unhandled exceptions in TOFConverter
