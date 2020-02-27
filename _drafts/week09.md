@@ -28,5 +28,8 @@ Detailed Merges for Feb 24 to Mar 1, 2020
 * *new* [PR28098](https://github.com/mantidproject/mantid/pull/28098) - Fix sans gui catching wrong exception
 * *new* [PR28099](https://github.com/mantidproject/mantid/pull/28099) - Fetch latest fixes from mslice
 * *new* [PR28101](https://github.com/mantidproject/mantid/pull/28101) - Fix ORNL_SANS interface crashing when selecting HFIR instruments
+* *new* [PR28105](https://github.com/mantidproject/mantid/pull/28105) - Fix Misc Engineering Diffraction 2 Bugs
 * *new* [PR28109](https://github.com/mantidproject/mantid/pull/28109) - Fix unhandled exceptions in TOFConverter
+* *new* [PR28114](https://github.com/mantidproject/mantid/pull/28114) - Removed autoscaling of axes limits after errorbar status (on/off) is changed
 * *new* [PR28115](https://github.com/mantidproject/mantid/pull/28115) - Fix crash in indirect analysis when a function is removed/changed
+* *new* [PR28116](https://github.com/mantidproject/mantid/pull/28116) - Update PYTHONPATH for windows error reporter launch
