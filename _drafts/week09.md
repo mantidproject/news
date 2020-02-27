@@ -23,7 +23,10 @@ Detailed Merges for Feb 24 to Mar 1, 2020
 * *new* [PR28071](https://github.com/mantidproject/mantid/pull/28071) - Only show relevant facilities in some interface drop-down menus
 * *new* [PR28084](https://github.com/mantidproject/mantid/pull/28084) - Update Error Reporter Unscripted Test
 * *new* [PR28087](https://github.com/mantidproject/mantid/pull/28087) - Fix hard crash when extra details selected in plot error reporter
+* *new* [PR28094](https://github.com/mantidproject/mantid/pull/28094) - Hide Engineering Diffraction 1 and Rename Eng Diff 2
 * *new* [PR28095](https://github.com/mantidproject/mantid/pull/28095) - Sample Logs: Catch exception reading log values/metadata
 * *new* [PR28098](https://github.com/mantidproject/mantid/pull/28098) - Fix sans gui catching wrong exception
 * *new* [PR28099](https://github.com/mantidproject/mantid/pull/28099) - Fetch latest fixes from mslice
+* *new* [PR28101](https://github.com/mantidproject/mantid/pull/28101) - Fix ORNL_SANS interface crashing when selecting HFIR instruments
 * *new* [PR28109](https://github.com/mantidproject/mantid/pull/28109) - Fix unhandled exceptions in TOFConverter
+* *new* [PR28115](https://github.com/mantidproject/mantid/pull/28115) - Fix crash in indirect analysis when a function is removed/changed
