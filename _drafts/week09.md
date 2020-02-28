@@ -31,15 +31,24 @@ Detailed Merges for Feb 24 to Mar 1, 2020
 * *new* [PR28101](https://github.com/mantidproject/mantid/pull/28101) - Fix ORNL_SANS interface crashing when selecting HFIR instruments
 * *new* [PR28105](https://github.com/mantidproject/mantid/pull/28105) - Fix Misc Engineering Diffraction 2 Bugs
 * *new* [PR28109](https://github.com/mantidproject/mantid/pull/28109) - Fix unhandled exceptions in TOFConverter
+* *new* [PR28111](https://github.com/mantidproject/mantid/pull/28111) - Fixing Muon sequential TF asymmetry fits bug
+* *new* [PR28113](https://github.com/mantidproject/mantid/pull/28113) - Trap further exceptions when attempting to iterate over processes
 * *new* [PR28114](https://github.com/mantidproject/mantid/pull/28114) - Removed autoscaling of axes limits after errorbar status (on/off) is changed
 * *new* [PR28115](https://github.com/mantidproject/mantid/pull/28115) - Fix crash in indirect analysis when a function is removed/changed
 * *new* [PR28116](https://github.com/mantidproject/mantid/pull/28116) - Update PYTHONPATH for windows error reporter launch
 * *new* [PR28117](https://github.com/mantidproject/mantid/pull/28117) - Get current grid visibility when creating menu for axis
+* *new* [PR28124](https://github.com/mantidproject/mantid/pull/28124) - Fix crash when adding some functions to multidataset fitting
 * *new* [PR28125](https://github.com/mantidproject/mantid/pull/28125) - Fix bug with context menu for plots of MDHistoWorkspace
 * *new* [PR28127](https://github.com/mantidproject/mantid/pull/28127) - Fix error when changing normalisation on single spectra plot from script
 * *new* [PR28128](https://github.com/mantidproject/mantid/pull/28128) - Fix Beam Centre Only Working on LAB
 * *new* [PR28129](https://github.com/mantidproject/mantid/pull/28129) - Prevent notifications for the same message within the same 5 seconds
+* *new* [PR28132](https://github.com/mantidproject/mantid/pull/28132) - Fix issue related to the Log option from the double click axis menu
 * *new* [PR28134](https://github.com/mantidproject/mantid/pull/28134) - Do not clear variable from cmake after setting
 * *new* [PR28135](https://github.com/mantidproject/mantid/pull/28135) - Fix File Paths After Loading in Muon Analysis
+* *new* [PR28137](https://github.com/mantidproject/mantid/pull/28137) - Modified Metadata handling in LoadEventNexus
 * *new* [PR28140](https://github.com/mantidproject/mantid/pull/28140) - Add announcement to release check-list
 * *new* [PR28141](https://github.com/mantidproject/mantid/pull/28141) - Rename v4.3.0 release notes to v5.0.0
+* *new* [PR28144](https://github.com/mantidproject/mantid/pull/28144) - Workbench: Redirect warnings module messages to mantid warning logger
+* *new* [PR28145](https://github.com/mantidproject/mantid/pull/28145) - Convfit using correct resolutions
+* *new* [PR28150](https://github.com/mantidproject/mantid/pull/28150) - Make the help pages use the custom Mantid style sheet
+* *new* [PR28151](https://github.com/mantidproject/mantid/pull/28151) - Update clang-format version in ns-control
