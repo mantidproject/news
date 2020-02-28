@@ -34,4 +34,6 @@ Detailed Merges for Feb 24 to Mar 1, 2020
 * *new* [PR28115](https://github.com/mantidproject/mantid/pull/28115) - Fix crash in indirect analysis when a function is removed/changed
 * *new* [PR28116](https://github.com/mantidproject/mantid/pull/28116) - Update PYTHONPATH for windows error reporter launch
 * *new* [PR28125](https://github.com/mantidproject/mantid/pull/28125) - Fix bug with context menu for plots of MDHistoWorkspace
+* *new* [PR28129](https://github.com/mantidproject/mantid/pull/28129) - Prevent notifications for the same message within the same 5 seconds
 * *new* [PR28134](https://github.com/mantidproject/mantid/pull/28134) - Do not clear variable from cmake after setting
+* *new* [PR28141](https://github.com/mantidproject/mantid/pull/28141) - Rename v4.3.0 release notes to v5.0.0
