@@ -12,6 +12,7 @@ Detailed Merges for Feb 24 to Mar 1, 2020
 [on github](https://github.com/mantidproject/mantid/pulls?q=is%3Apr+merged%3A2020-02-25..2020-03-01)
 
 * *new* [PR27678](https://github.com/mantidproject/mantid/pull/27678) - Re-calculate duration in split-out workspaces from FilterEvents
+* *new* [PR27694](https://github.com/mantidproject/mantid/pull/27694) - Updates to Basic Course
 * *new* [PR27850](https://github.com/mantidproject/mantid/pull/27850) - Fix support for OpenMP on macOS
 * *new* [PR28003](https://github.com/mantidproject/mantid/pull/28003) - Adds support for automatic reduction for D16 SANS mode
 * *new* [PR28048](https://github.com/mantidproject/mantid/pull/28048) - Fix import_qt Causing Failure of Packaged Nightly
@@ -33,7 +34,12 @@ Detailed Merges for Feb 24 to Mar 1, 2020
 * *new* [PR28114](https://github.com/mantidproject/mantid/pull/28114) - Removed autoscaling of axes limits after errorbar status (on/off) is changed
 * *new* [PR28115](https://github.com/mantidproject/mantid/pull/28115) - Fix crash in indirect analysis when a function is removed/changed
 * *new* [PR28116](https://github.com/mantidproject/mantid/pull/28116) - Update PYTHONPATH for windows error reporter launch
+* *new* [PR28117](https://github.com/mantidproject/mantid/pull/28117) - Get current grid visibility when creating menu for axis
 * *new* [PR28125](https://github.com/mantidproject/mantid/pull/28125) - Fix bug with context menu for plots of MDHistoWorkspace
+* *new* [PR28127](https://github.com/mantidproject/mantid/pull/28127) - Fix error when changing normalisation on single spectra plot from script
+* *new* [PR28128](https://github.com/mantidproject/mantid/pull/28128) - Fix Beam Centre Only Working on LAB
 * *new* [PR28129](https://github.com/mantidproject/mantid/pull/28129) - Prevent notifications for the same message within the same 5 seconds
 * *new* [PR28134](https://github.com/mantidproject/mantid/pull/28134) - Do not clear variable from cmake after setting
+* *new* [PR28135](https://github.com/mantidproject/mantid/pull/28135) - Fix File Paths After Loading in Muon Analysis
+* *new* [PR28140](https://github.com/mantidproject/mantid/pull/28140) - Add announcement to release check-list
 * *new* [PR28141](https://github.com/mantidproject/mantid/pull/28141) - Rename v4.3.0 release notes to v5.0.0
