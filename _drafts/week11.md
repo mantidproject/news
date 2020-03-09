@@ -30,3 +30,6 @@ Detailed Merges for Mar 9 to 15, 2020
 * *new* [PR28282](https://github.com/mantidproject/mantid/pull/28282) - Update SANS and reflectometry release notes
 * *new* [PR28283](https://github.com/mantidproject/mantid/pull/28283) - Replace header guards in PythonInterface with pragma once
 * *new* [PR28285](https://github.com/mantidproject/mantid/pull/28285) - Replace header guards in ScriptRepository and SINQ with pragma once
+* *new* [PR28287](https://github.com/mantidproject/mantid/pull/28287) - Fix GUI launch script execute error
+* *new* [PR28288](https://github.com/mantidproject/mantid/pull/28288) - Fix HFIR 4Circle interface open failure
+* *new* [PR28290](https://github.com/mantidproject/mantid/pull/28290) - Speed up workbench preview plots
