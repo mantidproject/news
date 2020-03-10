@@ -22,6 +22,7 @@ Detailed Merges for Mar 9 to 15, 2020
 * *new* [PR28246](https://github.com/mantidproject/mantid/pull/28246) - Fixes to MBC
 * *new* [PR28247](https://github.com/mantidproject/mantid/pull/28247) - Tidy up diffraction release notes for 5.0
 * *new* [PR28254](https://github.com/mantidproject/mantid/pull/28254) - Replace header guards in Examples with pragma once
+* *new* [PR28258](https://github.com/mantidproject/mantid/pull/28258) - Fix ISIS SANS help documentation not loading
 * *new* [PR28260](https://github.com/mantidproject/mantid/pull/28260) - Replace header guards in HistogramData with pragma once
 * *new* [PR28261](https://github.com/mantidproject/mantid/pull/28261) - Replace header guards in ICat with pragma once
 * *new* [PR28262](https://github.com/mantidproject/mantid/pull/28262) - Replace header guards in Indexing with pragma once
@@ -32,6 +33,7 @@ Detailed Merges for Mar 9 to 15, 2020
 * *new* [PR28276](https://github.com/mantidproject/mantid/pull/28276) - Replace header guards in Parallel with pragma once
 * *new* [PR28277](https://github.com/mantidproject/mantid/pull/28277) - Catch exception in code completion when variable assigned to plot
 * *new* [PR28278](https://github.com/mantidproject/mantid/pull/28278) - Fix progress arrow for Workbench
+* *new* [PR28281](https://github.com/mantidproject/mantid/pull/28281) - Minor fix to unscripted testing instructions
 * *new* [PR28282](https://github.com/mantidproject/mantid/pull/28282) - Update SANS and reflectometry release notes
 * *new* [PR28283](https://github.com/mantidproject/mantid/pull/28283) - Replace header guards in PythonInterface with pragma once
 * *new* [PR28285](https://github.com/mantidproject/mantid/pull/28285) - Replace header guards in ScriptRepository and SINQ with pragma once
@@ -39,5 +41,11 @@ Detailed Merges for Mar 9 to 15, 2020
 * *new* [PR28288](https://github.com/mantidproject/mantid/pull/28288) - Fix HFIR 4Circle interface open failure
 * *new* [PR28290](https://github.com/mantidproject/mantid/pull/28290) - Speed up workbench preview plots
 * *new* [PR28293](https://github.com/mantidproject/mantid/pull/28293) - Fix normalise by bin width setting
+* *new* [PR28294](https://github.com/mantidproject/mantid/pull/28294) - Updated Spectoscopy release notes
 * *new* [PR28297](https://github.com/mantidproject/mantid/pull/28297) - Fix unhandled exception when toggling error bars on a line with markers
+* *new* [PR28298](https://github.com/mantidproject/mantid/pull/28298) - Replace WorkflowAlgorithms and class maker header guards
 * *new* [PR28300](https://github.com/mantidproject/mantid/pull/28300) - Fix Muon Analyis 2 resizing snapback
+* *new* [PR28301](https://github.com/mantidproject/mantid/pull/28301) - Replace header guards in qt/Widgets with pragma once
+* *new* [PR28305](https://github.com/mantidproject/mantid/pull/28305) - Adjust autoscaling behaviour in Muon Analysis
+* *new* [PR28321](https://github.com/mantidproject/mantid/pull/28321) - Fix unhandled exception when you enable filled areas more than once on a waterfall plot
+* *new* [PR28323](https://github.com/mantidproject/mantid/pull/28323) - Fix typo in PyChopGui
