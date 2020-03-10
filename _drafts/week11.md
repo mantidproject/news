@@ -16,9 +16,11 @@ Detailed Merges for Mar 9 to 15, 2020
 * *new* [PR28239](https://github.com/mantidproject/mantid/pull/28239) - Remove all header guards in Crystal and replace with pragma once
 * *new* [PR28240](https://github.com/mantidproject/mantid/pull/28240) - Remove all header guards in Catalog and replace with pragma once
 * *new* [PR28242](https://github.com/mantidproject/mantid/pull/28242) - Fix unhandled exception when a colorfill plot's scale is set to logarithmic and negative limits are entered
+* *new* [PR28244](https://github.com/mantidproject/mantid/pull/28244) - Remove all header guards in CurveFitting and replace with pragma once
 * *new* [PR28246](https://github.com/mantidproject/mantid/pull/28246) - Fixes to MBC
 * *new* [PR28247](https://github.com/mantidproject/mantid/pull/28247) - Tidy up diffraction release notes for 5.0
 * *new* [PR28254](https://github.com/mantidproject/mantid/pull/28254) - Replace header guards in Examples with pragma once
+* *new* [PR28260](https://github.com/mantidproject/mantid/pull/28260) - Replace header guards in HistogramData with pragma once
 * *new* [PR28261](https://github.com/mantidproject/mantid/pull/28261) - Replace header guards in ICat with pragma once
 * *new* [PR28262](https://github.com/mantidproject/mantid/pull/28262) - Replace header guards in Indexing with pragma once
 * *new* [PR28264](https://github.com/mantidproject/mantid/pull/28264) - Replace header guards in Kernel with pragma once
@@ -33,3 +35,5 @@ Detailed Merges for Mar 9 to 15, 2020
 * *new* [PR28287](https://github.com/mantidproject/mantid/pull/28287) - Fix GUI launch script execute error
 * *new* [PR28288](https://github.com/mantidproject/mantid/pull/28288) - Fix HFIR 4Circle interface open failure
 * *new* [PR28290](https://github.com/mantidproject/mantid/pull/28290) - Speed up workbench preview plots
+* *new* [PR28293](https://github.com/mantidproject/mantid/pull/28293) - Fix normalise by bin width setting
+* *new* [PR28297](https://github.com/mantidproject/mantid/pull/28297) - Fix unhandled exception when toggling error bars on a line with markers
