@@ -24,6 +24,7 @@ Detailed Merges for Mar 9 to 15, 2020
 * *new* [PR28248](https://github.com/mantidproject/mantid/pull/28248) - Replace header guards in DataHandling with pragma once
 * *new* [PR28250](https://github.com/mantidproject/mantid/pull/28250) - Replace header guards in DataObjects with pragma once
 * *new* [PR28254](https://github.com/mantidproject/mantid/pull/28254) - Replace header guards in Examples with pragma once
+* *new* [PR28257](https://github.com/mantidproject/mantid/pull/28257) - Replace header guards in Geometry with pragma once
 * *new* [PR28258](https://github.com/mantidproject/mantid/pull/28258) - Fix ISIS SANS help documentation not loading
 * *new* [PR28260](https://github.com/mantidproject/mantid/pull/28260) - Replace header guards in HistogramData with pragma once
 * *new* [PR28261](https://github.com/mantidproject/mantid/pull/28261) - Replace header guards in ICat with pragma once
@@ -55,3 +56,7 @@ Detailed Merges for Mar 9 to 15, 2020
 * *new* [PR28321](https://github.com/mantidproject/mantid/pull/28321) - Fix unhandled exception when you enable filled areas more than once on a waterfall plot
 * *new* [PR28323](https://github.com/mantidproject/mantid/pull/28323) - Fix typo in PyChopGui
 * *new* [PR28324](https://github.com/mantidproject/mantid/pull/28324) - MatrixWorkspace::findY
+* *new* [PR28325](https://github.com/mantidproject/mantid/pull/28325) - Fix Plot Type being in context menu on plot with only one line
+* *new* [PR28326](https://github.com/mantidproject/mantid/pull/28326) - Replace header guards in Testing with pragma once.
+* *new* [PR28328](https://github.com/mantidproject/mantid/pull/28328) - Add documentation for UserFunctionMD
+* *new* [PR28332](https://github.com/mantidproject/mantid/pull/28332) - Replace header guards in MantidPlot with pragma once
