@@ -31,6 +31,7 @@ Detailed Merges for Mar 9 to 15, 2020
 * *new* [PR28264](https://github.com/mantidproject/mantid/pull/28264) - Replace header guards in Kernel with pragma once
 * *new* [PR28268](https://github.com/mantidproject/mantid/pull/28268) - Release Notes 5.0 - Index and Core
 * *new* [PR28270](https://github.com/mantidproject/mantid/pull/28270) - Replace header guards in LiveData with pragma once
+* *new* [PR28271](https://github.com/mantidproject/mantid/pull/28271) - Replace header guards in MD and MPI algorithms with pragma once
 * *new* [PR28273](https://github.com/mantidproject/mantid/pull/28273) - Replace header guards in Muon with pragma once
 * *new* [PR28274](https://github.com/mantidproject/mantid/pull/28274) - Replace header guards in Nexus and NexusGeometry with pragma once
 * *new* [PR28276](https://github.com/mantidproject/mantid/pull/28276) - Replace header guards in Parallel with pragma once
@@ -50,6 +51,7 @@ Detailed Merges for Mar 9 to 15, 2020
 * *new* [PR28300](https://github.com/mantidproject/mantid/pull/28300) - Fix Muon Analyis 2 resizing snapback
 * *new* [PR28301](https://github.com/mantidproject/mantid/pull/28301) - Replace header guards in qt/Widgets with pragma once
 * *new* [PR28305](https://github.com/mantidproject/mantid/pull/28305) - Adjust autoscaling behaviour in Muon Analysis
+* *new* [PR28309](https://github.com/mantidproject/mantid/pull/28309) - Replace header guards in qt/scientific_interfaces with pragma once
 * *new* [PR28321](https://github.com/mantidproject/mantid/pull/28321) - Fix unhandled exception when you enable filled areas more than once on a waterfall plot
 * *new* [PR28323](https://github.com/mantidproject/mantid/pull/28323) - Fix typo in PyChopGui
 * *new* [PR28324](https://github.com/mantidproject/mantid/pull/28324) - MatrixWorkspace::findY
